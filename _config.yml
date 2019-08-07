@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+plugins:          [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Introduction to Latin 1
+tagline:          'Introduction to Latin 1'
+course_number:    'LATN 101 02 and 03'
+semester:         'Fall 2019'
+location:         'College of the Holy Cross'
+url:              https://dlibatique.github.io/LATN101-F19
+baseurl:          /LATN101-F19/
+
+author:
+  name:           'Daniel Libatique'
+  url:            https://dlibatique.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/dlibatique/LATN101-F19
+
+pages:
+    - resources
+    - nuts
+    - grading
+    - schedule
