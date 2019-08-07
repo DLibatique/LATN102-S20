@@ -4,13 +4,19 @@ title: Nuts & Bolts
 ---
 
 <a name="top"></a>
-<a href="#ac" class="underline">Academic Conduct</a> \| <a href="#oh" class="underline">Office Hours</a> \| <a href="#gender" class="underline">Gender Expression and Identity</a> \|  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#cw" class="underline">Content Warnings</a> \| <a href="#disability" class="underline">Disability</a> \|  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>
+<a href="#ac" class="underline">Academic Conduct</a> \| <a href="#attendance" class="underline">Attendance</a> \| <a href="#oh" class="underline">Office Hours</a> \|  
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#gender" class="underline">Gender Expression and Identity</a> \| <a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#cw" class="underline">Content Warnings</a> \|  
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#disability" class="underline">Disability</a> \| <a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>
 
 <hr>
 ## <a name="ac">Academic Conduct</a>
 You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/node/1381/#AHP). Cheating on homework, quizzes, or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
+
+<a href="#top" class="underline">Back to top.</a>
+<hr>
+
+## <a name="attendance">Attendance</a>
+You must attend each meeting of the course to attain a good grade. We will not be working off a traditional textbook, so your primary source of information will be my lectures and practice work during class time. I will also provide many examples and memorization tricks (mnemonic devices, helpful tips, etc.) in class, so it will be to your benefit to attend class so as to make completing your assignments and studying for quizzes less daunting.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>

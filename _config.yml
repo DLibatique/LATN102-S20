@@ -8,8 +8,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            LATN 101
-tagline:          'Introduction to Latin 1'
+title:            Introduction to Latin 1
+tagline:          'LATN 101'
 course_number:    'LATN 101 02 and 03'
 semester:         'Fall 2019'
 location:         'College of the Holy Cross'
