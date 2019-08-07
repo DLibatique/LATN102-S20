@@ -18,11 +18,17 @@ You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [he
 ## <a name="attendance">Attendance</a>
 You must attend each meeting of the course to attain a good grade. We will not be working off a traditional textbook, so your primary source of information will be my lectures and practice work during class time. I will also provide many examples and memorization tricks (mnemonic devices, helpful tips, etc.) in class, so it will be to your benefit to attend class so as to make completing your assignments and studying for quizzes less daunting.
 
+If you must miss a class meeting for any reason, please inform me as soon as you know of the absence via e-mail **before the class meeting begins**, and we will correspond accordingly. **More than two (2) unexcused absences, defined as a failure to appear in class without notifying me via e-mail that you won’t be there before the class period begins, will result in a full grade drop for the semester (e.g., an A- will be dropped to a B-)**.
+
+It bears repeating: **if you will miss class for any reason, you must e-mail me before that class period begins to let me know!**
+
+Any absence beyond the two allotted above for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event) falls under Holy Cross' Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://catalog.holycross.edu/node/1381/#EAP).
+
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 
 ## <a name="oh">Office Hours</a>
-Office hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about the readings, clarifications about lectures or assignments, even simply shooting the breeze. My office hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular office hours if they conflict with your availability; simply shoot me an e-mail with what times and dates work for you.
+Office hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about grammar and syntax, clarifications about lectures or assignments, even simply shooting the breeze. My office hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular office hours if they conflict with your availability; simply shoot me an e-mail with what times and dates work for you.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -34,21 +40,9 @@ I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. You will spe
 <hr>
 
 ## <a name="diversity">Diversity, Inclusion, and Respect</a>
-Studying the ancient Roman world at Holy Cross is one way to challenge a centuries-long tradition that reserved the study of the ancient world for a privileged elite. As we learn about the multicultural world of the ancient Mediterranean through Roman literature and society, we should reflect on and actively explore how this study can help us recognize and respond to structures of power and privilege in our own lives. This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying the Roman world helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
+Studying Latin at Holy Cross is one way to challenge a centuries-long tradition that reserved the study of the ancient world for a privileged elite. The challenge goes beyond simply welcoming students however they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. As we work to see the multicultural world of the ancient Mediterranean through the original thoughts and language of Latin speakers and writers, we reflect on and actively explore how this can help us recognize and respond to structures of power and privilege in our own lives.
 
-Our course will encompass topics which will sometimes require us to have difficult conversations with conflicting viewpoints. Our classroom is designated as a space where respectful dialogue must be the norm: *ad hominem* attacks, unsubstantiated generalizations, and discriminatory remarks of any kind will not be tolerated. All students are welcome in this class and at Holy Cross, no matter how they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. If there is disagreement, we will work with the ideas being discussed; no personal attacks will be allowed.
-
-We will also engage in discussions about the practices and norms of cultures that in many respects differ from our own, practices that may perhaps strike modern sensibilities as objectionable or crude. One of the major themes with which we will engage this semester is how our understanding of what is acceptable or unacceptable is largely constructed by cultural context. We must engage with the evidence of ancient texts and material culture in terms of the cultures in which they were created, without making value judgments according to our modern sensibilities; or, at the very least, we must interrogate why and how we are making those value judgments.
-
-
-<a href="#top" class="underline">Back to top.</a>
-<hr>
-
-## <a name="cw">Content Warnings</a>
-At times this semester we will be discussing literature, material culture, and topics that may be disturbing, even traumatizing, to some students. Some topics that will come up include rape, sexual violence, slavery, and war. If you suspect that specific material is likely to be emotionally challenging for you, I’d be happy to discuss any concerns that you may have before the subject comes up in class either via e-mail or in person (in office hours or through an appointment). I will do my best to place content warnings on readings in the course schedule whose titles may not necessarily indicate the presence of traumatizing material.
-
-If you ever wish to discuss your personal reactions to course material with the class or with me individually afterward, I welcome such discussions as an appropriate part of our course. If you ever feel the need to step outside during a class discussion, you may always do so without academic penalty, but you will be responsible for any missed material. If you leave the room for a significant amount of time, please make arrangements to get notes from another student or to see me individually to discuss the situation.
-
+This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying Latin helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
