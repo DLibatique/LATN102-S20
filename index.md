@@ -4,12 +4,8 @@ title: Home
 ---
 
 ## Course Information
-**Meeting Time:**  
-- Section 02 - MWF 8am to 8:50am
-- Section 03 - MWF 11am to 11:50am  
-**Meeting Place:**  
-- Section 02 - TBD
-- Section 03 - TBD  
+**Meeting Time:** 02 - MWF 8am to 8:50am; 03 - MWF 11am to 11:50am  
+**Meeting Place:**  02 - TBD; 03 - TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 426  
 **Office hours:** MW 2-4pm, or by appointment  
