@@ -64,7 +64,7 @@ In addition to my e-mail and office hours, there are resources outside myself an
 ## <a name="mr">Mandated Reporter</a>
 By college rules, I am a mandated reporter, which means that I am legally obligated to report to the College’s Title IX office any disclosures of unlawful sex discrimination or sexual harassment (including, but not limited to, sexual misconduct, sexual violence, dating and domestic violence, and stalking), or retaliation toward any member of the College community. I want to make our classroom and your assignments spaces where you can share your personal experiences and speak your minds, but please keep this disclosure in mind on assignments like personal reflection responses.
 
-By the way, to test whether you’re reading the syllabus all the way through, please send me an e-mail with a photo of your favorite Roman monument in the e-mail body by 1pm on Friday, September 6, 2019, with the subject line “Caesar and Pompey were ARCH-enemies.” If you do so, you will receive two (2) extra credit points on quiz #1 (on F 9/13).
+By the way, to test whether you’re reading the syllabus all the way through, please send me an e-mail with a photo of your favorite Roman monument in the e-mail body by 1pm on Wednesday, September 11, 2019, with the subject line “Caesar and Pompey were ARCH-enemies.” If you do so, you will receive one full quiz grade (an addition of 0.5% to your quiz average for the semester).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
