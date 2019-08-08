@@ -5,7 +5,7 @@ title: Nuts & Bolts
 
 <a name="top"></a>
 <a href="#ac" class="underline">Academic Conduct</a> \| <a href="#attendance" class="underline">Attendance</a> \| <a href="#oh" class="underline">Office Hours</a> \|  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#gender" class="underline">Gender Expression and Identity</a> \| <a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#cw" class="underline">Content Warnings</a> \|  
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#gender" class="underline">Gender Expression and Identity</a> \| <a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \|  
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#disability" class="underline">Disability</a> \| <a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>
 
 <hr>
