@@ -91,15 +91,17 @@ The declension of these adjectives is relatively simple. To get the adjective's 
 
 *ācer*, *ācris*, *ācre* - sharp, harsh
 
-Three termination adjectives can be recognized by the fact that they have three adjectival forms, but do not follow the -us, -a, -um or -r, -a, -um pattern that we saw in 2-1-2 adjectives. The dictionary entry for three termination adjectives similarly tells us the nominative singular forms for each gender: *ācer* is the masculine nominative singular form; *ācris* is the feminine nominative singular form; *ācre* is the neuter nominative singular form.
+Three termination adjectives are so called for the three different parts of the dictionary entry, but they do not follow the -us, -a, -um or -r, -a, -um pattern that we saw in 2-1-2 adjectives. The dictionary entry for three termination adjectives similarly tells us the nominative singular forms for each gender: *ācer* is the masculine nominative singular form; *ācris* is the feminine nominative singular form; *ācre* is the neuter nominative singular form.
 
-Generally, these adjectives decline like third declension nouns (using the feminine nominative minus the -is as the stem) with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-i* instead of *-e*, but we don't have to worry about that for now).
+To decline a three termination adjective beyond the nominative case, begin the same way as with a 2-1-2 adjective: go to the second part of the dictionary entry, the feminine nominative singular form, and get the adjective's stem by chopping off the final *-is*. Then, add the endings that you need.
+
+Generally, these adjectives decline like third declension nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
 
 **3) <a name="2term">Two termination adjectives:</a>**
 
 *fortis*, *forte* - strong
 
-Two termination adjectives can be recognized by the fact that they have two adjectival forms that end in *-is* and *-e*, respectively. In two termination adjectives, the first form (i.e. *fortis*) tells us the masculine AND feminine nominative singular form and the second form (i.e. *forte*) is the neuter nominative  singular form.
+Two termination adjectives can be recognized by the fact that they have two adjectival forms that end in *-is* and *-e*, respectively. In two termination adjectives, the first form (i.e. *fortis*) tells us the masculine AND feminine nominative singular form and the second form (i.e. *forte*) is the neuter nominative singular form.
 
 Like three termination adjectives, two termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
 
@@ -107,7 +109,7 @@ Like three termination adjectives, two termination adjectives generally decline 
 
 *ferox*, *ferocis* - ferocious
 
-One termination adjectives can be recognized by the *-is* ending in the second part of the dictionary entry. In the dictionary entry for one termination adjectives, the first form (i.e. *ferox*) signifies the nominative singular for all three genders and the second form (i.e. *ferocis*) signifies the genitive singular for all three genders. Like three and two termination adjectives, one termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
+One termination adjectives can be recognized by the *-is* ending in the second part of the dictionary entry. In the dictionary entry for one termination adjectives, the first form (i.e. *ferox*) signifies the nominative singular for all three genders (hence the name "one termination"), and the second form (i.e. *ferocis*) signifies the genitive singular for all three genders. Like three and two termination adjectives, one termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
 
 Beyond these categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like *hic, haec, hoc* and *ille, illa, illud* (adjectives that point out what you are referring to, equivalent to the English "this" and "that") and the intensifying adjective *ipse, ipsa, ipsum* (adjectives that emphasize the noun they modify, equivalent to the English "the *very* girl" or "the girl *herself*"). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the morphological worksheet for further clarification.
 

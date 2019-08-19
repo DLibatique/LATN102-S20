@@ -3,59 +3,60 @@ layout: low-level-page
 title: Module 1 Adjective Morphology (9/6-9/11)
 ---
 
-## Regular adjectives
+## Navigation:
+<a href="#regadjs">Regular Adjectives</a>: <a href="#212">2-1-2</a>, <a href="#3term">3 termination</a>, <a href="#2term">2 termination</a>, <a href="#1term">1 termination</a> \|  
+<a href="#demadjs">Demonstrative Adjectives</a>: <a href="#hic">*hic, haec, hoc*</a>; <a href="#ille">*ille, illa, illud*</a> \|  
+<a href="intadjs">Intensifying Adjectives:</a> <a href="#ipse">*ipse, ipsa, ipsud*</a>
 
-1) 2-1-2 adjectives (e.g. *bonus, bona, bonum* - good)
+<hr>
+
+For this first module, focus on the **bolded** forms; we'll learn about the others in later weeks.
+
+## <a name="regadjs">Regular adjectives</a>
+
+### 1) <a name="212">2-1-2 adjectives</a> (e.g. *bonus, bona, bonum* - good)
+
+To decline a 2-1-2 adjective beyond the nominative case, begin by going to the second part of the dictionary entry, which is the feminine nominative singular form. Chop off the final *-a*, and then add the endings that you need.
 
 As mentioned in the conceptual breakdown, 2-1-2 adjectives decline exactly like their corresponding noun forms. In the above example, *bonus* declines exactly like a second declension masculine noun like *maritus*; *bona* declines exactly like a first declension feminine noun like *puella*; *bonum* decline exactly like a second declension neuter noun like *exemplum*.
 
-2) Three termination adjectives (e.g. *acer, acris, acre* - harsh, sharp)
+Some 2-1-2 adjectives have a masculine nominative singular that ends in -r: for example, *pulcher*, *pulchra*, *pulchrum*, "beautiful, handsome." In cases like these, it is important to keep in mind the first rule above: get the stem from the **second part of the dictionary entry, the feminine nominative singular form**. So, the genitive singular of *pulcher* is ***pulchrī***, NOT *pulcherī* -- there is no -e- in the feminine nominative singular form!
 
-Generally, these adjectives decline like third declension nouns (using the feminine nominative minus the -is as the stem) with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-i* instead of *-e*, but we don't have to worry about that for now).
+### 2) <a name="3term">Three termination adjectives</a> (e.g. *acer, acris, acre* - harsh, sharp)
 
-The masculine and feminine forms of these adjectives are exactly the same save for the nominative singular.
+To decline a three termination adjective beyond the nominative case, begin the same way as with a 2-1-2 adjective: go to the second part of the dictionary entry, the feminine nominative singular form, and get the adjective's stem by chopping off the final *-is*. Then, add the endings that you need.
 
-**Singular** (note the different form of the chart compared to nouns)
+Generally, these adjectives decline like third declension nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
 
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | acer       | acris       |acre       |
-| Genitive   | acris        | acris  |acris  |
+The masculine and feminine forms of these adjectives are exactly the same except for the nominative singular.
 
-**Plural**
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | acrēs       | acrēs       |acria       |
-| Genitive   | acrium        | acrium  |acrium  |
-
-Below is the whole chart for good measure:
+Note the different form of the adjective chart compared to the noun chart; how do the column headings differ?
 
 **Singular**
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | acer       | acris       |acre       |
-| Genitive   | acris        | acris  |acris  |
-| Dative   | acrī       | acrī  |acrī  |
-| Accusative   | acrem        | acrem  |acre  |
-| Ablative   | acrī        | acrī  |acrī  |
+| Nominative    | **ācer**       | **ācris**       |**ācre**       |
+| Genitive   | **ācris**        | **ācris**  |**ācris**  |
+| Dative   | ācrī       | ācrī  |ācrī  |
+| Accusative   | ācrem        | ācrem  |ācre  |
+| Ablative   | ācrī        | ācrī  |ācrī  |
 
 **Plural**
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | acrēs       | acrēs       |acria       |
-| Genitive   | acrium        | acrium  |acrium  |
-| Dative   | acribus        | acribus  |acribus  |
-| Accusative   | acrēs        | acrēs  |acria  |
-| Ablative   | acribus        | acribus  |acribus  |
+| Nominative    | **ācrēs**       | **ācrēs**       |**ācria**       |
+| Genitive   | **ācrium**        | **ācrium**  |**ācrium**  |
+| Dative   | ācribus        | ācribus  |ācribus  |
+| Accusative   | ācrēs        | ācrēs  |ācria  |
+| Ablative   | ācribus        | ācribus  |ācribus  |
 
-3) Two termination adjectives (e.g. *fortis, forte* - strong)
+### 3) <a name="2term">Two termination adjectives</a> (e.g. *fortis, forte* - strong)
 
 Two termination adjectives decline exactly like three termination adjectives except that the masculine and feminine forms of *fortis* are exactly the same, with *fortis* serving as the nominative singular for both.
 
-4) One termination adjectives (e.g. *ferox, ferocis* - ferocious)
+### 4) <a name="1term">One termination adjectives</a> (e.g. *ferox, ferocis* - ferocious)
 
 One termination adjectives are slightly tricky because while the nominative and genitive singular are the same for all three genders, the neuter accusative singular and the neuter nominative and accusative plural are different.
 
@@ -63,24 +64,8 @@ One termination adjectives are slightly tricky because while the nominative and 
 
 | Case      | Fem/Masc |Neuter |
 | ----------- | ----------- | ----------- |
-| Nominative    | ferox      | ferox       |
-| Genitive   | ferocis        | ferocis       |
-
-**Plural**
-
-| Case      | Fem/Masc |Neuter |
-| ----------- | ----------- | ----------- |
-| Nominative    | ferocēs     | ferocia       |
-| Genitive   | ferocium        | ferocium       |
-
-Below is the whole chart for good measure:
-
-**Singular**
-
-| Case      | Fem/Masc |Neuter |
-| ----------- | ----------- | ----------- |
-| Nominative    | ferox      | ferox       |
-| Genitive   | ferocis        | ferocis       |
+| Nominative    | **ferox**      | **ferox**       |
+| Genitive   | **ferocis**        | **ferocis**       |
 | Dative   | ferocī        | ferocī      |
 | Accusative   | ferocem        | ferox      |
 | Ablative   | ferocī        | ferocī        |
@@ -89,40 +74,26 @@ Below is the whole chart for good measure:
 
 | Case      | Fem/Masc |Neuter |
 | ----------- | ----------- | ----------- |
-| Nominative    | ferocēs     | ferocia       |
-| Genitive   | ferocium        | ferocium       |
+| Nominative    | **ferocēs**     | **ferocia**       |
+| Genitive   | **ferocium**        | **ferocium**       |
 | Dative   | ferocibus        | ferocibus      |
 | Accusative   | ferocēs        | ferocia      |
 | Ablative   | ferocibus        | ferocibus        |
 
-## Demonstrative adjectives
+<hr>
 
-1) *hic, haec, hoc* - this
+## <a name="demadjs">Demonstrative adjectives</a>
 
-** The forms in the dictionary entry represent the nominative singular in all three genders (masculine, feminine, and neuter).
+### 1) <a name="hic">*hic, haec, hoc* - this, these</a>
+
+The forms in the dictionary entry represent the nominative singular in all three genders (masculine, feminine, and neuter).
 
 **Singular** (note the different form of the chart compared to nouns)
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | hic       | haec       |hoc       |
-| Genitive   | huius        | huius  |huius  |
-
-**Plural**
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | hī       | hae       |haec       |
-| Genitive   | hōrum        | hārum  |hōrum  |
-
-Below is the whole chart for good measure:
-
-**Singular**
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | hic       | haec       |hoc       |
-| Genitive   | huius        | huius  |huius  |
+| Nominative    | **hic**       | **haec**       |**hoc**       |
+| Genitive   | **huius**        | **huius**  |**huius**  |
 | Dative   | huic        | huic  |huic  |
 | Accusative   | hunc        | hanc  |hoc  |
 | Ablative   | hōc        | hāc  |hōc  |
@@ -131,79 +102,49 @@ Below is the whole chart for good measure:
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | hī       | hae       |haec       |
-| Genitive   | hōrum        | hārum  |hōrum  |
+| Nominative    | **hī**       | **hae**       |**haec**       |
+| Genitive   | **hōrum**        | **hārum**  |**hōrum**  |
 | Dative   | hīs        | hīs  |hīs  |
 | Accusative   | hōs        | hās  |haec  |
 | Ablative   | hīs        | hīs  |hīs  |
 
-2) *ille, illa, illud* - that
+### 2) <a name="ille">*ille, illa, illud* - that, those</a>
 
-** The forms in the dictionary entry represent the nominative singular in all three genders (masculine, feminine, and neuter).
+The forms in the dictionary entry represent the nominative singular in all three genders (masculine, feminine, and neuter).
 
 **Singular** (note the different form of the chart compared to nouns)
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | ille       | illa       |illud       |
-| Genitive   | illius        | illius  |illius  |
+| Nominative    | **ille**       | **illa**       |**illud**       |
+| Genitive   | **illīus**        | **illīus**  |**illīus**  |
+| Dative   | illī        | illī  |illī  |
+| Accusative   | illum        | illam  |illud  |
+| Ablative   | illō        | illā  |illō  |
 
 **Plural** (notice how the endings are very similar to 2-1-2 adjectives)
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | illī       | illae       |illa       |
-| Genitive   | illōrum        | illārum  |illōrum  |
-
-Below is the whole chart for good measure:
-
-**Singular**
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | ille       | illa       |illud       |
-| Genitive   | illius        | illius  |illius  |
-| Dative   | illic        | illic  |illic  |
-| Accusative   | illum        | illam  |illud  |
-| Ablative   | illō        | illā  |illō  |
-
-**Plural**
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | illī       | illae       |illa       |
-| Genitive   | illōrum        | illārum  |illōrum  |
+| Nominative    | **illī**       | **illae**       |**illa**       |
+| Genitive   | **illōrum**        | **illārum**  |**illōrum**  |
 | Dative   | illīs        | illīs  |illīs  |
 | Accusative   | illōs        | illās  |illa  |
 | Ablative   | illīs        | illīs  |illīs  |
 
-## Intensifying adjectives
+<hr>
 
-*ipse, ipsa, ipsum* - very, itself
+## <a name="intadjs">Intensifying adjectives</a>
+
+<a name="ipse">*ipse, ipsa, ipsum* - very, itself</a>
 
 **Singular** (note how similar this is in formation to demonstrative adjectives)
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | ipse       | ipsa       |ipsum       |
-| Genitive   | ipsius        | ipsius  |ipsius  |
-
-**Plural**
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | ipsī       | ipsae       |ipsa       |
-| Genitive   | ipsōrum        | ipsārum  |ipsōrum  |
-
-Below is the whole chart for good measure:
-
-**Singular**
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | ipse       | ipsa      |ipsum       |
-| Genitive   | ipsius        | ipsius  |ipsius  |
-| Dative   | ipsi        | ipsi  |ispi  |
+| Nominative    | **ipse**       | **ipsa**      |**ipsum**       |
+| Genitive   | **ipsīus**        | **ipsīus**  |**ipsīus**  |
+| Dative   | ipsī        | ipsī  |ipsī  |
 | Accusative   | ipsum        | ipsam  |ipsum  |
 | Ablative   | ipsō        | ipsā  |ipsō  |
 
@@ -211,8 +152,8 @@ Below is the whole chart for good measure:
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | ipsī       | ipsae       |ipsa       |
-| Genitive   | ipsōrum        | ipsārum  |ipsōrum  |
+| Nominative    | **ipsī**       | **ipsae**       |**ipsa**       |
+| Genitive   | **ipsōrum**        | **ipsārum**  |**ipsōrum**  |
 | Dative   | ipsīs        | ipsīs  |ipsīs  |
 | Accusative   | ipsōs        | ipsās  |ipsa  |
 | Ablative   | ipsīs        | ipsīs  |ipsīs  |
