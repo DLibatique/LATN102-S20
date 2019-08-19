@@ -1,4 +1,7 @@
-# Module 1 Adjective Morphology (9/6-9/11)
+---
+layout: low-level-page
+title: Module 1 Adjective Morphology (9/6-9/11)
+---
 
 ## Regular adjectives
 

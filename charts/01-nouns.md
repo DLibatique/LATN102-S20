@@ -1,4 +1,7 @@
-# Module 1 Noun Morphology (9/6-9/11)
+---
+layout: low-level-page
+title: Module 1 Noun Morphology (9/6-9/11)
+---
 
 ## Nouns
 
@@ -10,15 +13,8 @@ The charts below will show full charts for the declensions of each noun. Focus o
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| Nominative    | puella       | puellae       |
-| Genitive   | puellae        | puellārum  |
-
-Below is the whole chart for good measure:
-
-| Case      | Singular |Plural |
-| ----------- | ----------- | ----------- |
-| Nominative    | puella       | puellae       |
-| Genitive   | puellae        | puellārum       |
+| Nominative    | **puella**       | **puellae**       |
+| Genitive   | **puellae**        | **puellārum**       |
 | Dative   | puellae        | puellīs      |
 | Accusative   | puellam        | puellās      |
 | Ablative   | puellā        | puellīs        |
@@ -29,15 +25,8 @@ Below is the whole chart for good measure:
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| Nominative    | maritus       | maritī       |
-| Genitive   | maritī        | maritōrum       |
-
-Below is the whole chart for good measure:
-
-| Case      | Singular |Plural |
-| ----------- | ----------- | ----------- |
-| Nominative    | maritus       | maritī       |
-| Genitive   | maritī        | maritōrum       |
+| Nominative    | **maritus**       | **maritī**       |
+| Genitive   | **maritī**        | **maritōrum**       |
 | Dative   | maritō        | maritīs      |
 | Accusative   | maritum        | maritōs      |
 | Ablative   | maritō        | maritīs        |
