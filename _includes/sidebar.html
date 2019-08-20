@@ -18,7 +18,7 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
+<!--
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -27,7 +27,16 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+-->
 
+<a href="../2-notes">Notes & Charts</a><br>
+
+<h3>Prof. Machado's Section:</h3>
+
+<h3>Prof. Libatique's Sections:</h3>
+<a href="../3-nuts">Nuts & Bolts</a><br>
+<a href="../4-grading">Grading</a><br>
+<a href="../6-schedule-DL">Schedule</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
