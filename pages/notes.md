@@ -7,6 +7,6 @@ This is a landing page for all the notes and charts that we will use this semest
 
 ## Module 1: Nouns and adjectives
 
-- [Notes](notes/module-1.md)
-- [Paradigm Charts: Nouns (Module 1)](charts/01-nouns.md)
-- [Paradigm Charts: Adjectives](charts/01-adjectives.md)
+- [Notes](../notes/module-1.md)
+- [Paradigm Charts: Nouns (Module 1)](../charts/01-nouns.md)
+- [Paradigm Charts: Adjectives](../charts/01-adjectives.md)
