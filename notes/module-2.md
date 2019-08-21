@@ -24,7 +24,13 @@ To form the imperfect tense, we begin by finding the verb's present stem. To fin
 
 For instance, in the case of the verb, *videō*, it second principal part is *vidēre* and taking off the *-re* gives us a present stem of *vidē-*.
 
-For verbs that belong to the first and second declension, we do not need to modify the present stem and can simply add *-ba* to it
+For verbs that belong to the first and second conjugation, we do not need to modify the present stem and can simply add *-ba* to the stem to make the imperfect stem. In the case of *videō*:
+
+*vidēre* -> *vidē-* (present stem) -> *vidē-ba-* (imperfect stem)
+
+For verbs that belong to the third and fourth we have to make some changes to the present stem before adding *-ba*:
+- In the third conjugation, the *e* of the present stem becomes *ē*.
+- In the fourth conjugation, the *i* of the present stem becomes
 
 ### Practice Opportunity
 
