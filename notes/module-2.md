@@ -35,7 +35,7 @@ For verbs that belong to the third and fourth we have to make some changes to th
 
 Thus, *audīre** -> *audī-* (present stem) -> *audiē-* -> *audiē-ba-* (imperfect stem)
 
-From here
+From here, we add the endings for the relevant person, number, and voice (see morphology chart).
 
 ### Practice Opportunity
 
