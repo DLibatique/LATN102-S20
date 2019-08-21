@@ -20,4 +20,6 @@ Below are some English examples where we would use the Latin imperfect:
 
 ## The Imperfect Tense - Formation
 
-To form the imperfect tense, we use the second principal part (the present active infinitive) to find the verb's present stem. This can be done by taking away the final 
+To form the imperfect tense, we begin by finding the verb's present stem. To find the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re* .
+
+Let's take the verb, *videō*, as an example. Its second principal part is *vidēre* and taking off the *-re* gives us a present stem for 
