@@ -18,7 +18,7 @@ Below are some English examples where we would use the Latin imperfect:
 * Although the teacher told them to stop working, the students kept writing (*scrībēbant*) their exams.
 * Katie was demanding (*poscēbat*) that they play Beyonce.
 
-## Formation of the Imperfect Active and Passive Indicative
+## Formation of the Imperfect Indicative
 
 To form the imperfect active and passive indicative, we begin by finding the verb's present stem. To find the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re* .
 
@@ -35,7 +35,23 @@ For verbs that belong to the third and fourth we have to make some changes to th
 
 Thus, *audīre** -> *audī-* (present stem) -> *audiē-* -> *audiē-ba-* (imperfect stem)
 
-From here, we add the endings for the relevant person, number, and voice (see morphology chart).
+From here, we add the endings for the relevant person and number, and voice:
+
+**Active**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | -m       | -mus      |
+| 2nd  | -s        | -tis       |
+| 3rd  | **-t**        | **-nt**     |
+
+**Passive**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | -r       | -mur      |
+| 2nd  | -ris        | -mini       |
+| 3rd  | **-tur**        | **-ntur**     | 
 
 ### Practice Opportunity
 
