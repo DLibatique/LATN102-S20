@@ -164,7 +164,9 @@ Nouns in the **genitive** case are used to modify another noun and will always a
 
 ### Practice Opportunity
 
-Translate the following phrases or sentences into English. Consult your [vocabulary](#) for words with which you are unfamiliar, and make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
+Translate the following phrases or sentences into English. Consult your [vocabulary](#) for words with which you are unfamiliar and your [noun/pronoun declension charts]({{ site.baseurl }}charts/01-nouns) and [adjective declension charts]({{ site.baseurl}}charts/01-adjectives) for this module if needed.
+
+Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
 1. *maritus bonae rēginae*  
 <a href="#" onclick="document.getElementById('prac8').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac8">husband of the good queen</span>
@@ -193,7 +195,7 @@ The declension for the pronoun is tricky, so be sure to consult the morphologica
 
 ### Practice Opportunity
 
-What form of *is*, *ea*, *id* would you use to stand in for the following words?
+What form of *is*, *ea*, *id* would you use to stand in for the following words? Make sure to consult the [declension chart of *is*, *ea*, *id*]({{ site.baseurl }}charts/01-nouns#pronouns) for help if needed.
 
 1. *exemplum*  
 <a href="#" onclick="document.getElementById('prac12').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac12">*id*</span>
