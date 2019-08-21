@@ -35,7 +35,7 @@ For verbs that belong to the third and fourth we have to make some changes to th
 
 Thus, *audīre** -> *audī-* (present stem) -> *audiē-* -> *audiē-ba-* (imperfect stem)
 
-From here, we add the endings for the relevant person and number, and voice:
+To this stem, we add the endings for the relevant person and number, and voice, as shown below:
 
 **Active**
 
@@ -51,7 +51,11 @@ From here, we add the endings for the relevant person and number, and voice:
 | ----------- | ----------- | ----------- |
 | 1st   | -r       | -mur      |
 | 2nd  | -ris        | -mini       |
-| 3rd  | **-tur**        | **-ntur**     | 
+| 3rd  | **-tur**        | **-ntur**     |
+
+So if we wanted to form the 3rd person plural imperfect passive indicative of *videō*:
+
+*vidēre* -> *vidē-* (present stem) -> *vidē-ba-* (imperfect stem) -> *vidē-ba-ntur*
 
 ### Practice Opportunity
 
