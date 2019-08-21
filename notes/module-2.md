@@ -18,9 +18,9 @@ Below are some English examples where we would use the Latin imperfect:
 * Although the teacher told them to stop working, the students kept writing (*scrībēbant*) their exams.
 * Katie was demanding (*poscēbat*) that they play Beyonce.
 
-## The Imperfect Tense - Formation
+## Formation of the Imperfect Active and Passive Indicative
 
-To form the imperfect tense, we begin by finding the verb's present stem. To find the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re* .
+To form the imperfect active and passive indicative, we begin by finding the verb's present stem. To find the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re* .
 
 For instance, in the case of the verb, *videō*, it second principal part is *vidēre* and taking off the *-re* gives us a present stem of *vidē-*.
 
@@ -30,7 +30,12 @@ For verbs that belong to the first and second conjugation, we do not need to mod
 
 For verbs that belong to the third and fourth we have to make some changes to the present stem before adding *-ba*:
 - In the third conjugation, the *e* of the present stem becomes *ē*.
-- In the fourth conjugation, the *i* of the present stem becomes
+- In the fourth conjugation, the *ī* of the present stem becomes *iē*.
+  * In the case of third -io verbs, the *e* of the present stem becomes *iē* as well.
+
+Thus, *audīre** -> *audī-* (present stem) -> *audiē-* -> *audiē-ba-* (imperfect stem)
+
+From here
 
 ### Practice Opportunity
 
