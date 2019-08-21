@@ -199,7 +199,7 @@ What form of *is*, *ea*, *id* would you use to stand in for the following words?
 <a href="#" onclick="document.getElementById('prac12').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac12">*id*</span>
 
 2. *puerī*  
-<a href="#" onclick="document.getElementById('prac13').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac13">*eī*</span>
+<a href="#" onclick="document.getElementById('prac13').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac13">*eī* (if nominative plural) OR *eius* (if genitive singular)</span>
 
 3. *matrēs*  
 <a href="#" onclick="document.getElementById('prac14').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac14">*eae*</span>
