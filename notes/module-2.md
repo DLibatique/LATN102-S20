@@ -22,4 +22,10 @@ Below are some English examples where we would use the Latin imperfect:
 
 To form the imperfect tense, we begin by finding the verb's present stem. To find the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re* .
 
-Let's take the verb, *videō*, as an example. Its second principal part is *vidēre* and taking off the *-re* gives us a present stem for 
+For instance, in the case of the verb, *videō*, it second principal part is *vidēre* and taking off the *-re* gives us a present stem of *vidē-*.
+
+For verbs that belong to the first and second declension, we do not need to modify the present stem and can simply add *-ba* to it
+
+### Practice Opportunity
+
+Find the present stem and form the 3rd person singular imperfect for the following verbs.
