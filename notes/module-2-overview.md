@@ -49,7 +49,9 @@ Like we did with nouns, we will first need to consult the **dictionary entry** t
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
-The first four words in the entry are referred to as **principal parts**. Principal parts give you the information necessary to recognize and produce any form of the verb. Our **first principal part** (moving from left to right), *videō*, indicates what the **1st person singular present active indicative** form of the word is. In this case, it translates to "I see."
+The first four words in the entry are referred to as **principal parts**. Principal parts give you the information necessary to recognize and produce any form of the verb. If we move from left to right:
+
+Our **first principal part**, *videō*, indicates what the **1st person singular present active indicative** form of the word is. In this case, it translates to "I see."
 
 *Vidēre*, **the second principal part**, indicates the **present active infinitive** form of the word and translates to "to see." This form provides two important pieces of information. First, it provides the **stem** (*vidē-*) that is used to create all of the present, imperfect, future forms of the verb (known as the **present system**). Second, in combination with the first principal part, it tells us the pattern (often referred to as a **conjugation**) that the verb will follow in creating different forms (more below).
 
