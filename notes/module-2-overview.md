@@ -1,3 +1,8 @@
+---
+layout: low-level-page
+title: Module 2 - Verb Overview
+---
+
 ## Navigation:
 
 <hr>
@@ -14,7 +19,7 @@ Latin verbs have five characteristics: **person**, **number**, **tense**, **voic
 
 **Voice** tells us whether the subject of the sentence is doing the action of the sentence or being acted upon. There are two voices in Latin: active and passive. An **active** verb indicates that the subject performs the central action of the sentence. For example, in the sentence, "the dog catches the ball", the dog (our subject) is performing the act of catching. A **passive** verb indicates that the subject is being acted upon. To follow up on the example above, in the sentence "the ball is caught by the dog", the ball (our subject) is not performing an action, rather it is simply being caught by the dog.
 
-**Mood** tells us how the speaker of the sentence feels about the content of the sentence. Mood can indicate if a sentence's content is simply a statement of fact, an expression of a wish or possibility, an order etc. There are three Latin moods: indicative, imperative, and subjunctive. While we will go into more detail on this later, for now, we can think of the **indicative** mood as indicating that the speaker is stating the content of the sentence as a fact; the **imperative** mood as indicating that the speaker is making an order; the **subjunctive** mood as indicating some level of uncertainty.
+**Mood** tells us how the speaker of the sentence feels about the content of the sentence. Mood can indicate if a sentence's content is simply a statement of fact, an expression of a wish or possibility, an order, etc. There are three Latin moods: **indicative**, **imperative**, and **subjunctive**. While we will go into more detail on this later, for now, we can think of the **indicative** mood as indicating that the speaker is stating the content of the sentence as a fact; the **imperative** mood as indicating that the speaker is making an order; the **subjunctive** mood as indicating some level of uncertainty.
 
 To summarize, verbs have:
 
