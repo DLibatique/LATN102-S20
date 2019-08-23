@@ -9,7 +9,7 @@ title: Imperfect Indicative (Active and Passive) - Charts
 
 ## Imperfect Active Indicative
 
-The charts below will show full charts for the imperfect active indicative of each verb. Focus on the **bolded** 3rd personal singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the imperfect active indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### First Conjugation
 
@@ -41,7 +41,7 @@ The charts below will show full charts for the imperfect active indicative of ea
 | 2nd  | ducēbās        | ducēbātis       |
 | 3rd  | **ducēbat**        | **ducēbant**     |
 
-### Third -io Conjugation
+### Third -iō Conjugation
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -65,7 +65,7 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 ## Imperfect Passive Indicative
 
-The charts below will show full charts for the imperfect passive indicative of each verb. Focus on the **bolded** 3rd personal singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the imperfect passive indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### First Conjugation
 
@@ -97,7 +97,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 2nd  | ducēbāris        | ducēbāminī       |
 | 3rd  | **ducēbātur**        | **ducēbantur**     |
 
-### Third -io Conjugation
+### Third -iō Conjugation
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
