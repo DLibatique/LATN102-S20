@@ -7,14 +7,6 @@ title: Module 2 - Tenses
 
 <hr>
 
-## The Present Tense
-
-### The Present Tense - Conceptual Overview
-
-The **present tense** indicates that the action of a verb is happening at the same time as the speaker's utterance. For example, in the sentence "I write about the present tense", the verb "write" indicates that the process of writing is currently happening. The present tense can also show an action in progress through the use of a form of the verb "to be" and the addition of -ing to the verb; for example, "we are learning about Latin." The verb "are learning" indicates that learning is in the process of happening!
-
-### Formation of the Present Indicative
-
 ## The Imperfect Tense
 
 ### The Imperfect Tense - Conceptual Overview
@@ -117,3 +109,15 @@ So if we wanted to form the 3rd person singular perfect active indicative of *vi
 Find the perfect stem and form the 3rd person singular perfect active for the following verbs.
 
 ### Formation of the Perfect Passive Indicative
+
+To form the **perfect passive indicative**, we need to find the perfect passive stem. To do this, we simply take the adjectival form of 4th principal part (the reason we need the adjectival form is because the verb must agree with its subject in number and gender).
+
+For instance in the verb *videō*, the fourth principal part is *vīsus* and thus our perfect passive stem is *vīsus*, *vīsa*, *vīsum*.
+
+To make the perfect passive indicative, we take the perfect passive stem and add the present indicative form of "to be" (*sum*, *esse*, *fui*) that matches the person and number of the verb. In the case of *videō*, it looks like this: 
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | vīsus/vīsa/vīsum* sum       |  vīsī/vīsae/vīsa sumus    |
+| 2nd  | vīsus/vīsa*/vīsum* es       | -vīsī/vīsae/vīsa estis       |
+| 3rd  | **vīsus/vīsa/vīsum est**        | **vīsī/vīsae/vīsa sunt**     |
