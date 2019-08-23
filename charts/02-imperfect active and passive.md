@@ -57,3 +57,59 @@ The charts below will show full charts for the imperfect active indicative of ea
 | 3rd  | **audiēbat**        | **audiēbant**     |
 
 <hr>
+
+## Imperfect Passive Indicative
+
+The charts below will show full charts for the imperfect passive indicative of each verb. Focus on the **bolded** 3rd personal singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+
+### First Conjugation
+
+*amō*, *amāre*, *amāvī*, *amātus* - to love
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | amābar       | amābāmur      |
+| 2nd  | amābāris        | amābāminī       |
+| 3rd  | **amābātur**        | **amābantur**     |
+
+### Second Conjugation
+
+*videō*, *vidēre*, *vīdī*, *vīsus* - to see
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | vidēbar       | vidēbāmur      |
+| 2nd  | vidēbāris        | vidēbāminī       |
+| 3rd  | **vidēbātur**        | **vidēbantur**     |
+
+### Third Conjugation
+
+*dūcō*, *dūcere*, *dūxī*, *ductus* - to lead
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | ducēbar       | ducēbāmur      |
+| 2nd  | ducēbāris        | ducēbāminī       |
+| 3rd  | **ducēbātur**        | **ducēbantur**     |
+
+### Third -io Conjugation
+
+*capiō*, *capere*, *cēpī*, *captus* - to take
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | capiēbar       | capiēbāmur      |
+| 2nd  | capiebāris        | capiēbāminī       |
+| 3rd  | **capiēbātur**        | **capiēbantur**     |
+
+### Fourth Conjugation
+
+*audiō*, *audīre*, *audīvī*, *audītus* - to hear
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | audiēbar       | audiēbāmur      |
+| 2nd  | audiebāris        | audiēbāminī       |
+| 3rd  | **audiēbātur**        | **audiēbantur**     |
+
+<hr>
