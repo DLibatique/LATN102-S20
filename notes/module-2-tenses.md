@@ -114,10 +114,12 @@ To form the **perfect passive indicative**, we need to find the perfect passive 
 
 For instance in the verb *videō*, the fourth principal part is *vīsus* and thus our perfect passive stem is *vīsus*, *vīsa*, *vīsum*.
 
-To make the perfect passive indicative, we take the perfect passive stem and add the present indicative form of "to be" (*sum*, *esse*, *fui*) that matches the person and number of the verb. In the case of *videō*, it looks like this: 
+To make the perfect passive indicative, we take the perfect passive stem and add the present indicative form of "to be" (*sum*, *esse*, *fui*) that matches the person and number of the verb. In the case of *videō*, it looks like this:
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
 | 1st   | vīsus/vīsa/vīsum* sum       |  vīsī/vīsae/vīsa sumus    |
 | 2nd  | vīsus/vīsa*/vīsum* es       | -vīsī/vīsae/vīsa estis       |
 | 3rd  | **vīsus/vīsa/vīsum est**        | **vīsī/vīsae/vīsa sunt**     |
+
+NB: Look at how the adjectival form changes as we go from singular to plural. Why does it happen?
