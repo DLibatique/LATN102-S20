@@ -65,17 +65,37 @@ Our **third principal part**, *vīdī*, indicates the **1st person singular perf
 
 The five different characteristics discussed above are reflected in the endings of a verb form. Like nouns, there are patterns in the way that verbs change their endings which we call **conjugations**.
 
-There are four major conjugations (as well as one minor ) that we will become familiar with.
+There are four major conjugations (as well as one minor) that we will become familiar with.
 
 The conjugation to which a verb belongs can be easily determined by consulting the first and second principal parts in a dictionary entry:
+
 - If the second principal part ends with ***-āre***, then the verb belongs to the **first conjugation** (e.g. *amō*, *amāre*, *amāvī*, *amātus* - to love).
 
-- If the second principal part ends with ***-ēre*** (note the long mark over the e) and the first principal parts ends with ***-eō***, then the verb belongs to the **second conjugation** (e.g. *videō*, *vidēre*, *vīdī*, *vīsus* - to see).
+- If the second principal part ends with ***-ēre*** (note the long mark over the second-to-last *e*) and the first principal part ends with ***-eō***, then the verb belongs to the **second conjugation** (e.g. *videō*, *vidēre*, *vīdī*, *vīsus* - to see).
 
-- If the second principal part ends with ***-ere*** (note there is no long mark over the e) and the first principal parts ends with ***-ō*** and no other proceeding vowel, then the verb belongs to the **third conjugation** (e.g. *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead).
-  * If the second principal ends with ***-ere*** (note there is no long mark over the e) and the first principal parts ends with ***-iō***, then the verb belongs to the **third -io conjugation** (e.g. *capiō*, *capere*, *cēpī*, *captus* - to take).
+- If the second principal part ends with ***-ere*** (note there is no long mark over the second-to-last *e)* and the first principal part ends with ***-ō*** and no other proceeding vowel, then the verb belongs to the **third conjugation** (e.g. *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead).
+  * If the second principal ends with ***-ere*** (note there is no long mark over the second-to-last *e*) and the first principal part ends with ***-iō***, then the verb belongs to the **third -io conjugation** (e.g. *capiō*, *capere*, *cēpī*, *captus* - to take).
 
-- If the second principal part ends with ***-īre*** (note the long mark over the e) and the first principal parts ends with ***-iō***, then the verb belongs to the **fourth conjugation** (e.g. *audiō*, *audīre*, *audīvī*, *audītus* - to hear).
+- If the second principal part ends with ***-īre*** and the first principal part ends with ***-iō***, then the verb belongs to the **fourth conjugation** (e.g. *audiō*, *audīre*, *audīvī*, *audītus* - to hear).
+
+### Practice Opportunity
+
+What conjucation does each of the following verbs belong to?
+
+1. *faciō*, *facere*, *fēcī*, *factus* - to make, do  
+<a href="#" onclick="document.getElementById('prac1').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac1">3rd -iō</span>
+
+2. *moneō*, *monēre*, *monuī*, *monitus* - to warn, advise  
+<a href="#" onclick="document.getElementById('prac2').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac2">2nd</span>
+
+3. *bibō*, *bibere*, *bibī*, *bibitus* - to drink  
+<a href="#" onclick="document.getElementById('prac3').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac3">3rd</span>
+
+4. *iuvō*, *iuvāre*, *iūvī*, *iūtus* - to help
+<a href="#" onclick="document.getElementById('prac4').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac4">1st</span>
+
+5. *veniō*, *venīre*, *vēnī*, *ventus* - to come
+<a href="#" onclick="document.getElementById('prac5').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac5">4th</span>
 
 <hr>
 
