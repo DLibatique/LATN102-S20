@@ -7,6 +7,13 @@ title: Module 2 - Tenses
 
 <hr>
 
+## The Present Tense - Conceptual Overview
+
+The **present tense** indicates that the action of a verb is happening at the same time as the speaker's utterance. For example, in the sentence "I write about the present tense", the verb "write" indicates that the process of writing is currently happening. The present tense can also show an action in progress through the use of a form of the verb "to be" and the addition of -ing to the verb; for example, "we are learning about Latin." The verb "are learning" indicates that learning is in the process of happening!
+
+## Formation of the Present Indicative
+
+
 ## The Imperfect Tense - Conceptual Overview
 
 The **imperfect tense** is one of three different past tenses (along with the perfect and pluperfect) used in Latin. The imperfect is different from the other two tenses because it connotes an ongoing, continuous, habitual, or attempted action in the past (it never refers to a completed action). For instance, for the English verb "do", we would translate the Latin imperfect as "was doing" (the most common translation of the imperfect), "used to do", "kept on doing", or "began to do."
