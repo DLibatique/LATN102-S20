@@ -42,18 +42,18 @@ The charts below will show full charts for the perfect active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | capiēbam       | capiēbāmus      |
-| 2nd  | capiebās        | capiēbātis       |
-| 3rd  | **capiēbat**        | **capiēbant**     |
+| 1st   | cēpī       | cēpimus      |
+| 2nd  | cēpistī        | cēpistis       |
+| 3rd  | **cēpit**        | **cēpērunt/cēpēre**     |
 
 ### Fourth Conjugation
 
 *audiō*, *audīre*, *audīvī*, *audītus* - to hear
 
-| Person      | Singular |Plural |
+Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | audiēbam       | audiēbāmus      |
-| 2nd  | audiebās        | audiēbātis       |
-| 3rd  | **audiēbat**        | **audiēbant**     |
+| 1st   | audīvī       | audīvimus      |
+| 2nd  | audīvistī        | audīvistis       |
+| 3rd  | **audīvit**        | **audīvērunt/audīvēre**     |
 
 <hr>
