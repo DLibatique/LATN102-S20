@@ -7,6 +7,14 @@ title: Module 2 - Tenses
 
 <hr>
 
+## The Present Tense
+
+### The Present Tense - Conceptual Overview
+
+The **present tense** indicates that the action of a verb is happening at the same time as the speaker's utterance. For example, in the sentence "I write about the present tense", the verb "write" indicates that the process of writing is currently happening. The present tense can also show an action in progress through the use of a form of the verb "to be" and the addition of -ing to the verb; for example, "we are learning about Latin." The verb "are learning" indicates that learning is in the process of happening!
+
+### Formation of the Present Indicative
+
 ## The Imperfect Tense
 
 ### The Imperfect Tense - Conceptual Overview
