@@ -127,3 +127,5 @@ NB: Look at how the adjectival form changes as we go from singular to plural. Wh
 #### Practice Opportunity
 
 Find the perfect passive stem and form the 3rd person plural perfect passive for the following verbs.
+
+<hr>
