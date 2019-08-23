@@ -123,3 +123,7 @@ To make the perfect passive indicative, we take the perfect passive stem and add
 | 3rd  | **vīsus/vīsa/vīsum est**        | **vīsī/vīsae/vīsa sunt**     |
 
 NB: Look at how the adjectival form changes as we go from singular to plural. Why does it happen?
+
+#### Practice Opportunity
+
+Find the perfect passive stem and form the 3rd person plural perfect passive for the following verbs.
