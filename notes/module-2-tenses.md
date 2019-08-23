@@ -7,14 +7,6 @@ title: Module 2 - Tenses
 
 <hr>
 
-## The Present Tense
-
-### The Present Tense - Conceptual Overview
-
-The **present tense** indicates that the action of a verb is happening at the same time as the speaker's utterance. For example, in the sentence "I write about the present tense", the verb "write" indicates that the process of writing is currently happening. The present tense can also show an action in progress through the use of a form of the verb "to be" and the addition of -ing to the verb; for example, "we are learning about Latin." The verb "are learning" indicates that learning is in the process of happening!
-
-### Formation of the Present Indicative
-
 ## The Imperfect Tense
 
 ### The Imperfect Tense - Conceptual Overview
@@ -23,7 +15,7 @@ The **imperfect tense** is one of three different past tenses (along with the pe
 
 For instance, for the active form of the English verb "to make", we can translate the Latin imperfect as "was/were making" (the most common translation of the imperfect), "used to make", "kept on making", or "began to make." Similarly, for the passive form of the English verb "to make" (i.e. "to be made"), we can translate the Latin imperfect as "was/were being made", "used to be made", "kept being made", or "began to be made."
 
-Below are some English examples where we would use the Latin imperfect:
+Below are some English examples where we would use the Latin imperfect (note the *-ba* infix in all the Latin form - this is the telltale sign that a verb is in the imperfect):
 
 * When I went to the store, she was doing (*faciēbat*) her homework.
 * They used to give (*dabant*) the football players free pizza on Friday.
@@ -71,7 +63,7 @@ So if we wanted to form the 3rd person plural imperfect passive indicative of *v
 
 #### Practice Opportunity
 
-Find the present stem and form the 3rd person singular imperfect for the following verbs.
+Find the present stem and form the 3rd person singular imperfect ative and passive for the following verbs.
 
 <hr>
 
@@ -92,4 +84,18 @@ Below are some English examples where we would use the Latin perfect:
 
 ### Formation of the Perfect Active Indicative
 
-Unlike the imperfect, the **perfect active** and **perfect passive** forms of the verbs are formed
+Unlike the imperfect, the **perfect active** and **perfect passive** are formed differently. However, in the indicative mood, both are relatively easy to create and recognize.
+
+To form the **perfect active indicative**, we need to find the perfect active stem. To do this, we simply take the 3rd principal part and take away the final *-ī*.
+
+For instance in the verb *videō*, the third principal part is *vīdī* and, thus, our perfect active stem is *vīd-*.
+
+Once we have the perfect active stem, forming the perfect active indicative is simple, we just add the personal endings for the perfect to the stem:
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | -ī       | -īmus      |
+| 2nd  | -istī        | -istis       |
+| 3rd  | **-it**        | **-ērunt/-ēre**     |
+
+NB: There are two endings that can be used for the 3rd personal plural of the perfect active indicative.
