@@ -81,3 +81,7 @@ Below are some English examples where we would use the Latin perfect:
 * They gave (*dedērunt*) the football players free pizza on Friday.
 * The students did write (*scrīpsērunt*) their exams.
 * Katie has been asked (*petīta est*) to play Beyonce.
+
+### Formation of the Perfect Active Indicative
+
+Unlike the imperfect, the **perfect active** and **perfect passive** forms of the verbs are formed
