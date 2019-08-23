@@ -9,7 +9,7 @@ title: Perfect Indicative (Active and Passive) - Charts
 
 ## Perfect Active Indicative
 
-The charts below will show full charts for the perfect active indicative of each verb. Focus on the **bolded** 3rd personal singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the perfect active indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### First Conjugation
 
@@ -41,7 +41,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | dūxistī        | dūxistis       |
 | 3rd  | **dūxit**        | **dūxērunt/dūxēre**     |
 
-### Third -io Conjugation
+### Third -iō Conjugation
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -65,7 +65,7 @@ The charts below will show full charts for the perfect active indicative of each
 
 ## Perfect Passive Indicative
 
-The charts below will show full charts for the perfect passive indicative of each verb. Focus on the **bolded** 3rd personal singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the perfect passive indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### First Conjugation
 
@@ -97,7 +97,7 @@ The charts below will show full charts for the perfect passive indicative of eac
 | 2nd  | ductus/ducta/ductum es       | ductī/ductae/ducta estis       |
 | 3rd  | **ductus/ducta/ductum est**        | **ductī/ductae/ducta sunt**     |
 
-### Third -io Conjugation
+### Third -iō Conjugation
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
