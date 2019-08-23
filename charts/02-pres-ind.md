@@ -41,7 +41,7 @@ The charts below will show full charts for the present active indicative of each
 | 2nd  | ducis        | ducitis       |
 | 3rd  | **ducit**        | **ducunt**     |
 
-### Third -io Conjugation
+### Third -iō Conjugation
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -97,7 +97,7 @@ The charts below will show full charts for the present passive indicative of eac
 | 2nd  | duceris        | duciminī       |
 | 3rd  | **ducitur**        | **ducuntur**     |
 
-### Third -io Conjugation
+### Third -iō Conjugation
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
