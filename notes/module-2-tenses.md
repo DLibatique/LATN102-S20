@@ -63,7 +63,7 @@ So if we wanted to form the 3rd person plural imperfect passive indicative of *v
 
 #### Practice Opportunity
 
-Find the present stem and form the 3rd person singular imperfect ative and passive for the following verbs.
+Find the present stem and form the 3rd person singular imperfect active and passive for the following verbs.
 
 <hr>
 
@@ -99,3 +99,13 @@ Once we have the perfect active stem, forming the perfect active indicative is s
 | 3rd  | **-it**        | **-ērunt/-ēre**     |
 
 NB: There are two endings that can be used for the 3rd personal plural of the perfect active indicative.
+
+So if we wanted to form the 3rd person singular perfect active indicative of *videō*:
+
+*vīdī* -> *vīd-* (perfect active stem) -> (add personal ending) *vīdit*  
+
+#### Practice Opportunity
+
+Find the perfect stem and form the 3rd person singular perfect active for the following verbs.
+
+### Formation of the Perfect Passive Indicative
