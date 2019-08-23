@@ -7,22 +7,26 @@ title: Module 2 - Tenses
 
 <hr>
 
-## The Imperfect Tense - Conceptual Overview
+## The Imperfect Tense
 
-The **imperfect tense** is one of three different past tenses (along with the perfect and pluperfect) used in Latin. The imperfect is different from the other two tenses because it connotes an ongoing, continuous, habitual, or attempted action in the past (it never refers to a completed action). For instance, for the English verb "do", we would translate the Latin imperfect as "was doing" (the most common translation of the imperfect), "used to do", "kept on doing", or "began to do."
+### The Imperfect Tense - Conceptual Overview
+
+The **imperfect tense** is one of three different past tenses (along with the perfect and pluperfect) used in Latin. In its usage in the indicative mood, the imperfect is different from the other two tenses because it connotes an ongoing, continuous, habitual, or attempted action in the past (it never refers to a completed action).
+
+For instance, for the active form of the English verb "to make", we can translate the Latin imperfect as "was/were making" (the most common translation of the imperfect), "used to make", "kept on making", or "began to make." Similarly, for the passive form of the English verb "to make" (i.e. "to be made"), we can translate the Latin imperfect as "was/were being made", "used to be made", "kept being made", or "began to be made."
 
 Below are some English examples where we would use the Latin imperfect:
 
 * When I went to the store, she was doing (*faciēbat*) her homework.
 * They used to give (*dabant*) the football players free pizza on Friday.
 * Although the teacher told them to stop working, the students kept writing (*scrībēbant*) their exams.
-* Katie was demanding (*poscēbat*) that they play Beyonce.
+* Katie was being asked (*petēbātur*) to play Beyonce.
 
-## Formation of the Imperfect Indicative
+### Formation of the Imperfect Indicative
 
-To form the imperfect active and passive indicative, we begin by finding the verb's present stem. To find the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re* .
+To form the imperfect indicative (NB: this is the same for both active and passive), we start by finding the verb's present stem. To determine the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re*.
 
-For instance, in the case of the verb, *videō*, it second principal part is *vidēre* and taking off the *-re* gives us a present stem of *vidē-*.
+For instance, in the case of the verb, *videō*, its second principal part is *vidēre* and taking off the *-re* gives us a present stem of *vidē-*.
 
 For verbs that belong to the first and second conjugation, we do not need to modify the present stem and can simply add *-ba* to the stem to make the imperfect stem. In the case of *videō*:
 
@@ -45,7 +49,7 @@ To this stem, we add the endings for the relevant person and number, and voice, 
 | 2nd  | -s        | -tis       |
 | 3rd  | **-t**        | **-nt**     |
 
-**Passive**
+**Passive** (NB: To move from active to passive in the imperfect, all we have to do is change personal endings.)
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -57,6 +61,23 @@ So if we wanted to form the 3rd person plural imperfect passive indicative of *v
 
 *vidēre* -> *vidē-* (present stem) -> *vidē-ba-* (imperfect stem) -> *vidē-ba-ntur*
 
-### Practice Opportunity
+#### Practice Opportunity
 
 Find the present stem and form the 3rd person singular imperfect for the following verbs.
+
+<hr>
+
+## The Perfect Tense
+
+### The Perfect Tense - Conceptual Overview
+
+The **perfect tense** is one of three different past tenses (along with the imperfect and pluperfect) used in Latin. In its usage in the indicative mood, the perfect refers to a singular action that has been completed in the past.
+
+For instance, for the active form of the English verb "to make", we can translate the Latin perfect as "has/have made", "did make", or simply "made." Similarly, for the passive form of the English verb "to make" (i.e. "to be made"), we can translate the Latin perfect as "has/have been made" or simply "was/were made."
+
+Below are some English examples where we would use the Latin perfect:
+
+* She has done (*fēcit*) her homework.
+* They gave (*dedērunt*) the football players free pizza on Friday.
+* The students did write (*scrīpsērunt*) their exams.
+* Katie has been asked (*petīta est*) to play Beyonce.
