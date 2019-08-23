@@ -13,7 +13,50 @@ title: Module 2 - Tenses
 
 The **present tense** indicates that the action of a verb is happening at the same time as the speaker's utterance. For example, in the sentence "I write about the present tense", the verb "write" indicates that the process of writing is currently happening. The present tense can also show an action in progress through the use of a form of the verb "to be" and the addition of -ing to the verb; for example, "we are learning about Latin." The verb "are learning" indicates that learning is in the process of happening!
 
-### Formation of the Present Indicative
+Here are some more English examples of the present tense, with the Latin equivalent of the verb in parentheses:
+
+* She is coming (*venit*) from the market.
+* An exam is being given (*datur*) by the teacher.
+* He writes (*scrībit*) a letter.
+* We are looking for (*petimus*) our friends.
+
+### Formation of the Present Indicative in the 1st and 2nd Conjugations
+
+If you need the first person singular present active indicative form of the verb, you automatically have it from the **first principal part** of the dictionary entry. For example, with the verb *amō*, *amāre*, *amāvī*, *amātus*, "to love", the first principal part, *amō*, is your first person present active indicative form, which means "I love."
+
+To form the present indicative in the other persons and numbers in the **1st and 2nd conjugation**, we begin by finding the verb's present stem. To find it, you go to the **second principal part** of the verb's dictionary entry and then chop off the final *-re*. For example, with the same example verb, we would go to the second principal part, *amāre*, and chop off the final *-re*, which leaves us with the present stem: *amā-*.
+
+From there, you add your personal endings, which are shown below (focus on the **bolded** third person forms for the first part of this semester):
+
+**Active**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | (-ō)       | -mus      |
+| 2nd  | -s        | -tis       |
+| 3rd  | **-t**        | **-nt**     |
+
+So, for example, the 3rd person plural present active indicative form of *amō* is *amant*, "they love." The 2nd person singular present active indicative form of *amō* is *amās*, "you love."
+
+For the **passive** forms, you would tack on the **passive** personal endings onto your present stem (for the 1st person singular, you would tack the ending directly onto the active form):
+
+**Passive**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | -r       | -mur      |
+| 2nd  | -ris        | -minī       |
+| 3rd  | **-tur**        | **-ntur**     |
+
+So, for example, the 1st person singular present passive indicative of *amō* is *amor*, "I am (being) loved." The third person singular present passive indicative of *amō* is *amātur*, "he/she/it is (being) loved."
+
+### Present Indicative in the 3rd, 3rd -iō, and 4th Conjugations
+
+### Practice Opportunity
+
+From the dictionary entry, conjugate the verb in the present indicative with the prompted person, number, and voice, and then translate the new form.
+
+<hr>
 
 ## The Imperfect Tense
 
