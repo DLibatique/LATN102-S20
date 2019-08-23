@@ -106,7 +106,7 @@ So if we wanted to form the 3rd person singular perfect active indicative of *vi
 
 #### Practice Opportunity
 
-Find the perfect stem and form the 3rd person singular perfect active for the following verbs.
+Find the perfect active stem and form the 3rd person singular perfect active for the following verbs.
 
 ### Formation of the Perfect Passive Indicative
 
