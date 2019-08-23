@@ -54,7 +54,7 @@ So, for example, the 1st person singular present passive indicative of *amō* is
 
 ### Practice Opportunity
 
-From the dictionary entry, conjugate the verb in the present indicative with the prompted person, number, and voice, and then translate the new form.
+From the dictionary entry, conjugate the verb in the 3rd person plural present indicative active and passive, and then translate the new form.
 
 <hr>
 
