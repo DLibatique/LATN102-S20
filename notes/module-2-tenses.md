@@ -52,7 +52,7 @@ So, for example, the 1st person singular present passive indicative of *amō* is
 
 ### Present Indicative in the 3rd, 4th, and 3rd -iō Conjugations
 
-In the 3rd, 3rd -iō, and 4th conjugations in the present indicative, there are a number of vowel changes at the end of the present stem from person to person and number to number. While the active and passive endings listed in the charts above apply to these conjugations, you must be aware of the vowel shifts to conjugate a verb correctly.
+In the 3rd, 4th, and 3rd -iō conjugations in the present indicative, there are a number of vowel changes at the end of the present stem from person to person and number to number before we apply the active and passive endings listed in the charts above. You must be aware of these vowel shifts to conjugate a verb correctly.
 
 #### Third Conjugation
 
