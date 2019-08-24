@@ -24,7 +24,7 @@ Here are some more English examples of the present tense, with the Latin equival
 
 If you need the first person singular present active indicative form of the verb, you automatically have it from the **first principal part** of the dictionary entry. For example, with the verb *amō*, *amāre*, *amāvī*, *amātus*, "to love", the first principal part, *amō*, is your first person present active indicative form, which means "I love."
 
-To form the present indicative in the other persons and numbers in the **1st and 2nd conjugation**, we begin by finding the verb's present stem. To find it, you go to the **second principal part** of the verb's dictionary entry and then chop off the final *-re*. For example, with the same example verb, we would go to the second principal part, *amāre*, and chop off the final *-re*, which leaves us with the present stem: *amā-*.
+To form the present indicative in the other persons and numbers in the **1st and 2nd conjugation**, we begin by finding the verb's present stem. To find it, you go to the **second principal part** of the verb's dictionary entry and then chop off the final *-re*. For example, with the same example verb, we would go to the second principal part, *amāre*, and chop off the final *-re*, which leaves us with the present stem: *amā-*. The second conjugation works the same way: for example, with the verb *moneō*, *monēre*, *monuī*, *monitus*, "to warn, advise", the present stem would be *monē-*.
 
 From there, you add your personal endings, which are shown below (focus on the **bolded** third person forms for the first part of this semester):
 
@@ -36,7 +36,7 @@ From there, you add your personal endings, which are shown below (focus on the *
 | 2nd  | -s        | -tis       |
 | 3rd  | **-t**        | **-nt**     |
 
-So, for example, the 3rd person plural present active indicative form of *amō* is *amant*, "they love." The 2nd person singular present active indicative form of *amō* is *amās*, "you love."
+So, for example, the 3rd person plural present active indicative form of *amō* is *amant*, "they love." The 2nd person singular present active indicative form of *moneō* is *monēs*, "you warn."
 
 For the **passive** forms, you would tack on the **passive** personal endings onto your present stem (for the 1st person singular, you would tack the ending directly onto the active form):
 
@@ -48,7 +48,7 @@ For the **passive** forms, you would tack on the **passive** personal endings on
 | 2nd  | -ris        | -minī       |
 | 3rd  | **-tur**        | **-ntur**     |
 
-So, for example, the 1st person singular present passive indicative of *amō* is *amor*, "I am (being) loved." The third person singular present passive indicative of *amō* is *amātur*, "he/she/it is (being) loved."
+So, for example, the 1st person singular present passive indicative of *amō* is *amor*, "I am (being) loved." The third person singular present passive indicative of *moneō* is *monētur*, "he/she/it is (being) warned."
 
 ### Present Indicative in the 3rd, 3rd -iō, and 4th Conjugations
 
