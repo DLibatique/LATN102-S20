@@ -50,7 +50,71 @@ For the **passive** forms, you would tack on the **passive** personal endings on
 
 So, for example, the 1st person singular present passive indicative of *amō* is *amor*, "I am (being) loved." The third person singular present passive indicative of *moneō* is *monētur*, "he/she/it is (being) warned."
 
-### Present Indicative in the 3rd, 3rd -iō, and 4th Conjugations
+### Present Indicative in the 3rd, 4th, and 3rd -iō Conjugations
+
+In the 3rd, 3rd -iō, and 4th conjugations in the present indicative, there are a number of vowel changes at the end of the present stem from person to person and number to number. While the active and passive endings listed in the charts above apply to these conjugations, you must be aware of the vowel shifts to conjugate a verb correctly.
+
+#### Third Conjugation
+
+Let's conjugate the third conjugation verb *regō*, *regere*, *rēxī*, *rectus*, "to rule", in the **present active indicative** as an example. If we follow the procedure from above, we go to *regere* and chop off the *-re*, and then we have the present stem *rege-*. In the present active indicative of the third conjugation, the *-e* at the end of the present stem becomes an *-i* in the **2nd sg., 3rd sg., 1st pl., and 2nd pl.**, and it becomes a *-u* in the **3rd pl**. The 1st sg., as above, can be taken from the first principal part of the verb.
+
+So, the **present active indicative** of *regō* looks like this (focus on the **bolded** 3rd person forms):
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | regō       | regimus      |
+| 2nd  | regis       | regitis       |
+| 3rd  | **regit**        | **regunt**     |
+
+The **present passive indicative** of the third conjugation looks very similar with one exception: the **2nd sg.** retains the *-e*, rather than changing to an *-i*. Take a look at this chart (and again, focus on the bolded forms):
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | regor       | regimur      |
+| 2nd  | regeris        | regiminī       |
+| 3rd  | **regitur**        | **reguntur**     |
+
+#### Fourth Conjugation
+
+The **fourth conjugation** follows the pattern of **1st** and **2nd conjugation verbs** (go to the infinitive, chop off the *-re*, add your endings) with one crucial exception: the **3rd pl.** form shifts the vowel at the end of the stem from *-i* to *-iu*. So, let's take the sample verb *audiō*, *audīre*, *audīvī*, *audītus*, "to hear." The present stem is *audī-*.
+
+**Active**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | audiō       | audīmus      |
+| 2nd  | audīs      | audītis       |
+| 3rd  | **audit**        | **audiunt**     |
+
+**Passive**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | audior       | audīmur      |
+| 2nd  | audīris      | audīminī       |
+| 3rd  | **audītur**        | **audiuntur**     |
+
+#### Third -iō Conjugation
+
+The **third -iō conjugation** is a mixture of 3rd and 4th conjugation forms; such verbs as *capiō*, *capere*, *cēpī*, *captus*, "to seize, capture", follow 3rd conjugation patterns in the **2nd sg., 3rd sg., 1st pl., and 2nd. pl.** but 4th conjugation patterns in the **3rd pl.**
+
+**Active**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | capiō       | capimus      |
+| 2nd  | capis      | capitis       |
+| 3rd  | **capit**        | **capiunt**     |
+
+**Passive**
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | capior       | capimur      |
+| 2nd  | caperis      | capiminī       |
+| 3rd  | **capitur**        | **capiuntur**     |
+
+Note that often, one letter can make the difference, so it is imperative that you recognize what conjugation a verb belongs to in order to conjugate it correctly!
 
 ### Practice Opportunity
 
