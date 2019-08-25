@@ -6,7 +6,7 @@ title: Nuts & Bolts - Prof. Libatique
 <a name="top"></a>
 <a href="#ac" class="underline">Academic Conduct</a> \| <a href="#attendance" class="underline">Attendance</a> \| <a href="#oh" class="underline">Office Hours</a> \|  
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#gender" class="underline">Gender Expression and Identity</a> \| <a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \|  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#disability" class="underline">Disability</a> \| <a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#accessibility" class="underline">Accessibility</a> \| <a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>
 
 <hr>
 ## <a name="ac">Academic Conduct</a>
@@ -49,7 +49,7 @@ This work is especially important today, when historically false images of the a
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 
-## <a name="disability">Disability</a>
+## <a name="accessibility">Accessibility</a>
 Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility Services to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations. Contact information for the Office of Disability Services can be found [here](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services). You may also call 508-793-3693 or visit Hogan 215A.
 
 If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
