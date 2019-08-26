@@ -30,6 +30,9 @@ To summarize, intransitive sentences must have a:
 * Subject
 * Intransitive active verb
 
+[Back to top.](#top)
+<hr>
+
 ### <a name="trans">Transitive Sentences</a>
 
 **Transitive sentences** require a **direct object**, in addition to a subject and verb to complete the meaning of the sentence.
@@ -63,7 +66,8 @@ And sometimes have an:
 
 Form the accusative and dative singular and plural of the following words using the charts from Module 1.
 
-<HR>
+[Back to top.](#top)
+<hr>
 
 ### <a name="pass">Passive Sentences</a>
 
@@ -93,7 +97,8 @@ And sometimes have an:
 
 Form the ablative singular and plural of the following words using the charts from Module 1.
 
-<HR>
+[Back to top.](#top)
+<hr>
 
 ### <a name="link">Linking Sentences</a>
 
@@ -107,6 +112,9 @@ To summarize, linking sentences must have a:
 * Linking verb
 * Predicate nominative
 
+[Back to top.](#top)
+<hr>
+
 ## <a name="tips">Tips for Determining Sentence Structure</a>
 
 The most important thing to do when determining sentence structure is to look at the main verb. If the verb is passive, we know that the sentence structure is going to be passive; if the verb is a linking verb (i.e. a form of *sum*), then we know the sentence structure is going to be linking. It is more difficult to differentiate between transitive and intransitive verbs. While some Latin verbs are used only transitively (verbs like "to carry") and or only intransitively (verbs to "rain"), a large number of verbs can be used both transitively or intransitively. In these cases, you will want to see if there is a direct object in the accusative case (transitive) or not (intransitive).
@@ -114,3 +122,5 @@ The most important thing to do when determining sentence structure is to look at
 ### Practice Opportunities
 
 Determine the sentence structure of the following sentences. What nouns or adjectives in these sentences are in the dative, accusative, or ablative case?
+
+[Back to top.](#top)

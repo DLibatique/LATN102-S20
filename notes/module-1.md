@@ -152,6 +152,7 @@ What type of adjective is each of the following?
 
 One final note on adjectives. At times, they can be used effectively as nouns, which we refer to as **substantival** use of the adjective. You will recognize the substantival use of an adjective by the fact that there will be no noun with which it agrees. To fill out the meaning, we simple add "men", "women", "people", or "things" to the meaning of the adjective depending on the gender. So *bonī* can stand in for "good men" and *bonae* for "good women." This is something that we will return to throughout the semester.
 
+[Back to top.](#top)
 <hr>
 
 ## <a name="case-usages">Case usages - Nominative and Genitive</a>
@@ -184,6 +185,7 @@ Make sure you are translating the correct **case** and **number** for each word.
 5. *illa est māter familiae.*  
 <a href="#" onclick="document.getElementById('prac16').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
 
+[Back to top.](#top)
 <hr>
 
 ## <a name="pronouns">Pronouns - *is, ea, id*</a>
@@ -209,3 +211,5 @@ What form of *is*, *ea*, *id* would you use to stand in for the following words?
 
 4. *regum*  
 <a href="#" onclick="document.getElementById('prac15').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac15">*eōrum*</span>
+
+[Back to top.](#top)
