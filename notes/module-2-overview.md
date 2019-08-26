@@ -5,9 +5,11 @@ title: Module 2 - Verb Overview
 
 ## Navigation:
 
+<a href="#verbs">Verbs</a> \| <a href="#conj">Conjugations</a> \| <a href="#trans">Translating Verbs</a>
+
 <hr>
 
-## Verbs
+## <a name="verbs">Verbs</a>
 
 Latin verbs have five characteristics: **person**, **number**, **tense**, **voice**, and **mood**.
 
@@ -61,7 +63,7 @@ Our **third principal part**, *vīdī*, indicates the **1st person singular perf
 
 <hr>
 
-## Conjugations
+## <a name="conj">Conjugations</a>
 
 The five different characteristics discussed above are reflected in the endings of a verb form. Like nouns, there are patterns in the way that verbs change their endings which we call **conjugations**.
 
@@ -80,7 +82,7 @@ The conjugation to which a verb belongs can be easily determined by consulting t
 
 ### Practice Opportunity
 
-What conjucation does each of the following verbs belong to?
+What conjugation does each of the following verbs belong to?
 
 1. *faciō*, *facere*, *fēcī*, *factus* - to make, do  
 <a href="#" onclick="document.getElementById('prac1').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac1">3rd -iō</span>
@@ -99,7 +101,7 @@ What conjucation does each of the following verbs belong to?
 
 <hr>
 
-## Translating verbs
+## <a name="trans">Translating Verbs</a>
 
 When translating Latin verbs into English, you must convey all five characteristics in your translation. For example, consider the form *monēbātur*, which is the third singular imperfect passive indicative of *moneō* ("to warn"). We would translate this form as: he/she/it (3rd person singular) was (imperfect) being (passive) warned (the indicative requires no additional translation here).
 
