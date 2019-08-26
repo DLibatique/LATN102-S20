@@ -5,13 +5,16 @@ title: Imperfect Indicative (Active and Passive) - Charts
 
 ## Navigation:
 
+[Imperfect Active](#impfact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact) \|  
+[Imperfect Passive](#impfpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|  
+
 <hr>
 
-## Imperfect Active Indicative
+## <a name="impfact">Imperfect Active Indicative</a>
 
 The charts below will show full charts for the imperfect active indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
-### First Conjugation
+### <a name="1stact">First Conjugation</a>
 
 *amō*, *amāre*, *amāvī*, *amātus* - to love
 
@@ -21,7 +24,7 @@ The charts below will show full charts for the imperfect active indicative of ea
 | 2nd  | amābās        | amābātis       |
 | 3rd  | **amābat**        | **amābant**     |
 
-### Second Conjugation
+### <a name="2ndact">Second Conjugation</a>
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
@@ -31,7 +34,7 @@ The charts below will show full charts for the imperfect active indicative of ea
 | 2nd  | vidēbās        | vidēbātis       |
 | 3rd  | **vidēbat**        | **vidēbant**     |
 
-### Third Conjugation
+### <a name="3rdact">Third Conjugation</a>
 
 *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead
 
@@ -41,7 +44,7 @@ The charts below will show full charts for the imperfect active indicative of ea
 | 2nd  | ducēbās        | ducēbātis       |
 | 3rd  | **ducēbat**        | **ducēbant**     |
 
-### Third -iō Conjugation
+### <a name="3rdioact">Third -iō Conjugation</a>
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -51,7 +54,7 @@ The charts below will show full charts for the imperfect active indicative of ea
 | 2nd  | capiebās        | capiēbātis       |
 | 3rd  | **capiēbat**        | **capiēbant**     |
 
-### Fourth Conjugation
+### <a name="4thact">Fourth Conjugation</a>
 
 *audiō*, *audīre*, *audīvī*, *audītus* - to hear
 
@@ -63,11 +66,11 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 <hr>
 
-## Imperfect Passive Indicative
+## <a name="impfpass">Imperfect Passive Indicative</a>
 
 The charts below will show full charts for the imperfect passive indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
-### First Conjugation
+### <a name="1stpass">First Conjugation</a>
 
 *amō*, *amāre*, *amāvī*, *amātus* - to love
 
@@ -77,7 +80,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 2nd  | amābāris        | amābāminī       |
 | 3rd  | **amābātur**        | **amābantur**     |
 
-### Second Conjugation
+### <a name="2ndpass">Second Conjugation</a>
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
@@ -87,7 +90,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 2nd  | vidēbāris        | vidēbāminī       |
 | 3rd  | **vidēbātur**        | **vidēbantur**     |
 
-### Third Conjugation
+### <a name="3rdpass">Third Conjugation</a>
 
 *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead
 
@@ -97,7 +100,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 2nd  | ducēbāris        | ducēbāminī       |
 | 3rd  | **ducēbātur**        | **ducēbantur**     |
 
-### Third -iō Conjugation
+### <a name="3rdiopass">Third -iō Conjugation</a>
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -107,7 +110,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 2nd  | capiebāris        | capiēbāminī       |
 | 3rd  | **capiēbātur**        | **capiēbantur**     |
 
-### Fourth Conjugation
+### <a name="4thpass">Fourth Conjugation</a>
 
 *audiō*, *audīre*, *audīvī*, *audītus* - to hear
 
