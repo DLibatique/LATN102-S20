@@ -87,6 +87,12 @@ And sometimes have an:
 * An ablative of agent
 * Indirect object in the dative
 
+### Practice exercise
+
+Form the ablative singular and plural of the following words using the charts from Module 1.
+
+<HR>
+
 ## Linking Sentence
 
 **Linking sentences**, which we have already met, require a subject, linking verb, and predicate nominative which matches the subject in number and case. The most common linking verb in English and Latin is "to be" (*sum*, *esse*, *fui*, *futurus*), though there are other linking verb we will see throughout the semester. Below are some examples of linking sentences:
@@ -104,3 +110,5 @@ To summarize, linking sentences must have a:
 The most important thing to do when determining sentence structure is to look at the main verb. If the verb is passive, we know that the sentence structure is going to be passive; if the verb is a linking verb (i.e. a form of *sum*), then we know the sentence structure is going to be linking. It is more difficult to differentiate between transitive and intransitive verbs. While some Latin verbs are used only transitively (verbs like "to carry") and or only intransitively (verbs to "rain"), a large number of verbs can be used both transitively or intransitively. In these cases, you will want to see if there is a direct object in the accusative case (transitive) or not (intransitive).
 
 ### Practice Opportunities
+
+Determine the sentence structure of the following sentences. What nouns or adjectives in these sentences are in the dative, accusative, or ablative case?
