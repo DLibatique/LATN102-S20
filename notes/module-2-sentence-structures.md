@@ -7,11 +7,11 @@ title: Module 2 - Verb Overview
 
 <hr>
 
-## General notes on Latin sentences
+## Sentence patterns
 
-In English, word order is essential to differentiating meaning.  When we say "the cat hits the dog", it is distinctly different in meaning that "the dog hits the cat." In the first sentence, it is the cat that is acting upon the dog; while in the second sentence, it is the dog that is acting upon the cat. The reason we are able to easily differentiate the meaning is that we innately understand English sentence structure - the subject comes first; the verb follows the subject; and the direct object follows the verb.
+Translating Latin sentences becomes much easier if you can recognize certain structural patterns that tell us what to expect in a sentence. Key to identifying what structural pattern a sentence follows is the main verb. The type of verb that appears in the sentence tells us what other grammatical items we need to fill out the rest of the sentence.
 
-As discussed before, Latin, unlike English, does not have a set word order. So If we can figure out what type of sentence we have by looking at the verb, then we can get a sense of what to expect.
+Below you will find a discussion of several very common sentence structures as well as guidelines for how to distinguish them by looking at the verb.
 
 ## Intransitive sentences
 
