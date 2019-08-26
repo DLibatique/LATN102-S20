@@ -24,32 +24,34 @@ Below are some examples of intransitive sentences in Latin and English:
 
 NB: It might tempting to think that the sentence "The girl ran three miles" has a direct object. However, "three miles" is the shortened form of "for three miles", an adverbial phrase that describes the word "ran."
 
-To summarize, intransitive sentences must have:
+To summarize, intransitive sentences must have a:
 * Subject
-* Intransitive verb
+* Intransitive active verb
 
 ## Transitive sentences
 
 **Transitive sentences** require a **direct object**, in addition to a subject and verb to complete the meaning of the sentence.
 
-For example, let's consider the verb *facere* ("to make" in English). If I were to say *agricola fecit* - "the farmer made", the sentence would feel incomplete. You would be thinking what is the making. Pizza? Cake? A fence?
+For example, let's consider the verb *facere* ("to make" in English). If I were to say *agricola fēcit* - "the farmer made", the sentence would feel incomplete. You would be thinking what is the making. Pizza? Cake? A fence?
 
-Thus, we need to add a direct object to tell us what the farmer was making. In English, we would indicate this by putting what the farmer made immediately after the verb (e.g. "the farmer made pizza"). However, because Latin is an inflected language whose word order is highly variable, we can't do this. Rather, Latin indicates that a noun is functioning as a direct object by putting it in the **accusative case** (be sure to become familiar with the accusative endings for nouns and adjectives in ). Thus, the Latin version of the sentence looks like this:
+Thus, we need to add a direct object to tell us what the farmer was making. In English, we would indicate this by putting what the farmer made immediately after the verb (e.g. "the farmer made pizza"). However, because Latin is an inflected language whose word order is highly variable, we can't do this. Rather, Latin indicates that a noun is functioning as a direct object by putting it in the **accusative case** (be sure to become familiar with the accusative endings for nouns and adjectives in Module 1). Thus, the Latin version of the sentence looks like this:
 
 Agricola ***pizzam*** fecit.
 
 Below are some further examples of transitive sentences with accusative direct objects:
 
-Pater **filiam** amavit ("The father loved his daughter.")
-Filii **matres** amant. ("The sons love their mother.")
-Agricolam eius uxor iuvabat. ("The wife was helping her farmer.")
-Fortis vir magnum monstrum et terribilem serpentem pugnabat. ("The brave man is fighting the great monster and the terrible serpent.")
+* Pater **fīliam** amāvit ("The father loved his daughter.")
+* Fīliī **matres** amant. ("The sons love their mother.")
+* **Agricolam** eius uxor iuvābat. ("The wife was helping her farmer.")
+* Fortis vir **magnum monstrum** et **terribilem serpentem** pugnābat. ("The brave man is fighting the great monster and the terrible serpent.")
 
-Sometimes, you will want to specify for the recipient of the action of the verb. For instance, in "her father gave her a pizza"  . Her is what is referred to as an **indirect object**. In Latin, we signal that
+Sometimes, you will want to specify the recipient of the action of the verb. For instance, in the sentence "the farmer gave the girl a pizza", the girl receives the pizza that the farmer gives. Pizza is still the direct object - the farmer is giving the pizza (not the girl). In this sentence, the word "girl" is what is referred to as an **indirect object**, the recipient of the action done by the main verb. In Latin, we signal the indirect object by using the **dative case** (be sure to become familiar with these forms by looking at the chart for Module 1), which we usually translate as "to/for X". So in Latin "the farmer gave the girl a pizza" looks like this:
 
-To summarize, transitive sentences must have an:
+* Agricola pizzam **puellae** dedit.
+
+To summarize, transitive sentences must have a:
 * Subject
-* Verb
+* Active verb
 * Direct object in the accusative
 
 And sometimes have an:
@@ -57,7 +59,7 @@ And sometimes have an:
 
 ### Practice exercise
 
-Form the accusative singular and plural of the following words using the charts from Module 1.
+Form the accusative and dative singular and plural of the following words using the charts from Module 1.
 
 <HR>
 
@@ -65,20 +67,37 @@ Form the accusative singular and plural of the following words using the charts 
 
 **Passive sentences** feature a subject and, unsurprisingly a passive verb. Because the subject of a passive verb is being acted upon, passive sentences do not feature a direct object. Below are some examples of simple passive sentences:
 
-Puella visa est. ("The girl was seen.")
-Viri capti sunt. ("The men were captured.")
+* Puella visa est. ("The girl was seen.")
+* Viri capti sunt. ("The men were captured.")
 
 Sometimes, passive sentences feature a construction known as the **ablative of agent** which tells us who did the action of the main verb (since the subject is being acted upon). We can recognize the ablative of agent by the preposition a/ab followed by a noun in the ablative case (be sure to investigate what the ablative looks like). Below are the simple passive sentences with an ablative of agent:
 
-Puella **ab matre** visa est. ("The girl was seen by her mother.")
-Viri **a feminis** capti sunt. ("The men were captured by women.")
+* Puella **ab matre** visa est. ("The girl was seen by her mother.")
+* Virī **a fēminīs** captī sunt. ("The men were captured by women.")
+
+Passive sentences can also feature an indirect object in the dative case as well. For example, we might see a sentence like the following:
+
+* Pizza **puellae** data est. ("The pizza was given to the girl.")
+
+To summarize, passive sentences must have a:
+* Subject
+* Passive verb
+
+And sometimes have an:
+* An ablative of agent
+* Indirect object in the dative
 
 ## Linking Sentence
 
 **Linking sentences**, which we have already met, require a subject, linking verb, and predicate nominative which matches the subject in number and case. The most common linking verb in English and Latin is "to be" (*sum*, *esse*, *fui*, *futurus*), though there are other linking verb we will see throughout the semester. Below are some examples of linking sentences:
 
-Vir pater est. ("The man is a father.")
-Puellae magni et fortes agriolae sunt. ("The girls are strong and brave farmers.")
+* Vir pater est. ("The man is a father.")
+* Puellae magnī et fortes agriolae sunt. ("The girls are strong and brave farmers.")
+
+To summarize, linking sentences must have a:
+* Subject
+* Linking verb
+* Predicate nominative
 
 ## Tips for Determining Sentence Structure
 
