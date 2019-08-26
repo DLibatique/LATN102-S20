@@ -5,15 +5,17 @@ title: Module 2 - Verb Overview
 
 ## Navigation:
 
+<a href="#sentpat">Sentence Patterns</a>: <a href="#intrans">Intransitive</a>, <a href="#trans">Transitive</a>, <a href="#pass">Passive</a>, <a href="#link">Linking</a> \| <a href="#tips">Tips for Determining Sentence Structure</a>
+
 <hr>
 
-## Sentence patterns
+## <a name="sentpat">Sentence Patterns</a>
 
 Translating Latin sentences becomes much easier if you can recognize certain structural patterns that tell us what to expect in a sentence. Key to identifying what structural pattern a sentence follows is the main verb. The type of verb that appears in the sentence tells us what other grammatical items we need to fill out the rest of the sentence.
 
 Below you will find a discussion of several very common sentence structures as well as guidelines for how to distinguish them by looking at the verb.
 
-## Intransitive sentences
+### <a name="intrans">Intransitive Sentences</a>
 
 **Intransitive sentences** feature a subject and an **intransitive verb**. An intransitive verb is a verb that expresses an action, but does not act directly upon an object (e.g. sneezing, dancing, running, raining, etc.). As a result, an intransitive verb (and, thus, an intransitive sentence) does not take a direct object.
 
@@ -28,7 +30,7 @@ To summarize, intransitive sentences must have a:
 * Subject
 * Intransitive active verb
 
-## Transitive sentences
+### <a name="trans">Transitive Sentences</a>
 
 **Transitive sentences** require a **direct object**, in addition to a subject and verb to complete the meaning of the sentence.
 
@@ -57,13 +59,13 @@ To summarize, transitive sentences must have a:
 And sometimes have an:
 * Indirect object in the dative
 
-### Practice exercise
+#### Practice exercise
 
 Form the accusative and dative singular and plural of the following words using the charts from Module 1.
 
 <HR>
 
-## Passive Sentences
+### <a name="pass">Passive Sentences</a>
 
 **Passive sentences** feature a subject and, unsurprisingly a passive verb. Because the subject of a passive verb is being acted upon, passive sentences do not feature a direct object. Below are some examples of simple passive sentences:
 
@@ -87,13 +89,13 @@ And sometimes have an:
 * An ablative of agent
 * Indirect object in the dative
 
-### Practice exercise
+#### Practice exercise
 
 Form the ablative singular and plural of the following words using the charts from Module 1.
 
 <HR>
 
-## Linking Sentence
+### <a name="link">Linking Sentences</a>
 
 **Linking sentences**, which we have already met, require a subject, linking verb, and predicate nominative which matches the subject in number and case. The most common linking verb in English and Latin is "to be" (*sum*, *esse*, *fui*, *futurus*), though there are other linking verb we will see throughout the semester. Below are some examples of linking sentences:
 
@@ -105,7 +107,7 @@ To summarize, linking sentences must have a:
 * Linking verb
 * Predicate nominative
 
-## Tips for Determining Sentence Structure
+## <a name="tips">Tips for Determining Sentence Structure</a>
 
 The most important thing to do when determining sentence structure is to look at the main verb. If the verb is passive, we know that the sentence structure is going to be passive; if the verb is a linking verb (i.e. a form of *sum*), then we know the sentence structure is going to be linking. It is more difficult to differentiate between transitive and intransitive verbs. While some Latin verbs are used only transitively (verbs like "to carry") and or only intransitively (verbs to "rain"), a large number of verbs can be used both transitively or intransitively. In these cases, you will want to see if there is a direct object in the accusative case (transitive) or not (intransitive).
 
