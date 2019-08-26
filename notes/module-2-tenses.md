@@ -5,11 +5,35 @@ title: Module 2 - Tenses
 
 ## Navigation:
 
+<a href="#pres">Present Tense</a>:
+- <a href="#prescon">Conceptual Overview</a>
+- <a href="#pres12">1st and 2nd Conjugation Present</a>
+- <a href="#pres34io">3rd, 4th, and 3rd -iō Conjugation Present</a>:
+  - <a href="#pres3">3rd Conjugation</a>
+  - <a href="#pres4">4th Conjugation</a>
+  - <a href="#pres3io">3rd -iō Conjugation</a>
+
+<a href="#impf">Imperfect Tense</a>:
+- <a href="#impfcon">Conceptual Overview</a>
+- <a href="#impfform">Formation</a>
+
+<a href="#fut">Future Tense</a>:
+- <a href="#futcon">Conceptual Overview</a>
+- <a href="#fut12">1st and 2nd Conjugation Future</a>
+- <a href="#fut34io">3rd, 4th, and 3rd -iō Conjugation Future</a>:
+  - <a href="#fut3">3rd Conjugation</a>
+  - <a href="#fut43io">4th and 3rd -iō Conjugations</a>
+
+<a href="#perf">Perfect Tense</a>:
+- <a href="#perfcon">Conceptual Overview</a>
+- <a href="#perfact">Perfect Active Indicative</a>
+- <a href="#perfpass">Perfect Passive Indicative</a>
+
 <hr>
 
-## The Present Tense
+## <a name="pres">The Present Tense</a>
 
-### The Present Tense - Conceptual Overview
+### <a name="prescon">The Present Tense - Conceptual Overview</a>
 
 The **present tense** indicates that the action of a verb is happening at the same time as the speaker's utterance. For example, in the sentence "I write about the present tense", the verb "write" indicates that the process of writing is currently happening. The present tense can also show an action in progress through the use of a form of the verb "to be" and the addition of -ing to the verb; for example, "we are learning about Latin." The verb "are learning" indicates that learning is in the process of happening!
 
@@ -20,7 +44,7 @@ Here are some more English examples of the present tense, with the Latin equival
 * He writes (*scrībit*) a letter.
 * We are looking for (*petimus*) our friends.
 
-### Formation of the Present Indicative in the 1st and 2nd Conjugations
+### <a name="pres12">Formation of the Present Indicative in the 1st and 2nd Conjugations</a>
 
 If you need the first person singular present active indicative form of the verb, you automatically have it from the **first principal part** of the dictionary entry. For example, with the verb *amō*, *amāre*, *amāvī*, *amātus*, "to love", the first principal part, *amō*, is your first person present active indicative form, which means "I love."
 
@@ -50,11 +74,11 @@ For the **passive** forms, you would tack on the **passive** personal endings on
 
 So, for example, the 1st person singular present passive indicative of *amō* is *amor*, "I am (being) loved." The third person singular present passive indicative of *moneō* is *monētur*, "he/she/it is (being) warned."
 
-### Present Indicative in the 3rd, 4th, and 3rd -iō Conjugations
+### <a name="pres34io">Present Indicative in the 3rd, 4th, and 3rd -iō Conjugations</a>
 
 In the 3rd, 4th, and 3rd -iō conjugations in the present indicative, there are a number of vowel changes at the end of the present stem from person to person and number to number before we apply the active and passive endings listed in the charts above. You must be aware of these vowel shifts to conjugate a verb correctly.
 
-#### Third Conjugation
+#### <a name="pres3">Third Conjugation</a>
 
 Let's conjugate the third conjugation verb *regō*, *regere*, *rēxī*, *rectus*, "to rule", in the **present active indicative** as an example. As above, we can get the 1st person singular form from the first principal part of the verb: *regō*, "I rule." For the remaining forms, if we follow the procedure from above, we go to *regere* and chop off the *-re*, and then we have the present stem *rege-*. The *-e* at the end of the present stem becomes an *-i* in all forms except the **3rd pl**, in which it becomes a *-u*. Then we add our personal endings (*-s*, *-t*, *-mus*, *-tis*, *-nt*).
 
@@ -74,7 +98,7 @@ The **present passive indicative** of the third conjugation swaps out the active
 | 2nd  | regeris        | regiminī       |
 | 3rd  | **regitur**        | **reguntur**     |
 
-#### Fourth Conjugation
+#### <a name="pres4">Fourth Conjugation</a>
 
 The **fourth conjugation** follows the pattern of **1st** and **2nd conjugation verbs** (go to the infinitive, chop off the *-re*, add your endings) with one crucial exception: the **3rd pl.** form shifts the vowel at the end of the stem from *-i* to *-iu*. So, let's take the sample verb *audiō*, *audīre*, *audīvī*, *audītus*, "to hear." The present stem is *audī-*.
 
@@ -94,7 +118,7 @@ The **fourth conjugation** follows the pattern of **1st** and **2nd conjugation 
 | 2nd  | audīris      | audīminī       |
 | 3rd  | **audītur**        | **audiuntur**     |
 
-#### Third -iō Conjugation
+#### <a name="pres3io">Third -iō Conjugation</a>
 
 The **third -iō conjugation** is a mixture of 3rd and 4th conjugation forms; such verbs as *capiō*, *capere*, *cēpī*, *captus*, "to seize, capture", follow 3rd conjugation patterns in most forms but 4th conjugation patterns in the **3rd pl.**
 
@@ -122,9 +146,9 @@ From the dictionary entry, conjugate the verb in the 3rd person plural present i
 
 <hr>
 
-## The Imperfect Tense
+## <a name="impf">The Imperfect Tense</a>
 
-### The Imperfect Tense - Conceptual Overview
+### <a name="impfcon">The Imperfect Tense - Conceptual Overview</a>
 
 The **imperfect tense** is one of three different past tenses (along with the perfect and pluperfect) used in Latin. In its usage in the indicative mood, the imperfect is different from the other two tenses because it connotes an ongoing, continuous, habitual, or attempted action in the past (it never refers to a completed action).
 
@@ -137,7 +161,7 @@ Below are some English examples where we would use the Latin imperfect (note the
 * Although the teacher told them to stop working, the students kept writing (*scrībēbant*) their exams.
 * Katie was being asked (*petēbātur*) to play Beyonce.
 
-### Formation of the Imperfect Indicative
+### <a name="impfform">Formation of the Imperfect Indicative</a>
 
 To form the imperfect indicative (NB: this is the same for both active and passive), we start by finding the verb's present stem. To determine the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re*.
 
@@ -176,15 +200,15 @@ So if we wanted to form the 3rd person plural imperfect passive indicative of *v
 
 *vidēre* -> *vidē-* (present stem) -> *vidē-ba-* (imperfect stem) -> *vidē-ba-ntur*
 
-#### Practice Opportunity
+### Practice Opportunity
 
 Find the present stem and form the 3rd person singular imperfect active and passive for the following verbs.
 
 <hr>
 
-## The Future Tense
+## <a name="fut">The Future Tense</a>
 
-### The Future Tense - Conceptual Overview
+### <a name="futcon">The Future Tense - Conceptual Overview</a>
 
 The **future tense** indicates that the action of a verb has yet to take place, but it's certain that it will happen. In English, the future tense shows up with the auxiliary verbs "will" or "shall". Take a look at some examples in English, with the Latin equivalent of the verb in parentheses:
 
@@ -193,7 +217,7 @@ The **future tense** indicates that the action of a verb has yet to take place, 
 * The teacher will write (*scrībet*) the exam tomorrow.
 * The songs shall be sung (*canentur*) by the choir next weekend.
 
-### Formation of the Future Tense in the 1st and 2nd Conjugations
+### <a name="fut12">Formation of the Future Tense in the 1st and 2nd Conjugations</a>
 
 Like the present tense, the future tense has different rules for formation depending on the conjugation of the verb in question. The 1st and 2nd conjugation operate on the same rules: you get the present stem (by going to the 2nd principal part and chopping off the *-re*), and then you add the same set of endings:
 
@@ -217,7 +241,7 @@ Note that these endings are composed of the letter *-b*, a vowel (ō, i, or u), 
 
 So, for example, the 1st person singular future active indicative of *amō, *amāre*, *amāvī*, *amātus* is *amābō*, "I will love." The third person singular future passive indicative of *moneō*, *monēre*, *monuī*, *monitus* is *monēbitur*, "he/she/it will be warned."
 
-### Formation of the Future Tense in the 3rd, 4th, and 3rd -iō Conjugations
+### <a name="fut34io">Formation of the Future Tense in the 3rd, 4th, and 3rd -iō Conjugations</a>
 
 The formation of the future tense in the 3rd, 4th, and 3rd -iō conjugations follow different rules. As in the present tense, these conjugations use vowel shifts to indicate the future tense.
 
@@ -227,7 +251,7 @@ A quick mnemonic that can help you remember the differences in 1st/2nd conjugati
 
 The -bō, -bi, -bu part summarizes the future endings in the 1st and 2nd conjugation. Let's see what the "a and e in 4 and 3" part means.
 
-#### Third Conjugation
+#### <a name="fut3">Third Conjugation</a>
 
 To form the future tense of third conjugation verbs, you first find the present stem (which, again, means that you go to the 2nd principal part and chop off the *-re*). For example, the present stem of *regō*, *regere*, *rēxī*, *rectus*, "to rule", is *rege-*.
 
@@ -258,7 +282,7 @@ Note how similar these forms look to their present tense equivalents; often, one
 
 Make sure to be careful about how the form is spelled!
 
-#### Fourth and Third -iō Conjugations
+#### <a name="fut43io">Fourth and Third -iō Conjugations</a>
 
 In the 4th conjugation, the future tense retains the *-i* in the stem before adding the appropriate *-a* or *-e* and the personal endings. Let's take *audiō*, *audīre*, *audīvī*, *audītus*, "to hear", as an example:
 
@@ -307,11 +331,15 @@ Again, one letter makes the difference between present and future. For example:
 
 Analyze the word carefully in terms of spelling to determine what tense it is!
 
+### Practice Opportunity
+
+Form the 3rd person plural future active and passive for the following verbs, and then translate each form.
+
 <hr>
 
-## The Perfect Tense
+## <a name="perf">The Perfect Tense</a>
 
-### The Perfect Tense - Conceptual Overview
+### <a name="perfcon">The Perfect Tense - Conceptual Overview</a>
 
 The **perfect tense** is one of three different past tenses (along with the imperfect and pluperfect) used in Latin. In its usage in the indicative mood, the perfect refers to a singular action that has been completed in the past.
 
@@ -324,7 +352,7 @@ Below are some English examples where we would use the Latin perfect:
 * The students did write (*scrīpsērunt*) their exams.
 * Katie has been asked (*petīta est*) to play Beyonce.
 
-### Formation of the Perfect Active Indicative
+### <a name="perfact">Formation of the Perfect Active Indicative</a>
 
 Unlike the imperfect, the **perfect active** and **perfect passive** are formed differently. However, in the indicative mood, both are relatively easy to create and recognize.
 
@@ -346,11 +374,11 @@ So if we wanted to form the 3rd person singular perfect active indicative of *vi
 
 *vīdī* -> *vīd-* (perfect active stem) -> (add personal ending) *vīdit*  
 
-### Practice Opportunity
+#### Practice Opportunity
 
 Find the perfect active stem and form the 3rd person singular perfect active for the following verbs.
 
-### Formation of the Perfect Passive Indicative
+### <a name="perfpass">Formation of the Perfect Passive Indicative</a>
 
 To form the **perfect passive indicative**, we need to find the perfect passive stem. To do this, we simply take the adjectival form of 4th principal part (the reason we need the adjectival form is because the verb must agree with its subject in number and gender).
 
