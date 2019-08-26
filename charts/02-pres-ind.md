@@ -5,13 +5,16 @@ title: Present Indicative (Active and Passive) - Charts
 
 ## Navigation:
 
+[Present Active](#presact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact) \|  
+[Present Passive](#prespass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|
+
 <hr>
 
-## Present Active Indicative
+## <a name="presact">Present Active Indicative</a>
 
 The charts below will show full charts for the present active indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
-### First Conjugation
+### <a name="1stact">First Conjugation</a>
 
 *amō*, *amāre*, *amāvī*, *amātus* - to love
 
@@ -21,7 +24,7 @@ The charts below will show full charts for the present active indicative of each
 | 2nd  | amās        | amātis       |
 | 3rd  | **amat**        | **amant**     |
 
-### Second Conjugation
+### <a name="2ndact">Second Conjugation</a>
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
@@ -31,7 +34,7 @@ The charts below will show full charts for the present active indicative of each
 | 2nd  | vidēs        | vidētis       |
 | 3rd  | **videt**        | **vident**     |
 
-### Third Conjugation
+### <a name="3rdact">Third Conjugation</a>
 
 *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead
 
@@ -41,7 +44,7 @@ The charts below will show full charts for the present active indicative of each
 | 2nd  | ducis        | ducitis       |
 | 3rd  | **ducit**        | **ducunt**     |
 
-### Third -iō Conjugation
+### <a name="3rdioact">Third -iō Conjugation</a>
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -51,7 +54,7 @@ The charts below will show full charts for the present active indicative of each
 | 2nd  | capis        | capitis       |
 | 3rd  | **capit**        | **capiunt**     |
 
-### Fourth Conjugation
+### <a name="4thact">Fourth Conjugation</a>
 
 *audiō*, *audīre*, *audīvī*, *audītus* - to hear
 
@@ -63,11 +66,11 @@ The charts below will show full charts for the present active indicative of each
 
 <hr>
 
-## Present Passive Indicative
+## <a name="prespass">Present Passive Indicative</a>
 
 The charts below will show full charts for the present passive indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
-### First Conjugation
+### <a name="1stpass">First Conjugation</a>
 
 *amō*, *amāre*, *amāvī*, *amātus* - to love
 
@@ -77,7 +80,7 @@ The charts below will show full charts for the present passive indicative of eac
 | 2nd  | amāris        | amāminī       |
 | 3rd  | **amātur**        | **amantur**     |
 
-### Second Conjugation
+### <a name="2ndpass">Second Conjugation</a>
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
@@ -87,7 +90,7 @@ The charts below will show full charts for the present passive indicative of eac
 | 2nd  | vidēris        | vidēminī       |
 | 3rd  | **vidētur**        | **videntur**     |
 
-### Third Conjugation
+### <a name="3rdpass">Third Conjugation</a>
 
 *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead
 
@@ -97,7 +100,7 @@ The charts below will show full charts for the present passive indicative of eac
 | 2nd  | duceris        | duciminī       |
 | 3rd  | **ducitur**        | **ducuntur**     |
 
-### Third -iō Conjugation
+### <a name="3rdiopass">Third -iō Conjugation</a>
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -107,7 +110,7 @@ The charts below will show full charts for the present passive indicative of eac
 | 2nd  | caperis        | capiminī       |
 | 3rd  | **capitur**        | **capiuntur**     |
 
-### Fourth Conjugation
+### <a name="4thpass">Fourth Conjugation</a>
 
 *audiō*, *audīre*, *audīvī*, *audītus* - to hear
 

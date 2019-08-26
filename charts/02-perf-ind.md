@@ -5,13 +5,16 @@ title: Perfect Indicative (Active and Passive) - Charts
 
 ## Navigation:
 
+[Perfect Active](#perfact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact) \|  
+[Perfect Passive](#perfpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|
+
 <hr>
 
-## Perfect Active Indicative
+## <a name="perfact">Perfect Active Indicative</a>
 
 The charts below will show full charts for the perfect active indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
-### First Conjugation
+### <a name="1stact">First Conjugation</a>
 
 *amō*, *amāre*, *amāvī*, *amātus* - to love
 
@@ -21,7 +24,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | amāvistī        | amāvistis       |
 | 3rd  | **amāvit**        | **amāvērunt/amāvēre**     |
 
-### Second Conjugation
+### <a name="2ndact">Second Conjugation</a>
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
@@ -31,7 +34,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | vīdistī        | vīdistis      |
 | 3rd  | **vīdit**        | **vīdērunt/vīdēre**     |
 
-### Third Conjugation
+### <a name="3rdact">Third Conjugation</a>
 
 *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead
 
@@ -41,7 +44,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | dūxistī        | dūxistis       |
 | 3rd  | **dūxit**        | **dūxērunt/dūxēre**     |
 
-### Third -iō Conjugation
+### <a name="3rdioact">Third -iō Conjugation</a>
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -51,7 +54,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | cēpistī        | cēpistis       |
 | 3rd  | **cēpit**        | **cēpērunt/cēpēre**     |
 
-### Fourth Conjugation
+### <a name="4thact">Fourth Conjugation</a>
 
 *audiō*, *audīre*, *audīvī*, *audītus* - to hear
 
@@ -63,11 +66,11 @@ The charts below will show full charts for the perfect active indicative of each
 
 <hr>
 
-## Perfect Passive Indicative
+## <a name="perfpass">Perfect Passive Indicative</a>
 
 The charts below will show full charts for the perfect passive indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
-### First Conjugation
+### <a name="1stpass">First Conjugation</a>
 
 *amō*, *amāre*, *amāvī*, *amātus* - to love
 
@@ -77,7 +80,7 @@ The charts below will show full charts for the perfect passive indicative of eac
 | 2nd  | amātus/amāta/amātum es       | amātī/amātae/amāta estis       |
 | 3rd  | **amātus/amāta/amātum est**        | **amātī/amātae/amāta sunt**     |
 
-### Second Conjugation
+### <a name="2ndpass">Second Conjugation</a>
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
@@ -87,7 +90,7 @@ The charts below will show full charts for the perfect passive indicative of eac
 | 2nd  | vīsus/vīsa/vīsum es       | vīsī/vīsae/vīsa estis       |
 | 3rd  | **vīsus/vīsa/vīsum est**        | **vīsī/vīsae/vīsa sunt**     |
 
-### Third Conjugation
+### <a name="3rdpass">Third Conjugation</a>
 
 *dūcō*, *dūcere*, *dūxī*, *ductus* - to lead
 
@@ -97,7 +100,7 @@ The charts below will show full charts for the perfect passive indicative of eac
 | 2nd  | ductus/ducta/ductum es       | ductī/ductae/ducta estis       |
 | 3rd  | **ductus/ducta/ductum est**        | **ductī/ductae/ducta sunt**     |
 
-### Third -iō Conjugation
+### <a name="3rdiopass">Third -iō Conjugation</a>
 
 *capiō*, *capere*, *cēpī*, *captus* - to take
 
@@ -107,7 +110,7 @@ The charts below will show full charts for the perfect passive indicative of eac
 | 2nd  | captus/capta/captum es       | captī/captae/capta estis       |
 | 3rd  | **captus/capta/captum est**        | **captī/captae/capta sunt**     |
 
-### Fourth Conjugation
+### <a name="4thpass">Fourth Conjugation</a>
 
 *audiō*, *audīre*, *audīvī*, *audītus* - to hear
 
