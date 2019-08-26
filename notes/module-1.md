@@ -49,6 +49,7 @@ Next, we have grammatical **gender**, signified here by the "f", that tells us t
 
 The last part of the dictionary entry is simply the definition.
 
+[Back to top.](#top)
 <hr>
 
 ## <a name="declensions">Declensions</a>
