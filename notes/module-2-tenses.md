@@ -182,6 +182,23 @@ Find the present stem and form the 3rd person singular imperfect active and pass
 
 <hr>
 
+## The Future Tense
+
+### The Future Tense - Conceptual Overview
+
+The **future tense** indicates that the action of a verb has yet to take place, but it's certain that it will happen. In English, the future tense shows up with the auxiliary verbs "will" or "shall". Take a look at some examples in English, with the Latin equivalent of the verb in parentheses:
+
+* She will do (*faciet*) her homework tonight.
+* They shall give (*dabunt*) free pizza to the students next week.
+* The teacher will write (*scrībet*) the exam tomorrow.
+* The songs shall be sung (*canentur*) by the choir next weekend.
+
+### Formation of the Future Tense in the 1st and 2nd conjugations
+
+Like the present tense, the future tense has different rules for formation depending on the conjugation of the verb in question. In the 1st and 2nd conjugation
+
+<hr>
+
 ## The Perfect Tense
 
 ### The Perfect Tense - Conceptual Overview
@@ -219,7 +236,7 @@ So if we wanted to form the 3rd person singular perfect active indicative of *vi
 
 *vīdī* -> *vīd-* (perfect active stem) -> (add personal ending) *vīdit*  
 
-#### Practice Opportunity
+### Practice Opportunity
 
 Find the perfect active stem and form the 3rd person singular perfect active for the following verbs.
 
