@@ -9,7 +9,7 @@ title: Module 2 - Verb Overview
 
 ## General notes on Latin sentences
 
-In English, word order .  For example, "the cat hits the dog" is different in meaning that "the dog hits the cat." In the first sentence, it is the cat that is acting upon . subject verb object.
+In English, word order is essential to differentiating meaning.  When we say "the cat hits the dog", it is distinctly different in meaning that "the dog hits the cat." In the first sentence, it is the cat that is acting upon the dog; while in the second sentence, it is the dog that is acting upon the cat. The reason we are able to easily differentiate the meaning is that we innately understand English sentence structure - the subject comes first; the verb follows the subject; and the direct object follows the verb.
 
 As discussed before, Latin, unlike English, does not have a set word order. So If we can figure out what type of sentence we have by looking at the verb, then we can get a sense of what to expect.
 
