@@ -45,7 +45,7 @@ To summarize, verbs have:
   * Imperative
   * Subjunctive
 
-Like we did with nouns, we will first need to consult the **dictionary entry** to determine what form a verb takes. Below we have the dictionary entry for *videō*:
+Like we did with nouns, we will first need to consult the **dictionary entry** to determine the verb form. Below we have the dictionary entry for *videō*:
 
 *videō*, *vidēre*, *vīdī*, *vīsus* - to see
 
@@ -65,7 +65,7 @@ Our **third principal part**, *vīdī*, indicates the **1st person singular perf
 
 The five different characteristics discussed above are reflected in the endings of a verb form. Like nouns, there are patterns in the way that verbs change their endings which we call **conjugations**.
 
-There are four major conjugations (as well as one minor) that we will become familiar with.
+There are four major conjugations (as well as one minor one) that we will become familiar with.
 
 The conjugation to which a verb belongs can be easily determined by consulting the first and second principal parts in a dictionary entry:
 
@@ -99,6 +99,10 @@ What conjucation does each of the following verbs belong to?
 
 <hr>
 
-## Sentence Types
+## Translating verbs
 
-1) Transitive sentences
+When translating Latin verbs into English, you must convey all five characteristics in your translation. For example, consider the form *monēbātur*, which is the third singular imperfect passive indicative of *moneō* ("to warn"). We would translate this form as: he/she/it (3rd person singular) was (imperfect) being (passive) warned (the indicative requires no additional translation here).
+
+### Practice Opportunity
+
+Translate the following verb forms.
