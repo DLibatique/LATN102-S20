@@ -24,7 +24,7 @@ If you must miss a class meeting for any reason, please inform me as soon as you
 
 It bears repeating: **if you will miss class for any reason, you must e-mail me before that class period begins to let me know!**
 
-Any absence without a notifying e-mail before class may be excused after the fact for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event) falls under Holy Cross' Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://catalog.holycross.edu/node/1381/#EAP).
+Any absence without a notifying e-mail before class may be excused after the fact for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event) falls under Holy Cross' Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
