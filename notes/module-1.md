@@ -1,6 +1,6 @@
 ---
 layout: low-level-page
-title: Module 1 Conceptual Breakdown (9/6-9/11)
+title: Module 1 - Nouns and Adjectives
 ---
 
 ## Navigation:

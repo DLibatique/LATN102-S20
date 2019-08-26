@@ -1,6 +1,6 @@
 ---
 layout: low-level-page
-title: Module 2 - Verb Overview
+title: Module 2 - Sentence Structures
 ---
 
 ## Navigation:
