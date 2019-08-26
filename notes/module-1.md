@@ -198,7 +198,7 @@ The declension for the pronoun is tricky, so be sure to consult the morphologica
 
 ### Practice Opportunity
 
-What form of *is*, *ea*, *id* would you use to stand in for the following words? Make sure to consult the [declension chart of *is*, *ea*, *id*]({{ site.baseurl }}charts/01-nouns#pronouns) for help if needed.
+What form of *is*, *ea*, *id* would you use to stand in for the following words? Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*]({{ site.baseurl }}charts/01-nouns#pronouns) for help if needed.
 
 1. *exemplum*  
 <a href="#" onclick="document.getElementById('prac12').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac12">*id*</span>
