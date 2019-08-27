@@ -5,7 +5,7 @@ title: Schedule - Prof. Libatique
 
 This detailed schedule links out to the notes and charts that you'll need throughout the semester. Your homework assignment for any given class period is to read the notes and charts sections in advance of the class meeting; then, review those concepts again after the class meeting. Use the practice opportunities throughout the notes to keep yourself practicing the concepts in anticipation of the daily quiz.
 
-<hr>
+***
 
 ## Week 1
 
@@ -17,7 +17,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions
 - *Est*, *Sunt*
 
-<hr>
+***
 
 ## Week 2
 
@@ -33,7 +33,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Verbs: Person, Number, Tense, Voice, Mood; Principal Parts; Conjugations; Present Tense  
 - Composition #1 Due
 
-<hr>
+***
 
 ## Week 3
 
@@ -52,7 +52,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Verbs: Future Tense  
 - Composition #1 Revision Due  
 
-<hr>
+***
 
 ## Week 4
 
@@ -68,7 +68,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Review and Practice  
 - Composition #2 Due
 
-<hr>
+***
 
 ## Week 5
 
@@ -84,7 +84,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Deponent Verbs  
 - Composition #2 Revision Due
 
-<hr>
+***
 
 ## Week 6
 
@@ -102,11 +102,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Check Up from the Neck Up  
 - Composition #3 Due
 
-<hr>
+***
 
 ## Fall Break: 10/12-20
 
-<hr>
+***
 
 ## Week 7
 
@@ -121,7 +121,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Review and Practice  
 - Composition #3 Revision Due
 
-<hr>
+***
 
 ## Week 8
 
@@ -139,7 +139,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Subjunctive Form Practice  
 - Composition #4 Due
 
-<hr>
+***
 
 ## Week 9
 
@@ -155,7 +155,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Review and Practice  
 - Composition #4 Revision Due
 
-<hr>
+***
 
 ## Week 10
 
@@ -171,7 +171,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Indirect Command  
 - Composition #5 Due
 
-<hr>
+***
 
 ## Week 11
 
@@ -186,18 +186,18 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Gerunds and Gerundives  
 - Composition #5 Revision Due
 
-<hr>
+***
 
 ## Week 12.1
 
 ### Monday, November 25
 - 4th and 5th Declension
 
-<hr>
+***
 
 ## Thanksgiving Break: 11/27-12/1
 
-<hr>
+***
 
 ## Week 12.2
 
@@ -213,7 +213,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Review and Practice  
 - Composition #6 Due
 
-<hr>
+***
 
 ## Week 13
 
@@ -228,9 +228,9 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Looking Ahead to Introduction to Latin 2  
 - Composition #6 Revision Due
 
-<hr>
+***
 
 ## Study Period: December 14-16
-<hr>
+***
 
 ## Exam Period: December 17-21
