@@ -9,13 +9,15 @@ title: Module 3 - Expressions of Place and Time
 
 ## Prepositional Phrases
 
+In Latin, prepositions (like "in", "into", "with", "to") are indeclinable words that are always followed by a noun in the ablative and accusative (called the **object of the preposition**).
+
 Latin uses prepositional phrases to indicate where or in what direction something is happening.
 
 ## Expressions of Place
 
 Below are the ways that Latin expresses ideas of place:
 
-1) Place to which (*ad* or *in* + accusative):
+1) Place to which (*ad*, *trans*, or *in* + accusative):
  - Currebat **ad patrem**. ("She was running towards her father.")
  - Venit **in urbem**. ("He came into the city")
 
@@ -39,7 +41,13 @@ NB: In the case of cities, small towns, and the words *domus* ("home") and *rus*
 Below are the ways that Latin expresses ideas of time:
 
 1) Length of time in the accusative (no preposition):
-* **Quattour annos** laborabant.
-* **Quinque menses** in urbe vixerunt.
+* **Quattour annos** in illa urbe laboravit. ("They worked for four years in that city").
+* **Quinque menses** pro templo vixerunt. ("They lived in front of the temple for five months.").
 
 2) Time when in the ablative (no preposition):
+* **Illa nocte** puella ab agris cucurrit. ("On that night, the girl ran from the fields.")
+* Navis **prima luce** ex insula navigavit. ("The ship sailed away from the island at first light.")
+
+3) Time within which (no preposition):
+* **Primo anno** regni Carthaginem vicit. ("In the first year of his reign, he conquered Carthage").
+* **Quinque horis** ad urbem venerunt. ("Within five hours, they arrived at the city.")
