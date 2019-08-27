@@ -5,7 +5,7 @@ title: Future Indicative (Active and Passive) - Charts
 
 ## Navigation:
 
-[Future Active](#futact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact) \|  
+[Future Active](#futact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact), [*sum*](#sum), [*possum*](#possum) \|  
 [Future Passive](#futpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|
 
 <hr>
@@ -64,7 +64,7 @@ The charts below will show full charts for the future active indicative of each 
 | 2nd  | audiēs        | audiētis       |
 | 3rd  | **audiet**        | **audient**     |
 
-### Sum (the highly irregular Latin verb that means "to be")
+### <a name="sum">*Sum* (the highly irregular Latin verb that means "to be")</a>
 
 *sum*, *esse*, *fuī*, *futūrus* - to be
 
@@ -74,7 +74,7 @@ The charts below will show full charts for the future active indicative of each 
 | 2nd  | eris        | eritis       |
 | 3rd  | **erit**        | **erunt**     |
 
-### Possum (the highly irregular Latin verb that means "to be able")
+### <a name="possum">*Possum* (the highly irregular Latin verb that means "to be able")</a>
 
 *possum*, *posse*, *potuī* - to be able
 
