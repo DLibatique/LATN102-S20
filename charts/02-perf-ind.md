@@ -8,7 +8,7 @@ title: Perfect Indicative (Active and Passive) - Charts
 [Perfect Active](#perfact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact), [*sum*](#sum), [*possum*](#possum) \|  
 [Perfect Passive](#perfpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|
 
-<hr>
+***
 
 ## <a name="perfact">Perfect Active Indicative</a>
 
@@ -84,7 +84,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | potuistī        | potuistis       |
 | 3rd  | **potuit**        | **potuērunt/potuēre**     |
 
-<hr>
+***
 
 ## <a name="perfpass">Perfect Passive Indicative</a>
 
@@ -142,4 +142,4 @@ The charts below will show full charts for the perfect passive indicative of eac
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
 
-<hr>
+***

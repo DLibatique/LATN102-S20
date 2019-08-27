@@ -6,7 +6,7 @@ title: Module 1 - Nouns and Adjectives
 ## Navigation:
 <a href="#nouns">Nouns</a> \| <a href="#declensions">Declensions</a> \| <a href="#adjectives">Adjectives</a>: <a href="#212">2-1-2<a>, <a href="#3term">3 Termination</a>, <a href="#2term">2 Termination</a>, <a href="#1term">1 Termination</a> \| <a href="#substantives">Substantives</a> \| <a href="#case-usages">Case Usages - Nominative and Genitive</a> \| <a href="#pronouns">Pronouns - *is, ea, id*</a>
 
-<hr>
+***
 
 ## <a name="nouns">Nouns</a>
 
@@ -50,7 +50,7 @@ Next, we have grammatical **gender**, signified here by the "f", that tells us t
 The last part of the dictionary entry is simply the definition.
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="declensions">Declensions</a>
 
@@ -75,7 +75,7 @@ What declension does each of the following nouns belong to?
 3. *agricola*, *agricolae*, m. - farmer  
 <a href="#" onclick="document.getElementById('prac3').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac3">1st</span>
 
-<hr>
+***
 
 ## <a name="adjectives">Adjectives</a>
 
@@ -153,7 +153,7 @@ What type of adjective is each of the following?
 One final note on adjectives. At times, they can be used effectively as nouns, which we refer to as **substantival** use of the adjective. You will recognize the substantival use of an adjective by the fact that there will be no noun with which it agrees. To fill out the meaning, we simple add "men", "women", "people", or "things" to the meaning of the adjective depending on the gender. So *bonī* can stand in for "good men" and *bonae* for "good women." This is something that we will return to throughout the semester.
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="case-usages">Case usages - Nominative and Genitive</a>
 
@@ -186,7 +186,7 @@ Make sure you are translating the correct **case** and **number** for each word.
 <a href="#" onclick="document.getElementById('prac16').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="pronouns">Pronouns - *is, ea, id*</a>
 

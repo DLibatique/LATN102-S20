@@ -12,7 +12,7 @@ title: Module 1 Noun Morphology (9/6-9/11)
   - <a href="#3N">3rd Declension Neuter</a>  
 - <a href="#pronouns">Pronouns: *is, ea, id*</a>
 
-<hr>
+***
 
 ## <a name="nouns">Nouns</a>
 
@@ -85,7 +85,7 @@ The charts below will show full charts for the declensions of each noun. Focus o
 \* 3rd declension neuter nominative and accusative plurals and genitive plurals may have an extra *-i-* at times (*-ia* for nominative/accusative plural and *-ium* for genitive plural). We will learn the rule for this later.  
 \*\* 3rd declension ablative singulars may end in *-ī* instead of *-e* at times. We will learn the rule for this later.
 
-<hr>
+***
 
 ## <a name="pronouns">Pronouns</a>
 

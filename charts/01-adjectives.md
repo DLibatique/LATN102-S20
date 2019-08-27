@@ -8,7 +8,7 @@ title: Module 1 Adjective Morphology (9/6-9/11)
 <a href="#demadjs">Demonstrative Adjectives</a>: <a href="#hic">*hic, haec, hoc*</a>; <a href="#ille">*ille, illa, illud*</a> \|  
 <a href="intadjs">Intensifying Adjectives:</a> <a href="#ipse">*ipse, ipsa, ipsud*</a>
 
-<hr>
+***
 
 For this first module, focus on the **bolded** forms; we'll learn about the others in later weeks.
 
@@ -80,7 +80,7 @@ One termination adjectives are slightly tricky because while the nominative and 
 | Accusative   | ferocēs        | ferocia      |
 | Ablative   | ferocibus        | ferocibus        |
 
-<hr>
+***
 
 ## <a name="demadjs">Demonstrative adjectives</a>
 
@@ -132,7 +132,7 @@ The forms in the dictionary entry represent the nominative singular in all three
 | Accusative   | illōs        | illās  |illa  |
 | Ablative   | illīs        | illīs  |illīs  |
 
-<hr>
+***
 
 ## <a name="intadjs">Intensifying adjectives</a>
 

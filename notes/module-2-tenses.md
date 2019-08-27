@@ -29,7 +29,7 @@ title: Module 2 - Tenses
 - <a href="#perfact">Perfect Active Indicative</a>
 - <a href="#perfpass">Perfect Passive Indicative</a>
 
-<hr>
+***
 
 ## <a name="pres">The Present Tense</a>
 
@@ -145,7 +145,7 @@ Note that often, one letter can make the difference, so it is imperative that yo
 From the dictionary entry, conjugate the verb in the 3rd person plural present indicative active and passive, and then translate the new form.
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="impf">The Imperfect Tense</a>
 
@@ -206,7 +206,7 @@ So if we wanted to form the 3rd person plural imperfect passive indicative of *v
 Find the present stem and form the 3rd person singular imperfect active and passive for the following verbs.
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="fut">The Future Tense</a>
 
@@ -338,7 +338,7 @@ Analyze the word carefully in terms of spelling to determine what tense it is!
 Form the 3rd person plural future active and passive for the following verbs, and then translate each form.
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="perf">The Perfect Tense</a>
 
@@ -402,4 +402,4 @@ NB: Look at how the adjectival form changes as we go from singular to plural. Wh
 Find the perfect passive stem and form the 3rd person plural perfect passive for the following verbs.
 
 [Back to top.](#top)
-<hr>
+***

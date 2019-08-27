@@ -8,7 +8,7 @@ title: Future Indicative (Active and Passive) - Charts
 [Future Active](#futact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact), [*sum*](#sum), [*possum*](#possum) \|  
 [Future Passive](#futpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|
 
-<hr>
+***
 
 ## <a name="futact">Future Active Indicative</a>
 
@@ -86,7 +86,7 @@ The charts below will show full charts for the future active indicative of each 
 
 NB: *Possum* is conjugated very similarly to *sum*.
 
-<hr>
+***
 
 ## <a name="futpass">Future Passive Indicative</a>
 

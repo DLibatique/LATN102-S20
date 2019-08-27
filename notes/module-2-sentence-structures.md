@@ -7,7 +7,7 @@ title: Module 2 - Sentence Structures
 
 <a href="#sentpat">Sentence Patterns</a>: <a href="#intrans">Intransitive</a>, <a href="#trans">Transitive</a>, <a href="#pass">Passive</a>, <a href="#link">Linking</a> \| <a href="#tips">Tips for Determining Sentence Structure</a>
 
-<hr>
+***
 
 ## <a name="sentpat">Sentence Patterns</a>
 
@@ -31,7 +31,7 @@ To summarize, intransitive sentences must have a:
 * Intransitive active verb
 
 [Back to top.](#top)
-<hr>
+***
 
 ### <a name="trans">Transitive Sentences</a>
 
@@ -67,7 +67,7 @@ And sometimes have an:
 Form the accusative and dative singular and plural of the following words using the charts from Module 1.
 
 [Back to top.](#top)
-<hr>
+***
 
 ### <a name="pass">Passive Sentences</a>
 
@@ -98,7 +98,7 @@ And sometimes have an:
 Form the ablative singular and plural of the following words using the charts from Module 1.
 
 [Back to top.](#top)
-<hr>
+***
 
 ### <a name="link">Linking Sentences</a>
 
@@ -113,7 +113,7 @@ To summarize, linking sentences must have a:
 * Predicate nominative
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="tips">Tips for Determining Sentence Structure</a>
 

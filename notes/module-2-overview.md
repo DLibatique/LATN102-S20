@@ -7,7 +7,7 @@ title: Module 2 - Verb Overview
 
 <a href="#verbs">Verbs</a> \| <a href="#conj">Conjugations</a> \| <a href="#trans">Translating Verbs</a>
 
-<hr>
+***
 
 ## <a name="verbs">Verbs</a>
 
@@ -62,7 +62,7 @@ Our **third principal part**, *vīdī*, indicates the **1st person singular perf
 *Vīsus*, **the perfect passive participle**, is the **fourth principal part** and means "having been seen." The fourth principal part is used to produce all the passive forms of perfect, pluperfect, and future perfect verbs (known as the **perfect passive system**).
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="conj">Conjugations</a>
 
@@ -101,7 +101,7 @@ What conjugation does each of the following verbs belong to?
 <a href="#" onclick="document.getElementById('prac5').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac5">4th</span>
 
 [Back to top.](#top)
-<hr>
+***
 
 ## <a name="trans">Translating Verbs</a>
 
