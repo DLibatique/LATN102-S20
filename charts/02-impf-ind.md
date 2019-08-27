@@ -64,6 +64,28 @@ The charts below will show full charts for the imperfect active indicative of ea
 | 2nd  | audiebās        | audiēbātis       |
 | 3rd  | **audiēbat**        | **audiēbant**     |
 
+### Sum (the highly irregular Latin verb that means "to be")
+
+*sum*, *esse*, *fuī*, *futūrus* - to be
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | eram       | erāmus      |
+| 2nd  | erās        | erātis       |
+| 3rd  | **erat**        | **erānt**     |
+
+### Possum (the highly irregular Latin verb that means "to be able")
+
+*possum*, *posse*, *potuī* - to be able
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | poteram       | poterāmus      |
+| 2nd  | poterās        | poterātis       |
+| 3rd  | **poterat**        | **poterant**     |
+
+NB: *Possum* is conjugated very similarly to *sum*.
+
 <hr>
 
 ## <a name="impfpass">Imperfect Passive Indicative</a>
@@ -119,5 +141,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 1st   | audiēbar       | audiēbāmur      |
 | 2nd  | audiebāris        | audiēbāminī       |
 | 3rd  | **audiēbātur**        | **audiēbantur**     |
+
+NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
 
 <hr>
