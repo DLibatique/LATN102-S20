@@ -142,4 +142,4 @@ The charts below will show full charts for the future passive indicative of each
 | 2nd  | audiēris        | audiēminī       |
 | 3rd  | **audiētur**        | **audientur**     |
 
-NB: *Sum* and *Possum* have passive forms. Why do you think that might be?
+NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
