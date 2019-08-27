@@ -5,7 +5,7 @@ title: Perfect Indicative (Active and Passive) - Charts
 
 ## Navigation:
 
-[Perfect Active](#perfact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact) \|  
+[Perfect Active](#perfact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact), [*sum*](#sum), [*possum*](#possum) \|  
 [Perfect Passive](#perfpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|
 
 <hr>
@@ -64,7 +64,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | audīvistī        | audīvistis       |
 | 3rd  | **audīvit**        | **audīvērunt/audīvēre**     |
 
-### Sum (the highly irregular Latin verb that means "to be")
+### <a name="sum">*Sum* (the highly irregular Latin verb that means "to be")</a>
 
 *sum*, *esse*, *fuī*, *futūrus* - to be
 
@@ -74,7 +74,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | fuistī        | fuistis       |
 | 3rd  | **fuit**        | **fuērunt/fuēre**     |
 
-### Possum (the highly irregular Latin verb that means "to be able")
+### <a name="possum">Possum (the highly irregular Latin verb that means "to be able")</a>
 
 *possum*, *posse*, *potuī* - to be able
 
