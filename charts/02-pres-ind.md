@@ -64,6 +64,28 @@ The charts below will show full charts for the present active indicative of each
 | 2nd  | audīs        | audītis       |
 | 3rd  | **audit**        | **audiunt**     |
 
+### Sum (the highly irregular Latin verb that means "to be")
+
+*sum*, *esse*, *fuī*, *futūrus* - to be
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | sum       | sumus      |
+| 2nd  | es        | estis       |
+| 3rd  | **est**        | **sunt**     |
+
+### Possum (the highly irregular Latin verb that means "to be able")
+
+*possum*, *posse*, *potuī* - to be able
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | possum       | possumus      |
+| 2nd  | potes        | potestis       |
+| 3rd  | **potest**        | **possunt**     |
+
+NB: *Possum* is conjugated very similarly to *sum*.
+
 <hr>
 
 ## <a name="prespass">Present Passive Indicative</a>
@@ -119,3 +141,5 @@ The charts below will show full charts for the present passive indicative of eac
 | 1st   | audior       | audīmur      |
 | 2nd  | audīris        | audīminī       |
 | 3rd  | **audītur**        | **audiuntur**     |
+
+NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
