@@ -31,9 +31,15 @@ NB: In the case of cities, small towns, and the words *domus* ("home") and *rus*
 * Puella **ab urbe** fugiebat ("The girl was fleeing from the city.")
 * Navis **ex porto** navigavit ("The ship sailed away from the port.")
 
-4) Accusative of extent of space:
+4) Accusative of extent of space (no preposition):
 * Puer **quinque pedes** altus est. ("The boy is five feet tall.")
 
 ## Expressions of Time
 
-Below are the ways that Latin expresses ideas of place:
+Below are the ways that Latin expresses ideas of time:
+
+1) Length of time in the accusative (no preposition):
+* **Quattour annos** laborabant.
+* **Quinque menses** in urbe vixerunt.
+
+2) Time when in the ablative (no preposition):
