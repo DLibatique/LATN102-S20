@@ -64,6 +64,28 @@ The charts below will show full charts for the future active indicative of each 
 | 2nd  | audiēs        | audiētis       |
 | 3rd  | **audiet**        | **audient**     |
 
+### Sum (the highly irregular Latin verb that means "to be")
+
+*sum*, *esse*, *fuī*, *futūrus* - to be
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | erō       | erimus      |
+| 2nd  | eris        | eritis       |
+| 3rd  | **erit**        | **erunt**     |
+
+### Possum (the highly irregular Latin verb that means "to be able")
+
+*possum*, *posse*, *potuī* - to be able
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | poterō       | poterimus      |
+| 2nd  | poteris        | poteritis       |
+| 3rd  | **poterit**        | **poterunt**     |
+
+## NB: *Possum* is conjugated very similarly to *sum*.
+
 <hr>
 
 ## <a name="futpass">Future Passive Indicative</a>
@@ -119,3 +141,5 @@ The charts below will show full charts for the future passive indicative of each
 | 1st   | audiar       | audiēmur      |
 | 2nd  | audiēris        | audiēminī       |
 | 3rd  | **audiētur**        | **audientur**     |
+
+## NB: *Sum* and *Possum* have passive forms. Why do you think that might be?
