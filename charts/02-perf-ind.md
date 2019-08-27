@@ -64,6 +64,26 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | audīvistī        | audīvistis       |
 | 3rd  | **audīvit**        | **audīvērunt/audīvēre**     |
 
+### Sum (the highly irregular Latin verb that means "to be")
+
+*sum*, *esse*, *fuī*, *futūrus* - to be
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | fuī       | fuimus      |
+| 2nd  | fuistī        | fuistis       |
+| 3rd  | **fuit**        | **fuērunt/fuēre**     |
+
+### Possum (the highly irregular Latin verb that means "to be able")
+
+*possum*, *posse*, *potuī* - to be able
+
+| Person      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| 1st   | potuī       | potuimus      |
+| 2nd  | potuistī        | potuistis       |
+| 3rd  | **potuit**        | **potuērunt/potuēre**     |
+
 <hr>
 
 ## <a name="perfpass">Perfect Passive Indicative</a>
@@ -119,5 +139,7 @@ The charts below will show full charts for the perfect passive indicative of eac
 | 1st   | audītus/audīta/audītum sum       |  audītī/audītae/audīta sumus    |
 | 2nd  | audītus/audīta/audītum es       | audītī/audītae/audīta estis       |
 | 3rd  | **audītus/audīta/audītum est**        | **audītī/audītae/audīta sunt**     |
+
+NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
 
 <hr>
