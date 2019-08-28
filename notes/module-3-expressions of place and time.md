@@ -9,13 +9,19 @@ title: Module 3 - Expressions of Place and Time
 
 ## Prepositional Phrases
 
-In Latin, prepositions (like "in", "into", "with", "to") are indeclinable words that are always followed by a noun in the ablative and accusative (called the **object of the preposition**).
+In Latin, **prepositions** (like "in", "into", "with", "to", English) are indeclinable words followed by a noun in the ablative and accusative (called the **object of the preposition**). This unit consisting of preposition and the object of the preposition is called a **prepositional phrase**.
 
-Latin uses prepositional phrases to indicate where or in what direction something is happening.
+Prepositional phrases add more information about the main action of the sentence by answering questions like where, why, and how:
+
+* Puellam **in urbe** vīdit. ("She saw the girl in the city.")
+* **Ob īgnem** fugiēbat. ("He was fleeing because of the fire.")
+* Hercules **cum quattuor sagittīs** necāvit. ("Hercules killed the monsters with three arrows."")
 
 ## Expressions of Place
 
-Below are the ways that Latin expresses ideas of place:
+Latin uses the accusative and ablative case, frequently with prepositions, to express ideas related to space and place.
+
+Below are the different expressions of place used in Latin:
 
 1) Place to which (*ad*, *trans*, or *in* + accusative):
  - Currebat **ad patrem**. ("She was running towards her father.")
@@ -37,6 +43,8 @@ NB: In the case of cities, small towns, and the words *domus* ("home") and *rus*
 * Puer **quinque pedes** altus est. ("The boy is five feet tall.")
 
 ## Expressions of Time
+
+The accusative and ablative cases (without prepositions) to
 
 Below are the ways that Latin expresses ideas of time:
 
