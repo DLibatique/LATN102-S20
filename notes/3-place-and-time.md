@@ -5,7 +5,8 @@ title: Module 3 - Expressions of Place and Time
 
 ***
 
-[Prepositional Phrases](#prepositional-phrases) \| [Expressions of Place](#expressions-of-place) \| [Expressions of Time](#expressions-of-time)
+[Prepositional Phrases](#prepositional-phrases) \| [Expressions of Place](#expressions-of-place) \| [Practice Opportunity](#practice-opportunity) \|  
+\| [Expressions of Time](#expressions-of-time) \| [Practice Opportunity](#practice-opportunity-1)
 
 ***
 
@@ -56,6 +57,8 @@ NB: In the case of cities, small towns, and the words *domus* ("home") and *rūs
 
 Identify the bolded expression of place and translate the sentence.
 
+[Back to top.](#top)
+
 ***
 
 ## Expressions of Time
@@ -81,3 +84,5 @@ Below are the ways that Latin expresses ideas of time:
 ### Practice Opportunity
 
 Identify the bolded expression of time and translate the sentence.
+
+[Back to top.](#top)
