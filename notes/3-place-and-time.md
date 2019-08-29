@@ -6,7 +6,7 @@ title: Module 3 - Expressions of Place and Time
 ***
 
 [Prepositional Phrases](#prepositional-phrases) \| [Expressions of Place](#expressions-of-place) \| [Practice Opportunity](#practice-opportunity) \|  
-\| [Expressions of Time](#expressions-of-time) \| [Practice Opportunity](#practice-opportunity-1)
+&nbsp;&nbsp;&nbsp;&nbsp;[Expressions of Time](#expressions-of-time) \| [Practice Opportunity](#practice-opportunity-1)
 
 ***
 
