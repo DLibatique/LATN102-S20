@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Notes & Charts
+section: both
 ---
 
 This is a landing page for all the notes and charts that we will use this semester. Feel free to consult both these notes and the slideshows to study and practice.

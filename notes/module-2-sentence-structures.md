@@ -1,5 +1,5 @@
 ---
-layout: low-level-page
+layout: subpage
 title: Module 2 - Sentence Structures
 ---
 

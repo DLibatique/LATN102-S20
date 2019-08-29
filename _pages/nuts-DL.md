@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Nuts & Bolts - Prof. Libatique
+section: DL
+short_title: Nuts & Bolts
 ---
 
 <a name="top"></a>
@@ -9,10 +11,12 @@ title: Nuts & Bolts - Prof. Libatique
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#accessibility" class="underline">Accessibility</a> \| <a href="#external" class="underline">External Resources</a> \| <a href="#mr" class="underline">Mandated Reporter</a>
 
 ***
+
 ## <a name="ac">Academic Conduct</a>
 You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on homework, quizzes, or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***
 
 ## <a name="attendance">Attendance</a>
@@ -27,18 +31,21 @@ It bears repeating: **if you will miss class for any reason, you must e-mail me 
 Any absence without a notifying e-mail before class may be excused after the fact for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event) falls under Holy Cross' Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***
 
 ## <a name="oh">Office Hours</a>
 Office hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about grammar and syntax, clarifications about lectures or assignments, even simply shooting the breeze. My office hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular office hours if they conflict with your availability; simply shoot me an e-mail with what times and dates work for you.
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***
 
 ## <a name="gender">Gender Expression and Identity</a>
 I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. Your first assignment will be to fill out a Google Form to let me know what your preferred name is, what pronouns you use, and what you hope to learn from this class. My goal is to avoid dead-naming, as your preferred name may not match the legal name on my class roster.
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***
 
 ## <a name="diversity">Diversity, Inclusion, and Respect</a>
@@ -47,6 +54,7 @@ Studying Latin at Holy Cross is one way to challenge a centuries-long tradition 
 This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying Latin helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***
 
 ## <a name="accessibility">Accessibility</a>
@@ -55,12 +63,14 @@ Any student who feels the need for accommodation based on the impact of a disabi
 If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***
 
 ## <a name="external">External Resources</a>
 In addition to my e-mail and office hours, there are resources offered by the Classics department, including private tutoring and extra practice sessions, and other College resources, like [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources), that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***
 
 ## <a name="mr">Mandated Reporter</a>
@@ -73,4 +83,5 @@ Following the College’s Suicide Protocol, if you disclose a prior suicide atte
 By the way, to test whether you’re reading the syllabus all the way through, please send me an e-mail with a photo of your favorite Roman monument in the e-mail body by 1pm on Wednesday, September 11, 2019, with the subject line “Caesar and Pompey were ARCH-enemies.” If you do so, you will receive one full quiz grade (an addition of 0.5% to your quiz average for the semester).
 
 <a href="#top" class="underline">Back to top.</a>
+
 ***

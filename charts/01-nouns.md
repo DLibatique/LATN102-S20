@@ -1,5 +1,5 @@
 ---
-layout: low-level-page
+layout: subpage
 title: Module 1 Noun Morphology (9/6-9/11)
 ---
 

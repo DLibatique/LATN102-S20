@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Grading - Prof. Libatique
+section: DL
+short_title: Grading
 ---
+
+***
 
 ## Attendance and Participation: 10%
 You must attend each class and actively engage with the material being taught (i.e., no distractions via cell phones or Facebook, no disruption of the class by having personal conversations, etc.). **Participation is not optional; if you do not volunteer, I will call on you.** Latin is a challenging language and requires engagement both inside and outside of the classroom; in addition to being an active participant in class, you are also expected to spend time outside of class reviewing your grammatical and syntactic concepts and practicing translation. **Attendance will be tracked via the daily quizzes.**

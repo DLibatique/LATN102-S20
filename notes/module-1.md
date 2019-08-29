@@ -1,5 +1,5 @@
 ---
-layout: low-level-page
+layout: subpage
 title: Module 1 - Nouns and Adjectives
 ---
 
