@@ -81,6 +81,8 @@ What declension does each of the following nouns belong to?
 3. *agricola*, *agricolae*, m. - farmer  
 <a href="#" onclick="document.getElementById('prac3').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac3">1st</span>
 
+[Back to top.](#top)
+
 ***
 
 ## Adjectives
@@ -155,6 +157,8 @@ What type of adjective is each of the following?
 
 4. *brevis*, *breve* - brief, short  
 <a href="#" onclick="document.getElementById('prac7').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac7">Two termination</span>
+
+[Back to top.](#top)
 
 ***
 
