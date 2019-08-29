@@ -1,24 +1,24 @@
 ---
 layout: subpage
-title: Module 1 Noun Morphology (9/6-9/11)
+title: Noun Morphology
 ---
 
 ## Navigation:
-- <a href="#nouns">Nouns</a>:
-  - <a href="#1F">1st Declension Feminine</a>
-  - <a href="#2M">2nd Declension Masculine</a>
-  - <a href="#2N">2nd Declension Neuter</a>
-  - <a href="#3MF">3rd Declension Masculine/Feminine</a>
-  - <a href="#3N">3rd Declension Neuter</a>  
-- <a href="#pronouns">Pronouns: *is, ea, id*</a>
+- [Nouns](#nouns):
+  - [1st Declension Feminine](#first-declension-feminine)
+  - [2nd Declension Masculine](#second-declension-masculine)
+  - [2nd Declension Neuter](#second-declension-neuter)
+  - [3rd Declension Masculine/Feminine](#third-declension-masculinefeminine)
+  - [3rd Declension Neuter](#third-declension-neuter)  
+- [Pronouns: *is, ea, id*](#pronouns)
 
 ***
 
-## <a name="nouns">Nouns</a>
+## Nouns
 
 The charts below will show full charts for the declensions of each noun. Focus on the **bolded** nominative and genitive forms for these first few weeks of the semester; we will learn about the dative, accusative, ablative, and vocative cases in later weeks.
 
-### <a name="1F">First Declension Feminine</a>
+### First Declension Feminine
 
 *puella, puellae*, f. - girl
 
@@ -30,7 +30,7 @@ The charts below will show full charts for the declensions of each noun. Focus o
 | Accusative   | puellam        | puellās      |
 | Ablative   | puellā        | puellīs        |
 
-### <a name="2M">Second Declension Masculine</a>
+### Second Declension Masculine
 
 *maritus, maritī*, m. - husband
 
@@ -42,7 +42,7 @@ The charts below will show full charts for the declensions of each noun. Focus o
 | Accusative   | maritum        | maritōs      |
 | Ablative   | maritō        | maritīs        |
 
-### <a name="2N">Second Declension Neuter</a>
+### Second Declension Neuter
 
 *exemplum, exemplī*, n. - example
 
@@ -54,7 +54,7 @@ The charts below will show full charts for the declensions of each noun. Focus o
 | Accusative   | exemplum        | exempla      |
 | Ablative   | exemplō        | exemplīs        |
 
-### <a name="3MF">Third Declension Masculine/Feminine</a>
+### Third Declension Masculine/Feminine
 
 **Masculine and feminine nouns are declined the same way in the third declension.**
 
@@ -70,7 +70,7 @@ The charts below will show full charts for the declensions of each noun. Focus o
 
 \* 3rd declension genitive plurals may end in *-ium* rather than just *-um* at times; we will learn the rule for this later.
 
-### <a name="3N">Third Declension Neuter</a>
+### Third Declension Neuter
 
 *opus, operis* n. - work
 
@@ -85,9 +85,11 @@ The charts below will show full charts for the declensions of each noun. Focus o
 \* 3rd declension neuter nominative and accusative plurals and genitive plurals may have an extra *-i-* at times (*-ia* for nominative/accusative plural and *-ium* for genitive plural). We will learn the rule for this later.  
 \*\* 3rd declension ablative singulars may end in *-ī* instead of *-e* at times. We will learn the rule for this later.
 
+[Back to top.](#top)
+
 ***
 
-## <a name="pronouns">Pronouns</a>
+## Pronouns
 
 *is, ea, id* - he, she, it
 
