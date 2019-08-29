@@ -9,7 +9,7 @@ permalink: grading-DL
 ***
 
 [Attendance and Participation](#attendance-and-participation-10) \| [Daily Quizzes](#daily-quizzes-18) \|  
-[Translations](#six-6-translations-36) \| [Compositions](#six-6-compositions-36) \| [Revisions](#revisions) \|
+&nbsp;&nbsp;&nbsp;&nbsp;[Translations](#six-6-translations-36) \| [Compositions](#six-6-compositions-36) \| [Revisions](#revisions) \|
 
 ***
 
