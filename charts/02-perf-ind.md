@@ -84,6 +84,8 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | potuistī        | potuistis       |
 | 3rd  | **potuit**        | **potuērunt/potuēre**     |
 
+[Back to top.](#top)
+
 ***
 
 ## <a name="perfpass">Perfect Passive Indicative</a>
@@ -141,5 +143,7 @@ The charts below will show full charts for the perfect passive indicative of eac
 | 3rd  | **audītus/audīta/audītum est**        | **audītī/audītae/audīta sunt**     |
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
+
+[Back to top.](#top)
 
 ***

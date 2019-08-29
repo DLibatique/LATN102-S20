@@ -86,6 +86,8 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 NB: *Possum* is conjugated very similarly to *sum*.
 
+[Back to top.](#top)
+
 ***
 
 ## <a name="impfpass">Imperfect Passive Indicative</a>
@@ -143,5 +145,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 3rd  | **audiēbātur**        | **audiēbantur**     |
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
+
+[Back to top.](#top)
 
 ***

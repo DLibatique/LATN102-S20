@@ -86,6 +86,8 @@ The charts below will show full charts for the future active indicative of each 
 
 NB: *Possum* is conjugated very similarly to *sum*.
 
+[Back to top.](#top)
+
 ***
 
 ## <a name="futpass">Future Passive Indicative</a>
@@ -143,3 +145,7 @@ The charts below will show full charts for the future passive indicative of each
 | 3rd  | **audiētur**        | **audientur**     |
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
+
+[Back to top.](#top)
+
+***
