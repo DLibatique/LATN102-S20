@@ -42,7 +42,7 @@ NB: In the case of cities, small towns, and the words *domus* ("home") and *rūs
 * Hercules **in rēgnō** Theseī vīxit. ("Hercules lived in the kingdom of Theseus.")
 * Mīlitēs **prō castris** pugnābant. ("The soldiers were fighting in front of the camps.")
 
-NB: In the case of cities, small towns, and the words *domus* ("home") and *rūs* ("countryside"), Latin uses the **locative case** without a preposition. No need to worry about this now, but just something to keep in mind..
+NB: In the case of cities, small towns, and the words *domus* ("home") and *rūs* ("countryside"), Latin uses the **locative case** without a preposition. No need to worry about this now, but just something to keep in mind.
 
 3) Place from which (*ā/ab* or *ē/ex* + ablative):
 * Puella **ab urbe** fugiēbat. ("The girl was fleeing from the city.")
