@@ -9,7 +9,7 @@ This is a landing page for all the notes and charts that we will use this semest
 
 ## Module 1: Nouns and Adjectives
 
-- [Notes: Nouns and Adjectives](../notes/1-nouns-adjs)
+- [Notes: Nouns and Adjectives]({{ site.baseurl }}/notes/1-nouns-adjs)
 - [Paradigm Charts: Nouns](../charts/1-nouns)
 - [Paradigm Charts: Adjectives](../charts/1-adjectives)
 
