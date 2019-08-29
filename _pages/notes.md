@@ -9,16 +9,20 @@ This is a landing page for all the notes and charts that we will use this semest
 
 ## Module 1: Nouns and Adjectives
 
-- [Notes](../notes/module-1)
-- [Paradigm Charts: Nouns](../charts/01-nouns)
-- [Paradigm Charts: Adjectives](../charts/01-adjectives)
+- [Notes: Nouns and Adjectives](../notes/1-nouns-adjs)
+- [Paradigm Charts: Nouns](../charts/1-nouns)
+- [Paradigm Charts: Adjectives](../charts/1-adjectives)
 
 ## Module 2: Verbs
 
-- [Notes: Verbs Overview](../notes/module-2-overview)
-- [Notes: Tenses](../notes/module-2-tenses)
-- [Notes: Sentence Structures](../notes/module-2-sentence-structures)
-- [Paradigm Charts: Present Tense](../charts/02-pres-ind)
-- [Paradigm Charts: Imperfect Tense](../charts/02-impf-ind)
-- [Paradigm Charts: Future Tense](../charts/02-fut-ind)
-- [Paradigm Charts: Perfect Tense](../charts/02-perf-ind)
+- [Notes: Verbs Overview](../notes/2-verb-overview)
+- [Notes: Tenses](../notes/2-tenses)
+- [Notes: Sentence Structures](../notes/2-sentence-structures)
+- [Paradigm Charts: Present Tense](../charts/2-pres-ind)
+- [Paradigm Charts: Imperfect Tense](../charts/2-impf-ind)
+- [Paradigm Charts: Future Tense](../charts/2-fut-ind)
+- [Paradigm Charts: Perfect Tense](../charts/2-perf-ind)
+
+## Module 3: Prepositions, Expressions of Space, Expressions of Time
+
+- [Notes: Prepositions, Expressions of Space, Expressions of Time](../notes/3-place-and-time)
