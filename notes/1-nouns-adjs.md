@@ -183,7 +183,7 @@ Nouns in the **genitive** case are used to modify another noun and will always a
 
 ### Practice Opportunity
 
-Translate the following phrases or sentences into English. Consult your [vocabulary](#) for words with which you are unfamiliar and your [noun/pronoun declension charts](../charts/1-nouns) and [adjective declension charts](../charts/1-adjectives) for this module if needed.
+Translate the following phrases or sentences into English. Consult your [vocabulary](#) for words with which you are unfamiliar and your [noun/pronoun declension charts]({{ site.baseurl }}/charts/1-nouns) and [adjective declension charts]({{ site.baseurl }}/charts/1-adjectives) for this module if needed.
 
 Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
@@ -218,7 +218,7 @@ The declension for the pronoun is tricky, so be sure to consult the morphologica
 
 ### Practice Opportunity
 
-What form of *is*, *ea*, *id* would you use to stand in for the following words? Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*](../charts/1-nouns#pronouns) for help if needed.
+What form of *is*, *ea*, *id* would you use to stand in for the following words? Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*]({{ site.baseurl }}/charts/1-nouns#pronouns) for help if needed.
 
 1. *exemplum*  
 <a href="#" onclick="document.getElementById('prac12').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac12">*id*</span>
