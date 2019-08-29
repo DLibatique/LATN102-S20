@@ -26,3 +26,7 @@ This is a landing page for all the notes and charts that we will use this semest
 ## Module 3: Prepositions, Expressions of Space, Expressions of Time
 
 - [Notes: Prepositions, Expressions of Space, Expressions of Time]({{ site.baseurl }}/notes/3-place-and-time)
+
+## Module 4: Verbal Nouns and Adjectives
+
+- [Notes: Verbal Nouns and Adjectives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs)
