@@ -1,21 +1,28 @@
 ---
-layout: low-level-page
+layout: subpage
 title: Module 2 - Sentence Structures
 ---
 
-## Navigation:
+***
 
-<a href="#sentpat">Sentence Patterns</a>: <a href="#intrans">Intransitive</a>, <a href="#trans">Transitive</a>, <a href="#pass">Passive</a>, <a href="#link">Linking</a> \| <a href="#tips">Tips for Determining Sentence Structure</a>
+[Sentence Patterns](#sentence-patterns):
+- [Intransitive](#intransitive-sentences)
+- [Transitive](#transitive-sentences), [Practice Opportunity](#practice-opportunity)
+- [Passive](#passive-sentences), [Practice Opportunity](#practice-opportunity-1)
+- [Linking](#linking-sentences) \|  
+[Tips for Determining Sentence Structure](#tips-for-determining-sentence-structure)
 
 ***
 
-## <a name="sentpat">Sentence Patterns</a>
+## Sentence Patterns
 
 Translating Latin sentences becomes much easier if you can recognize certain structural patterns that tell us what to expect in a sentence. Key to identifying what structural pattern a sentence follows is the main verb. The type of verb that appears in the sentence tells us what other grammatical items we need to fill out the rest of the sentence.
 
 Below you will find a discussion of several very common sentence structures as well as guidelines for how to distinguish them by looking at the verb.
 
-### <a name="intrans">Intransitive Sentences</a>
+***
+
+### Intransitive Sentences
 
 **Intransitive sentences** feature a subject and an **intransitive verb**. An intransitive verb is a verb that expresses an action, but does not act directly upon an object (e.g. sneezing, dancing, running, raining, etc.). As a result, an intransitive verb (and, thus, an intransitive sentence) does not take a direct object.
 
@@ -31,9 +38,10 @@ To summarize, intransitive sentences must have a:
 * Intransitive active verb
 
 [Back to top.](#top)
+
 ***
 
-### <a name="trans">Transitive Sentences</a>
+### Transitive Sentences
 
 **Transitive sentences** require a **direct object**, in addition to a subject and verb to complete the meaning of the sentence.
 
@@ -62,14 +70,15 @@ To summarize, transitive sentences must have a:
 And sometimes have an:
 * Indirect object in the dative
 
-#### Practice exercise
+#### Practice Opportunity
 
 Form the accusative and dative singular and plural of the following words using the charts from Module 1.
 
 [Back to top.](#top)
+
 ***
 
-### <a name="pass">Passive Sentences</a>
+### Passive Sentences
 
 **Passive sentences** feature a subject and, unsurprisingly a passive verb. Because the subject of a passive verb is being acted upon, passive sentences do not feature a direct object. Below are some examples of simple passive sentences:
 
@@ -93,14 +102,15 @@ And sometimes have an:
 * An ablative of agent
 * Indirect object in the dative
 
-#### Practice exercise
+#### Practice Opportunity
 
 Form the ablative singular and plural of the following words using the charts from Module 1.
 
 [Back to top.](#top)
+
 ***
 
-### <a name="link">Linking Sentences</a>
+### Linking Sentences
 
 **Linking sentences**, which we have already met, require a subject, linking verb, and predicate nominative which matches the subject in number and case. The most common linking verb in English and Latin is "to be" (*sum*, *esse*, *fui*, *futurus*), though there are other linking verb we will see throughout the semester. Below are some examples of linking sentences:
 
@@ -113,13 +123,14 @@ To summarize, linking sentences must have a:
 * Predicate nominative
 
 [Back to top.](#top)
+
 ***
 
-## <a name="tips">Tips for Determining Sentence Structure</a>
+## Tips for Determining Sentence Structure
 
 The most important thing to do when determining sentence structure is to look at the main verb. If the verb is passive, we know that the sentence structure is going to be passive; if the verb is a linking verb (i.e. a form of *sum*), then we know the sentence structure is going to be linking. It is more difficult to differentiate between transitive and intransitive verbs. While some Latin verbs are used only transitively (verbs like "to carry") and or only intransitively (verbs to "rain"), a large number of verbs can be used both transitively or intransitively. In these cases, you will want to see if there is a direct object in the accusative case (transitive) or not (intransitive).
 
-### Practice Opportunities
+### Practice Opportunity
 
 Determine the sentence structure of the following sentences. What nouns or adjectives in these sentences are in the dative, accusative, or ablative case?
 

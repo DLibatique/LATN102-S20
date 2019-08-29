@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-plugins:          [jekyll-paginate]
+include:          ['_pages']
 
 # Permalinks
 permalink:        pretty
@@ -14,22 +14,14 @@ course_number:    'LATN 101'
 semester:         'Fall 2019'
 location:         'College of the Holy Cross'
 url:              https://dlibatique.github.io/LATN101-F19
-baseurl:          /LATN101-F19/
+baseurl:          /
 
 author:
   name:           'Daniel Libatique'
   url:            https://dlibatique.github.io
-
-paginate:         5
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/dlibatique/LATN101-F19
-
-pages:
-    - notes
-    - nuts
-    - grading
-    - schedule

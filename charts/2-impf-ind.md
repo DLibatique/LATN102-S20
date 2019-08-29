@@ -1,9 +1,9 @@
 ---
-layout: low-level-page
+layout: subpage
 title: Imperfect Indicative (Active and Passive) - Charts
 ---
 
-## Navigation:
+***
 
 [Imperfect Active](#impfact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact), [*sum*](#sum), [*possum*](#possum) \|  
 [Imperfect Passive](#impfpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|  
@@ -86,6 +86,8 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 NB: *Possum* is conjugated very similarly to *sum*.
 
+[Back to top.](#top)
+
 ***
 
 ## <a name="impfpass">Imperfect Passive Indicative</a>
@@ -143,5 +145,7 @@ The charts below will show full charts for the imperfect passive indicative of e
 | 3rd  | **audiēbātur**        | **audiēbantur**     |
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
+
+[Back to top.](#top)
 
 ***

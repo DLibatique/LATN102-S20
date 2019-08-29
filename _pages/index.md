@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
+
+# Introduction to Latin 1 - Fall 2019
 
 ## Course Information - Section 01
 **Meeting Time:** MWF 9am to 9:50am  
-**Meeting Place:**  01 - TBD  
+**Meeting Place:**  01 - Stein 307  
 **Instructor:** Prof. Dominic Machado (he/him/his)  
 **Office:** Fenwick 413  
 **Office hours:** MW 10-11am, or by appointment  

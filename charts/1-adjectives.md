@@ -1,12 +1,13 @@
 ---
-layout: low-level-page
-title: Module 1 Adjective Morphology (9/6-9/11)
+layout: subpage
+title: Adjective Morphology
 ---
 
-## Navigation:
-<a href="#regadjs">Regular Adjectives</a>: <a href="#212">2-1-2</a>, <a href="#3term">3 termination</a>, <a href="#2term">2 termination</a>, <a href="#1term">1 termination</a> \|  
-<a href="#demadjs">Demonstrative Adjectives</a>: <a href="#hic">*hic, haec, hoc*</a>; <a href="#ille">*ille, illa, illud*</a> \|  
-<a href="intadjs">Intensifying Adjectives:</a> <a href="#ipse">*ipse, ipsa, ipsud*</a>
+***
+
+[Regular Adjectives](#regadjs): [2-1-2](#212), [3 termination](#3term), [2 termination](#2term), [1 termination](#1term) \|  
+[Demonstrative Adjectives](#demadjs): [*hic, haec, hoc*](#hic); [*ille, illa, illud*](#ille) \|  
+[Intensifying Adjectives:](intadjs) [*ipse, ipsa, ipsud*](#ipse)
 
 ***
 
@@ -80,6 +81,8 @@ One termination adjectives are slightly tricky because while the nominative and 
 | Accusative   | ferocēs        | ferocia      |
 | Ablative   | ferocibus        | ferocibus        |
 
+[Back to top.](#top)
+
 ***
 
 ## <a name="demadjs">Demonstrative adjectives</a>
@@ -131,6 +134,8 @@ The forms in the dictionary entry represent the nominative singular in all three
 | Dative   | illīs        | illīs  |illīs  |
 | Accusative   | illōs        | illās  |illa  |
 | Ablative   | illīs        | illīs  |illīs  |
+
+[Back to top.](#top)
 
 ***
 

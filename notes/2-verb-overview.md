@@ -1,15 +1,16 @@
 ---
-layout: low-level-page
+layout: subpage
 title: Module 2 - Verb Overview
 ---
 
-## Navigation:
+***
 
-<a href="#verbs">Verbs</a> \| <a href="#conj">Conjugations</a> \| <a href="#trans">Translating Verbs</a>
+[Verbs](#verbs) \| [Conjugations](#conjugations) \| [Practice Opportunity](#practice-opportunity) \|  
+[Translating Verbs](#translating-verbs) \| [Practice Opportunity](#practice-opportunity-1)  
 
 ***
 
-## <a name="verbs">Verbs</a>
+## Verbs
 
 Latin verbs have five characteristics: **person**, **number**, **tense**, **voice**, and **mood**.
 
@@ -62,9 +63,10 @@ Our **third principal part**, *vīdī*, indicates the **1st person singular perf
 *Vīsus*, **the perfect passive participle**, is the **fourth principal part** and means "having been seen." The fourth principal part is used to produce all the passive forms of perfect, pluperfect, and future perfect verbs (known as the **perfect passive system**).
 
 [Back to top.](#top)
+
 ***
 
-## <a name="conj">Conjugations</a>
+## Conjugations
 
 The five different characteristics discussed above are reflected in the endings of a verb form. Like nouns, there are patterns in the way that verbs change their endings which we call **conjugations**.
 
@@ -101,9 +103,10 @@ What conjugation does each of the following verbs belong to?
 <a href="#" onclick="document.getElementById('prac5').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac5">4th</span>
 
 [Back to top.](#top)
+
 ***
 
-## <a name="trans">Translating Verbs</a>
+## Translating Verbs
 
 When translating Latin verbs into English, you must convey all five characteristics in your translation. For example, consider the form *monēbātur*, which is the third singular imperfect passive indicative of *moneō* ("to warn"). We would translate this form as: he/she/it (3rd person singular) was (imperfect) being (passive) warned (the indicative requires no additional translation here).
 
