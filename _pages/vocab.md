@@ -5,4 +5,6 @@ section: both
 permalink: vocab
 ---
 
-test test test
+***
+
+[Module 1 Vocabulary]({{ site.baseurl }}/vocab/1)
