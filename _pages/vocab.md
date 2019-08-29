@@ -2,7 +2,7 @@
 layout: page
 title: Vocabulary
 section: both
-permalink: vocab
+permalink: vocabulary
 ---
 
 ***
