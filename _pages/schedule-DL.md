@@ -3,6 +3,7 @@ layout: page
 title: Schedule - Prof. Libatique
 section: DL
 short_title: Schedule
+permalink: schedule-DL
 ---
 
 This detailed schedule links out to the notes and charts that you'll need throughout the semester. Your homework assignment for any given class period is to read the notes and charts sections in advance of the class meeting; then, review those concepts again after the class meeting. Use the practice opportunities throughout the notes to keep yourself practicing the concepts in anticipation of the daily quiz.
