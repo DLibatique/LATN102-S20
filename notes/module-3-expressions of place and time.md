@@ -23,24 +23,24 @@ Latin uses the accusative and ablative case, frequently with prepositions, to ex
 
 Below are the different expressions of place used in Latin:
 
-1) Place to which (*ad*, *trans*, or *in* + accusative):
- - Currebat **ad patrem**. ("She was running towards her father.")
- - Venit **in urbem**. ("He came into the city")
+1) Place to which (*ad*, *trāns*, or *in* + accusative):
+ - Currēbat **ad pātrem**. ("She was running towards her father.")
+ - Vēnit **in urbem**. ("He came into the city")
 
-NB: In the case of cities, small towns, and the words *domus* ("home") and *rus* ("countryside"), Latin uses the accusative without a preposition. No need to worry about this now, but just something to keep in mind for now.
+NB: In the case of cities, small towns, and the words *domus* ("home") and *rūs* ("countryside"), Latin uses the accusative without a preposition. No need to worry about this now, but just something to keep in mind for now.
 
-2) Place where (*in* or *pro* + ablative):
-* Hercules **in regno** Thesei vixit. ("Hercules lived in the kingdom of Theseus.")
-* Milites **pro castris** pugnabant. ("The soldiers were fighting in front of the camps.")
+2) Place where (*in* or *prō* + ablative):
+* Hercules **in rēgnō** Theseī vīxit. ("Hercules lived in the kingdom of Theseus.")
+* Mīlitēs **prō castris** pugnābant. ("The soldiers were fighting in front of the camps.")
 
-NB: In the case of cities, small towns, and the words *domus* ("home") and *rus* ("countryside"), Latin uses the **locative case** without a preposition. No need to worry about this now, but just something to keep in mind for now.
+NB: In the case of cities, small towns, and the words *domus* ("home") and *rūs* ("countryside"), Latin uses the **locative case** without a preposition. No need to worry about this now, but just something to keep in mind for now.
 
-3) Place from which (*a/ab* or *e/ex* + ablative):
-* Puella **ab urbe** fugiebat ("The girl was fleeing from the city.")
-* Navis **ex porto** navigavit ("The ship sailed away from the port.")
+3) Place from which (*ā/ab* or *ē/ex* + ablative):
+* Puella **ab urbe** fugiēbat ("The girl was fleeing from the city.")
+* Nāvis **ex portō** nāvigāvit ("The ship sailed away from the port.")
 
 4) Accusative of extent of space (no preposition):
-* Puer **quinque pedes** altus est. ("The boy is five feet tall.")
+* Puer **quīnque pedes** altus est. ("The boy is five feet tall.")
 
 ## Expressions of Time
 
@@ -49,13 +49,13 @@ The accusative and ablative cases (without prepositions) to
 Below are the ways that Latin expresses ideas of time:
 
 1) Length of time in the accusative (no preposition):
-* **Quattour annos** in illa urbe laboravit. ("They worked for four years in that city").
-* **Quinque menses** pro templo vixerunt. ("They lived in front of the temple for five months.").
+* **Quattour annōs** in illā urbe labōrāvit. ("They worked for four years in that city").
+* **Quīnque mēnsēs** prō templō vīxērunt. ("They lived in front of the temple for five months.").
 
 2) Time when in the ablative (no preposition):
-* **Illa nocte** puella ab agris cucurrit. ("On that night, the girl ran from the fields.")
-* Navis **prima luce** ex insula navigavit. ("The ship sailed away from the island at first light.")
+* **Illā nocte** puella ab agrīs cucurrit. ("On that night, the girl ran from the fields.")
+* Nāvis **primā lūce** ex insulā nāvigāvit. ("The ship sailed away from the island at first light.")
 
 3) Time within which (no preposition):
-* **Primo anno** regni Carthaginem vicit. ("In the first year of his reign, he conquered Carthage").
-* **Quinque horis** ad urbem venerunt. ("Within five hours, they arrived at the city.")
+* **Primō annō** regnī Carthāginem vīcit. ("In the first year of his reign, he conquered Carthage").
+* **Quīnque horīs** ad urbem vēnērunt. ("Within five hours, they arrived at the city.")
