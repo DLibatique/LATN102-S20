@@ -3,31 +3,36 @@ layout: subpage
 title: Module 2 - Tenses
 ---
 
-## Navigation:
+***
 
-<a href="#pres">Present Tense</a>:
+### [Present Tense](#the-present-tense)
 - <a href="#prescon">Conceptual Overview</a>
 - <a href="#pres12">1st and 2nd Conjugation Present</a>
 - <a href="#pres34io">3rd, 4th, and 3rd -iō Conjugation Present</a>:
   - <a href="#pres3">3rd Conjugation</a>
   - <a href="#pres4">4th Conjugation</a>
   - <a href="#pres3io">3rd -iō Conjugation</a>
+- [Practice Opportunity](#practice-opportunity)
 
-<a href="#impf">Imperfect Tense</a>:
+### [Imperfect Tense](#the-imperfect-tense)
 - <a href="#impfcon">Conceptual Overview</a>
 - <a href="#impfform">Formation</a>
+- [Practice Opportunity](#practice-opportunity-1)
 
-<a href="#fut">Future Tense</a>:
+### [Future Tense](#the-future-tense)
 - <a href="#futcon">Conceptual Overview</a>
 - <a href="#fut12">1st and 2nd Conjugation Future</a>
 - <a href="#fut34io">3rd, 4th, and 3rd -iō Conjugation Future</a>:
   - <a href="#fut3">3rd Conjugation</a>
   - <a href="#fut43io">4th and 3rd -iō Conjugations</a>
+- [Practice Opportunity](#practice-opportunity-2)
 
-<a href="#perf">Perfect Tense</a>:
+### [Perfect Tense](#the-perfect-tense)
 - <a href="#perfcon">Conceptual Overview</a>
 - <a href="#perfact">Perfect Active Indicative</a>
+  - [Practice Opportunity](#practice-opportunity-3)
 - <a href="#perfpass">Perfect Passive Indicative</a>
+  - [Practice Opportunity](#practice-opportunity-4)
 
 ***
 
@@ -145,6 +150,7 @@ Note that often, one letter can make the difference, so it is imperative that yo
 From the dictionary entry, conjugate the verb in the 3rd person plural present indicative active and passive, and then translate the new form.
 
 [Back to top.](#top)
+
 ***
 
 ## <a name="impf">The Imperfect Tense</a>
@@ -206,6 +212,7 @@ So if we wanted to form the 3rd person plural imperfect passive indicative of *v
 Find the present stem and form the 3rd person singular imperfect active and passive for the following verbs.
 
 [Back to top.](#top)
+
 ***
 
 ## <a name="fut">The Future Tense</a>
@@ -338,6 +345,7 @@ Analyze the word carefully in terms of spelling to determine what tense it is!
 Form the 3rd person plural future active and passive for the following verbs, and then translate each form.
 
 [Back to top.](#top)
+
 ***
 
 ## <a name="perf">The Perfect Tense</a>
@@ -402,4 +410,5 @@ NB: Look at how the adjectival form changes as we go from singular to plural. Wh
 Find the perfect passive stem and form the 3rd person plural perfect passive for the following verbs.
 
 [Back to top.](#top)
+
 ***

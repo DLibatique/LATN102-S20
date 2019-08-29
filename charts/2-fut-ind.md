@@ -3,7 +3,7 @@ layout: subpage
 title: Future Indicative (Active and Passive) - Charts
 ---
 
-## Navigation:
+***
 
 [Future Active](#futact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact), [*sum*](#sum), [*possum*](#possum) \|  
 [Future Passive](#futpass): [1st](#1stpass), [2nd](#2ndpass), [3rd](#3rdpass), [3rd -iō](#3rdiopass), [4th](#4thpass) \|

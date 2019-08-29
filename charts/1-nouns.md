@@ -3,7 +3,8 @@ layout: subpage
 title: Noun Morphology
 ---
 
-## Navigation:
+***
+
 - [Nouns](#nouns):
   - [1st Declension Feminine](#first-declension-feminine)
   - [2nd Declension Masculine](#second-declension-masculine)
