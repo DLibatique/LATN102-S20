@@ -9,7 +9,8 @@ title: Module 4 - Verbal Nouns and Adjectives
 - [Present Active](#present-active-infinitive), [Present Passive](#present-passive-infinitive)
   - [Practice Opportunity](#practice-opportunity)
 - [Perfect Active](#perfect-active-infinitive), [Perfect Passive](#perfect-passive-infinitive)
-  - [Practice Opportunity](#practice-opportunity-1)  
+  - [Practice Opportunity](#practice-opportunity-1)
+
 [Uses of the Infinitive](#uses-of-the-infinitive) \| [Practice Opportunity](#practice-opportunity-2)
 
 ***
