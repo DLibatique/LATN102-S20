@@ -274,11 +274,12 @@ a.sidebar-nav-item:focus {
 
 button {
   background-color: #400080; /* purple */
-  border: none;
+  border: 1px solid white;
   color: white;
   padding: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: inherit;
   font-size: 15px;
 }
