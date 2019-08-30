@@ -283,3 +283,7 @@ button {
   font-family: inherit;
   font-size: 15px;
 }
+
+button:focus {
+    outline: 0;
+}
