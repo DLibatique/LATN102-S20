@@ -88,19 +88,19 @@ The conjugation to which a verb belongs can be easily determined by consulting t
 What conjugation does each of the following verbs belong to?
 
 1. *faciō*, *facere*, *fēcī*, *factus* - to make, do  
-<a href="#" onclick="document.getElementById('prac1').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac1">3rd -iō</span>
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">3rd -iō</span>
 
 2. *moneō*, *monēre*, *monuī*, *monitus* - to warn, advise  
-<a href="#" onclick="document.getElementById('prac2').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac2">2nd</span>
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">2nd</span>
 
 3. *bibō*, *bibere*, *bibī*, *bibitus* - to drink  
-<a href="#" onclick="document.getElementById('prac3').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac3">3rd</span>
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">3rd</span>
 
 4. *iuvō*, *iuvāre*, *iūvī*, *iūtus* - to help
-<a href="#" onclick="document.getElementById('prac4').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac4">1st</span>
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">1st</span>
 
 5. *veniō*, *venīre*, *vēnī*, *ventus* - to come
-<a href="#" onclick="document.getElementById('prac5').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac5">4th</span>
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">4th</span>
 
 [Back to top.](#top)
 

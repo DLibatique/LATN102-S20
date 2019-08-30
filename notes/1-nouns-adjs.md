@@ -3,10 +3,6 @@ layout: subpage
 title: Module 1 - Nouns and Adjectives
 ---
 
-<!-- TO DO FOR DANIEL:
-- change all practice opportunity
--->
-
 ***
 
 [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity) \|  
@@ -77,13 +73,13 @@ The declension to which a noun belongs can be easily determined by consulting th
 
 What declension does each of the following nouns belong to?
 1. *ager*, *agrī*, m. - field  
-<a href="#" onclick="document.getElementById('prac1').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac1">2nd</span>
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">2nd</span>
 
 2. *nomen*, *nominis*, n. - name  
-<a href="#" onclick="document.getElementById('prac2').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac2">3rd</span>
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">3rd</span>
 
 3. *agricola*, *agricolae*, m. - farmer  
-<a href="#" onclick="document.getElementById('prac3').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac3">1st</span>
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">1st</span>
 
 [Back to top.](#top)
 
@@ -151,16 +147,16 @@ Beyond these categories, there are few common adjectival forms that are declined
 What type of adjective is each of the following?
 
 1. *celer*, *celeris*, *celere* - swift  
-<a href="#" onclick="document.getElementById('prac4').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac4">Three termination</span>
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">Three termination</span>
 
 2. *sapiens*, *sapientis* - wise  
-<a href="#" onclick="document.getElementById('prac5').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac5">One termination</span>
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">One termination</span>
 
 3. *malus*, *mala*, *malum* - bad, evil  
-<a href="#" onclick="document.getElementById('prac6').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac6">2-1-2</span>
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">2-1-2</span>
 
 4. *brevis*, *breve* - brief, short  
-<a href="#" onclick="document.getElementById('prac7').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac7">Two termination</span>
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">Two termination</span>
 
 [Back to top.](#top)
 
@@ -192,19 +188,19 @@ Translate the following phrases or sentences into English. Consult your [vocabul
 Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
 1. *maritus bonae rēginae*  
-<a href="#" onclick="document.getElementById('prac8').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac8">husband of the good queen</span>
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">husband of the good queen</span>
 
 2. *māter bona familiae*  
-<a href="#" onclick="document.getElementById('prac9').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac9">good mother of the family</span>
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">good mother of the family</span>
 
 3. *sororēs puellae*  
-<a href="#" onclick="document.getElementById('prac10').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac10">sisters of the girl</span>
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">sisters of the girl</span>
 
 4. *parentēs sapientis puerī*  
-<a href="#" onclick="document.getElementById('prac11').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac11">parents of the wise boy</span>
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">parents of the wise boy</span>
 
 5. *illa est māter familiae.*  
-<a href="#" onclick="document.getElementById('prac16').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
 
 [Back to top.](#top)
 
@@ -225,15 +221,15 @@ The declension for the pronoun is tricky, so be sure to consult the morphologica
 What form of *is*, *ea*, *id* would you use to stand in for the following words? Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*]({{ site.baseurl }}/charts/1-nouns#pronouns) for help if needed.
 
 1. *exemplum*  
-<a href="#" onclick="document.getElementById('prac12').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac12">*id*</span>
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">*id*</span>
 
 2. *puerī*  
-<a href="#" onclick="document.getElementById('prac13').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac13">*eī* (if nominative plural) OR *eius* (if genitive singular)</span>
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">*eī* (if nominative plural) OR *eius* (if genitive singular)</span>
 
 3. *matrēs*  
-<a href="#" onclick="document.getElementById('prac14').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac14">*eae*</span>
+<button onclick="toggleDisplay('prac14')">Click here to toggle the answer:</button> <span style="display: none;" id="prac14">*eae*</span>
 
 4. *regum*  
-<a href="#" onclick="document.getElementById('prac15').style.display='block'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac15">*eōrum*</span>
+<button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">*eōrum*</span>
 
 [Back to top.](#top)
