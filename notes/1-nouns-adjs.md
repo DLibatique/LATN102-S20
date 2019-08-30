@@ -3,6 +3,10 @@ layout: subpage
 title: Module 1 - Nouns and Adjectives
 ---
 
+<!-- TO DO FOR DANIEL:
+- change all practice opportunity
+-->
+
 ***
 
 [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity) \|  
