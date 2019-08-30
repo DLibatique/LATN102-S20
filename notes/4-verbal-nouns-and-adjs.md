@@ -50,15 +50,20 @@ To form the present passive infinitive in the **3rd** and **3rd -iō** conjugati
 
 If the present infinitive shown is active, change it to passive and then translate the new form. If the present infinitive shown is passive, change it to active and then translate the new form.
 
-1. dūcere -> dūcī, "to be led"
+1. dūcere  
+<a onclick="toggleDisplay(prac1)">Click here for the answer:</a> <span style="display: none;" id="prac1">dūcī, "to be led"</span>
 
-2. movēre -> movērī, "to be moved"
+2. movēre  
+<a href="#" onclick="document.getElementById('prac2').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac2">movērī, "to be moved"</span>
 
-3. punīrī -> punīre, "to punish"
+3. punīrī  
+<a href="#" onclick="document.getElementById('prac3').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac3">punīre, "to punish"</span>
 
-4. appellāre -> appellārī, "to be called"
+4. appellāre  
+<a href="#" onclick="document.getElementById('prac4').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac4">appellārī, "to be called"</span>
 
-5. iacī -> iacere, "to throw"
+5. iacī  
+<a href="#" onclick="document.getElementById('prac5').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac5">iacere, "to throw"</span>
 
 [Back to top.](#top)
 
@@ -153,3 +158,20 @@ Identify whether the bolded infinitive is **subjective** or **complementary** an
 3. in hortō **sedēre** licet. --> subjective, "To sit in the garden is allowed." OR "It is allowed to sit in the garden."
 
 4. **docēre** carmina possum. --> complementary, "I can teach the songs." OR "I am able to teach the songs."
+
+<script>
+function toggleDisplay(id) {
+
+  var answerStyle = document.getElementById(id);
+
+  if (answerStyle.style.display == 'inline') {
+    answerStyle.style.display = 'none';
+    return false;
+  }
+  else {
+    answerStyle.style.display == 'inline';
+    return false;
+  }
+
+}
+</script>
