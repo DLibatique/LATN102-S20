@@ -51,19 +51,19 @@ To form the present passive infinitive in the **3rd** and **3rd -iō** conjugati
 If the present infinitive shown is active, change it to passive and then translate the new form. If the present infinitive shown is passive, change it to active and then translate the new form.
 
 1. dūcere  
-<a onclick="toggleDisplay(prac1)">Click here for the answer:</a> <span style="display: none;" id="prac1">dūcī, "to be led"</span>
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">dūcī, "to be led"</span>
 
 2. movēre  
-<a href="#" onclick="document.getElementById('prac2').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac2">movērī, "to be moved"</span>
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">movērī, "to be moved"</span>
 
 3. punīrī  
-<a href="#" onclick="document.getElementById('prac3').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac3">punīre, "to punish"</span>
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">punīre, "to punish"</span>
 
 4. appellāre  
-<a href="#" onclick="document.getElementById('prac4').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac4">appellārī, "to be called"</span>
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">appellārī, "to be called"</span>
 
 5. iacī  
-<a href="#" onclick="document.getElementById('prac5').style.display='inline'; return false;">Click here for the answer:</a> <span style="display: none;" id="prac5">iacere, "to throw"</span>
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">iacere, "to throw"</span>
 
 [Back to top.](#top)
 
@@ -105,15 +105,20 @@ We'll learn more about how to use the perfect passive infinitive later on. It su
 
 If the perfect infinitive shown is active, change it to passive (using the masculine nominative singular form of the participle) and then translate the new form. If the perfect infinitive shown is passive, change it to active and then translate the new form.
 
-1. aspexisse -> aspectus esse, "to have been looked at"
+1. aspexisse  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">aspectus esse, "to have been looked at"</span>
 
-2. imperātus esse -> imperāvisse, "to have commanded"
+2. imperātus esse  
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">imperāvisse, "to have commanded"</span>
 
-3. implētus esse -> implēvisse, "to have filled"
+3. implētus esse  
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">implēvisse, "to have filled"</span>
 
-4. dūxisse -> ductus esse, "to have been led"
+4. dūxisse  
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">ductus esse, "to have been led"</span>
 
-5. sensus esse -> sensisse, "to have felt"
+5. sensus esse  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">sensisse, "to have felt"</span>
 
 ***
 
@@ -121,7 +126,7 @@ If the perfect infinitive shown is active, change it to passive (using the mascu
 
 There are various ways in which we can use the infinitive, a verbal noun, in Latin. We'll discuss two now.
 
-1. As a noun (**subjective**)
+1\. As a noun (**subjective**)
 
 Because the infinitive is a verbal *noun*, it can stand as the **subject** of a sentence. When used in this way, the infinitive is a **neuter nominative singular** noun, and it most often shows up in linking sentence types or with impersonal verbs.
 
@@ -134,7 +139,7 @@ The subjective infinitive, though used as a noun, still retains its verbal quali
 - *cēnam parāre est prudēns.* "To prepare the dinner is wise." OR "It is wise to prepare the dinner."
 - *sedēre prō igne iūvat.* "To sit in front of the fire is pleasing." OR "It is pleasing to sit in front of the fire."
 
-2. **Complementary**
+2\. **Complementary**
 
 The infinitive can also be used to *complete* the meaning of a main verb. For example, with the verb *possum*, *posse*, *potuī*, "to be able to, can", it would be odd to have simply a conjugated form of that verb without anything to complete its meaning:
 
@@ -151,27 +156,14 @@ This is where the **complementary infinitive** can help; it completes the sense 
 
 Identify whether the bolded infinitive is **subjective** or **complementary** and then translate the sentence.
 
-1. **incipere** est difficile. -> subjective, "To begin is difficult."
+1. **incipere** est difficile.  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">subjective, "To begin is difficult."</span>
 
-2. **discēdere** poterit. --> complementary, "He will be able to depart."
+2. ille **discēdere** poterit.  
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">complementary, "That man will be able to depart."</span>
 
-3. in hortō **sedēre** licet. --> subjective, "To sit in the garden is allowed." OR "It is allowed to sit in the garden."
+3. in hortō **sedēre** licet.  
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">subjective, "To sit in the garden is allowed." OR "It is allowed to sit in the garden."</span>
 
-4. **docēre** carmina possum. --> complementary, "I can teach the songs." OR "I am able to teach the songs."
-
-<script>
-function toggleDisplay(id) {
-
-  var answerStyle = document.getElementById(id);
-
-  if (answerStyle.style.display == 'inline') {
-    answerStyle.style.display = 'none';
-    return false;
-  }
-  else {
-    answerStyle.style.display == 'inline';
-    return false;
-  }
-
-}
-</script>
+4. **docēre** carmina possum.  
+<button onclick="toggleDisplay('prac14')">Click here to toggle the answer:</button> <span style="display: none;" id="prac14">complementary, "I can teach the songs." OR "I am able to teach the songs."</span>
