@@ -9,18 +9,3 @@ function toggleDisplay(id) {
   return false;
 
 }
-
-
-/*
-function toggleDisplay(id) {
-
-  var answerStyle = document.getElementById(id).style.display;
-
-  if (answerStyle == 'none') {
-    answerStyle = 'inline';
-  } else {
-    answerStyle = 'none';
-  }
-
-}
-*/
