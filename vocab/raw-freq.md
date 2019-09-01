@@ -57,7 +57,6 @@ title: Raw Vocab and Frequencies
 | [proprius](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n38951) | adjective | 1 |
 | [meus](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n28988) | adjective | 1 |
 
-
 [Back to top.](#top)
 
 ***
@@ -128,7 +127,6 @@ title: Raw Vocab and Frequencies
 | [praeterquam](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n38100) | adverb | 1 |
 | [prius](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n38365) | adverb | 1 |
 
-
 [Back to top.](#top)
 
 ***
@@ -141,8 +139,11 @@ title: Raw Vocab and Frequencies
 | [do1](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n14599) | gerund | 135 |
 | [testor](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n47983) | gerund | 2 |
 
+[Back to top.](#top)
 
-# Indeclinable
+***
+
+## Indeclinable
 
 | lexeme | part of speech | frequency |
 | ------ | ------- | ------- |
@@ -198,7 +199,6 @@ title: Raw Vocab and Frequencies
 | [secum](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n43263) | indeclinable | 2 |
 | [erga](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n16113) | indeclinable | 1 |
 | [donec](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n14731) | indeclinable | 1 |
-
 
 [Back to top.](#top)
 
@@ -393,7 +393,6 @@ title: Raw Vocab and Frequencies
 | [ordo](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n32947) | noun | 1 |
 | [concilium](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n9823) | noun | 1 |
 
-
 [Back to top.](#top)
 
 ***
@@ -469,7 +468,6 @@ title: Raw Vocab and Frequencies
 | [tu](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n49339) | pronoun | 10 |
 | [aliquis](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n1874) | pronoun | 8 |
 
-
 [Back to top.](#top)
 
 ***
@@ -483,7 +481,6 @@ title: Raw Vocab and Frequencies
 | [rapio](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n40405) | supine | 16 |
 | [armo](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n3697) | supine | 15 |
 | [placeo](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n36504) | supine | 1 |
-
 
 [Back to top.](#top)
 
