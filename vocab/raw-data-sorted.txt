@@ -1,6 +1,4 @@
 # source = https://github.com/neelsmith/hctexts/hyginus-data/lexeme-histogram-pos.txt
-
-# adjectives
 adjective,suus,ls.n47174,245
 adjective,primus,ls.n38340,56
 adjective,unus,ls.n49871,33
@@ -46,8 +44,6 @@ adjective,innocens,ls.n23557,1
 adjective,sanctus,ls.n42500,1
 adjective,proprius,ls.n38951,1
 adjective,meus,ls.n28988,1
-
-# adverbs
 adverb,hic,ls.n20640,161
 adverb,non,ls.n31151,88
 adverb,propter,ls.n38952,56
@@ -109,13 +105,9 @@ adverb,tamquam,ls.n47450,1
 adverb,fere,ls.n17940,1
 adverb,praeterquam,ls.n38100,1
 adverb,prius,ls.n38365,1
-
-# gerunds
 gerund,interficio,ls.n24257,162
 gerund,do1,ls.n14599,135
 gerund,testor,ls.n47983,2
-
-# indeclinable
 indeclinable,et,ls.n16278,935
 indeclinable,in1,ls.n22111,707
 indeclinable,cum1,ls.n11872,621
@@ -168,8 +160,6 @@ indeclinable,adversus2,ls.n1094,2
 indeclinable,secum,ls.n43263,2
 indeclinable,erga,ls.n16113,1
 indeclinable,donec,ls.n14731,1
-
-# infinitive
 infinitive,dico2,ls.n13804,204
 infinitive,facio,ls.n17516,151
 infinitive,sum1,lexent.n46529,120
@@ -210,8 +200,6 @@ infinitive,intendo,ls.n24136,2
 infinitive,perficio,ls.n34910,2
 infinitive,misceo,ls.n29242,2
 infinitive,abeo,lexent.n65,1
-
-# nouns
 noun,filius,ls.n18185,684
 noun,filia,ls.n18173,355
 noun,rex1,ls.n41625,147
@@ -347,9 +335,6 @@ noun,ministerium,ls.n29148,1
 noun,spes,ls.n44971,1
 noun,ordo,ls.n32947,1
 noun,concilium,ls.n9823,1
-
-# Participles
-
 participle,sum1,ls.n46529,636
 participle,venio,ls.n50442,158
 participle,occido1,ls.n32088,100
@@ -395,8 +380,6 @@ participle,laboro,ls.n25504,1
 participle,tendo,ls.n47751,1
 participle,percello,ls.n34686,1
 participle,incipio,ls.n22350,1
-
-# pronouns
 pronoun,qui1,ls.n40103,1136
 pronoun,is,ls.n25029,843
 pronoun,quis1,ls.n40242,836
@@ -409,15 +392,11 @@ pronoun,ego,ls.n15326,17
 pronoun,quisque,ls.n40248,13
 pronoun,tu,ls.n49339,10
 pronoun,aliquis,ls.n1874,8
-
-# supines
 supine,habeo,ls.n20077,83
 supine,vinco,ls.n50968,28
 supine,rapio,ls.n40405,16
 supine,armo,ls.n3697,15
 supine,placeo,ls.n36504,1
-
-# verbs
 verb,volo1,ls.n51298,75
 verb,coepio,ls.n8883,43
 verb,eo1,ls.n15868,39
