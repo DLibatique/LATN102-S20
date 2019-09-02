@@ -186,7 +186,7 @@ Below are some English examples where we would use the Latin imperfect (note the
 * Although the teacher told them to stop working, the students kept writing (*scrībēbant*) their exams.
 * Katie was being asked (*petēbātur*) to play Beyonce.
 
-So, the imperfect tense can be translated in various ways. You can never go wrong with "was/were _____ing" in the active and "was/were being _____ed": for example, "she was writing", "it was being written". You may on occasion see other translations of the imperfect, like "she kept writing", "she tried to write", or "she used to write."
+So, the imperfect tense can be translated in various ways. You can never go wrong with "was/were _____ing" in the active (e.g., "she was writing") and "was/were being _____ed" in the passive (e.g., "it was being written"). You may on occasion see other translations of the imperfect, like "she kept writing", "she tried to write", or "she used to write."
 
 ### <a name="impfform">Formation of the Imperfect Indicative</a>
 
