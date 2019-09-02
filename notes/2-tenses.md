@@ -157,6 +157,8 @@ From the dictionary entry, conjugate the verb in the 3rd person plural present i
 
 4. <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4"></span>
 
+5. <button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5"></span>
+
 
 [Back to top.](#top)
 
