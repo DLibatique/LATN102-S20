@@ -8,8 +8,7 @@ permalink: details-expectations-tips-DM
 
 ***
 
-[Course Expectations](#course-expectations) \| [Course Policies](#course-policies) \|  
-&nbsp;&nbsp;&nbsp;&nbsp;[Absence Policy](#absence-policy) \| [Academic Integrity](#academic-integrity) \| [Accommodations](#accommodations) \| [Statement of Diversity and Inclusivity](#statement-of-diversity-and-inclusivity) \| [Tips for Doing Well in the Course](#tips-for-doing-well-in-the-course) \|
+[Course Expectations](#course-expectations) \| [Course Policies](#course-policies) \|  [Absence Policy](#absence-policy) \| [Academic Integrity](#academic-integrity) \| [Accommodations](#accommodations) \| [Statement of Diversity and Inclusivity](#statement-of-diversity-and-inclusivity) \| [Tips for Doing Well in the Course](#tips-for-doing-well-in-the-course) \|
 
 ***
 
