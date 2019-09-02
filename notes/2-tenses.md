@@ -49,6 +49,8 @@ Here are some more English examples of the present tense, with the Latin equival
 * He writes (*scrībit*) a letter.
 * We are looking for (*petimus*) our friends.
 
+So, the present can be translated in various ways: in the third person singular active voice, as a simple present like "he gives", a present progressive like "he is giving", or an emphatic present like "he does give"; in the third person singular passive voice, "he is (being) given."
+
 ### <a name="pres12">Formation of the Present Indicative in the 1st and 2nd Conjugations</a>
 
 If you need the first person singular present active indicative form of the verb, you automatically have it from the **first principal part** of the dictionary entry. For example, with the verb *amō*, *amāre*, *amāvī*, *amātus*, "to love", the first principal part, *amō*, is your first person present active indicative form, which means "I love."
@@ -149,6 +151,22 @@ Note that often, one letter can make the difference, so it is imperative that yo
 
 From the dictionary entry, conjugate the verb in the 3rd person plural present indicative active and passive, and then translate the new form.
 
+1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">*mittunt*, "they send" or "they are sending" or "they do send"; *mittuntur*, "they are (being) sent"</span>
+
+2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">*vident*, "they see" or "they are seeing" or "they do see"; *videntur*, "they are (being) seen" or "they seem"</span>
+
+3. *dō*, *dare*, *dedī*, *datus* - to give  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">*dant*, "they give" or "they are giving" or "they do give"; *dantur*, "they are (being) given"</span>
+
+4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">*capiunt*, "they take" or "they are taking" or "they do take"; *capiuntur*, "they are (being) taken"</span>
+
+5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">*audiunt*, "they hear" or "they are hearing" or "they do hear"; *audiuntur*, "they are (being) heard"</span>
+
+
 [Back to top.](#top)
 
 ***
@@ -167,6 +185,8 @@ Below are some English examples where we would use the Latin imperfect (note the
 * They used to give (*dabant*) the football players free pizza on Friday.
 * Although the teacher told them to stop working, the students kept writing (*scrībēbant*) their exams.
 * Katie was being asked (*petēbātur*) to play Beyonce.
+
+So, the imperfect tense can be translated in various ways. You can never go wrong with "was/were _____ing" in the active and "was/were being _____ed": for example, "she was writing", "it was being written". You may on occasion see other translations of the imperfect, like "she kept writing", "she tried to write", or "she used to write."
 
 ### <a name="impfform">Formation of the Imperfect Indicative</a>
 
@@ -211,6 +231,21 @@ So if we wanted to form the 3rd person plural imperfect passive indicative of *v
 
 Find the present stem and form the 3rd person singular imperfect active and passive for the following verbs.
 
+1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">*mittēbat*, "he/she/it was sending"; *mittēbātur*, "he/she/it was being sent"</span>
+
+2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">*vidēbat*, "he/she/it was seeing"; *vidēbātur*, "he/she/it was being seen" or "he/she/it was seeming"</span>
+
+3. *dō*, *dare*, *dedī*, *datus* - to give  
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">*dābat*, "he/she/it was giving"; *dābātur*, "he/she/it was being given"</span>
+
+4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">*capiēbat*, "he/she/it was taking"; *capiēbātur*, "he/she/it was being taken"</span>
+
+5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">*audiēbat*, "he/she/it was hearing"; *audiēbātur*, "he/she/it was being heard"</span>
+
 [Back to top.](#top)
 
 ***
@@ -225,6 +260,8 @@ The **future tense** indicates that the action of a verb has yet to take place, 
 * They shall give (*dabunt*) free pizza to the students next week.
 * The teacher will write (*scrībet*) the exam tomorrow.
 * The songs shall be sung (*canentur*) by the choir next weekend.
+
+So, the future tense can be translated with the auxiliary verbs "will" or "shall": for example, "he will write" or "it will be written."
 
 ### <a name="fut12">Formation of the Future Tense in the 1st and 2nd Conjugations</a>
 
@@ -342,7 +379,23 @@ Analyze the word carefully in terms of spelling to determine what tense it is!
 
 ### Practice Opportunity
 
-Form the 3rd person plural future active and passive for the following verbs, and then translate each form.
+Form the 3rd person singular future active and passive for the following verbs, and then translate each form.
+
+1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">*mittet*, "he/she/it will send"; *mittētur*, "he/she/it will be sent"</span>
+
+2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">*vidēbit*, "he/she/it will see"; *vidēbitur*, "he/she/it will be seen" or "he/she/it will seem"</span>
+
+3. *dō*, *dare*, *dedī*, *datus* - to give  
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">*dābit*, "he/she/it will give"; *dābitur*, "he/she/it will be given"</span>
+
+4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
+<button onclick="toggleDisplay('prac14')">Click here to toggle the answer:</button> <span style="display: none;" id="prac14">*capiet*, "he/she/it will take"; *capiētur*, "he/she/it will be taken"</span>
+
+5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
+<button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">*audiet*, "he/she/it will hear"; *audiētur*, "he/she/it will be heard"</span>
+
 
 [Back to top.](#top)
 
@@ -362,6 +415,8 @@ Below are some English examples where we would use the Latin perfect:
 * They gave (*dedērunt*) the football players free pizza on Friday.
 * The students did write (*scrīpsērunt*) their exams.
 * Katie has been asked (*petīta est*) to play Beyonce.
+
+So, the perfect tense can be translated in various ways: in the perfect active, as a simple past tense ("he wrote"), a present perfect using "has/have" as an auxiliary verb ("he has written"), or an emphatic past tense with the auxiliary verb "did" ("he did write"); in the perfect passive, as a simple past tense like "it was written" or a present perfect like "it has been written."
 
 ### <a name="perfact">Formation of the Perfect Active Indicative</a>
 
@@ -389,6 +444,21 @@ So if we wanted to form the 3rd person singular perfect active indicative of *vi
 
 Find the perfect active stem and form the 3rd person singular perfect active for the following verbs.
 
+1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">*mīsērunt / mīsēre*, "they sent" or "they have sent" or "they did send"</span>
+
+2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
+<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">*vīdērunt / vīdēre*, "they saw" or "they have seen" or "they did see"</span>
+
+3. *dō*, *dare*, *dedī*, *datus* - to give  
+<button onclick="toggleDisplay('prac18')">Click here to toggle the answer:</button> <span style="display: none;" id="prac18">*dedērunt / dedēre*, "they gave" or "they have given" or "they did give"</span>
+
+4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
+<button onclick="toggleDisplay('prac19')">Click here to toggle the answer:</button> <span style="display: none;" id="prac19">*capiunt*, "they take"; *capiuntur*, "they are (being) taken" </span>
+
+5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
+<button onclick="toggleDisplay('prac20')">Click here to toggle the answer:</button> <span style="display: none;" id="prac20">*audiunt*, "they hear"; *audiuntur*, "they are (being) heard"</span>
+
 ### <a name="perfpass">Formation of the Perfect Passive Indicative</a>
 
 To form the **perfect passive indicative**, we need to find the perfect passive stem. To do this, we simply take the adjectival form of 4th principal part (the reason we need the adjectival form is because the verb must agree with its subject in number and gender).
@@ -400,7 +470,7 @@ To make the perfect passive indicative, we take the perfect passive stem and add
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
 | 1st   | vīsus/vīsa/vīsum* sum       |  vīsī/vīsae/vīsa sumus    |
-| 2nd  | vīsus/vīsa*/vīsum* es       | -vīsī/vīsae/vīsa estis       |
+| 2nd  | vīsus/vīsa*/vīsum* es       | vīsī/vīsae/vīsa estis       |
 | 3rd  | **vīsus/vīsa/vīsum est**        | **vīsī/vīsae/vīsa sunt**     |
 
 NB: Look at how the adjectival form changes as we go from singular to plural. Why does it happen?

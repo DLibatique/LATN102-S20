@@ -212,11 +212,11 @@ Below are some examples of how gerunds work in Latin sentence:
 - Rex **currendō** fūgit. (“The king fled **by running**.”)
 - **Ad scribendum** vēnit. (“He came **for the purpose of writing**.”)
 
-NB: *Ad* + the accusative gerund and *causa* + the genitive gerund are frequently used to express purpose.
+NB: *Ad* + the accusative gerund and *causā* / *gratiā* + the genitive gerund are frequently used to express purpose.
 
 ***
 
-#### Practice Opportunity
+### Practice Opportunity
 
 ***
 
@@ -244,6 +244,6 @@ The gerundive phrase is usually called a **gerund-replacing-gerundive** (**GRG**
 
 ***
 
-#### Practice Opportunity
+### Practice Opportunity
 
 ***
