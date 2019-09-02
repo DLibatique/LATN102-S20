@@ -43,6 +43,7 @@ Students who need accommodations should notify the instructor as soon as possibl
 It is my intent that students from all backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
 
 Because our course has a CBL component, it will also be incumbent on you to maintain these standards during school visits. You will be dealing with diverse set of populations, whose life experiences are, in many cases, different than your own. For support in these matters, you may find it useful to get in touch with [CBL office](https://www.holycross.edu/engaged-learning/donelan-office-community-based-learning/about-donelan-office).
+
 ***
 
 ## **Tips for Doing Well in the Course**
