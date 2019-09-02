@@ -442,22 +442,22 @@ So if we wanted to form the 3rd person singular perfect active indicative of *vi
 
 #### Practice Opportunity
 
-Find the perfect active stem and form the 3rd person singular perfect active for the following verbs.
+Form the 3rd person singular perfect active for the following verbs and translate the new form.
 
 1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
-<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">*mīsērunt / mīsēre*, "they sent" or "they have sent" or "they did send"</span>
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">*mīsit*, "he/she/it sent" or "he/she/it has sent" or "he/she/it did send"</span>
 
 2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
-<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">*vīdērunt / vīdēre*, "they saw" or "they have seen" or "they did see"</span>
+<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">*vīdit*, "he/she/it saw" or "he/she/it has seen" or "he/she/it did see"</span>
 
 3. *dō*, *dare*, *dedī*, *datus* - to give  
-<button onclick="toggleDisplay('prac18')">Click here to toggle the answer:</button> <span style="display: none;" id="prac18">*dedērunt / dedēre*, "they gave" or "they have given" or "they did give"</span>
+<button onclick="toggleDisplay('prac18')">Click here to toggle the answer:</button> <span style="display: none;" id="prac18">*dedit*, "he/she/it gave" or "he/she/it has given" or "he/she/it did give"</span>
 
 4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
-<button onclick="toggleDisplay('prac19')">Click here to toggle the answer:</button> <span style="display: none;" id="prac19">*cēpērunt / cēpēre*, "they took" or "they have taken" or "they did take"</span>
+<button onclick="toggleDisplay('prac19')">Click here to toggle the answer:</button> <span style="display: none;" id="prac19">*cēpit*, "he/she/it took" or "he/she/it has taken" or "he/she/it did take"</span>
 
 5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
-<button onclick="toggleDisplay('prac20')">Click here to toggle the answer:</button> <span style="display: none;" id="prac20">*audīvērunt / audīvēre*, "they heard" or "they have heard" or "they did hear"</span>
+<button onclick="toggleDisplay('prac20')">Click here to toggle the answer:</button> <span style="display: none;" id="prac20">*audīvit*, "he/she/it heard" or "he/she/it has heard" or "he/she/it did hear"</span>
 
 ### <a name="perfpass">Formation of the Perfect Passive Indicative</a>
 
@@ -465,7 +465,7 @@ To form the **perfect passive indicative**, we need to find the perfect passive 
 
 For instance in the verb *videō*, the fourth principal part is *vīsus* and thus our perfect passive stem is *vīsus*, *vīsa*, *vīsum*.
 
-To make the perfect passive indicative, we take the perfect passive stem and add the present indicative form of "to be" (*sum*, *esse*, *fui*) that matches the person and number of the verb. In the case of *videō*, it looks like this:
+To make the perfect passive indicative, we take the perfect passive stem and add the present indicative form of "to be" (*sum*, *esse*, *fui*, *futūrus*) that matches the person and number of the verb. In the case of *videō*, it looks like this:
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -477,7 +477,7 @@ NB: Look at how the adjectival form changes as we go from singular to plural. Wh
 
 #### Practice Opportunity
 
-Find the perfect passive stem and form the 3rd person plural perfect passive for the following verbs.
+Form the 3rd person plural perfect passive for the following verbs and translate the new form.
 
 1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
 <button onclick="toggleDisplay('prac21')">Click here to toggle the answer:</button> <span style="display: none;" id="prac21">*missī, missae, missa sunt*, "they were sent" or "they have been sent"</span>
