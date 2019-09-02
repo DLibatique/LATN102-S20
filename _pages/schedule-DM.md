@@ -24,13 +24,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, September 4
 - Inflection, Pronunciation, Word Order
 - Introduction to CBL (CBL office)
-- **Homework (due before class)**: Read the grading, key details, and schedule carefully
+- **Homework (due before class)**: Read the [expectations](https://dlibatique.github.io/LATN101-F19/details-expectations-tips-DM), [grading](https://dlibatique.github.io/LATN101-F19/grading-DM), and [schedule](https://dlibatique.github.io/LATN101-F19/schedule-DM) pages carefully
 
 ### Friday, September 6
 - Nouns: Gender, Case, and Number; 1st, 2nd, and 3rd Declensions; Nominative, Genitive  
 - Adjectives: Noun-Adjective Agreement, Demonstrative, Possessives
 - *Est*, *Sunt*
-- **Homework (due before class)**: Read ()
+- **Homework (due before class)**: Read and study the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and begin to familiarize yourself with [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts.
 
 [Back to top.](#top)
 
@@ -40,11 +40,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, September 9
 - Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions, -ius Adjectives
-- **Homework (due before class)**: Read () and study for quiz #1
+- **Homework (due before class)**: Review the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and study the [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts for quiz #1.
 
 ### Wednesday, September 11
 - Adjectives: Intensifying Adjectives, Substantives  
-- **Homework (due before class)**: Read (), study for quiz #2, **Translation #1 Due**  
+- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) for quiz #2, **Translation #1 Due**  
 
 ### Friday, September 13
 - Review
