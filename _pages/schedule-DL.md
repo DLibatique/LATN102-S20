@@ -26,7 +26,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Introduction to Latin - Inflection, Word Order
 
 ### Friday, September 6
-- Nouns: Gender, Case, and Number; 1st, 2nd, and 3rd Declensions; Nominative, Genitive  
+- Nouns: Gender, Case, and Number; 1st, 2nd, and 3rd Declensions; [Nominative, Genitive](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#case-usages---nominative-and-genitive)  
 - Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions
 - *Est*, *Sunt*
 
@@ -94,15 +94,17 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 5
 
 ### Monday, September 30
-- Verbs: Infinitives  
-- *possum*, *posse*, *potuī*  
+- Prepositions  
+- Expressions of Place (Accusative of Motion Toward, Accusative of Extent of Space, Ablative of Place Where, Ablative of Motion From)  
+- Expressions of Time (Ablative of Time Within Which, Accusative of Extent/Duration of Time)  
 - Translation #2 Revision Due
 
 ### Wednesday, October 2
-- Questions: Interrogative Adjective/Pronoun, Particles
+- Verbs: Infinitives  
+- *possum*, *posse*, *potuī*  
 
 ### Friday, October 4
-- Deponent Verbs  
+- Gerunds and Gerundives
 - Composition #2 Revision Due
 
 [Back to top.](#top)
@@ -112,13 +114,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 6
 
 ### Monday, October 7
-- Personal Pronouns  
+- Gerunds and Gerundives
 - Translation #3 Due
 
 ### Wednesday, October 9
-- Prepositions  
-- Expressions of Place (Accusative of Motion Toward, Accusative of Extent of Space, Ablative of Place Where, Ablative of Motion From)  
-- Expressions of Time (Ablative of Time Within Which, Accusative of Extent/Duration of Time)  
+- Questions: Interrogative Adjective/Pronoun, Particles
 - Composition Workshop
 
 ### Friday, October 11
@@ -213,10 +213,10 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Translation #5 Revision Due
 
 ### Wednesday, November 20
-- Reflexive Pronoun
+- Personal Pronoun
 
 ### Friday, November 22
-- Gerunds and Gerundives  
+- Reflexive Pronoun
 - Composition #5 Revision Due
 
 [Back to top.](#top)
@@ -226,7 +226,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 12.1
 
 ### Monday, November 25
-- 4th and 5th Declension
+- Review and Practice
 
 [Back to top.](#top)
 
@@ -247,7 +247,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Composition Workshop
 
 ### Friday, December 6
-- Review and Practice  
+- Deponent Verbs
 - Composition #6 Due
 
 [Back to top.](#top)
