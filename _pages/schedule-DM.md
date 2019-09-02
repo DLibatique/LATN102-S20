@@ -165,7 +165,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, October 28
 - Verbs: Present Active and Passive Indicative
-- **Homework (due before class)**: Read the section on the [present indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-present-tense) and familiarize yourself with its [morphology]((https://dlibatique.github.io/LATN101-F19/charts/2-pres-ind/) for quiz #19
+- **Homework (due before class)**: Read the section on the [present indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-present-tense) and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-ind/) for quiz #19
 
 ### Wednesday, October 30
 - Verbs: Future Active and Passive Indicative
