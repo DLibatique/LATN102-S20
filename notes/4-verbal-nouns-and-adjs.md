@@ -180,7 +180,7 @@ Like the infinitive, **gerunds** are neuter singular verbal nouns. However, whil
 
 The gerund is formed using the second principal part. In the case of the 1st, 2nd, and 3rd conjugations, we take the present stem (the infinitive minus *-re*) and add *-nd* to form the gerund stem:
 
-amō, amāre, amāvī, amātus -> amā- -> ama-nd-
+- amō, amāre, amāvī, amātus --> amā- --> ama-nd-
 
 We, then, add the appropriate 2nd declension neuter singular case endings to form the gerund:
 
@@ -194,7 +194,7 @@ We, then, add the appropriate 2nd declension neuter singular case endings to for
 
 In the case of the 3rd -io and 4th conjugations, we take the present stem (the infinitive minus *-re*) and add *-iend* to form the gerund stem:
 
-capiō, capere, cēpī, captus -> cap- -> cap-iend-
+- capiō, capere, cēpī, captus --> cap- --> cap-iend-
 
 We, then, add the appropriate 2nd declension neuter singular case endings to form the gerund:
 
@@ -208,9 +208,9 @@ We, then, add the appropriate 2nd declension neuter singular case endings to for
 
 Below are some examples of how gerunds work in Latin sentence:
 
-Ars **legendī** est bona animō. (“The art **of reading** is good for the soul.”)
-Rex **currendō** fūgit. (“The king fled **by running**.”)
-**Ad scribendum** vēnit. (“He came **for the purpose of writing**.”)
+- Ars **legendī** est bona animō. (“The art **of reading** is good for the soul.”)
+- Rex **currendō** fūgit. (“The king fled **by running**.”)
+- **Ad scribendum** vēnit. (“He came **for the purpose of writing**.”)
 
 NB: *Ad* + the accusative gerund and *causa* + the genitive gerund are frequently used to express purpose.
 
@@ -226,15 +226,15 @@ What if, in the example, *ars legendī est bona animō* mentioned above, we want
 
 The simplest solution would seem to be adding a direct object after the gerund:
 
-Ars **legendī librōs** est bona animō (“The art **of reading books** is good for the soul.”)
+- Ars **legendī librōs** est bona animō (“The art **of reading books** is good for the soul.”)
 
 However, for some reason, Latin does not like using this construction and instead prefers to use a **gerundive** phrase instead. A gerundive is a verbal *adjective* that looks very much like a gerund. It has the same stem as a gerund, but it can appear in any case, number, and gender and is declined as a 2-1-2 adjective:
 
-amō, amāre, amāvī, amātus -> amā- -> ama-nd--> amandus, amanda, amandum
+- amō, amāre, amāvī, amātus --> amā- --> ama-nd- --> amandus, amanda, amandum
 
 In a gerundive phrase, the gerundive agrees with the noun that would have been the direct object in number and gender and takes its case from its role in the sentence. In the example above, *ars legendī librōs* would be expressed as follows using a gerundive phrase:
 
-Ars **legendōrum librōrum** (explanatory genitive with ars, masculine and plural from librōs) = the art of reading books
+- Ars **legendōrum librōrum** (explanatory genitive with ars, masculine and plural from librōs) = the art of reading books
 
 The gerundive phrase is usually called a **gerund-replacing-gerundive** (**GRG** for short). When translating GRGs, the gerundive is translated just like a gerund and the noun that agrees with it as its a direct object. Below are a few examples:
 
