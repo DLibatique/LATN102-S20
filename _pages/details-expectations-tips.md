@@ -13,7 +13,7 @@ permalink: details-expectations-tips-DM
 
 ***
 
-## **Course Expectations**
+## Course Expectations
 
 Latin 101 is the first course in a two-semester introduction to the Latin language. The goal by the end of the year is to read Classical Latin, and in Latin 101 we will cover most of Latin morphology and a good deal of Latin syntax. Alongside our study of the Latin language, we will also have frequent discussions about Latin culture and history through examination of ancient coins, manuscripts, and inscriptions.
 The course will use a flipped classroom and active learning pedagogy. What that means is that you will be responsible for previewing the material that we will cover in class ahead of time. You will read the relevant grammatical overviews and familiarize yourself with basic morphology and vocabulary before coming to class. I will keep you to this by giving you a short, simple quiz at the beginning of class. Class time will be spent employing your newly developed knowledge through a variety of activities that explore the finer points of the material and answering lingering questions about the material. My role is to facilitate your learning rather than to dictate how you do it.
@@ -24,21 +24,21 @@ Finally, this course is CBL (community-based learning) designate class. As such,
 
 ***
 
-## **Course Policies**
+## Course Policies
 
-### **Absence Policy**
+### Absence Policy
 
 If you miss or are going to miss class, please e-mail me to let me know what is going on. That way we can work together to ensure that you can stay up-to-date with what’s going on with the class. Should your absence fall under the college’s policy on excused absence, as described [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext), you will have an opportunity to make up any missed assessments.
 
-### **Academic Integrity**
+### Academic Integrity
 
 You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on any assignment (for instance, using unauthorized notes to help answer questions, copying another student’s answers, or employing online translation programs) will result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
 
-### **Accommodations**
+### Accommodations
 
 Students who need accommodations should notify the instructor as soon as possible and work through the [Office of Accessibility Services](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services).
 
-### **Statement of Diversity and Inclusivity**
+### Statement of Diversity and Inclusivity
 
 It is my intent that students from all backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
 
@@ -46,7 +46,7 @@ Because our course has a CBL component, it will also be incumbent on you to main
 
 ***
 
-## **Tips for Doing Well in the Course**
+## Tips for Doing Well in the Course
 
 Below are list of best practices based on the behavior of students have done well in previous iterations of the course:
 
