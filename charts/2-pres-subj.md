@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Present Indicative (Active and Passive) - Charts
+title: Present Subjunctive (Active and Passive) - Charts
 ---
 
 ***
@@ -10,9 +10,9 @@ title: Present Indicative (Active and Passive) - Charts
 
 ***
 
-## <a name="presact">Present Active Indicative</a>
+## <a name="presact">Present Active Subjunctive</a>
 
-The charts below will show full charts for the present active indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the present active subjunctive of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### <a name="1stact">First Conjugation</a>
 
@@ -20,9 +20,9 @@ The charts below will show full charts for the present active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | amō       | amāmus      |
-| 2nd  | amās        | amātis       |
-| 3rd  | **amat**        | **amant**     |
+| 1st   | amem       | amēmus      |
+| 2nd  | amēs        | amētis       |
+| 3rd  | **amet**        | **ament**     |
 
 ### <a name="2ndact">Second Conjugation</a>
 
@@ -30,9 +30,9 @@ The charts below will show full charts for the present active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | videō       | vidēmus      |
-| 2nd  | vidēs        | vidētis       |
-| 3rd  | **videt**        | **vident**     |
+| 1st   | videam       | videāmus      |
+| 2nd  | videās        | videātis       |
+| 3rd  | **videat**        | **videant**     |
 
 ### <a name="3rdact">Third Conjugation</a>
 
@@ -40,9 +40,9 @@ The charts below will show full charts for the present active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | ducō       | ducimus      |
-| 2nd  | ducis        | ducitis       |
-| 3rd  | **ducit**        | **ducunt**     |
+| 1st   | dūcam       | dūcāmus      |
+| 2nd  | dūcās        | dūcātis       |
+| 3rd  | **dūcat**        | **dūcant**     |
 
 ### <a name="3rdioact">Third -iō Conjugation</a>
 
@@ -50,9 +50,9 @@ The charts below will show full charts for the present active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | capiō       | capimus      |
-| 2nd  | capis        | capitis       |
-| 3rd  | **capit**        | **capiunt**     |
+| 1st   | capiam       | capiāmus      |
+| 2nd  | capiās        | capiātis       |
+| 3rd  | **capiat**        | **capiant**     |
 
 ### <a name="4thact">Fourth Conjugation</a>
 
@@ -60,9 +60,9 @@ The charts below will show full charts for the present active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | audiō       | audīmus      |
-| 2nd  | audīs        | audītis       |
-| 3rd  | **audit**        | **audiunt**     |
+| 1st   | audiam       | audiāmus      |
+| 2nd  | audiās        | audiātis       |
+| 3rd  | **audiat**        | **audiant**     |
 
 ### <a name="sum">*Sum*</a>
 
@@ -70,9 +70,9 @@ The charts below will show full charts for the present active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | sum       | sumus      |
-| 2nd  | es        | estis       |
-| 3rd  | **est**        | **sunt**     |
+| 1st   | sim       | sīmus      |
+| 2nd  | sīs        | sītis       |
+| 3rd  | **sit**        | **sint**     |
 
 ### <a name="possum">*Possum*</a>
 
@@ -80,9 +80,9 @@ The charts below will show full charts for the present active indicative of each
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | possum       | possumus      |
-| 2nd  | potes        | potestis       |
-| 3rd  | **potest**        | **possunt**     |
+| 1st   | possim       | possīmus      |
+| 2nd  | possīs        | possītis       |
+| 3rd  | **possit**        | **possint**     |
 
 NB: *Possum* is conjugated very similarly to *sum*.
 
@@ -90,9 +90,9 @@ NB: *Possum* is conjugated very similarly to *sum*.
 
 ***
 
-## <a name="prespass">Present Passive Indicative</a>
+## <a name="prespass">Present Passive Subjunctive</a>
 
-The charts below will show full charts for the present passive indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the present passive subjunctive of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### <a name="1stpass">First Conjugation</a>
 
@@ -100,9 +100,9 @@ The charts below will show full charts for the present passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | amor       | amāmur      |
-| 2nd  | amāris        | amāminī       |
-| 3rd  | **amātur**        | **amantur**     |
+| 1st   | amer       | amēmur      |
+| 2nd  | amēris        | amēminī       |
+| 3rd  | **amētur**        | **amentur**     |
 
 ### <a name="2ndpass">Second Conjugation</a>
 
@@ -110,9 +110,9 @@ The charts below will show full charts for the present passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | videor       | vidēmur      |
-| 2nd  | vidēris        | vidēminī       |
-| 3rd  | **vidētur**        | **videntur**     |
+| 1st   | videar       | videāmur      |
+| 2nd  | videāris        | videāminī       |
+| 3rd  | **videātur**        | **videantur**     |
 
 ### <a name="3rdpass">Third Conjugation</a>
 
@@ -120,9 +120,9 @@ The charts below will show full charts for the present passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | ducor       | ducimur      |
-| 2nd  | duceris        | duciminī       |
-| 3rd  | **ducitur**        | **ducuntur**     |
+| 1st   | dūcar       | dūcāmur      |
+| 2nd  | dūcāris        | dūcāminī       |
+| 3rd  | **dūcātur**        | **dūcantur**     |
 
 ### <a name="3rdiopass">Third -iō Conjugation</a>
 
@@ -130,9 +130,9 @@ The charts below will show full charts for the present passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | capior       | capimur      |
-| 2nd  | caperis        | capiminī       |
-| 3rd  | **capitur**        | **capiuntur**     |
+| 1st   | capiar       | capiāmur      |
+| 2nd  | capiāris        | capiāminī       |
+| 3rd  | **capiātur**        | **capiantur**     |
 
 ### <a name="4thpass">Fourth Conjugation</a>
 
@@ -140,9 +140,9 @@ The charts below will show full charts for the present passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | audior       | audīmur      |
-| 2nd  | audīris        | audīminī       |
-| 3rd  | **audītur**        | **audiuntur**     |
+| 1st   | audiar       | audiāmur      |
+| 2nd  | audiāris        | audiāminī       |
+| 3rd  | **audiātur**        | **audiantur**     |
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
 

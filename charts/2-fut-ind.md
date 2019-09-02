@@ -64,7 +64,7 @@ The charts below will show full charts for the future active indicative of each 
 | 2nd  | audiēs        | audiētis       |
 | 3rd  | **audiet**        | **audient**     |
 
-### <a name="sum">*Sum* (the highly irregular Latin verb that means "to be")</a>
+### <a name="sum">*Sum*</a>
 
 *sum*, *esse*, *fuī*, *futūrus* - to be
 
@@ -74,7 +74,7 @@ The charts below will show full charts for the future active indicative of each 
 | 2nd  | eris        | eritis       |
 | 3rd  | **erit**        | **erunt**     |
 
-### <a name="possum">*Possum* (the highly irregular Latin verb that means "to be able")</a>
+### <a name="possum">*Possum*</a>
 
 *possum*, *posse*, *potuī* - to be able
 

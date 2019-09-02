@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Imperfect Indicative (Active and Passive) - Charts
+title: Imperfect Subjunctive (Active and Passive) - Charts
 ---
 
 ***
@@ -10,9 +10,9 @@ title: Imperfect Indicative (Active and Passive) - Charts
 
 ***
 
-## <a name="impfact">Imperfect Active Indicative</a>
+## <a name="impfact">Imperfect Active Subjunctive</a>
 
-The charts below will show full charts for the imperfect active indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the imperfect active subjunctive of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### <a name="1stact">First Conjugation</a>
 
@@ -20,9 +20,9 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | amābam       | amābāmus      |
-| 2nd  | amābās        | amābātis       |
-| 3rd  | **amābat**        | **amābant**     |
+| 1st   | amārem       | amārēmus      |
+| 2nd  | amārēs        | amārētis       |
+| 3rd  | **amāret**        | **amārent**     |
 
 ### <a name="2ndact">Second Conjugation</a>
 
@@ -30,9 +30,9 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | vidēbam       | vidēbāmus      |
-| 2nd  | vidēbās        | vidēbātis       |
-| 3rd  | **vidēbat**        | **vidēbant**     |
+| 1st   | vidērem       | vidērēmus      |
+| 2nd  | vidērēs        | vidērētis       |
+| 3rd  | **vidēret**        | **vidērent**     |
 
 ### <a name="3rdact">Third Conjugation</a>
 
@@ -40,9 +40,9 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | ducēbam       | ducēbāmus      |
-| 2nd  | ducēbās        | ducēbātis       |
-| 3rd  | **ducēbat**        | **ducēbant**     |
+| 1st   | dūcerem       | dūcerēmus      |
+| 2nd  | dūcerēs        | dūcerētis       |
+| 3rd  | **dūceret**        | **dūcerent**     |
 
 ### <a name="3rdioact">Third -iō Conjugation</a>
 
@@ -50,9 +50,9 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | capiēbam       | capiēbāmus      |
-| 2nd  | capiebās        | capiēbātis       |
-| 3rd  | **capiēbat**        | **capiēbant**     |
+| 1st   | caperem       | caperēmus      |
+| 2nd  | caperēs        | caperētis       |
+| 3rd  | **caperet**        | **caperent**     |
 
 ### <a name="4thact">Fourth Conjugation</a>
 
@@ -60,9 +60,9 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | audiēbam       | audiēbāmus      |
-| 2nd  | audiebās        | audiēbātis       |
-| 3rd  | **audiēbat**        | **audiēbant**     |
+| 1st   | audīrem       | audīrēmus      |
+| 2nd  | audīrēs        | audīrētis       |
+| 3rd  | **audīret**        | **audīrent**     |
 
 ### <a name="sum">*Sum*</a>
 
@@ -70,9 +70,9 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | eram       | erāmus      |
-| 2nd  | erās        | erātis       |
-| 3rd  | **erat**        | **erānt**     |
+| 1st   | essem       | essēmus      |
+| 2nd  | essēs        | essētis       |
+| 3rd  | **esset**        | **essent**     |
 
 ### <a name="possum">*Possum*</a>
 
@@ -80,9 +80,9 @@ The charts below will show full charts for the imperfect active indicative of ea
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | poteram       | poterāmus      |
-| 2nd  | poterās        | poterātis       |
-| 3rd  | **poterat**        | **poterant**     |
+| 1st   | possem       | possēmus      |
+| 2nd  | possēs        | possētis       |
+| 3rd  | **posset**        | **possent**     |
 
 NB: *Possum* is conjugated very similarly to *sum*.
 
@@ -90,9 +90,9 @@ NB: *Possum* is conjugated very similarly to *sum*.
 
 ***
 
-## <a name="impfpass">Imperfect Passive Indicative</a>
+## <a name="impfpass">Imperfect Passive Subjunctive</a>
 
-The charts below will show full charts for the imperfect passive indicative of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
+The charts below will show full charts for the imperfect passive subjunctive of each verb. Focus on the **bolded** 3rd person singular and plural forms for these first few weeks of the semester; we will learn about the first and second persons in later weeks.
 
 ### <a name="1stpass">First Conjugation</a>
 
@@ -100,9 +100,9 @@ The charts below will show full charts for the imperfect passive indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | amābar       | amābāmur      |
-| 2nd  | amābāris        | amābāminī       |
-| 3rd  | **amābātur**        | **amābantur**     |
+| 1st   | amārer       | amārēmur      |
+| 2nd  | amārēris        | amārēminī       |
+| 3rd  | **amārētur**        | **amārentur**     |
 
 ### <a name="2ndpass">Second Conjugation</a>
 
@@ -110,9 +110,9 @@ The charts below will show full charts for the imperfect passive indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | vidēbar       | vidēbāmur      |
-| 2nd  | vidēbāris        | vidēbāminī       |
-| 3rd  | **vidēbātur**        | **vidēbantur**     |
+| 1st   | vidērer       | vidērēmur      |
+| 2nd  | vidērēris        | vidērēminī       |
+| 3rd  | **vidērētur**        | **vidērentur**     |
 
 ### <a name="3rdpass">Third Conjugation</a>
 
@@ -120,9 +120,9 @@ The charts below will show full charts for the imperfect passive indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | ducēbar       | ducēbāmur      |
-| 2nd  | ducēbāris        | ducēbāminī       |
-| 3rd  | **ducēbātur**        | **ducēbantur**     |
+| 1st   | dūcerer       | dūcerēmur      |
+| 2nd  | dūcerēris        | dūcerēminī       |
+| 3rd  | **dūcerētur**        | **dūcerentur**     |
 
 ### <a name="3rdiopass">Third -iō Conjugation</a>
 
@@ -130,9 +130,9 @@ The charts below will show full charts for the imperfect passive indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | capiēbar       | capiēbāmur      |
-| 2nd  | capiebāris        | capiēbāminī       |
-| 3rd  | **capiēbātur**        | **capiēbantur**     |
+| 1st   | caperer       | caperēmur      |
+| 2nd  | caperēris        | caperēminī       |
+| 3rd  | **caperētur**        | **caperentur**     |
 
 ### <a name="4thpass">Fourth Conjugation</a>
 
@@ -140,9 +140,9 @@ The charts below will show full charts for the imperfect passive indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | audiēbar       | audiēbāmur      |
-| 2nd  | audiebāris        | audiēbāminī       |
-| 3rd  | **audiēbātur**        | **audiēbantur**     |
+| 1st   | audīrer       | audīrēmur      |
+| 2nd  | audīrēris        | audīrēminī       |
+| 3rd  | **audīrētur**        | **audīrentur**     |
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
 

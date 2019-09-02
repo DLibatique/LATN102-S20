@@ -64,7 +64,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | audīvistī        | audīvistis       |
 | 3rd  | **audīvit**        | **audīvērunt/audīvēre**     |
 
-### <a name="sum">*Sum* (the highly irregular Latin verb that means "to be")</a>
+### <a name="sum">*Sum*</a>
 
 *sum*, *esse*, *fuī*, *futūrus* - to be
 
@@ -74,7 +74,7 @@ The charts below will show full charts for the perfect active indicative of each
 | 2nd  | fuistī        | fuistis       |
 | 3rd  | **fuit**        | **fuērunt/fuēre**     |
 
-### <a name="possum">Possum (the highly irregular Latin verb that means "to be able")</a>
+### <a name="possum">Possum</a>
 
 *possum*, *posse*, *potuī* - to be able
 
