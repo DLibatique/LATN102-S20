@@ -15,7 +15,7 @@ title: Module 4 - Verbal Nouns and Adjectives
 
 [Gerunds](#gerunds)\| [Practice Opportunity](#practice-opportunity-3)
 
-[GRGs(Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives)\| [Practice Opportunity](#practice-opportunity-4)
+[GRGs (Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives)\| [Practice Opportunity](#practice-opportunity-4)
 
 ***
 
