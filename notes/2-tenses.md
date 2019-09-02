@@ -149,15 +149,20 @@ Note that often, one letter can make the difference, so it is imperative that yo
 
 From the dictionary entry, conjugate the verb in the 3rd person plural present indicative active and passive, and then translate the new form.
 
-1. <button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1"></span>
+1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">*mittunt*, "they send"; *mittuntur*, "they are (being) sent"</span>
 
-2. <button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2"></span>
+2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">*vident*, "they see"; *videntur*, "they are (being) seen" or "they seem"</span>
 
-3. <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3"></span>
+3. *dō*, *dare*, *dedī*, *datus* - to give  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">*dant*, "they give"; *dantur*, "they are (being) given"</span>
 
-4. <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4"></span>
+4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">*capiunt*, "they take"; *capiuntur*, "they are (being) taken"</span>
 
-5. <button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5"></span>
+5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">*audiunt*, "they hear"; *audiuntur*, "they are (being) heard"</span>
 
 
 [Back to top.](#top)
@@ -353,7 +358,23 @@ Analyze the word carefully in terms of spelling to determine what tense it is!
 
 ### Practice Opportunity
 
-Form the 3rd person plural future active and passive for the following verbs, and then translate each form.
+Form the 3rd person singular future active and passive for the following verbs, and then translate each form.
+
+1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">*mittet*, "he/she/it will send"; *mittētur*, "he/she/it will be sent"</span>
+
+2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">*vidēbit*, "he/she/it will see"; *vidēbitur*, "he/she/it will be seen" or "he/she/it will seem"</span>
+
+3. *dō*, *dare*, *dedī*, *datus* - to give  
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">*dābit*, "he/she/it will give"; *dābitur*, "he/she/it will be given"</span>
+
+4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
+<button onclick="toggleDisplay('prac14')">Click here to toggle the answer:</button> <span style="display: none;" id="prac14">*capiet*, "he/she/it will take"; *capiētur*, "he/she/it will be taken"</span>
+
+5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
+<button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">*audiet*, "he/she/it will hear"; *audiētur*, "he/she/it will be heard"</span>
+
 
 [Back to top.](#top)
 
