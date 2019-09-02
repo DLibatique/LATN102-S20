@@ -25,6 +25,8 @@ Finally, this course is CBL (community-based learning) designate class. As such,
 
 ## Course Policies
 
+Below you will find all of my official policies as well as relevant links to the college's official policies on these matters.
+
 ### Absence Policy
 
 If you miss or are going to miss class, please e-mail me to let me know what is going on. That way we can work together to ensure that you can stay up-to-date with what’s going on with the class. Should your absence fall under the college’s policy on excused absence, as described [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext), you will have an opportunity to make up any missed assessments.
