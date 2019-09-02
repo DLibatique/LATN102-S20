@@ -71,7 +71,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, September 20
 - Verbs: Sum
 - Sentence Type 1: Transitive (plus Accusative Direct Object, Dative Indirect Object)
-- **Homework (due before class)**: Read () and study for quiz #6
+- **Homework (due before class)**: Read the section on [transitive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#transitive-sentences) and consult the morphology [charts](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) for the formation of the accusative and dative and the verb *sum* for quiz #6
 
 [Back to top.](#top)
 
@@ -82,16 +82,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 23
 - Verbs: Possum, Infinitives
 - Sentence Type 4: Linking Sentence (review)
-- **Homework (due before class)**: Read () and study for quiz #7
+- **Homework (due before class)**: Read the section on [infinitives](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives), consult the morphology charts for the verb *possum* and review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #7
 
 ### Wednesday, September 25
 -  Adverbial Phrases: Prepositions
-- **Homework (due before class)**: Read (), study for quiz #8, **Translation #2 Due**
+- **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) for quiz #8, **Translation #2 Due**
 
 ### Friday, September 27
 - Review
 - Composition Workshop
-- **Homework (due before class)**: Review for quiz #9 and prepare composition for workshop
+- **Homework (due before class)**: Review for quiz #9 (topic TBD) and prepare composition for workshop
 
 [Back to top.](#top)
 
@@ -102,17 +102,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 30
 - Review  
 - CBL Visit  
-- **Homework (due before class)**: Review for quiz #10, **Composition #2 Due**
+- **Homework (due before class)**: Review for quiz #10 (topic TBD), **Composition #2 Due**
 
 ### Wednesday, October 2
 - Review
 - CBL Prep Time
-- **Homework (due before class)**: Review for quiz #11 and prepare CBL materials
+- **Homework (due before class)**: Review for quiz #11 (topic TBD) and prepare CBL materials
 
 ### Friday, October 4
 - Review
 - Reading Practice  
-- **Homework (due before class)**: Review for quiz #12, **Group CBL Materials Due**
+- **Homework (due before class)**: Review for quiz #12 (topic TBD), **Group CBL Materials Due**
 
 [Back to top.](#top)
 
@@ -123,17 +123,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, October 7
 - Adverbial Phrases: Expressions of Place
 - Reading Practice  
-- **Homework (due before class)**: Read () and study for quiz #13
+- **Homework (due before class)**: Read [expressions of place](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-place) and study for quiz #13
 
 ### Wednesday, October 9
 - Adverbial Phrases: Expressions of Time
 - Reading Practice  
-**Homework (due before class)**: Read () and study for quiz #14
+**Homework (due before class)**: Read [expressions of time](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-time) and study for quiz #14
 
 ### Friday, October 11
 - Review
 - Composition Workshop
-- **Homework (due before class)**: Review for quiz #15, **Translation #3 due**
+- **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/3/) for quiz #15, **Translation #3 due**
 
 [Back to top.](#top)
 
@@ -146,16 +146,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 7
 
 ### Monday, October 21
-- Gerunds, Gerundives, and GRGs
-- **Homework (due before class)**: Read () and study for quiz #16, **Composition #3 due**
+- Gerunds and GRGs
+- **Homework (due before class)**: Read the sections on [gerunds](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#gerunds) and [GRGs](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) for quiz #16, **Composition #3 due**
 
 ### Wednesday, October 23
-- Gerunds, Gerundives, and GRGs
-- **Homework (due before class)**: Review for quiz #17
+- Gerundives
+- **Homework (due before class)**: Read the section on gerundives and review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/4/) for quiz #17
 
 ### Friday, October 25
 - Questions: Interrogative Adjectives and Pronouns, Particles
-- **Homework (due before class)**: Read () and study for quiz #18
+- **Homework (due before class)**: Read and study the sections on interrogative adjectives and pronouns for quiz #18
 
 [Back to top.](#top)
 
@@ -165,16 +165,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, October 28
 - Verbs: Present Active and Passive Indicative
-- **Homework (due before class)**: Read () and study for quiz #19
+- **Homework (due before class)**: Read the section on the [present indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-present-tense) and familiarize yourself with its [morphology]((https://dlibatique.github.io/LATN101-F19/charts/2-pres-ind/) for quiz #19
 
 ### Wednesday, October 30
 - Verbs: Future Active and Passive Indicative
-- **Homework (due before class)**: Read () and study for quiz #20
+- **Homework (due before class)**: Read the section on the [future indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-future-tense) and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-fut-ind/) for quiz #20
 
 ### Friday, November 1
 - Verbs: Present Active and Passive Subjunctive  
 - Questions: Deliberative Subjunctive  
-- **Homework (due before class)**: Read () and study for quiz #21, **Translation #4 due**
+- **Homework (due before class)**: Read the section on the deliberative subjunctive and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) for quiz #21, **Translation #4 due**
 
 [Back to top.](#top)
 
@@ -185,17 +185,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, November 4
 - Verbs: Imperfect Active and Passive Subjunctive
 - Composition Workshop  
-- **Homework (due before class)**: Read (), study for quiz #22, and prepare composition for workshop
+- **Homework (due before class)**: Familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-subj/) of the imperfect subjunctive for quiz #22, and prepare composition for workshop
 
 ### Wednesday, November 6
 - Review
 - CBL Visit  
-- **Homework (due before class)**: Read () and study for quiz #23, **Composition #4 due**
+- **Homework (due before class)**: Review vocabulary for quiz #23, **Composition #4 due**
 
 ### Friday, November 8
 - Orders: Jussive Subjunctive
 - CBL Prep Time
-- **Homework (due before class)**: Read () and study for quiz #24
+- **Homework (due before class)**: Read the section on the jussive subjunctive and study for quiz #24
 
 [Back to top.](#top)
 
@@ -206,16 +206,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, November 11
 - Orders: Hortatory Subjunctive
 - Verbs: The first person
-- **Homework (due before class)**: Read () and study for quiz #25, **Group CBL Materials Due**
+- **Homework (due before class)**: Read the section on the hortatory subjunctive and familiarize yourself with first person verb forms for quiz #25, **Group CBL Materials Due**
 
 ### Wednesday, November 13
 - Orders: Imperatives and the Prohibitive Subjunctive
 - Verbs: The second person
-- **Homework (due before class)**: Read () and study for quiz #26
+- **Homework (due before class)**: Read the section on imperatives and the prohibitve subjunctive and familiarize yourself with second person verb forms for quiz #26
 
 ### Friday, November 15
 - Pronouns: Personal pronouns and reflexives
-- **Homework (due before class)**: Read () and study for quiz #27; **Translation #5 due**
+- **Homework (due before class)**: Read the section on personal pronouns and reflexives and familiarize yourself with their morphology for quiz #27; **Translation #5 due**
 
 [Back to top.](#top)
 
@@ -226,17 +226,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, November 18
 - Review
 - Composition Workshop
-- **Homework (due before class)**: Review for quiz #28 and prepare composition for workshop
+- **Homework (due before class)**: Review for vocabulary for quiz #28 and prepare composition for workshop
 
 
 ### Wednesday, November 20
 - Indirect Statement
-- **Homework (due before class)**: Read () and study for quiz #29, **Composition 5 due**
+- **Homework (due before class)**: Read the section on indirect statement for quiz #29, **Composition 5 due**
 
 ### Friday, November 22
 - Indirect Command
 - Verbs: Perfect Active and Passive Subjunctive
-- **Homework (due before class)**: Read () and study for quiz #30
+- **Homework (due before class)**: Read the section on indirect command and familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/) of the perfect subjunctive for quiz #30
 
 [Back to top.](#top)
 
@@ -247,7 +247,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, November 25
 - Indirect Question
 - Verbs: Pluperfect Active and Passive Subjunctive
-- **Homework (due before class)**: Read () and study for quiz #31
+- **Homework (due before class)**: Read the section on indirect question and familiarize yourself with the morphology of the pluperfect subjunctive for quiz #31
 
 [Back to top.](#top)
 
@@ -261,16 +261,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, December 2
 - Irregular Verbs: *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
-- **Homework (due before class)**: Read () and study for quiz #32, **Translation #6 Due**
+- **Homework (due before class)**: Review the morphology of these irregular verbs for quiz #32, **Translation #6 Due**
 
 ### Wednesday, December 4
 - Review
 - Composition Workshop
-**Homework (due before class)**: Review for quiz #33 and prepare for composition workshop
+**Homework (due before class)**: Review vocabulary for quiz #33 and prepare for composition workshop
 
 ### Friday, December 6
 - Irregular Verbs: *volō*, *nōlō*, and *mālō*    
-- **Homework (due before class)**: Read () and study for quiz #34, **Composition #6 Due**
+- **Homework (due before class)**: Review the morphology of these irregular verbs and study for quiz #34, **Composition #6 Due**
 
 [Back to top.](#top)
 
@@ -281,12 +281,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, December 9
 - Review
 - CBL Visit   
-- **Homework (due before class)**: Review for quiz #35
+- **Homework (due before class)**: Review vocabulary for quiz #35
 
 ### Wednesday, December 11
-- Review
+- Deponent verbs
 - CBL prep time
-- **Homework (due before class)**: Review for quiz #36
+- **Homework (due before class)**: Read the section on deponent verbs for quiz #36
 
 ### Friday, December 13
 - Looking ahead to Latin 102
