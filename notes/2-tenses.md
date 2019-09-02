@@ -454,10 +454,10 @@ Find the perfect active stem and form the 3rd person singular perfect active for
 <button onclick="toggleDisplay('prac18')">Click here to toggle the answer:</button> <span style="display: none;" id="prac18">*dedērunt / dedēre*, "they gave" or "they have given" or "they did give"</span>
 
 4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
-<button onclick="toggleDisplay('prac19')">Click here to toggle the answer:</button> <span style="display: none;" id="prac19">*capiunt*, "they take"; *capiuntur*, "they are (being) taken" </span>
+<button onclick="toggleDisplay('prac19')">Click here to toggle the answer:</button> <span style="display: none;" id="prac19">*cēpērunt / cēpēre*, "they took" or "they have taken" or "they did take"</span>
 
 5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
-<button onclick="toggleDisplay('prac20')">Click here to toggle the answer:</button> <span style="display: none;" id="prac20">*audiunt*, "they hear"; *audiuntur*, "they are (being) heard"</span>
+<button onclick="toggleDisplay('prac20')">Click here to toggle the answer:</button> <span style="display: none;" id="prac20">*audīvērunt / audīvēre*, "they heard" or "they have heard" or "they did hear"</span>
 
 ### <a name="perfpass">Formation of the Perfect Passive Indicative</a>
 
@@ -478,6 +478,21 @@ NB: Look at how the adjectival form changes as we go from singular to plural. Wh
 #### Practice Opportunity
 
 Find the perfect passive stem and form the 3rd person plural perfect passive for the following verbs.
+
+1. *mittō*, *mittere*, *mīsī*, *missus* - to send  
+<button onclick="toggleDisplay('prac21')">Click here to toggle the answer:</button> <span style="display: none;" id="prac21">*missī, missae, missa sunt*, "they were sent" or "they have been sent"</span>
+
+2. *videō*, *vidēre*, *vīdī*, *visus* - to see; (passive) to seem  
+<button onclick="toggleDisplay('prac22')">Click here to toggle the answer:</button> <span style="display: none;" id="prac22">*visī, visae, visa sunt*, "they were seen" or "they have been seen" OR "they seemed" or "they have seemed"</span>
+
+3. *dō*, *dare*, *dedī*, *datus* - to give  
+<button onclick="toggleDisplay('prac23')">Click here to toggle the answer:</button> <span style="display: none;" id="prac23">*datī, datae, data sunt*, "they were given" or "they have been given"</span>
+
+4. *capiō*, *capere*, *cēpī*, *captus* - to take, seize  
+<button onclick="toggleDisplay('prac24')">Click here to toggle the answer:</button> <span style="display: none;" id="prac24">*captī, captae, capta sunt*, "they were taken" or "they have been taken"</span>
+
+5. *audiō*, *audīre*, *audīvī*, *audītus* - to hear  
+<button onclick="toggleDisplay('prac25')">Click here to toggle the answer:</button> <span style="display: none;" id="prac25">*audītī, audītae, audīta sunt*, "they were heard" or "they have been heard"</span>
 
 [Back to top.](#top)
 
