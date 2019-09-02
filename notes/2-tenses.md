@@ -149,6 +149,15 @@ Note that often, one letter can make the difference, so it is imperative that yo
 
 From the dictionary entry, conjugate the verb in the 3rd person plural present indicative active and passive, and then translate the new form.
 
+1. <button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1"></span>
+
+2. <button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2"></span>
+
+3. <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3"></span>
+
+4. <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4"></span>
+
+
 [Back to top.](#top)
 
 ***
