@@ -44,12 +44,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 11
 - Adjectives: Intensifying Adjectives, Substantives  
-- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) for quiz #2, **Translation #1 Due**  
+- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) for quiz #2, [Translation #1 Due](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit?usp=sharing)  
 
 ### Friday, September 13
 - Review
 - Composition Workshop
-- **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/1/) for quiz #3 and prepare composition for workshop
+- **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/1/) for quiz #3 and prepare [Composition #1](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit?usp=sharing) for workshop
 
 [Back to top.](#top)
 
@@ -61,7 +61,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Verbs: Person, Number, Tense, Voice, Mood, Principal Parts, Conjugations, Perfect Tense Active and Passive Indicative
 - Sentence Type 2: Intransitive
 - Sentence Type 3: Passive
-- **Homework (due before class)**: Read and study the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/), the [perfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-perfect-tense), and on [intransitive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#intransitive-sentences) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) and begin familiarizing yourself with [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-ind/) verb forms for quiz #4, **Composition #1 Due**
+- **Homework (due before class)**: Read and study the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/), the [perfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-perfect-tense), and on [intransitive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#intransitive-sentences) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) and begin familiarizing yourself with [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-ind/) verb forms for quiz #4, [Composition #1 Due] (https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit?usp=sharing)
 
 ### Wednesday, September 18
 - Verbs: Imperfect Tense Active and Passive Indicative
@@ -70,7 +70,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, September 20
 - Verbs: Sum
-- Sentence Type 1: Transitive (+ Accusative Direct Object, Dative Indirect Object)
+- Sentence Type 1: Transitive (plus Accusative Direct Object, Dative Indirect Object)
 - **Homework (due before class)**: Read () and study for quiz #6
 
 [Back to top.](#top)
