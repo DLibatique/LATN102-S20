@@ -15,7 +15,7 @@ title: Module 4 - Verbal Nouns and Adjectives
 
 [Gerunds](#gerunds)\| [Practice Opportunity](#practice-opportunity-3)
 
-[GRGs (Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives)\| [Practice Opportunity](#practice-opportunity-4)
+[GRGs(Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives)\| [Practice Opportunity](#practice-opportunity-4)
 
 ***
 
@@ -220,7 +220,7 @@ NB: *Ad* + the accusative gerund and *causa* + the genitive gerund are frequentl
 
 ***
 
-##GRGs (Gerund Replacing Gerundives)
+## GRGs (Gerund Replacing Gerundives)
 
 What if, in the example, *ars legendī est bona animō* mentioned above, we wanted to specify that it is the “art of reading **books**” that is good for the soul.
 
