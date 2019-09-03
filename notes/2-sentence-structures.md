@@ -145,10 +145,13 @@ The following noun-adjective pairs are all in the nominative case and either sin
 
 ### Linking Sentences
 
-**Linking sentences**, which we have already met, require a subject, linking verb, and predicate nominative which matches the subject in number and case. The most common linking verb in English and Latin is "to be" (*sum*, *esse*, *fui*, *futurus*), though there are other linking verb we will see throughout the semester. Below are some examples of linking sentences:
+**Linking sentences**, which we have already met, require a subject, **linking verb**, and **predicate nominative** which matches the subject in **number** and **case** and, in the case of adjectives as predicate nominatives, **gender**. The most common linking verb in English and Latin is "to be" (*sum*, *esse*, *fui*, *futurus*), though there are other linking verbs we will see throughout the semester. Below are some examples of linking sentences:
 
 * Vir pater est. ("The man is a father.")
-* Puellae magnī et fortes agriolae sunt. ("The girls are strong and brave farmers.")
+* Puerī magnī et fortēs sunt. ("The boys are strong and brave.")
+
+In each of the sentences above, what is the subject, and what is the predicate nominative?  
+<button onclick="toggleDisplay('ex')">Click here to toggle the answer:</button> <span style="display: none;" id="ex">subjects: *vir*, *puerī*; pred. noms.: *pater*, *magnī et fortēs*</span>
 
 To summarize, linking sentences must have a:
 * Subject
@@ -161,10 +164,25 @@ To summarize, linking sentences must have a:
 
 ## Tips for Determining Sentence Structure
 
-The most important thing to do when determining sentence structure is to look at the main verb. If the verb is passive, we know that the sentence structure is going to be passive; if the verb is a linking verb (i.e. a form of *sum*), then we know the sentence structure is going to be linking. It is more difficult to differentiate between transitive and intransitive verbs. While some Latin verbs are used only transitively (verbs like "to carry") and or only intransitively (verbs to "rain"), a large number of verbs can be used both transitively or intransitively. In these cases, you will want to see if there is a direct object in the accusative case (transitive) or not (intransitive).
+The most important thing to do when determining sentence structure is to look at the **main verb**. If the verb is passive, we know that the sentence structure is going to be **passive**; if the verb is a linking verb (i.e. a form of *sum*), then we know the sentence structure is going to be **linking**. It is more difficult to differentiate between transitive and intransitive verbs. While some Latin verbs are used only transitively (verbs like "to carry") and or only intransitively (verbs like "to rain"), a large number of verbs can be used both transitively or intransitively. In these cases, you will want to see if there is a direct object in the accusative case (transitive) or not (intransitive).
 
 ### Practice Opportunity
 
-Determine the sentence structure of the following sentences. What nouns or adjectives in these sentences are in the dative, accusative, or ablative case?
+Determine the sentence structure of the following sentences; identify any *nouns* in the accusative, dative, or ablative cases; and translate the sentence.
+
+1. *soror mea tristis est.*  
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">linking; "My sister is sad."</span>
+
+2. *pulchra carmina audiēbāmus.*  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">transitive; *carmina* = accusative; "We were hearing beautiful songs."</span>
+
+3. *agricolae ā nostrō duce missī sunt.*  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">passive; *duce* = ablative; "The farmers were sent by our leader."</span>
+
+4. *vēnistis!*  
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">intransitive; "You (all) have come!"</span>
+
+5. *rex fīliō suō potestātem dedit.*  
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">transitive; *fīliō* = dative, *potestātem* = accusative; "The king gave power to his own son."</span>
 
 [Back to top.](#top)
