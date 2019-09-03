@@ -13,9 +13,10 @@ title: Module 4 - Verbal Nouns and Adjectives
 
 [Uses of the Infinitive](#uses-of-the-infinitive) \| [Practice Opportunity](#practice-opportunity-2)
 
-[Gerunds](#gerunds)\| [Practice Opportunity](#practice-opportunity-3)
-
-[GRGs (Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives)\| [Practice Opportunity](#practice-opportunity-4)
+[Gerunds and Gerundives:](#gerunds-and-gerundives)
+  - [Gerunds](#gerunds) \| [Practice Opportunity](#practice-opportunity-3)
+  - [GRGs (Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives) \| [Practice Opportunity](#practice-opportunity-4)
+  - [Other Uses of the Gerundive](#other-uses-of-gerundives): [Verbal Adjective](#gerundive-as-verbal-adjective), [Passive Periphrastic](#passive-periphrastic) \| [Practice Opportunity](#practice-opportunity-5)
 
 ***
 
@@ -161,7 +162,7 @@ This is where the **complementary infinitive** can help; it completes the sense 
 Identify whether the bolded infinitive is **subjective** or **complementary** and then translate the sentence.
 
 1. **incipere** est difficile.  
-<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">subjective, "To begin is difficult."</span>
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">subjective, "To begin is difficult." OR "It is difficult to begin."</span>
 
 2. ille **discēdere** poterit.  
 <button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">complementary, "That man will be able to depart."</span>
@@ -174,7 +175,9 @@ Identify whether the bolded infinitive is **subjective** or **complementary** an
 
 ***
 
-## Gerunds
+## Gerunds and Gerundives
+
+### Gerunds
 
 Like the infinitive, **gerunds** are neuter singular verbal nouns. However, while the infinitive can be the nominative subject or accusative direct object, the gerund fills all the other syntactic roles of the verbal noun. It appears in the genitive, dative, and ablative cases and in the accusative only as the object of a preposition and it is usually translated into English by adding -ing to the verb.
 
@@ -216,11 +219,11 @@ NB: *Ad* + the accusative gerund and *causā* / *gratiā* + the genitive gerund 
 
 ***
 
-### Practice Opportunity
+#### Practice Opportunity
 
 ***
 
-## GRGs (Gerund Replacing Gerundives)
+### GRGs (Gerund Replacing Gerundives)
 
 What if, in the example, *ars legendī est bona animō* mentioned above, we wanted to specify that it is the “art of reading **books**” that is good for the soul?
 
@@ -244,17 +247,17 @@ The gerundive phrase is usually called a **gerund-replacing-gerundive** (**GRG**
 
 ***
 
-### Practice Opportunity
+#### Practice Opportunity
 
 ***
 
-## Other Uses of Gerundives
+### Other Uses of Gerundives
 
 In addition to functioning like gerunds, gerundives have two other important usages. They can function as **adjectives** modifying a noun and as part of a verbal construction known as the **passive periphrastic**.
 
-### Gerundive as Verbal Adjective
+#### Gerundive as Verbal Adjective
 
-Like all other adjectives, the gerundive will usually be paired with a noun. However, unlike most adjectives, the gerundive has two additional characteristics due to its verbal nature: **voice** and **tense**. The gerundive is always **passive** and forward looking (the reason for this is that gerundive is technically the future passive participle). Consequently, we translate the gerundive "to be [verb]ed", which often carries a sense of necessity or obligation. Consider the following examples:
+Like all other adjectives, the gerundive will usually be paired with a noun. However, unlike most adjectives, the gerundive has two additional characteristics due to its verbal nature: **voice** and **tense**. The gerundive is always **passive** and forward-looking (the reason for this is that gerundive is technically the future passive participle). Consequently, we translate the gerundive "to be [verb]ed", which often carries a sense of necessity or obligation. Consider the following examples:
 
 - Carmen **audiendum** ("a song to be heard")
 - Urbs **videnda** ("a city to be seen")
@@ -262,7 +265,7 @@ Like all other adjectives, the gerundive will usually be paired with a noun. How
 
 When used as an adjective, the gerundive is usually appears in either the nominative case (modifying a subject) or in the accusative case (modifying a direct object). The reason for this is to avoid any possible ambiguity with the GRG. The GRG like the gerund appears only in the genitive, dative, and ablative cases and in the accusative as the object of the preposition.
 
-### Passive Periphrastic
+#### Passive Periphrastic
 
 The use of the gerundive in the passive periphrastic construction is an extension of its use as a verbal adjective. As we saw above, the gerundive is passive and forward looking by nature. In the passive periphrastic, the gerundive is combined with a form of *sum* to express (forward-looking and passive) verbal obligation and necessity. Take for instance, the following examples:
 
@@ -273,6 +276,6 @@ In these sentences, note how the form of the gerundive matches in gender, number
 
 ***
 
-### Practice Opportunity
+#### Practice Opportunity
 
 ***
