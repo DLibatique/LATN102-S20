@@ -18,7 +18,7 @@ Prepositional phrases add more information about the main action of the sentence
 
 * Puellam **in urbe** vīdit. ("She saw the girl in the city.") (**Where** did she see the girl? In the city.)
 * **Ob īgnem** fugiēbat. ("He was fleeing because of the fire.") (**Why** was he fleeing? Because of the fire.)
-* Hercules **sub ponte** monstra necāvit. ("Hercules killed the monsters under the bridge.) (**Where** did Hercules kill the monsters? Under the bridge.)
+* Hercules monstra **sub ponte** necāvit. ("Hercules killed the monsters under the bridge.) (**Which** monsters did Hercules kill? The ones under the bridge.)
 
 ***
 
