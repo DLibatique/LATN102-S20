@@ -308,4 +308,15 @@ In these sentences, note how the form of the gerundive matches in gender, number
 
 #### Practice Opportunity
 
+Determine whether the gerundive is being used as a GRG, verbal adjective, or a part of a passive periphrastic.
+
+1. Puella **docenda** est.  
+<button onclick="toggleDisplay('prac23')">Click here to toggle the answer:</button> <span style="display: none;" id="prac23">passive periphrastic ("The girl must be taught.")</span>
+
+2. Puerī **docendī** in urbe vīxērunt.  
+<button onclick="toggleDisplay('prac24')">Click here to toggle the answer:</button> <span style="display: none;" id="prac24">verbal adjective ("The boys who are to be taught lived in the city.")</span>
+
+3. **rēgīnae docendae** grātiā vēnit.  
+<button onclick="toggleDisplay('prac25')">Click here to toggle the answer:</button> <span style="display: none;" id="prac25">GRG ("She came for the sake of teaching the queen.")</span>
+
 ***
