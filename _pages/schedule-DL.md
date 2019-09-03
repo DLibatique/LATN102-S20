@@ -119,7 +119,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Wednesday, September 25
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on translating verbs](../../notes/2-verb-overview/#translating-verbs), and record any questions that you have.
+- Read through the [notes on translating verbs](../../notes/2-verb-overview/#translating-verbs) and [using sentence structures to translate](../../notes/2-sentence-structures#tips-for-determining-sentence-structure), and record any questions that you have.
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verb Tense, Sentence Type, and Noun Use Practice  
