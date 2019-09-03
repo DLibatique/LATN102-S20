@@ -90,7 +90,7 @@ The following noun-adjective pairs are all in the nominative case and either sin
 3. *serpentēs horribilēs*  
 <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">accusative: *serpentēs horribilēs*; dative: *serpentibus horribilibus*</span>
 
-4. *sapiēns vir*
+4. *sapiēns vir*  
 <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">accusative: *sapientem virum*; dative: *sapientī virō*</span>
 
 [Back to top.](#top)
