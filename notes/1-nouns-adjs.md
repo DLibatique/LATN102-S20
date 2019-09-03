@@ -112,7 +112,7 @@ Examples:
 
 The 2-1-2 adjective can be recognized from endings of all three entries (*-us, -a, -um* or *-r, -a, -um*). The three forms listed tells us the nominative singular form for all three genders - masculine, feminine, and neuter (from left to right).  
 
-The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
+The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
 
 The full declension chart for 2-1-2 adjectives can be found [here](../charts/1-adjectives#212).
 
