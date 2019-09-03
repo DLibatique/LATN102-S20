@@ -11,39 +11,39 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 
 ## Module 1: Nouns and Adjectives
 
-- [Notes: Nouns and Adjectives]({{ site.baseurl }}/notes/1-nouns-adjs)
-- [Paradigm Charts: Nouns]({{ site.baseurl }}/charts/1-nouns)
-- [Paradigm Charts: Adjectives]({{ site.baseurl }}/charts/1-adjectives)
-- [Vocabulary: Module 1]({{ site.baseurl }}/vocab/1)
+- [Notes: Nouns and Adjectives](../../notes/1-nouns-adjs)
+- [Paradigm Charts: Nouns](../../charts/1-nouns)
+- [Paradigm Charts: Adjectives](../../charts/1-adjectives)
+- [Vocabulary: Module 1](../../vocab/1)
 
 ## Module 2: Verbs
 
-- [Notes: Verbs Overview]({{ site.baseurl }}/notes/2-verb-overview)
-- [Notes: Tenses]({{ site.baseurl }}/notes/2-tenses)
-- [Notes: Sentence Structures]({{ site.baseurl }}/notes/2-sentence-structures)
-- [Paradigm Charts: Present Indicative]({{ site.baseurl }}/charts/2-pres-ind)
-- [Paradigm Charts: Imperfect Indicative]({{ site.baseurl }}/charts/2-impf-ind)
-- [Paradigm Charts: Future Indicative]({{ site.baseurl }}/charts/2-fut-ind)
-- [Paradigm Charts: Perfect Indicative]({{ site.baseurl }}/charts/2-perf-ind)
-- [Vocabulary: Module 2]({{ site.baseurl }}/vocab/2)
+- [Notes: Verbs Overview](../../notes/2-verb-overview)
+- [Notes: Tenses](../../notes/2-tenses)
+- [Notes: Sentence Structures](../../notes/2-sentence-structures)
+- [Paradigm Charts: Present Indicative](../../charts/2-pres-ind)
+- [Paradigm Charts: Imperfect Indicative](../../charts/2-impf-ind)
+- [Paradigm Charts: Future Indicative](../../charts/2-fut-ind)
+- [Paradigm Charts: Perfect Indicative](../../charts/2-perf-ind)
+- [Vocabulary: Module 2](../../vocab/2)
 
 ## Module 2: Verbs (Subjunctive) (After Fall Break)
 
-- [Notes: Subjunctive Mood]({{ site.baseurl }}/notes/2-subj-overview)
-- [Paradigm Charts: Present Subjunctive]({{ site.baseurl }}/charts/2-pres-subj)
-- [Paradigm Charts: Imperfect Subjunctive]({{ site.baseurl }}/charts/2-impf-subj)
-- [Paradigm Charts: Perfect Subjunctive]({{ site.baseurl }}/charts/2-perf-subj)
+- [Notes: Subjunctive Mood](../../notes/2-subj-overview)
+- [Paradigm Charts: Present Subjunctive](../../charts/2-pres-subj)
+- [Paradigm Charts: Imperfect Subjunctive](../../charts/2-impf-subj)
+- [Paradigm Charts: Perfect Subjunctive](../../charts/2-perf-subj)
 
 ## Module 3: Prepositions, Expressions of Space, Expressions of Time
 
-- [Notes: Prepositions, Expressions of Space, Expressions of Time]({{ site.baseurl }}/notes/3-place-and-time)
-- [Vocabulary: Module 3]({{ site.baseurl }}/vocab/3)
+- [Notes: Prepositions, Expressions of Space, Expressions of Time](../../notes/3-place-and-time)
+- [Vocabulary: Module 3](../../vocab/3)
 
 ## Module 4: Verbal Nouns and Adjectives
 
-- [Notes: Verbal Nouns and Adjectives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs)
-- [Vocabulary: Module 4]({{ site.baseurl }}/vocab/4)
+- [Notes: Verbal Nouns and Adjectives](../../notes/4-verbal-nouns-and-adjs)
+- [Vocabulary: Module 4](../../vocab/4)
 
 ## Module 5: Questions
 
-- [Notes: Questions]({{ site.baseurl }}/notes/5-questions)
+- [Notes: Questions](../../notes/5-questions)
