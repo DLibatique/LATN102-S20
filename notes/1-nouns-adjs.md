@@ -63,7 +63,7 @@ As I alluded to above, Latin is an inflected language and relies on word endings
 The declension to which a noun belongs can be easily determined by consulting the genitive singular form in dictionary entry:
 - If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g *fīlia*, *fīliae*, f. - daughter).
 
-- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g *fīlius*, *fīliī*, m. - son). NOTE: The nominative singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*). Nevertheless, the genitive singulars of these nouns ends in -ī, so they belong to the second declension!
+- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g *fīlius*, *fīliī*, m. - son). NOTE: The nominative singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension neuter nouns can end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they belong to the second declension!
 
 - If the genitive singular entry ends in ***-is***, then the noun belongs to what we call the **third declension** (e.g *pater*, *patris*, m. - father).
 
@@ -94,7 +94,7 @@ Adjectives modify (i.e., tell us more about) nouns. In Latin, adjectives must ag
 *magnī patrēs* ("great fathers"; masculine plural nominative)  
 *magnae matrēs* ("great mothers"; feminine plural nominative)  
 
-Because adjective need to match nouns in form, they also decline in gender, case, and number. Most adjectives fall into one of two major categories: **1st/2nd declension** and **3rd declension**. The former, 1st/2nd declension, includes **2-1-2 adjectives**. The latter, 3rd declension, is split into three smaller categories: **three termination**, **two termination**, and **one termination**. All four of these categories (2-1-2, 3-, 2-, 1-termination) are described below.
+Because adjectives need to match nouns in form, they also decline in gender, case, and number. Most adjectives fall into one of two major categories: **1st/2nd declension** and **3rd declension**. The former, 1st/2nd declension, includes **2-1-2 adjectives**. The latter, 3rd declension, is split into three smaller categories: **three termination**, **two termination**, and **one termination**. All four of these categories (2-1-2, 3-, 2-, 1-termination) are described below.
 
 Note that although an adjective must match its noun in gender, case, and number, it does not necessarily have to match in declension; for example, a 3rd declension adjective can modify a 1st or 2nd declension noun:
 
@@ -112,7 +112,9 @@ Examples:
 
 The 2-1-2 adjective can be recognized from endings of all three entries (*-us, -a, -um* or *-r, -a, -um*). The three forms listed tells us the nominative singular form for all three genders - masculine, feminine, and neuter (from left to right).  
 
-The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a 2nd declension masculine noun (e.g., *maritus*). If you need a feminine form, you decline it like a 1st declension feminine noun (e.g., *puella*). If you need a neuter form, you decline it like a 2nd declension neuter noun (e.g., *exemplum*).
+The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
+
+The full declension chart for 2-1-2 adjectives can be found [here](../charts/1-adjectives#212).
 
 ### 2) Three termination adjectives:
 
@@ -122,15 +124,19 @@ Three termination adjectives are so called for the three different parts of the 
 
 To decline a three termination adjective beyond the nominative case, begin the same way as with a 2-1-2 adjective: go to the second part of the dictionary entry, the feminine nominative singular form, and get the adjective's stem by chopping off the final *-is*. Then, add the endings that you need.
 
-Generally, these adjectives decline like third declension nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
+Generally, these adjectives decline like [third declension masculine/feminine](../charts/1-nouns#third-declension-masculinefeminine) and [third declension neuter](../charts/1-nouns#third-declension-neuter) nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
+
+The full declension chart for three termination adjectives can be found [here](../charts/1-adjectives#3term).
 
 ### 3) Two termination adjectives:
 
 *fortis*, *forte* - strong
 
-Two termination adjectives can be recognized by the fact that they have two adjectival forms that end in *-is* and *-e*, respectively. In two termination adjectives, the first form (i.e. *fortis*) tells us the masculine AND feminine nominative singular form and the second form (i.e. *forte*) is the neuter nominative singular form.
+Two termination adjectives can be recognized by the fact that their dictionary entry consists of two adjectival forms that end in *-is* and *-e*, respectively. In two termination adjectives, the first form (i.e. *fortis*) tells us the masculine AND feminine nominative singular form and the second form (i.e. *forte*) is the neuter nominative singular form.
 
 Like three termination adjectives, two termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
+
+The declension of two termination adjectives is exactly the same as for three termination adjectives, except that the masculine and feminine nominative singular forms are the same.
 
 ### 4) One termination adjectives:
 
@@ -138,7 +144,9 @@ Like three termination adjectives, two termination adjectives generally decline 
 
 One termination adjectives can be recognized by the *-is* ending in the second part of the dictionary entry. In the dictionary entry for one termination adjectives, the first form (i.e. *ferox*) signifies the nominative singular for all three genders (hence the name "one termination"), and the second form (i.e. *ferocis*) signifies the genitive singular for all three genders. Like three and two termination adjectives, one termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
 
-Beyond these categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like *hic, haec, hoc* and *ille, illa, illud* (adjectives that point out what you are referring to, equivalent to the English "this" and "that") and the intensifying adjective *ipse, ipsa, ipsum* (adjectives that emphasize the noun they modify, equivalent to the English "the *very* girl" or "the girl *herself*"). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the morphological worksheet for further clarification.
+The full declension chart for one termination adjectives can be found [here](../charts/1-adjectives#1term).
+
+Beyond these categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like [*hic, haec, hoc*](../charts/1-adjectives#hic) and [*ille, illa, illud*](../charts/1-adjectives#ille) (adjectives that point out what you are referring to, equivalent to the English "this" and "that") and the intensifying adjective [*ipse, ipsa, ipsum*](../charts/1-adjectives#ipse) (adjectives that emphasize the noun they modify, equivalent to the English "the *very* girl" or "the girl *herself*"). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
 
 ***
 
@@ -174,7 +182,7 @@ One final note on adjectives. At times, they can be used effectively as nouns, w
 
 For the current module, we will focus only on two of the six cases: the **nominative** and the **genitive**. The **nominative** case is used to signal that a noun is the subject of a sentence or is equivalent to the subject of the sentence. For an example of the latter, we can think of the Latin sentence: *mater est femina* ("the mother is a woman"). Both *mater* and *femina* are in the nominative. *Mater* is the subject of the verb *est* and so is in the nominative case. *Femina* is also in the nominative case because it is equivalent with the subject *mater* in this sentence. This usage, which occurs with a linking verb (e.g. "is" in English, "*est*" in Latin), is called the **predicate nominative**.
 
-Nouns in the **genitive** case are used to modify another noun and will always appear next to that noun. Like adjectives, they provide further information about that noun. The genitive is almost always translated with "of" plus the word in the genitive. Examples of the usage of the genitive include:
+Nouns in the **genitive** case are used to modify another noun and will usually appear next to that noun. Like adjectives, they provide further information about that noun. The genitive is almost always translated with "of" plus the word in the genitive. Examples of the usage of the genitive include:
 
 *fīlius patris* (the son of the father)  
 *nullus familiae* (none of the family)
@@ -183,23 +191,26 @@ Nouns in the **genitive** case are used to modify another noun and will always a
 
 ### Practice Opportunity
 
-Translate the following phrases or sentences into English. Consult your [vocabulary](#) for words with which you are unfamiliar and your [noun/pronoun declension charts]({{ site.baseurl }}/charts/1-nouns) and [adjective declension charts]({{ site.baseurl }}/charts/1-adjectives) for this module if needed.
+Translate the following phrases or sentences into English. Consult your [vocabulary](../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts]({{ site.baseurl }}/charts/1-nouns) and [adjective declension charts]({{ site.baseurl }}/charts/1-adjectives) for this module if needed.
 
 Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
 1. *maritus bonae rēginae*  
 <button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">husband of the good queen</span>
 
-2. *māter bona familiae*  
-<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">good mother of the family</span>
+2. *māter huius familiae*  
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">mother of this family</span>
 
-3. *sororēs puellae*  
-<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">sisters of the girl</span>
+3. *māter haec familiae*  
+<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">this mother of the family</span>
 
-4. *parentēs sapientis puerī*  
+4. *parēns illīus monstrī*  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">parent of that monster</span>
+
+5. *parentēs sapientis puerī*  
 <button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">parents of the wise boy</span>
 
-5. *illa est māter familiae.*  
+6. *illa est māter familiae.*  
 <button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">That (woman) is the mother of the family.</span>
 
 [Back to top.](#top)
@@ -210,9 +221,11 @@ Make sure you are translating the correct **case** and **number** for each word.
 
 Sometimes, Latin uses pronouns to stand in for nouns. The most common Latin pronoun is *is, ea, id* ("he", "she", "it"). The dictionary entry for *is, ea, id* represents the nominative singular forms for all three genders (once again, masculine, feminine, and neuter from left to right).
 
-The noun to which a pronoun refers is called the pronoun's **antecedent**. The pronoun used in place of the noun must have the same gender and number as the antecedent. For instance, you would use *ea* to substitute for *mater* and *is* to substitute for *pater*. This also applies for nouns that are not typically biologically gendered. For the Latin word for table (*mensa*), you would use *ea* as the pronoun because the noun is feminine.
+The declension chart for *is*, *ea*, *id* can be found [here](../charts/1-nouns#pronouns).
 
-The declension for the pronoun is tricky, so be sure to consult the morphological tables so you are able to recognize its forms.
+The noun to which a pronoun refers is called the pronoun's **antecedent**. The pronoun used in place of the noun must have the same **gender** and **number** as the antecedent. For instance, you would use *ea* to substitute for *mater* and *is* to substitute for *pater*. This also applies for nouns that are not typically biologically gendered. For the Latin word for table (*mensa*), you would use *ea* as the pronoun because the noun is feminine.
+
+The declension for the pronoun is tricky, so be sure to consult the paradigm chart linked above so you are able to recognize its forms.
 
 ***
 
