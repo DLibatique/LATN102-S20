@@ -6,6 +6,8 @@ short_title: Nuts & Bolts
 permalink: nuts-DL
 ---
 
+Click [here](https://docs.google.com/document/d/1NlThidPli3tn__NSJb7lBfctiu1c_YFQoBjX-jc9fCc/edit?usp=sharing) to access the syllabus as a Google Doc.
+
 ***
 
 [Academic Conduct](#academic-conduct) \| [Attendance](#attendance) \| [Student Hours](#student-hours) \| [Gender Expression and Identity](#gender-expression-and-identity) \| [Diversity, Inclusion, and Respect](#diversity-inclusion-and-respect) \| [Accessibility](#accessibility) \| [External Resources](#external-resources) \| [Mandated Reporter](#mandated-reporter)
@@ -13,7 +15,7 @@ permalink: nuts-DL
 ***
 
 ## Academic Conduct
-You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on homework, quizzes, or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
+You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on homework, quizzes, or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, or copying another student’s answers) may result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
 
 [Back to top.](#top)
 
@@ -28,7 +30,7 @@ If you must miss a class meeting for any reason, please inform me as soon as you
 
 It bears repeating: **if you will miss class for any reason, you must e-mail me before that class period begins to let me know!**
 
-Any absence without a notifying e-mail before class may be excused after the fact for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event) falls under Holy Cross' Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
+Any absence without a notifying e-mail before class may be excused after the fact for compelling and verifiable reasons (including but not limited to extended illness, a death or medical emergency in the family, a wedding in the immediate family, and participation in a college-sponsored athletic event) falls under Holy Cross' Excused Absence Policy and requires a note from your Class Dean. See the full Excused Absence Policy [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
 [Back to top.](#top)
 
