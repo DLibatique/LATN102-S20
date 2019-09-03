@@ -61,7 +61,7 @@ The last part of the dictionary entry is simply the definition.
 
 As I alluded to above, Latin is an inflected language and relies on word endings to reveal how a word functions within the sentence. The way that Latin nouns or adjectives change their endings to reflect their function in a sentence is what we call a **declension**. There are three major declensions (as well as two minor ones) that we will become familiar with.
 
-The declension to which a noun belongs can be easily determined by consulting the genitive singular form in dictionary entry:
+The declension to which a noun belongs can be easily determined by consulting the genitive singular form in the dictionary entry:
 - If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g *fīlia*, *fīliae*, f. - daughter).
 
 - If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g *fīlius*, *fīliī*, m. - son). NOTE: The nominative singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension neuter nouns can end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they belong to the second declension!
