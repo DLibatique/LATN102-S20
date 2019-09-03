@@ -62,9 +62,9 @@ The last part of the dictionary entry is simply the definition.
 As I alluded to above, Latin is an inflected language and relies on word endings to reveal how a word functions within the sentence. The way that Latin nouns or adjectives change their endings to reflect their function in a sentence is what we call a **declension**. There are three major declensions (as well as two minor ones) that we will become familiar with.
 
 The declension to which a noun belongs can be easily determined by consulting the genitive singular form in the dictionary entry:
-- If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g *fīlia*, *fīliae*, f. - daughter).
+- If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g., *fīlia*, *fīliae*, f. - daughter).
 
-- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g *fīlius*, *fīliī*, m. - son). NOTE: The nominative singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension neuter nouns can end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they belong to the second declension!
+- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g., *fīlius*, *fīliī*, m. - son). NOTE: The *nominative* singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension *neuter* nouns usually end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they all belong to the second declension!
 
 - If the genitive singular entry ends in ***-is***, then the noun belongs to what we call the **third declension** (e.g *pater*, *patris*, m. - father).
 
@@ -90,17 +90,17 @@ What declension does each of the following nouns belong to?
 
 Adjectives modify (i.e., tell us more about) nouns. In Latin, adjectives must agree with nouns in **number**, **case**, and **gender**. Thus, a feminine nominative singular noun must be modified by the feminine nominative singular form of the adjective, while a masculine nominative singular noun is modified by a masculine nominative singular adjective. For instance:
 
-*magnus pater* ("great father"; masculine singular nominative)  
-*magna mater* ("great mother"; feminine singular nominative)  
-*magnī patrēs* ("great fathers"; masculine plural nominative)  
-*magnae matrēs* ("great mothers"; feminine plural nominative)  
+- *magnus puer* ("great boy"; masculine singular nominative)  
+- *magna puella* ("great girl"; feminine singular nominative)  
+- *magnī puerī* ("great boys"; masculine plural nominative)  
+- *magnae puellae* ("great girls"; feminine plural nominative)  
 
 Because adjectives need to match nouns in form, they also decline in gender, case, and number. Most adjectives fall into one of two major categories: **1st/2nd declension** and **3rd declension**. The former, 1st/2nd declension, includes **2-1-2 adjectives**. The latter, 3rd declension, is split into three smaller categories: **three termination**, **two termination**, and **one termination**. All four of these categories (2-1-2, 3-, 2-, 1-termination) are described below.
 
 Note that although an adjective must match its noun in gender, case, and number, it does not necessarily have to match in declension; for example, a 3rd declension adjective can modify a 1st or 2nd declension noun:
 
-*sapiens puer* ("wise boy"; masculine singular nominative. *sapiens* = 3rd declension, 1 termination; *puer* = 2nd declension masculine)  
-*sapiens puella* ("wise girl"; feminine singular nominative. *puella* = 1st declension feminine)
+- *sapiens puer* ("wise boy"; masculine singular nominative. *sapiens* = 3rd declension, 1 termination; *puer* = 2nd declension masculine)  
+- *sapiens puella* ("wise girl"; feminine singular nominative. *puella* = 1st declension feminine)
 
 Just like nouns, the dictionary entries for adjectives tells us what declension(s) they belong to and, thus, how to form them. Dictionary entries for adjectives come in four types:
 
@@ -119,10 +119,12 @@ The full declension chart for 2-1-2 adjectives can be found [here](../../charts/
 
 ### 1.1) -īus adjectives:
 
-There is a special subset of 2-1-2 adjectives known as *-īus adjectives*, so called because although they are 2-1-2 adjectives, their genitive singular forms across all three genders end in -īus, rather than the -ī or -ae familiar from regular 2-1-2 adjectives. Also, their dative singular forms across all three genders end in -ī, rather than the expected -ō or -ae. Nine adjectives fall into this pattern, and two of them are in your vocabulary for this module: *nullus*, *nulla*, *nullum*, "no, none", and *uter*, *utra*, *utrum*, "both, whichever (of two)." So, take a look at the following examples:
+There is a special subset of 2-1-2 adjectives known as **-īus adjectives**, so called because although they are 2-1-2 adjectives, their genitive singular forms across all three genders end in *-īus*, rather than the *-ī* or *-ae* familiar from regular 2-1-2 adjectives. Also, their dative singular forms across all three genders end in *-ī*, rather than the expected *-ō* or *-ae*. Nine adjectives fall into this pattern, and two of them are in your vocabulary for this module: *nullus*, *nulla*, *nullum*, "no, none", and *uter*, *utra*, *utrum*, "both, whichever (of two)." So, take a look at the following examples:
 
 - *pater nullīus familiae*, "father of no family"
 - *parentēs utrīus fīliī*, "parents of whichever son"
+
+The full declension chart for *-īus* adjectives can be found [here](../../charts/1-adjectives#11--īus-adjectives).
 
 ### 2) Three termination adjectives:
 
