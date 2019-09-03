@@ -33,10 +33,10 @@ To summarize, nouns have:
 - Case
   * Nominative
   * Genitive
-  * *Dative (Week 2)*
-  * *Accusative (Week 2)*
-  * *Ablative (Week 2)*
-  * *Vocative (Week 6)*
+  * *Dative*
+  * *Accusative*
+  * *Ablative*
+  * *Vocative*
 
 How can we determine what characteristics that a noun "in the wild" has? We need to consult what we call the **dictionary entry** (that is, how the noun will appear in a dictionary). Below we have the dictionary entry for *mater*:
 
