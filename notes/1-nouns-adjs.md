@@ -112,9 +112,9 @@ Examples:
 
 The 2-1-2 adjective can be recognized from endings of all three entries (*-us, -a, -um* or *-r, -a, -um*). The three forms listed tells us the nominative singular form for all three genders - masculine, feminine, and neuter (from left to right).  
 
-The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
+The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
 
-The full declension chart for 2-1-2 adjectives can be found [here](../charts/1-adjectives#212).
+The full declension chart for 2-1-2 adjectives can be found [here](../../charts/1-adjectives#212).
 
 ### 2) Three termination adjectives:
 
@@ -124,9 +124,9 @@ Three termination adjectives are so called for the three different parts of the 
 
 To decline a three termination adjective beyond the nominative case, begin the same way as with a 2-1-2 adjective: go to the second part of the dictionary entry, the feminine nominative singular form, and get the adjective's stem by chopping off the final *-is*. Then, add the endings that you need.
 
-Generally, these adjectives decline like [third declension masculine/feminine](../charts/1-nouns#third-declension-masculinefeminine) and [third declension neuter](../charts/1-nouns#third-declension-neuter) nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
+Generally, these adjectives decline like [third declension masculine/feminine](../../charts/1-nouns#third-declension-masculinefeminine) and [third declension neuter](../../charts/1-nouns#third-declension-neuter) nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
 
-The full declension chart for three termination adjectives can be found [here](../charts/1-adjectives#3term).
+The full declension chart for three termination adjectives can be found [here](../../charts/1-adjectives#3term).
 
 ### 3) Two termination adjectives:
 
@@ -144,9 +144,9 @@ The declension of two termination adjectives is exactly the same as for three te
 
 One termination adjectives can be recognized by the *-is* ending in the second part of the dictionary entry. In the dictionary entry for one termination adjectives, the first form (i.e. *ferox*) signifies the nominative singular for all three genders (hence the name "one termination"), and the second form (i.e. *ferocis*) signifies the genitive singular for all three genders. Like three and two termination adjectives, one termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
 
-The full declension chart for one termination adjectives can be found [here](../charts/1-adjectives#1term).
+The full declension chart for one termination adjectives can be found [here](../../charts/1-adjectives#1term).
 
-Beyond these categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like [*hic, haec, hoc*](../charts/1-adjectives#hic) and [*ille, illa, illud*](../charts/1-adjectives#ille) (adjectives that point out what you are referring to, equivalent to the English "this" and "that") and the intensifying adjective [*ipse, ipsa, ipsum*](../charts/1-adjectives#ipse) (adjectives that emphasize the noun they modify, equivalent to the English "the *very* girl" or "the girl *herself*"). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
+Beyond these categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like [*hic, haec, hoc*](../../charts/1-adjectives#hic) and [*ille, illa, illud*](../../charts/1-adjectives#ille) (adjectives that point out what you are referring to, equivalent to the English "this" and "that") and the intensifying adjective [*ipse, ipsa, ipsum*](../../charts/1-adjectives#ipse) (adjectives that emphasize the noun they modify, equivalent to the English "the *very* girl" or "the girl *herself*"). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
 
 ***
 
@@ -191,7 +191,7 @@ Nouns in the **genitive** case are used to modify another noun and will usually 
 
 ### Practice Opportunity
 
-Translate the following phrases or sentences into English. Consult your [vocabulary](../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts]({{ site.baseurl }}/charts/1-nouns) and [adjective declension charts]({{ site.baseurl }}/charts/1-adjectives) for this module if needed.
+Translate the following phrases or sentences into English. Consult your [vocabulary](../../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts]({{ site.baseurl }}/charts/1-nouns) and [adjective declension charts]({{ site.baseurl }}/charts/1-adjectives) for this module if needed.
 
 Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
@@ -221,7 +221,7 @@ Make sure you are translating the correct **case** and **number** for each word.
 
 Sometimes, Latin uses pronouns to stand in for nouns. The most common Latin pronoun is *is, ea, id* ("he", "she", "it"). The dictionary entry for *is, ea, id* represents the nominative singular forms for all three genders (once again, masculine, feminine, and neuter from left to right).
 
-The declension chart for *is*, *ea*, *id* can be found [here](../charts/1-nouns#pronouns).
+The declension chart for *is*, *ea*, *id* can be found [here](../../charts/1-nouns#pronouns).
 
 The noun to which a pronoun refers is called the pronoun's **antecedent**. The pronoun used in place of the noun must have the same **gender** and **number** as the antecedent. For instance, you would use *ea* to substitute for *mater* and *is* to substitute for *pater*. This also applies for nouns that are not typically biologically gendered. For the Latin word for table (*mensa*), you would use *ea* as the pronoun because the noun is feminine.
 
