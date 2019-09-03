@@ -11,7 +11,7 @@ title: Module 2 - Sentence Patterns
 - [Passive](#passive-sentences), [Practice Opportunity](#practice-opportunity-1)
 - [Linking](#linking-sentences)
 
-[Tips for Determining Sentence Structure](#tips-for-determining-sentence-structure)
+[Tips for Determining Sentence Structure](#tips-for-determining-sentence-structure) \| [Practice Opportunity](#practice-opportunity-2)
 
 ***
 
