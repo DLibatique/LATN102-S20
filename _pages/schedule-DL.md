@@ -27,6 +27,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Friday, September 6
 <p style="margin-bottom: 0;">Homework:</p>
+- Complete this [Student Information Form](https://forms.gle/9m2bt9zb9yLYmfrW7).
 - Read through the [Module 1 Notes on Nouns and Adjectives]({{ site.baseurl }}/notes/1-nouns-adjs), and record any questions that you have.
 - Consult and begin memorizing the bolded declension patterns in the [Nouns/Pronouns paradigm charts]({{ site.baseurl }}/charts/1-nouns) and [Adjectives paradigm charts]({{ site.baseurl }}/charts/1-adjectives).
 - Begin memorizing the vocabulary items in [Module 1]({{ site.baseurl }}/vocab/1).
