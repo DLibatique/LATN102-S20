@@ -5,7 +5,7 @@ title: Adjective Morphology
 
 ***
 
-[Regular Adjectives](#regadjs): [2-1-2](#212), [3 termination](#3term), [2 termination](#2term), [1 termination](#1term) \|  
+[Regular Adjectives](#regadjs): [2-1-2](#212) ([-īus adjs.](#11--īus-adjectives)), [3 termination](#3term), [2 termination](#2term), [1 termination](#1term) \|  
 [Demonstrative Adjectives](#demadjs): [*hic, haec, hoc*](#hic); [*ille, illa, illud*](#ille) \|  
 [Intensifying Adjectives:](intadjs) [*ipse, ipsa, ipsud*](#ipse)
 
@@ -46,6 +46,32 @@ Note the different form of the adjective chart compared to the noun chart; how d
 | Dative   | bonīs        | bonīs  |bonīs  |
 | Accusative   | bonōs        | bonās  |bona  |
 | Ablative   | bonīs        | bonīs  |bonīs  |
+
+### 1.1) -īus adjectives
+
+As stated in the [notes](../../notes/1-nouns-adjs#11--īus-adjectives), -īus adjectives generally follow the declension pattern of 2-1-2 adjectives except in the genitive and dative singular.
+
+*nullus*, *nulla*, *nullum* - no, none
+
+**Singular**
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | **nullus**       | **nulla**       |**nullum**       |
+| Genitive   | **nullīus**        | **nullīus**  |**nullīus**  |
+| Dative   | nullī       | nullī  |nullī  |
+| Accusative   | nullum        | nullam  |nullum  |
+| Ablative   | nullō        | nullā  |nullō  |
+
+**Plural**
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | **nullī**       | **nullae**       |**nulla**       |
+| Genitive   | **nullōrum**        | **nullārum**  |**nullōrum**  |
+| Dative   | nullīs        | nullīs  |nullīs  |
+| Accusative   | nullōs        | nullās  |nulla  |
+| Ablative   | nullīs        | nullīs  |nullīs  |
 
 ### 2) <a name="3term">Three termination adjectives</a> (e.g. *acer, acris, acre* - harsh, sharp)
 
