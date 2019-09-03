@@ -265,6 +265,20 @@ The gerundive phrase is usually called a **gerund-replacing-gerundive** (**GRG**
 
 #### Practice Opportunity
 
+Translate the following sentence and phrases that contain GRGs.
+
+1. ad **incipiendum iter**  
+<button onclick="toggleDisplay('prac19')">Click here to toggle the answer:</button> <span style="display: none;" id="prac19">for the purpose of beginning a journey</span>
+
+2. ars **scrībendōrum librōrum**  
+<button onclick="toggleDisplay('prac20')">Click here to toggle the answer:</button> <span style="display: none;" id="prac20">the art of writing books</span>
+
+3. **docendīs puellīs** parat.  
+<button onclick="toggleDisplay('prac21')">Click here to toggle the answer:</button> <span style="display: none;" id="prac21">He prepares by teaching girls.</span>
+
+4. **rēgīnae iuvandae** grātiā
+<button onclick="toggleDisplay('prac22')">Click here to toggle the answer:</button> <span style="display: none;" id="prac22">for the sake of helping the queen</span>
+
 ***
 
 ### Other Uses of Gerundives
