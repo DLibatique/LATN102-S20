@@ -186,8 +186,6 @@ Below are some English examples where we would use the Latin imperfect (note the
 * Although the teacher told them to stop working, the students kept writing (*scrībēbant*) their exams.
 * Katie was being asked (*petēbātur*) to play Beyonce.
 
-So, the imperfect tense can be translated in various ways. You can never go wrong with "was/were _____ing" in the active (e.g., "she was writing") and "was/were being _____ed" in the passive (e.g., "it was being written"). You may on occasion see other translations of the imperfect, like "she kept writing", "she tried to write", or "she used to write."
-
 ### <a name="impfform">Formation of the Imperfect Indicative</a>
 
 To form the imperfect indicative (NB: this is the same for both active and passive), we start by finding the verb's present stem. To determine the present stem, we take the second principal part (the present active infinitive) and chop off the final *-re*.
@@ -415,8 +413,6 @@ Below are some English examples where we would use the Latin perfect:
 * They gave (*dedērunt*) the football players free pizza on Friday.
 * The students did write (*scrīpsērunt*) their exams.
 * Katie has been asked (*petīta est*) to play Beyonce.
-
-So, the perfect tense can be translated in various ways: in the perfect active, as a simple past tense ("he wrote"), a present perfect using "has/have" as an auxiliary verb ("he has written"), or an emphatic past tense with the auxiliary verb "did" ("he did write"); in the perfect passive, as a simple past tense like "it was written" or a present perfect like "it has been written."
 
 ### <a name="perfact">Formation of the Perfect Active Indicative</a>
 

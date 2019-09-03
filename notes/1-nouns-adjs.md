@@ -6,7 +6,7 @@ title: Module 1 - Nouns and Adjectives
 ***
 
 - [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity)  
-- [Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)); [3 Term.](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#6-irregulars) \| [Practice Opportunity](#practice-opportunity-1) \| [Substantives](#substantives)
+- [Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)); [3 Term.](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#5-irregulars) \| [Practice Opportunity](#practice-opportunity-1) \| [Substantives](#substantives)
 - [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2)
 - [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
 
@@ -18,7 +18,7 @@ Latin nouns have three characteristics: **grammatical gender**, **number**, and 
 
 **Grammatical gender** is not related to biological gender (though at times they can align), but it is a classification system that allows us to determine what form the modifying adjective should take (more on this below). Nouns can be one of three of genders: **masculine**, **feminine**, or **neuter**. A noun's gender cannot be changed.
 
-**Number** tells us whether the noun in question is **singular** or **plural**. Consequently, it also plays a role in determining the form the modifying adjective may take (more on this below). When nouns function as the subject of the sentence, number also helps us to determine the proper verb form to use (subject-verb agreement). This works exactly like English.
+**Number** tells us whether the noun in question is **singular** or **plural**. Consequently, it also plays a role in determining the form the modifying adjective may take (more on this below). When nouns function as the subject of the sentence, number also helps us to determine the proper verb form to use (subject-verb agreement). This works exactly like English. For example, you wouldn't say "the boys walks to school"; rather, the plural subject "boys" must have a plural verb to agree with it: "the boys walk to school."
 
 **Case** indicates the function of a noun in the sentence. Because Latin is an inflected language, it does not rely on word order to indicate how a word functions in a sentence. Rather, the endings of the noun will change to reflect what it is doing in the sentence - whether it is a subject or direct object or the object of preposition etc. Again, it will also provide information about the form that the modifying adjective must take (more on this below). Nouns can be one of six cases: **nominative**, **genitive**, **dative**, **accusative**, **ablative**, or **vocative**.
 
@@ -61,7 +61,7 @@ The last part of the dictionary entry is simply the definition.
 
 As I alluded to above, Latin is an inflected language and relies on word endings to reveal how a word functions within the sentence. The way that Latin nouns or adjectives change their endings to reflect their function in a sentence is what we call a **declension**. There are three major declensions (as well as two minor ones) that we will become familiar with.
 
-The declension to which a noun belongs can be easily determined by consulting the genitive singular form in dictionary entry:
+The declension to which a noun belongs can be easily determined by consulting the genitive singular form in the dictionary entry:
 - If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g *fīlia*, *fīliae*, f. - daughter).
 
 - If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g *fīlius*, *fīliī*, m. - son). NOTE: The nominative singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension neuter nouns can end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they belong to the second declension!

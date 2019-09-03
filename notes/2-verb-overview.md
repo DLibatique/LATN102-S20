@@ -96,10 +96,10 @@ What conjugation does each of the following verbs belong to?
 3. *bibō*, *bibere*, *bibī*, *bibitus* - to drink  
 <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">3rd</span>
 
-4. *iuvō*, *iuvāre*, *iūvī*, *iūtus* - to help
+4. *iuvō*, *iuvāre*, *iūvī*, *iūtus* - to help  
 <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">1st</span>
 
-5. *veniō*, *venīre*, *vēnī*, *ventus* - to come
+5. *veniō*, *venīre*, *vēnī*, *ventus* - to come  
 <button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">4th</span>
 
 [Back to top.](#top)
@@ -120,13 +120,13 @@ Translate the following verb forms, given their person, number, tense, voice, an
 2. *monēt* - 3rd person singular, present, active, indicative  
 <button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">he warns/advises</span>
 
-3. *bibēbant* - 3rd person plural, imperfect, active, indicative
+3. *bibēbant* - 3rd person plural, imperfect, active, indicative  
 <button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">they were drinking</span>
 
-4. *iuvātur* - 3rd person singular, present, passive, indicative
+4. *iuvātur* - 3rd person singular, present, passive, indicative  
 <button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">he/she/it is helped</span>
 
-5. *vēnērunt* - 3rd person plural, perfect, active, indicative
+5. *vēnērunt* - 3rd person plural, perfect, active, indicative  
 <button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">they have come/they came</span>
 
 [Back to top.](#top)
