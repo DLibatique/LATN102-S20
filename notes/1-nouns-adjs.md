@@ -5,9 +5,10 @@ title: Module 1 - Nouns and Adjectives
 
 ***
 
-[Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity) \|  
-[Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)) \|; [3 Termination](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#6-irregulars) \|[Practice Opportunity](#practice-opportunity-1) \|  
-[Substantives](#substantives) \| [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2) \| [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
+- [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity)  
+- [Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)); [3 Term.](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#6-irregulars) \| [Practice Opportunity](#practice-opportunity-1) \| [Substantives](#substantives)
+- [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2)
+- [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
 
 ***
 
@@ -200,7 +201,7 @@ Nouns in the **genitive** case are used to modify another noun and will usually 
 
 ### Practice Opportunity
 
-Translate the following phrases or sentences into English. Consult your [vocabulary](../../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts]({{ site.baseurl }}/charts/1-nouns) and [adjective declension charts]({{ site.baseurl }}/charts/1-adjectives) for this module if needed.
+Translate the following phrases or sentences into English. Consult your [vocabulary](../../vocab/1) for words with which you are unfamiliar and your [noun/pronoun declension charts](../../charts/1-nouns) and [adjective declension charts](../../charts/1-adjectives) for this module if needed.
 
 Make sure you are translating the correct **case** and **number** for each word. Also, make sure that you are translating adjectives with the words that they modify! (How can you tell? What aspects does an adjective have to match its noun in?)
 
@@ -240,7 +241,7 @@ The declension for the pronoun is tricky, so be sure to consult the paradigm cha
 
 ### Practice Opportunity
 
-What form of *is*, *ea*, *id* would you use to stand in for the following words? Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*]({{ site.baseurl }}/charts/1-nouns#pronouns) for help if needed.
+Substitute each of the following words with a form of *is*, *ea*, *id* that matches it in **gender**, **case**, and **number**. Each word is either in the nominative or genitive case. Make sure to consult the [declension chart of *is*, *ea*, *id*](../../charts/1-nouns#pronouns), the [general noun declension charts](../../charts/1-nouns), and your [Module 1 vocabulary](../../vocab/1) for help.
 
 1. *exemplum*  
 <button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">*id*</span>
