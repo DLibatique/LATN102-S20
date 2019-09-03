@@ -222,7 +222,7 @@ NB: *Ad* + the accusative gerund and *causā* / *gratiā* + the genitive gerund 
 
 ## GRGs (Gerund Replacing Gerundives)
 
-What if, in the example, *ars legendī est bona animō* mentioned above, we wanted to specify that it is the “art of reading **books**” that is good for the soul.
+What if, in the example, *ars legendī est bona animō* mentioned above, we wanted to specify that it is the “art of reading **books**” that is good for the soul?
 
 The simplest solution would seem to be adding a direct object after the gerund:
 
@@ -232,15 +232,15 @@ However, for some reason, Latin does not like using this construction and instea
 
 - amō, amāre, amāvī, amātus --> amā- --> ama-nd- --> amandus, amanda, amandum
 
-In a gerundive phrase, the gerundive agrees with the noun that would have been the direct object in number and gender and takes its case from its role in the sentence. In the example above, *ars legendī librōs* would be expressed as follows using a gerundive phrase:
+In a gerundive phrase, the gerundive agrees with the noun that would have been the direct object in **number** and **gender** BUT takes its **case** from its role in the sentence. In the example above, *ars legendī librōs* would be expressed as follows using a gerundive phrase:
 
 - Ars **legendōrum librōrum** (explanatory genitive with ars, masculine and plural from librōs) = the art of reading books
 
 The gerundive phrase is usually called a **gerund-replacing-gerundive** (**GRG** for short). When translating GRGs, the gerundive is translated just like a gerund and the noun that agrees with it as its a direct object. Below are a few examples:
 
-- Terit tempus **scrībendīs epistulīs**. (“He wastes time by **writing letters**.”)
+- Terit tempus **scrībendīs epistulīs**. (“He wastes time **by writing letters**.”)
 - Consilium **urbis capiendae** (“A plan **for taking the city**.”)
-- Veniunt ad **pācem petendam**. (“They come for the purpose of **seeking peace**.”)
+- Veniunt **ad pācem petendam**. (“They come **for the purpose of seeking peace**.”)
 
 ***
 
