@@ -112,6 +112,21 @@ When translating Latin verbs into English, you must convey all five characterist
 
 ### Practice Opportunity
 
-Translate the following verb forms.
+Translate the following verb forms, given their person, number, tense, voice, and mood.
+
+1. *factum est* - 3rd person singular, perfect, passive, indicative  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">it has been done/made</span>
+
+2. *monēt* - 3rd person singular, present, active, indicative  
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">he warns/advises</span>
+
+3. *bibēbant* - 3rd person plural, imperfect, active, indicative
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">they were drinking</span>
+
+4. *iuvātur* - 3rd person singular, present, passive, indicative
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">he/she/it is helped</span>
+
+5. *vēnērunt* - 3rd person plural, perfect, active, indicative
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">they have come/they came</span>
 
 [Back to top.](#top)
