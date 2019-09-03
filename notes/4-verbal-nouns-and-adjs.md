@@ -223,6 +223,20 @@ NB: *Ad* + the accusative gerund and *causā* / *gratiā* + the genitive gerund 
 
 #### Practice Opportunity
 
+Produce the genitive gerund for the following verb forms.
+
+1. incipiō, incipere, incēpī, inceptum - to begin  
+<button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">incipiendī</span>
+
+2. discēdō, discēdere, discessī, discessurus - to leave, depart  
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">discendī</span>
+
+3. amō, amāre, amāvī, amātus - to love  
+<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">amandī</span>
+
+4. doceō, docēre, docuī, doctus - to teach  
+<button onclick="toggleDisplay('prac18')">Click here to toggle the answer:</button> <span style="display: none;" id="prac18">docendī</span>
+
 ***
 
 ### GRGs (Gerund Replacing Gerundives)
