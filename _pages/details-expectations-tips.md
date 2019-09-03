@@ -53,7 +53,7 @@ Below are list of best practices based on the behavior of students have done wel
 
 - Do not rely on class time to learn assigned material. Our discussions will build on the reading that I expect you to have completed for class.
 - Read each the relevant material twice – once before class and once after. This will help to crystallize key concepts that we cover in class.
-- Set aside time to study morphology and vocabulary (some tips: [here] (link here)) every day. This is essential for doing well in the course.
+- Set aside time to study morphology and vocabulary [some tips](https://dlibatique.github.io/LATN101-F19/notes-charts-and-vocab) every day. This is essential for doing well in the course.
 - Find a memorization strategy that works for you. It’s worth trying some of the online memorization tools (Quizlet, IFlash, etc.) to see if they can help!
 - Visit me during office hours! I am here to help you learn as much as possible and I am happy to do whatever is necessary to assist you in achieving that goal.
 - Take advantage of the resources available for you. I will set up a weekly session with SAC tutors for reviewing forms and for going over your translation and composition assignments. You can also work through [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) to get more individually tailored support.
