@@ -8,7 +8,7 @@ permalink: schedule-DL
 
 ***
 
-This detailed schedule links out to the notes and charts that you'll need throughout the semester. Your homework assignment for any given class period is to read the notes and charts sections in advance of the class meeting; then, review those concepts again after the class meeting. Use the practice opportunities throughout the notes to keep yourself practicing the concepts in anticipation of the daily quiz.
+This detailed schedule links out to the notes and charts that you'll need throughout the semester. Your homework assignment for any given class period is to read the linked notes and charts sections in advance of the class meeting; then, review those concepts again after the class meeting. Use the practice opportunities throughout the notes to keep yourself practicing the concepts in anticipation of the daily quiz.
 
 ***
 
@@ -26,8 +26,16 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Introduction to Latin - Inflection, Word Order
 
 ### Friday, September 6
-- Nouns: Gender, Case, and Number; 1st, 2nd, and 3rd Declensions; [Nominative, Genitive](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#case-usages---nominative-and-genitive)  
-- Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [Module 1 Notes on Nouns and Adjectives](../../notes/1-nouns-adjs), and record any questions that you have.
+- Consult and begin memorizing the bolded declension patterns in the [Nouns/Pronouns paradigm charts](../../charts/1-nouns) and [Adjectives paradigm charts](../../charts/1-adjectives).
+- Begin memorizing the vocabulary items in [Module 1](../../vocab/1).
+
+<p style="margin-bottom: 0;">Topics:</p>  
+- Nouns: [Gender, Case, and Number](../../notes/1-nouns-adjs#nouns);
+  - [1st, 2nd, and 3rd Declensions](../../notes/1-nouns-adjs#declensions);
+  - [Nominative, Genitive](../../notes/1-nouns-adjs/#case-usages---nominative-and-genitive)  
+- [Adjectives: Noun-Adjective Agreement, 1st/2nd and 3rd Declensions](../../notes/1-nouns-adjs#adjectives)
 - *Est*, *Sunt*
 
 [Back to top.](#top)
@@ -37,16 +45,29 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 2
 
 ### Monday, September 9
-- Adjectives: Possessives, Demonstratives, Intensifiers
+<p style="margin-bottom: 0;">Topics:</p>  
+- Adjectives: Possessives, [Demonstratives, Intensifiers](../../notes/1-nouns-adjs#5-irregulars)
+- [Pronouns: *is*, *ea*, *id*](../../notes/1-nouns-adjs#pronouns---is-ea-id)
 
 ### Wednesday, September 11
-- Adjectives: -īus adjectives, Substantives  
+<p style="margin-bottom: 0;">Homework:</p>
 - Translation #1 Due  
+
+<p style="margin-bottom: 0;">Topics:</p>  
+- Adjectives: [-īus adjectives](../../notes/1-nouns-adjs#11--īus-adjectives), [Substantives](../../notes/1-nouns-adjs#substantives)  
 - Composition Workshop
 
 ### Friday, September 13
-- Verbs: Person, Number, Tense, Voice, Mood; Principal Parts; Conjugations; Present Tense  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [Module 2 Verb Overview](../../notes/2-verb-overview) (EXCEPT FOR "Translating Verbs") and the [present tense overview and formation notes](../../notes/2-tenses#the-present-tense), and record any questions that you have.
+- Consult and begin memorizing the bolded conjugation patterns in the [present indicative paradigm charts](../../charts/2-pres-ind).
+- Begin memorizing the vocabulary items in [Module 2](../../vocab/2).
 - Composition #1 Due
+
+<p style="margin-bottom: 0;">Topics:</p>
+- Verbs: [Person, Number, Tense, Voice, Mood; Principal Parts](../../notes/2-verb-overview#verbs);
+  - [Conjugations](../../notes/2-verb-overview#conjugations);
+  - [Present Tense](../../notes/2-tenses#the-present-tense)  
 
 [Back to top.](#top)
 
@@ -55,19 +76,32 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 3
 
 ### Monday, September 16
-- Verbs: Present Tense Continued  
-- Sentence Type 1: Transitive (+ Accusative Direct Object, Dative Indirect Object)  
-- Sentence Type 3: Passive (+ Ablative of Agent, Ablative of Means)
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the notes on [sentence patterns](../../notes/2-sentence-structures#sentence-patterns), [transitive sentences](../../notes/2-sentence-structures#transitive-sentences), and [passive sentences](../../notes/2-sentence-structures#passive-sentences) and record any questions that you have.
+
+<p style="margin-bottom: 0;">Topics:</p>
+- Verbs: [Present Tense](../../notes/2-tenses#the-present-tense) Continued  
+- Sentence Type: [Transitive (+ Accusative Direct Object, Dative Indirect Object)](../../notes/2-sentence-structures#transitive-sentences)  
+- Sentence Type: [Passive (+ Ablative of Agent, Ablative of Means)](../../notes/2-sentence-structures#passive-sentences)
 
 ### Wednesday, September 18
-- Verbs: Imperfect Tense  
-- Sentence Type 2: Intransitive  
-- Sentence Type 4 (Review): Linking (+ Predicate Nominative)  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [imperfect tense overview and formation notes](../../notes/2-tenses#the-imperfect-tense) and the notes on [intransitive sentences](../../notes/2-sentence-structures#intransitive-sentences) and [linking sentences](../../notes/2-sentence-structures#linking-sentences) and record any questions that you have.
+- Consult and begin memorizing the bolded conjugation patterns in the [imperfect indicative paradigm charts](../../charts/2-impf-ind).
 - Translation #1 Revision Due
 
+<p style="margin-bottom: 0;">Topics:</p>
+- Verbs: [Imperfect Tense](../../notes/2-tenses#the-imperfect-tense)  
+- Sentence Type: [Intransitive](../../notes/2-sentence-structures#intransitive-sentences)  
+- Sentence Type (Review): [Linking (+ Predicate Nominative)](../../notes/2-sentence-structures#linking-sentences)  
+
 ### Friday, September 20
-- Verbs: Future Tense  
-- Composition #1 Revision Due  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [future tense overview and formation notes](../../notes/2-tenses#the-future-tense) and record any questions that you have.
+- Composition #1 Revision Due
+
+<p style="margin-bottom: 0;">Topics:</p>
+- Verbs: [Future Tense](../../notes/2-tenses#the-future-tense)
 
 [Back to top.](#top)
 
@@ -76,16 +110,27 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 4
 
 ### Monday, September 23
-- Verbs: Perfect Tense  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [perfect tense overview and formation (active and passive) notes](../../notes/2-tenses#the-perfect-tense) and record any questions that you have.
 - Translation #2 Due
 
+<p style="margin-bottom: 0;">Topics:</p>
+- Verbs: [Perfect Tense](../../notes/2-tenses#the-perfect-tense)  
+
 ### Wednesday, September 25
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on translating verbs](../../notes/2-verb-overview/#translating-verbs), and record any questions that you have.
+
+<p style="margin-bottom: 0;">Topics:</p>
 - Verb Tense, Sentence Type, and Noun Use Practice  
 - Composition Workshop
 
 ### Friday, September 27
-- Review and Practice  
+<p style="margin-bottom: 0;">Homework:</p>
 - Composition #2 Due
+
+<p style="margin-bottom: 0;">Topics:</p>
+- Review and Practice  
 
 [Back to top.](#top)
 
@@ -94,18 +139,33 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 5
 
 ### Monday, September 30
-- Prepositions  
-- Expressions of Place (Accusative of Motion Toward, Accusative of Extent of Space, Ablative of Place Where, Ablative of Motion From)  
-- Expressions of Time (Ablative of Time Within Which, Accusative of Extent/Duration of Time)  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on prepositions, expressions of place, and expressions of time](../../notes/3-place-and-time), and record any questions that you have.
+- Begin memorizing the vocabulary items in [Module 3](../../vocab/3).
 - Translation #2 Revision Due
 
+<p style="margin-bottom: 0;">Topics:</p>
+- [Prepositions](../../notes/3-place-and-time#prepositional-phrases)  
+- [Expressions of Place (Accusative of Motion Toward, Accusative of Extent of Space, Ablative of Place Where, Ablative of Motion From)](../../notes/3-place-and-time#expressions-of-place)  
+- [Expressions of Time (Ablative of Time When, Ablative of Time Within Which, Accusative of Extent/Duration of Time)](../../notes/3-place-and-time#expressions-of-time)  
+
+
 ### Wednesday, October 2
-- Verbs: Infinitives  
-- *possum*, *posse*, *potuī*  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on infinitives](../../notes/4-verbal-nouns-and-adjs#infinitives) and [their uses (subjective and complementary)](../../notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive), and record any questions that you have.
+- Begin memorizing the vocabulary items in [Module 4](../../vocab/4).
+
+<p style="margin-bottom: 0;">Topics:</p>
+- Verbs: [Infinitives](../../notes/4-verbal-nouns-and-adjs#infinitives)  
+- [*possum*, *posse*, *potuī*](../../notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive)  
 
 ### Friday, October 4
-- Gerunds and Gerundives
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on gerunds and gerundives](../../notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives), and record any questions that you have.
 - Composition #2 Revision Due
+
+<p style="margin-bottom: 0;">Topics:</p>
+- [Gerunds and Gerundives](../../notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives)
 
 [Back to top.](#top)
 
@@ -114,16 +174,27 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 6
 
 ### Monday, October 7
-- Gerunds and Gerundives
+<p style="margin-bottom: 0;">Homework:</p>
 - Translation #3 Due
 
+<p style="margin-bottom: 0;">Topics:</p>
+- [Gerunds and Gerundives](../../notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives) Continued
+
+
 ### Wednesday, October 9
-- Questions: Interrogative Adjective/Pronoun, Particles
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on questions](../../notes/5-questions) (but skim "Deliberative Questions"), and record any questions (lol) that you have.
+
+<p style="margin-bottom: 0;">Topics:</p>
+- [Questions: Interrogative Adjective/Pronoun, Particles](../../notes/5-questions)
 - Composition Workshop
 
 ### Friday, October 11
-- Check Up from the Neck Up  
+<p style="margin-bottom: 0;">Homework:</p>
 - Composition #3 Due
+
+<p style="margin-bottom: 0;">Topics:</p>
+- Check Up from the Neck Up  
 
 [Back to top.](#top)
 
