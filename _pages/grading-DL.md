@@ -8,8 +8,7 @@ permalink: grading-DL
 
 ***
 
-[Attendance and Participation](#attendance-and-participation-10) \| [Daily Quizzes](#daily-quizzes-18) \| [Translations](#six-6-translations-36) \|  
-[Compositions](#six-6-compositions-36) \| [Final Translation and Composition](#final-translation-and-composition-12) \| [Revisions](#revisions) \|
+[Attendance and Participation](#attendance-and-participation-10) \| [Daily Quizzes](#daily-quizzes-18) \| [Translations](#six-6-translations-36) \| [Compositions](#six-6-compositions-36) \| [Final Translation and Composition](#final-translation-and-composition-12) \| [Revisions](#revisions) \|
 
 ***
 
@@ -22,6 +21,10 @@ You must attend each class and actively engage with the material being taught (i
 There will be thirty-six (36) short quizzes, each weighted at 0.5%, on each day of the semester beginning on Wednesday, September 11 (the first day after the add-drop period ends). The quizzes will consist of very quick grammar, identification, and translation questions. Each quiz will be designed to take no more than two or three minutes. Quizzes will be administered at the beginning of each class, and quizzable material will be the topics from the previous class period.
 
 **NOTE: If you miss a quiz due to an excused absence, you are eligible to take a make-up quiz. If your absence is unexcused, you will receive a 0% for that day’s quiz.**
+
+***
+
+**NOTE FOR THE FOLLOWING CATEGORIES: I will not accept late submissions unless I have explicitly given you an extension for the assignment in question. Any assignment submitted late without permission will receive a grade of 0%. If you feel that it will be difficult to meet any deadline throughout the semester, please contact me so we can work something out!**
 
 ***
 
