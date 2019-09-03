@@ -11,7 +11,7 @@ title: Adjective Morphology
 
 ***
 
-For this first module, focus on the **bolded** forms; we'll learn about the others in later weeks.
+For this first module, focus on the **bolded** forms in the charts; we'll learn about the others in later weeks.
 
 ## <a name="regadjs">Regular adjectives</a>
 
@@ -19,9 +19,33 @@ For this first module, focus on the **bolded** forms; we'll learn about the othe
 
 To decline a 2-1-2 adjective beyond the nominative case, begin by going to the second part of the dictionary entry, which is the feminine nominative singular form. Chop off the final *-a*, and then add the endings that you need.
 
-As mentioned in the conceptual breakdown, 2-1-2 adjectives decline exactly like their corresponding noun forms. In the above example, *bonus* declines exactly like a second declension masculine noun like *maritus*; *bona* declines exactly like a first declension feminine noun like *puella*; *bonum* decline exactly like a second declension neuter noun like *exemplum*.
+As mentioned in the conceptual breakdown, 2-1-2 adjectives decline exactly like their corresponding noun forms. In the above example, *bonus* declines exactly like a [second declension masculine noun](1-nouns#second-declension-masculine) like *maritus*; *bona* declines exactly like a [first declension feminine noun](1-nouns#first-declension-feminine) like *puella*; *bonum* decline exactly like a [second declension neuter noun](1-nouns#second-declension-neuter) like *exemplum*.
 
 Some 2-1-2 adjectives have a masculine nominative singular that ends in -r: for example, *pulcher*, *pulchra*, *pulchrum*, "beautiful, handsome." In cases like these, it is important to keep in mind the first rule above: get the stem from the **second part of the dictionary entry, the feminine nominative singular form**. So, the genitive singular of *pulcher* is ***pulchrī***, NOT *pulcherī* -- there is no -e- in the feminine nominative singular form!
+
+Note the different form of the adjective chart compared to the noun chart; how do the column headings differ?
+
+*bonus*, *bona*, *bonum* - good
+
+**Singular**
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | **bonus**       | **bona**       |**bonum**       |
+| Genitive   | **bonī**        | **bonae**  |**bonī**  |
+| Dative   | bonō       | bonae  |bonō  |
+| Accusative   | bonum        | bonam  |bonum  |
+| Ablative   | bonō        | bonā  |bonō  |
+
+**Plural**
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | **bonī**       | **bonae**       |**bona**       |
+| Genitive   | **bonōrum**        | **bonārum**  |**bonōrum**  |
+| Dative   | bonīs        | bonīs  |bonīs  |
+| Accusative   | bonōs        | bonās  |bona  |
+| Ablative   | bonīs        | bonīs  |bonīs  |
 
 ### 2) <a name="3term">Three termination adjectives</a> (e.g. *acer, acris, acre* - harsh, sharp)
 
@@ -31,7 +55,7 @@ Generally, these adjectives decline like third declension nouns with a few small
 
 The masculine and feminine forms of these adjectives are exactly the same except for the nominative singular.
 
-Note the different form of the adjective chart compared to the noun chart; how do the column headings differ?
+*ācer*, *ācris*, *ācre* - harsh, sharp
 
 **Singular**
 
