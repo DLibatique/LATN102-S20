@@ -6,7 +6,7 @@ title: Module 1 - Nouns and Adjectives
 ***
 
 [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity) \|  
-[Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives); [3 Termination](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Practice Opportunity](#practice-opportunity-1) \|  
+[Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives); [3 Termination](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#5-irregulars) \|[Practice Opportunity](#practice-opportunity-1) \|  
 [Substantives](#substantives) \| [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2) \| [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
 
 ***
@@ -145,6 +145,8 @@ The declension of two termination adjectives is exactly the same as for three te
 One termination adjectives can be recognized by the *-is* ending in the second part of the dictionary entry. In the dictionary entry for one termination adjectives, the first form (i.e. *ferox*) signifies the nominative singular for all three genders (hence the name "one termination"), and the second form (i.e. *ferocis*) signifies the genitive singular for all three genders. Like three and two termination adjectives, one termination adjectives generally decline like third declension nouns except in the genitive plural for all genders and neuter nominative plural (as well as the ablative singular).
 
 The full declension chart for one termination adjectives can be found [here](../../charts/1-adjectives#1term).
+
+### 5) Irregulars
 
 Beyond these categories, there are few common adjectival forms that are declined irregularly. These include demonstrative adjectives like [*hic, haec, hoc*](../../charts/1-adjectives#hic) and [*ille, illa, illud*](../../charts/1-adjectives#ille) (adjectives that point out what you are referring to, equivalent to the English "this" and "that") and the intensifying adjective [*ipse, ipsa, ipsum*](../../charts/1-adjectives#ipse) (adjectives that emphasize the noun they modify, equivalent to the English "the *very* girl" or "the girl *herself*"). You must become familiar with how they decline so that you can recognize them easily when you are reading a Latin text, so please refer to the paradigm charts linked to each irregular adjective in this paragraph for further clarification.
 
