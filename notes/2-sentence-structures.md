@@ -87,8 +87,8 @@ The following noun-adjective pairs are all in the nominative case and either sin
 2. *fortis dux*  
 <button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">accusative: *fortem ducem*; dative: *fortī ducī*</span>
 
-3. *serpentēs horribilēs*  
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">accusative: *serpentēs horribilēs*; dative: *serpentibus horribilibus*</span>
+3. *exempla omnia*  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">accusative: *exempla omnia*; dative: *exemplīs omnibus*</span>
 
 4. *sapiēns vir*  
 <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">accusative: *sapientem virum*; dative: *sapientī virō*</span>
@@ -99,17 +99,19 @@ The following noun-adjective pairs are all in the nominative case and either sin
 
 ### Passive Sentences
 
-**Passive sentences** feature a subject and, unsurprisingly a passive verb. Because the subject of a passive verb is being acted upon, passive sentences do not feature a direct object. Below are some examples of simple passive sentences:
+**Passive sentences** feature a subject and, unsurprisingly, a **passive** verb. Because the subject of a passive verb is being acted upon, passive sentences do not feature a direct object. Below are some examples of simple passive sentences:
 
 * Puella visa est. ("The girl was seen.")
-* Viri capti sunt. ("The men were captured.")
+* Virī captī sunt. ("The men were captured.")
 
-Sometimes, passive sentences feature a construction known as the **ablative of agent** which tells us who did the action of the main verb (since the subject is being acted upon). We can recognize the ablative of agent by the preposition a/ab followed by a noun in the ablative case (be sure to investigate what the ablative looks like). Below are the simple passive sentences with an ablative of agent:
+Sometimes, passive sentences feature a construction known as the **ablative of agent** which tells us who performed the action of the main verb (since the subject is *receiving* the action of the verb, rather than performing it). We can recognize the **ablative of agent** by the preposition *ā/ab* followed by a noun in the **ablative case**. Below are the examples from above with an ablative of agent:
 
 * Puella **ab matre** visa est. ("The girl was seen by her mother.")
-* Virī **a fēminīs** captī sunt. ("The men were captured by women.")
+* Virī **ā fēminīs** captī sunt. ("The men were captured by the women.")
 
-Passive sentences can also feature an indirect object in the dative case as well. For example, we might see a sentence like the following:
+Head to the [noun paradigm charts](../../charts/1-nouns) and [adjective paradigm charts](../../charts/1-adjectives) to familiarize yourself with the **ablative** endings in the singular and plural of each declension and adjective grouping.
+
+Passive sentences can also feature an **indirect object** in the **dative case** as well. For example, we might see a sentence like the following:
 
 * Pizza **puellae** data est. ("The pizza was given to the girl.")
 
@@ -123,7 +125,19 @@ And sometimes have an:
 
 #### Practice Opportunity
 
-Form the ablative singular and plural of the following words using the charts from Module 1.
+The following noun-adjective pairs are all in the nominative case and either singular or plural. Change each pairing into the ablative while maintaining the same number using the [noun paradigm charts](../../charts/1-nouns) and [adjective paradigm charts](../../charts/1-adjectives) from Module 1.
+
+1. *urbēs prīmae*    
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">*urbibus prīmīs*</span>
+
+2. *fortēs ducēs*  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">*fortibus ducibus*</span>
+
+3. *exemplum omne*  
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">*exemplō omnī*</span>
+
+4. *sapiēntēs virī*  
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">*sapiēntibus virīs*</span>
 
 [Back to top.](#top)
 
