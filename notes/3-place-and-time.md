@@ -18,7 +18,7 @@ Prepositional phrases add more information about the main action of the sentence
 
 * Puellam **in urbe** vīdit. ("She saw the girl in the city.") (**Where** did she see the girl? In the city.)
 * **Ob īgnem** fugiēbat. ("He was fleeing because of the fire.") (**Why** was he fleeing? Because of the fire.)
-* Hercules **cum quattuor sagittīs** monstra necāvit. ("Hercules killed the monsters with three arrows.) (**With what** did Hercules kill the monsters? With four arrows.)
+* Hercules **sub ponte** monstra necāvit. ("Hercules killed the monsters under the bridge.) (**Where** did Hercules kill the monsters? With four arrows.)
 
 <!--
 last example -- this would be an ablative of means, without *cum*, right? Maybe better: Hercules killed the monsters under the bridge, Hercules monstra sub ponte necāvit)
@@ -57,6 +57,18 @@ NB: In the case of cities, small towns, and the words *domus* ("home") and *rūs
 
 Identify the bolded expression of place and translate the sentence.
 
+1. **Ex magnā urbe** fēminās movēbant.  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1"></span>place from which; "They were moving the women away from the great city."
+
+2. Monstra **centum pedes** alta sunt.  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2"></span>accusative of extent of space; "The monsters are 100 feet tall."
+
+3. Rex et rēgīna **ad castra** cucurrērunt.  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3"></span>place to which; "The king and queen ran towards the camps."
+
+4. Puerī et puellae **in rēgnō** vīxērunt.  
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4"></span>place where; "The boys and girls lived in the kingdom."
+
 [Back to top.](#top)
 
 ***
@@ -68,7 +80,7 @@ The accusative and ablative cases (without prepositions) can also be used to exp
 Below are the ways that Latin expresses ideas of time:
 
 1) Length of time in the accusative (no preposition):
-* **Quattour annōs** in illā urbe labōrāvit. ("They worked for four years in that city").
+* **Quattuor annōs** in illā urbe labōrāvit. ("They worked for four years in that city").
 * **Quīnque mēnsēs** prō templō vīxērunt. ("They lived in front of the temple for five months.").
 
 2) Time when in the ablative (no preposition):
@@ -84,5 +96,14 @@ Below are the ways that Latin expresses ideas of time:
 ### Practice Opportunity
 
 Identify the bolded expression of time and translate the sentence.
+
+1. **decimā horā** fēminās ex magnā urbe movēbant.  
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5"></span>time when in the ablative; "At the tenth hour, they were moving the women away from the great city."
+
+2. Puerī et puellae in rēgnō **septem annōs** vīxērunt.  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6"></span>length of time in the accusative; "The boys and girls lived in the kingdom for seven years."
+
+3. Rex et rēgīna ad castra **quattuor horīs** vēnērunt.  
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7"></span>place to which; "The king and queen arrived at the camp within four hours."
 
 [Back to top.](#top)
