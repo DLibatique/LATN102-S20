@@ -6,7 +6,7 @@ title: Module 1 - Nouns and Adjectives
 ***
 
 [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity) \|  
-[Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives); [3 Termination](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#5-irregulars) \|[Practice Opportunity](#practice-opportunity-1) \|  
+[Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)) \|; [3 Termination](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#6-irregulars) \|[Practice Opportunity](#practice-opportunity-1) \|  
 [Substantives](#substantives) \| [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2) \| [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
 
 ***
@@ -115,6 +115,13 @@ The 2-1-2 adjective can be recognized from endings of all three entries (*-us, -
 The declension of these adjectives is relatively simple. To get the adjective's stem, you take the *-a* off the feminine singular form (the second part of the dictionary entry) and then add the appropriate endings onto it. If you need a masculine form, then you decline the adjective like a [2nd declension masculine noun](../../charts/1-nouns#second-declension-masculine) (e.g., *maritus*). If you need a feminine form, you decline it like a [1st declension feminine noun](../../charts/1-nouns#first-declension-feminine) (e.g., *puella*). If you need a neuter form, you decline it like a [2nd declension neuter noun](../../charts/1-nouns#second-declension-neuter) (e.g., *exemplum*).
 
 The full declension chart for 2-1-2 adjectives can be found [here](../../charts/1-adjectives#212).
+
+### 1.1) -īus adjectives:
+
+There is a special subset of 2-1-2 adjectives known as *-īus adjectives*, so called because although they are 2-1-2 adjectives, their genitive singular forms across all three genders end in -īus, rather than the -ī or -ae familiar from regular 2-1-2 adjectives. Also, their dative singular forms across all three genders end in -ī, rather than the expected -ō or -ae. Nine adjectives fall into this pattern, and two of them are in your vocabulary for this module: *nullus*, *nulla*, *nullum*, "no, none", and *uter*, *utra*, *utrum*, "both, whichever (of two)." So, take a look at the following examples:
+
+- *pater nullīus familiae*, "father of no family"
+- *parentēs utrīus fīliī*, "parents of whichever son"
 
 ### 2) Three termination adjectives:
 
