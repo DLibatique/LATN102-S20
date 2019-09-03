@@ -228,7 +228,7 @@ The simplest solution would seem to be adding a direct object after the gerund:
 
 - Ars **legendī librōs** est bona animō (“The art **of reading books** is good for the soul.”)
 
-However, for some reason, Latin does not like using this construction and instead prefers to use a **gerundive** phrase instead. A gerundive is a verbal *adjective* that looks very much like a gerund. It has the same stem as a gerund, but it can appear in any case, number, and gender and is declined as a 2-1-2 adjective:
+However, for some reason, Latin does not like using this construction and instead prefers to use a **gerundive** phrase instead. A gerundive is a verbal *adjective* that looks very much like a gerund (NB: the gerund and gerundive can both be identified easily by the **-nd** infix). It has the same stem as a gerund, but it can appear in any case, number, and gender and is declined as a 2-1-2 adjective:
 
 - amō, amāre, amāvī, amātus --> amā- --> ama-nd- --> amandus, amanda, amandum
 
@@ -241,6 +241,35 @@ The gerundive phrase is usually called a **gerund-replacing-gerundive** (**GRG**
 - Terit tempus **scrībendīs epistulīs**. (“He wastes time by **writing letters**.”)
 - Consilium **urbis capiendae** (“A plan **for taking the city**.”)
 - Veniunt ad **pācem petendam**. (“They come for the purpose of **seeking peace**.”)
+
+***
+
+### Practice Opportunity
+
+***
+
+## Other Uses of Gerundives
+
+In addition to functioning like gerunds, gerundives have two other important usages. They can function as **adjectives** modifying a noun and as part of a verbal construction known as the **passive periphrastic**.
+
+### Gerundive as Verbal Adjective
+
+Like all other adjectives, the gerundive will always be paired with a noun. However, unlike most adjectives, the gerundive has two additional characteristics due its verbal nature: voice and tense. The gerundive is always passive and forward looking (the reason for this is that gerundive is technically the future passive participle). Consequently, we translate the gerundive "to be [verb]ed", which often carries a sense of necessity or obligation. Consider the following examples:
+
+- Carmen **audiendum** ("a song to be heard")
+- Urbs **videnda** ("a city to be seen")
+- Puella librum **legendum** scrīpsit. ("The girl wrote a book to be read (i.e. a book that ought to/must be read)")
+
+When used as an adjective, the gerundive is usually appears in either the nominative case (modifying a subject) or in the accusative case (modifying a direct object). The reason for this is to avoid any possible ambiguity with the GRG. The GRG like the gerund appears only in the genitive, dative, and ablative cases and in the accusative as the object of the preposition.
+
+### Passive Periphrastic
+
+The use of the gerundive in the passive periphrastic construction is an extension of its use as a verbal adjective. As we saw above, the gerundive is passive and forward looking by nature. In the passive periphrastic, the gerundive is combined with a form of *sum* to express (forward-looking and passive) verbal obligation and necessity. Take for instance, the following examples:
+
+Rēgēs **pūniendī sunt**. ("The kings must be punished.")
+Regina **amanda est**. ("The queen must be loved")
+
+In these sentences, note how the form of the gerundive matches in gender, number, and case with the subject.
 
 ***
 
