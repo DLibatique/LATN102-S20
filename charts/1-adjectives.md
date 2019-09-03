@@ -19,7 +19,7 @@ For this first module, focus on the **bolded** forms in the charts; we'll learn 
 
 To decline a 2-1-2 adjective beyond the nominative case, begin by going to the second part of the dictionary entry, which is the feminine nominative singular form. Chop off the final *-a*, and then add the endings that you need.
 
-As mentioned in the [conceptual breakdown](../1-nouns#1-the-2-1-2-adjectives), 2-1-2 adjectives decline exactly like their corresponding noun forms. In the above example, *bonus* declines exactly like a [second declension masculine noun](../1-nouns#second-declension-masculine) like *maritus*; *bona* declines exactly like a [first declension feminine noun](../1-nouns#first-declension-feminine) like *puella*; *bonum* decline exactly like a [second declension neuter noun](../1-nouns#second-declension-neuter) like *exemplum*.
+As mentioned in the [conceptual breakdown](../../notes/1-nouns-adjs#1-the-2-1-2-adjectives), 2-1-2 adjectives decline exactly like their corresponding noun forms. In the above example, *bonus* declines exactly like a [second declension masculine noun](../1-nouns#second-declension-masculine) like *maritus*; *bona* declines exactly like a [first declension feminine noun](../1-nouns#first-declension-feminine) like *puella*; *bonum* decline exactly like a [second declension neuter noun](../1-nouns#second-declension-neuter) like *exemplum*.
 
 Some 2-1-2 adjectives have a masculine nominative singular that ends in -r: for example, *pulcher*, *pulchra*, *pulchrum*, "beautiful, handsome." In cases like these, it is important to keep in mind the first rule above: get the stem from the **second part of the dictionary entry, the feminine nominative singular form**. So, the genitive singular of *pulcher* is ***pulchrī***, NOT *pulcherī* -- there is no -e- in the feminine nominative singular form!
 
@@ -49,7 +49,7 @@ Note the different form of the adjective chart compared to the noun chart; how d
 
 ### 1.1) -īus adjectives
 
-As stated in the [notes](../notes/1-nouns-adjs#11--īus-adjectives), -īus adjectives generally follow the declension pattern of 2-1-2 adjectives except in the genitive and dative singular.
+As stated in the [notes](../../notes/1-nouns-adjs#11--īus-adjectives), -īus adjectives generally follow the declension pattern of 2-1-2 adjectives except in the genitive and dative singular.
 
 *nullus*, *nulla*, *nullum* - no, none
 
