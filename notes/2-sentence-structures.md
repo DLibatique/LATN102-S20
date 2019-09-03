@@ -17,7 +17,7 @@ title: Module 2 - Sentence Patterns
 
 ## Sentence Patterns
 
-Translating Latin sentences becomes much easier if you can recognize certain structural patterns that tell us what to expect in a sentence. Key to identifying what structural pattern a sentence follows is the main verb. The type of verb that appears in the sentence tells us what other grammatical items we need to fill out the rest of the sentence.
+Translating Latin sentences becomes much easier if you can recognize certain structural patterns that tell us what to expect in a sentence. Key to identifying what structural pattern a sentence follows is the **main verb**. The type of verb that appears in the sentence tells us what other grammatical items we need to fill out the rest of the sentence.
 
 Below you will find a discussion of several very common sentence structures as well as guidelines for how to distinguish them by looking at the verb.
 
@@ -25,7 +25,7 @@ Below you will find a discussion of several very common sentence structures as w
 
 ### Intransitive Sentences
 
-**Intransitive sentences** feature a subject and an **intransitive verb**. An intransitive verb is a verb that expresses an action, but does not act directly upon an object (e.g. sneezing, dancing, running, raining, etc.). As a result, an intransitive verb (and, thus, an intransitive sentence) does not take a direct object.
+**Intransitive sentences** feature a subject and an **intransitive verb**. An intransitive verb is a verb that expresses an action or state of being, but does not act directly upon an object: for example, sneezing, dancing, running, raining, etc. As a result, an intransitive verb (and, thus, an intransitive sentence) does not take a direct object (on which, see [Transitive Sentences](#transitive-sentences) below).
 
 Below are some examples of intransitive sentences in Latin and English:
 
@@ -46,22 +46,28 @@ To summarize, intransitive sentences must have a:
 
 **Transitive sentences** require a **direct object**, in addition to a subject and verb to complete the meaning of the sentence.
 
-For example, let's consider the verb *facere* ("to make" in English). If I were to say *agricola fēcit* - "the farmer made", the sentence would feel incomplete. You would be thinking what is the making. Pizza? Cake? A fence?
+For example, let's consider the verb *facere* ("to make" in English). If I were to say *agricola fēcit* - "the farmer made", the sentence would feel incomplete. You would be thinking, "What is he making? Pizza? Cake? A fence?""
 
-Thus, we need to add a direct object to tell us what the farmer was making. In English, we would indicate this by putting what the farmer made immediately after the verb (e.g. "the farmer made pizza"). However, because Latin is an inflected language whose word order is highly variable, we can't do this. Rather, Latin indicates that a noun is functioning as a direct object by putting it in the **accusative case** (be sure to become familiar with the accusative endings for nouns and adjectives in Module 1). Thus, the Latin version of the sentence looks like this:
+Thus, we need to add a **direct object** to tell us what the farmer was making. In English, we would indicate this by putting what the farmer made immediately after the verb (e.g., "the farmer made pizza"). However, because Latin is an *inflected* language whose word order is highly variable, we can't do this. Rather, Latin indicates that a noun is functioning as a direct object by putting it in the **accusative case**. Thus, the Latin version of the sentence looks like this:
 
 Agricola ***pizzam*** fecit.
+
+Head to the [noun paradigm charts](../../charts/1-nouns) and [adjective paradigm charts](../../charts/1-adjectives) to familiarize yourself with the **accusative** endings in the singular and plural of each declension and adjective grouping.
 
 Below are some further examples of transitive sentences with accusative direct objects:
 
 * Pater **fīliam** amāvit ("The father loved his daughter.")
-* Fīliī **matres** amant. ("The sons love their mother.")
-* **Agricolam** eius uxor iuvābat. ("The wife was helping her farmer.")
+* Fīliī **matrēs** amant. ("The sons love their mother.")
+* **Agricolam** uxor iuvābat. ("The wife was helping the farmer.")
 * Fortis vir **magnum monstrum** et **terribilem serpentem** pugnābat. ("The brave man is fighting the great monster and the terrible serpent.")
 
-Sometimes, you will want to specify the recipient of the action of the verb. For instance, in the sentence "the farmer gave the girl a pizza", the girl receives the pizza that the farmer gives. Pizza is still the direct object - the farmer is giving the pizza (not the girl). In this sentence, the word "girl" is what is referred to as an **indirect object**, the recipient of the action done by the main verb. In Latin, we signal the indirect object by using the **dative case** (be sure to become familiar with these forms by looking at the chart for Module 1), which we usually translate as "to/for X". So in Latin "the farmer gave the girl a pizza" looks like this:
+Sometimes, you will want to specify the recipient of the action of the verb. For instance, in the sentence "the farmer gave the girl a pizza", the girl receives the pizza that the farmer gives. Pizza is still the **direct object** - the farmer is giving the pizza (not the girl). In this sentence, the word "girl" is an **indirect object**, the recipient of the action done by the main verb. In Latin, we signal the **indirect object** by using the **dative case**, which we usually translate as "to/for X". So in Latin "the farmer gave the girl a pizza" looks like this:
 
 * Agricola pizzam **puellae** dedit.
+
+Literally, the sentence is "The farmer gave a pizza **to the girl**."
+
+Head to the [noun paradigm charts](../../charts/1-nouns) and [adjective paradigm charts](../../charts/1-adjectives) to familiarize yourself with the **dative** endings in the singular and plural of each declension and adjective grouping.
 
 To summarize, transitive sentences must have a:
 * Subject
@@ -73,7 +79,19 @@ And sometimes have an:
 
 #### Practice Opportunity
 
-Form the accusative and dative singular and plural of the following words using the charts from Module 1.
+The following noun-adjective pairs are all in the nominative case and either singular or plural. Change each pairing into the accusative and dative while maintaining the same number using the [noun paradigm charts](../../charts/1-nouns) and [adjective paradigm charts](../../charts/1-adjectives) from Module 1.
+
+1. *urbs prīma*    
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">accusative: *urbem prīmam*; dative: *urbī prīmae*</span>
+
+2. *fortis dux*  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">accusative: *fortem ducem*; dative: *fortī ducī*</span>
+
+3. *serpentēs horribilēs*  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">accusative: *serpentēs horribilēs*; dative: *serpentibus horribilibus*</span>
+
+4. *sapiēns vir*
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">accusative: *sapientem virum*; dative: *sapientī virō*</span>
 
 [Back to top.](#top)
 
