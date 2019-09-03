@@ -176,13 +176,13 @@ Determine the sentence structure of the following sentences; identify any *nouns
 2. *pulchra carmina audiēbāmus.*  
 <button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">transitive; *carmina* = accusative; "We were hearing beautiful songs."</span>
 
-3. *agricolae ā nostrō duce missī sunt.*  
-<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">passive; *duce* = ablative; "The farmers were sent by our leader."</span>
+3. *agricolae ā nostrō duce mittuntur.*  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">passive; *duce* = ablative; "The farmers are (being) sent by our leader."</span>
 
 4. *vēnistis!*  
 <button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">intransitive; "You (all) have come!"</span>
 
-5. *rex fīliō suō potestātem dedit.*  
-<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">transitive; *fīliō* = dative, *potestātem* = accusative; "The king gave power to his own son."</span>
+5. *rex fīliō suō potestātem dābit.*  
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">transitive; *fīliō* = dative, *potestātem* = accusative; "The king will give power to his own son."</span>
 
 [Back to top.](#top)
