@@ -6,7 +6,7 @@ title: Module 1 - Nouns and Adjectives
 ***
 
 - [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity)  
-- [Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)); [3 Term.](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#6-irregulars) \| [Practice Opportunity](#practice-opportunity-1) \| [Substantives](#substantives)
+- [Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)); [3 Term.](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#5-irregulars) \| [Practice Opportunity](#practice-opportunity-1) \| [Substantives](#substantives)
 - [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2)
 - [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
 
