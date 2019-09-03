@@ -17,6 +17,8 @@ title: Module 4 - Verbal Nouns and Adjectives
 
 [GRGs (Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives)\| [Practice Opportunity](#practice-opportunity-4)
 
+[Other Uses of the Gerundive](#other-uses-of-the-gerundives)\|[Gerundive as Verbal Adjective](#gerundive-as-verbal-adjective)\|[Passive Periphrastic](#passive-periphrastic)\| [Practice Opportunity](#practice-opportunity-6)
+
 ***
 
 ## Infinitives
@@ -266,8 +268,8 @@ When used as an adjective, the gerundive is usually appears in either the nomina
 
 The use of the gerundive in the passive periphrastic construction is an extension of its use as a verbal adjective. As we saw above, the gerundive is passive and forward looking by nature. In the passive periphrastic, the gerundive is combined with a form of *sum* to express (forward-looking and passive) verbal obligation and necessity. Take for instance, the following examples:
 
-Rēgēs **pūniendī sunt**. ("The kings must be punished.")
-Regina **amanda est**. ("The queen must be loved")
+- Rēgēs **pūniendī sunt**. ("The kings must be punished.")
+- Regina **amanda est**. ("The queen must be loved")
 
 In these sentences, note how the form of the gerundive matches in gender, number, and case with the subject.
 
