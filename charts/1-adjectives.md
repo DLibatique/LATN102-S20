@@ -19,7 +19,7 @@ For this first module, focus on the **bolded** forms in the charts; we'll learn 
 
 To decline a 2-1-2 adjective beyond the nominative case, begin by going to the second part of the dictionary entry, which is the feminine nominative singular form. Chop off the final *-a*, and then add the endings that you need.
 
-As mentioned in the conceptual breakdown, 2-1-2 adjectives decline exactly like their corresponding noun forms. In the above example, *bonus* declines exactly like a [second declension masculine noun](1-nouns#second-declension-masculine) like *maritus*; *bona* declines exactly like a [first declension feminine noun](1-nouns#first-declension-feminine) like *puella*; *bonum* decline exactly like a [second declension neuter noun](1-nouns#second-declension-neuter) like *exemplum*.
+As mentioned in the conceptual breakdown, 2-1-2 adjectives decline exactly like their corresponding noun forms. In the above example, *bonus* declines exactly like a [second declension masculine noun](../1-nouns#second-declension-masculine) like *maritus*; *bona* declines exactly like a [first declension feminine noun](../1-nouns#first-declension-feminine) like *puella*; *bonum* decline exactly like a [second declension neuter noun](../1-nouns#second-declension-neuter) like *exemplum*.
 
 Some 2-1-2 adjectives have a masculine nominative singular that ends in -r: for example, *pulcher*, *pulchra*, *pulchrum*, "beautiful, handsome." In cases like these, it is important to keep in mind the first rule above: get the stem from the **second part of the dictionary entry, the feminine nominative singular form**. So, the genitive singular of *pulcher* is ***pulchrī***, NOT *pulcherī* -- there is no -e- in the feminine nominative singular form!
 
@@ -51,7 +51,7 @@ Note the different form of the adjective chart compared to the noun chart; how d
 
 To decline a three termination adjective beyond the nominative case, begin the same way as with a 2-1-2 adjective: go to the second part of the dictionary entry, the feminine nominative singular form, and get the adjective's stem by chopping off the final *-is*. Then, add the endings that you need.
 
-Generally, these adjectives decline like third declension nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
+Generally, these adjectives decline like [third declension masculine/feminine](../1-nouns#third-declension-masculinefeminine) and [third declension neuter](../1-nouns#third-declension-neuter) nouns with a few small differences. The genitive plural for all third declension adjectives ends in *-ium* instead of *-um* and the nominative plural for neuter third declension adjectives ends in *-ia* instead of *-a* (NB: the ablative singular for all third declension adjectives ends with *-ī* instead of *-e*, but we don't have to worry about that for now).
 
 The masculine and feminine forms of these adjectives are exactly the same except for the nominative singular.
 
