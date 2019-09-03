@@ -254,7 +254,7 @@ In addition to functioning like gerunds, gerundives have two other important usa
 
 ### Gerundive as Verbal Adjective
 
-Like all other adjectives, the gerundive will always be paired with a noun. However, unlike most adjectives, the gerundive has two additional characteristics due its verbal nature: voice and tense. The gerundive is always passive and forward looking (the reason for this is that gerundive is technically the future passive participle). Consequently, we translate the gerundive "to be [verb]ed", which often carries a sense of necessity or obligation. Consider the following examples:
+Like all other adjectives, the gerundive will usually be paired with a noun. However, unlike most adjectives, the gerundive has two additional characteristics due to its verbal nature: **voice** and **tense**. The gerundive is always **passive** and forward looking (the reason for this is that gerundive is technically the future passive participle). Consequently, we translate the gerundive "to be [verb]ed", which often carries a sense of necessity or obligation. Consider the following examples:
 
 - Carmen **audiendum** ("a song to be heard")
 - Urbs **videnda** ("a city to be seen")
