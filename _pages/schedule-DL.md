@@ -12,11 +12,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ***
 
-[Week 1: 9/4 - 9/6](#week-1) \| [Week 2: 9/9 - 9/13](#week-2) \| [Week 3: 9/16 - 9/20](#week-3) \|  
-[Week 4: 9/23 - 9/27](#week-4) \| [Week 5: 9/30 - 10/4](#week-5) \| [Week 6: 10/7 - 10/11](#week-6) \|  
-[Week 7: 10/21 - 10/25](#week-7) \| [Week 8: 10/28 - 11/1](#week-8) \| [Week 9: 11/4 - 11/8](#week-9) \|  
-[Week 10: 11/11 - 11/15](#week-10) \| [Week 11: 11/18 - 11/22](#week-11) \| [Week 12.1: 11/25](#week-121) \|  
-[Week 12.2: 12/2 - 12/6](#week-122) \| [Week 13: 12/9 - 12/13](#week-13) \|  
+[Week 1: 9/4 - 9/6](#week-1) \| [Week 2: 9/9 - 9/13](#week-2) \| [Week 3: 9/16 - 9/20](#week-3) \| [Week 4: 9/23 - 9/27](#week-4) \| [Week 5: 9/30 - 10/4](#week-5) \| [Week 6: 10/7 - 10/11](#week-6) \| [Week 7: 10/21 - 10/25](#week-7) \| [Week 8: 10/28 - 11/1](#week-8) \| [Week 9: 11/4 - 11/8](#week-9) \| [Week 10: 11/11 - 11/15](#week-10) \| [Week 11: 11/18 - 11/22](#week-11) \| [Week 12.1: 11/25](#week-121) \| [Week 12.2: 12/2 - 12/6](#week-122) \| [Week 13: 12/9 - 12/13](#week-13) \|  
 
 ***
 
@@ -52,7 +48,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Wednesday, September 11
 <p style="margin-bottom: 0;">Homework:</p>
-- Translation #1 Due  
+- [Translation #1 Due](https://docs.google.com/document/d/14pxgMcWlx1f_kfy5V6Dm2joEk2hTz9M6NRJezHxmYEo/edit?usp=sharing)  
 
 <p style="margin-bottom: 0;">Topics:</p>  
 - Adjectives: [-īus adjectives]({{ site.baseurl }}/notes/1-nouns-adjs#11--īus-adjectives), [Substantives]({{ site.baseurl }}/notes/1-nouns-adjs#substantives)  
@@ -63,7 +59,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Read through the [Module 2 Verb Overview]({{ site.baseurl }}/notes/2-verb-overview) (EXCEPT FOR "Translating Verbs") and the [present tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-present-tense), and record any questions that you have.
 - Consult and begin memorizing the bolded conjugation patterns in the [present indicative paradigm charts]({{ site.baseurl }}/charts/2-pres-ind).
 - Begin memorizing the vocabulary items in [Module 2]({{ site.baseurl }}/vocab/2).
-- Composition #1 Due
+- [Composition #1 Due](https://docs.google.com/document/d/1xrOMdyBHEccjA5BmtDxiVNSuSxPYrxdD2WkrSFxuiFU/edit?usp=sharing)
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verbs: [Person, Number, Tense, Voice, Mood; Principal Parts]({{ site.baseurl }}/notes/2-verb-overview#verbs);
