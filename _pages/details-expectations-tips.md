@@ -15,6 +15,7 @@ permalink: details-expectations-tips-DM
 ## Course Expectations
 
 Latin 101 is the first course in a two-semester introduction to the Latin language. The goal by the end of the year is to read Classical Latin, and in Latin 101 we will cover most of Latin morphology and a good deal of Latin syntax. Alongside our study of the Latin language, we will also have frequent discussions about Latin culture and history through examination of ancient coins, manuscripts, and inscriptions.
+
 The course will use a flipped classroom and active learning pedagogy. What that means is that you will be responsible for previewing the material that we will cover in class ahead of time. You will read the relevant grammatical overviews and familiarize yourself with basic morphology and vocabulary before coming to class. I will keep you to this by giving you a short, simple quiz at the beginning of class. Class time will be spent employing your newly developed knowledge through a variety of activities that explore the finer points of the material and answering lingering questions about the material. My role is to facilitate your learning rather than to dictate how you do it.
 
 Aside from daily quizzes, all assessments will take place outside of class and will focus on developing the active skills necessary to understand Latin. The intent here is to give you time and space to engage with the material at your own pace. Further, you will have an opportunity to revise all of your assignments since learning is best done iteratively (i.e. repetitively).
