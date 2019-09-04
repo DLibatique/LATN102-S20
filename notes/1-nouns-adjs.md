@@ -62,11 +62,11 @@ The last part of the dictionary entry is simply the definition.
 As I alluded to above, Latin is an inflected language and relies on word endings to reveal how a word functions within the sentence. The way that Latin nouns or adjectives change their endings to reflect their function in a sentence is what we call a **declension**. There are three major declensions (as well as two minor ones) that we will become familiar with.
 
 The declension to which a noun belongs can be easily determined by consulting the genitive singular form in the dictionary entry:
-- If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g., *fīlia*, *fīliae*, f. - daughter).
+- If the genitive singular entry ends in ***-ae***, then the noun belongs to what we call the **first declension** (e.g., *fīlia*, *fīliae*, f. - daughter). The paradigm chart for first declension nouns can be found [here](../../charts/1-nouns#first-declension-feminine).
 
-- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g., *fīlius*, *fīliī*, m. - son). NOTE: The *nominative* singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension *neuter* nouns usually end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they all belong to the second declension!
+- If the genitive singular entry ends in ***-ī***, then the noun belongs to what we call the **second declension** (e.g., *fīlius*, *fīliī*, m. - son). NOTE: The *nominative* singular forms of second declension masculine nouns can end either in *-us* (e.g., *fīlius*) or *-r* (e.g., *puer*, *ager*), while the nominative singular forms of second declension *neuter* nouns usually end in *-um*. Nevertheless, the genitive singulars of all of these nouns ends in *-ī*, so they all belong to the second declension! Here are the paradigm charts for [second declension masculine nouns](../../charts/1-nouns#second-declension-masculine) and [second declension neuter nouns](../../charts/1-nouns#second-declension-neuter).
 
-- If the genitive singular entry ends in ***-is***, then the noun belongs to what we call the **third declension** (e.g *pater*, *patris*, m. - father).
+- If the genitive singular entry ends in ***-is***, then the noun belongs to what we call the **third declension** (e.g *pater*, *patris*, m. - father). Here are the paradigm charts for [third declension masculine/feminine nouns](../../charts/1-nouns#third-declension-masculinefeminine) and [third declension neuter nouns](../../charts/1-nouns#third-declension-neuter).
 
 ***
 
