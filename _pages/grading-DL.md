@@ -29,12 +29,12 @@ There will be thirty-six (36) short quizzes, each weighted at 0.5%, on each day 
 ***
 
 ## Six (6) translations: 30%
-Every two weeks, you will be asked to translate a passage from Latin into English and answer grammatical and syntactic questions about it. Each translation and the answers to its accompanying questions will account for 5% of your semester grade. You will receive each assignment with ample time to work on it throughout the two-week period.
+Every two weeks, you will be asked to translate a passage from Latin into English and answer grammatical and syntactic questions about it. Each translation and the answers to its accompanying questions will account for 5% of your semester grade. You will receive each assignment with ample time to work on it throughout the two-week period. Translation due dates are 9/11, 9/23, 10/7, 10/28, 11/11, and 12/2.
 
 ***
 
 ## Six (6) compositions: 30%
-Every two weeks, you will be asked to compose a short passage in Latin using prompts and vocabulary that will be provided on an instruction sheet. These compositions will test your mastery of the grammatical and syntactic rules that we’re learning in class. Each composition will account for 5% of your semester grade. I will be looking for adherence to the instructions and earnest attempts at composition, rather than a perfect paragraph of Latin. We will also set aside class time and extra sessions to workshop your compositions.
+Every two weeks, you will be asked to compose a short passage in Latin using prompts and vocabulary that will be provided on an instruction sheet. These compositions will test your mastery of the grammatical and syntactic rules that we’re learning in class. Each composition will account for 5% of your semester grade. I will be looking for adherence to the instructions and earnest attempts at composition, rather than a perfect paragraph of Latin. We will also set aside class time and extra sessions to workshop your compositions. Composition due dates are 9/13, 9/27, 10/11, 11/1, 11/15, and 12/6.
 
 ***
 
