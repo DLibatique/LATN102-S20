@@ -51,6 +51,40 @@ Here are some more English examples of the present tense, with the Latin equival
 
 So, the present can be translated in various ways: in the third person singular active voice, as a simple present like "he gives", a present progressive like "he is giving", or an emphatic present like "he does give"; in the third person singular passive voice, "he is (being) given."
 
+### <a name="pressynopt">Present Tense Across All Conjugations</a>
+
+(The information in this section is drawn with thanks from [Peter Gainsford's blog post](https://kiwihellenist.blogspot.com/2019/09/why-conjugations.html).)
+
+This is a broad overview of the formation of the present tense. For specific details and the differences between the conjugations, see the sections below.
+
+When we classify verbs, we look to the second principal part at the vowel before the *-re* to determine its conjugation. An -āre means the verb is 1st conjugation; -ēre, 2nd; -ere, 3rd; -ere with a first principal part in -iō, 3rd iō; -īre, 4th. Another way to think about each classification, however, is in terms of its linguistic stem: 1st conjugation stems end in -ā, 2nd conjugation stems end in -ē, 3rd conjugation stems end in a consonant, and 4th conjugation stems end in -ī. 3rd -iō occupies a strange position between 3rd and 4th conjugation, so while a consonant stem, it exhibits the characteristics of an ī-stem.
+
+When viewed in this light, the formation of the present tense across all the conjugations is relatively regular, except for a few oddities. A present tense verb is composed of the **linguistic stem** + (**thematic vowel**) + **personal ending**. A thematic vowel is inserted in cases where the stem + the personal ending results in a difficult-to-pronounce sound. For example, in the 4th conjugation verb *audīre* in the 3rd person plural, without a thematic vowel, the form would be *audī-* + *-nt* = "*audint*"; however, the "i" + "n" sound is difficult to pronounce, so we insert a thematic vowel of "u" in between: *audi + u + nt* = *audiunt*. Something similar happens in the 3rd conjugation. For example, in the verb *dicere* in the 3rd person singular, the consonant stem *dic-* + the personal ending *t* would be difficult to pronounce ("*dict*"), so we insert a thematic vowel of "i" in between: "*dicit*".
+
+Take a look at this synoptic chart of all the conjugations in the present tense and see if you can spot the combinations of linguistic stem, (optional) thematic vowel, and personal ending. Note the 1st sg. of the 1st conjugation, the only form where the linguistic stem *contracts* with the personal ending: *amā-* + *-ō* = *amao* > *amō*.
+
+**Active**
+
+| Person      | 1st (ā-stem) | 2nd (ē-stem) | 3rd (consonant-stem) | 3rd -iō (mixed) | 4th (ī-stem) |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amō | moneō | regō | cupiō | audiō |
+| 2nd sg. | amās | monēs | regis | cupis | audīs |
+| 3rd sg. | **amat** | **monet** | **regit** | **cupit** | **audit** |
+| 1st pl. | amāmus | monēmus | regimus | cupimus | audīmus |
+| 2nd pl. | amātis | monētis | regitis | cupitis | audītis |
+| 3rd pl. | **amant** | **monent** | **regunt** | **cupiunt** | **audiunt** |
+
+**Passive**
+
+| Person      | 1st (ā-stem) | 2nd (ē-stem) | 3rd (consonant-stem) | 3rd -iō (mixed) | 4th (ī-stem) |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amor | moneor | regor | cupior | audior |
+| 2nd sg. | amāris | monēris | regiris | cuperis | audīris |
+| 3rd sg. | **amātur** | **monētur** | **regitur** | **cupitur** | **audītur** |
+| 1st pl. | amāmur | monēmur | regimur | cupimur | audīmur |
+| 2nd pl. | amāminī| monēminī| regiminī| cupiminī| audīminī|
+| 3rd pl. | **amantur** | **monentur** | **reguntur** | **cupiuntur** | **audiuntur** |
+
 ### <a name="pres12">Formation of the Present Indicative in the 1st and 2nd Conjugations</a>
 
 If you need the first person singular present active indicative form of the verb, you automatically have it from the **first principal part** of the dictionary entry. For example, with the verb *amō*, *amāre*, *amāvī*, *amātus*, "to love", the first principal part, *amō*, is your first person present active indicative form, which means "I love."
