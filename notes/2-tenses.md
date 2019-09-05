@@ -7,6 +7,7 @@ title: Module 2 - Tenses
 
 ### [Present Tense](#the-present-tense)
 - <a href="#prescon">Conceptual Overview</a>
+- <a href="#pressynopt">Synopsis Across Conjugations</a>
 - <a href="#pres12">1st and 2nd Conjugation Present</a>
 - <a href="#pres34io">3rd, 4th, and 3rd -iō Conjugation Present</a>:
   - <a href="#pres3">3rd Conjugation</a>
@@ -55,13 +56,15 @@ So, the present can be translated in various ways: in the third person singular 
 
 (The information in this section is drawn with thanks from [Peter Gainsford's blog post](https://kiwihellenist.blogspot.com/2019/09/why-conjugations.html).)
 
-This is a broad overview of the formation of the present tense. For specific details and the differences between the conjugations, see the sections below.
+This is a broad overview of the formation of the present tense and one way to learn about the conjugation of the present tense. If you prefer a more structured and compartmentalized approach to the differences between the conjugations, see the sections below on the [1st and 2nd conjugations](#pres12) and [3rd, 4th, and 3rd -iō conjugations](#pres34io).
 
 When we classify verbs, we look to the second principal part at the vowel before the *-re* to determine its conjugation. An -āre means the verb is 1st conjugation; -ēre, 2nd; -ere, 3rd; -ere with a first principal part in -iō, 3rd iō; -īre, 4th. Another way to think about each classification, however, is in terms of its linguistic stem: 1st conjugation stems end in -ā, 2nd conjugation stems end in -ē, 3rd conjugation stems end in a consonant, and 4th conjugation stems end in -ī. 3rd -iō occupies a strange position between 3rd and 4th conjugation, so while a consonant stem, it exhibits the characteristics of an ī-stem.
 
-When viewed in this light, the formation of the present tense across all the conjugations is relatively regular, except for a few oddities. A present tense verb is composed of the **linguistic stem** + (**thematic vowel**) + **personal ending**. A thematic vowel is inserted in cases where the stem + the personal ending results in a difficult-to-pronounce sound. For example, in the 4th conjugation verb *audīre* in the 3rd person plural, without a thematic vowel, the form would be *audī-* + *-nt* = "*audint*"; however, the "i" + "n" sound is difficult to pronounce, so we insert a thematic vowel of "u" in between: *audi + u + nt* = *audiunt*. Something similar happens in the 3rd conjugation. For example, in the verb *dicere* in the 3rd person singular, the consonant stem *dic-* + the personal ending *t* would be difficult to pronounce ("*dict*"), so we insert a thematic vowel of "i" in between: "*dicit*".
+When viewed in this light, the formation of the present tense across all the conjugations is relatively regular, except for a few oddities. A present tense verb is composed of the **linguistic stem** + (**thematic vowel**) + **personal ending** (-ō, -s, -t, -mus, -tis, -nt in the active; -r, -ris, -tur, -mur, -minī, -ntur). A thematic vowel is inserted in cases where the stem + the personal ending results in a difficult-to-pronounce sound. For example, in the 4th conjugation verb *audīre* in the 3rd person plural, without a thematic vowel, the form would be *audī-* + *-nt* = "*audint*"; however, the "i" + "n" sound is difficult to pronounce, so we insert a thematic vowel of "u" in between: *audi + u + nt* = *audiunt*. Something similar happens in the 3rd conjugation. For example, in the verb *dicere* in the 3rd person singular, the consonant stem *dic-* + the personal ending *t* would be difficult to pronounce ("*dict*"), so we insert a thematic vowel of "i" in between: "*dicit*".
 
-Take a look at this synoptic chart of all the conjugations in the present tense and see if you can spot the combinations of linguistic stem, (optional) thematic vowel, and personal ending. Note the 1st sg. of the 1st conjugation, the only form where the linguistic stem *contracts* with the personal ending: *amā-* + *-ō* = *amao* > *amō*.
+The thematic vowel, if one is needed, is generally "i"; it becomes "u" before a nasal sound, like "n"; and it becomes "e" before a liquid sound like "r".
+
+Take a look at this synoptic chart of all the conjugations in the present tense and see if you can spot the combinations of linguistic stem, (optional) thematic vowel, and personal ending. Note the 1st sg. active of the 1st conjugation, the only form where the linguistic stem *contracts* with the personal ending: *amā-* + *-ō* = *amao* > *amō*.
 
 **Active**
 
@@ -86,6 +89,8 @@ Take a look at this synoptic chart of all the conjugations in the present tense 
 | 3rd pl. | **amantur** | **monentur** | **reguntur** | **cupiuntur** | **audiuntur** |
 
 ### <a name="pres12">Formation of the Present Indicative in the 1st and 2nd Conjugations</a>
+
+This is a specific overview of the formation of the present tense in the 1st and 2nd conjugations. For a broader overview of the present tense across all conjugations, see the section above on the [present tense across all conjugations](#pressynopt).
 
 If you need the first person singular present active indicative form of the verb, you automatically have it from the **first principal part** of the dictionary entry. For example, with the verb *amō*, *amāre*, *amāvī*, *amātus*, "to love", the first principal part, *amō*, is your first person present active indicative form, which means "I love."
 
@@ -116,6 +121,8 @@ For the **passive** forms, you would tack on the **passive** personal endings on
 So, for example, the 1st person singular present passive indicative of *amō* is *amor*, "I am (being) loved." The third person singular present passive indicative of *moneō* is *monētur*, "he/she/it is (being) warned."
 
 ### <a name="pres34io">Present Indicative in the 3rd, 4th, and 3rd -iō Conjugations</a>
+
+This is a specific overview of the formation of the present tense in the 3rd, 4th, and 3rd -iō conjugations. For a broader overview of the present tense across all conjugations, see the section above on the [present tense across all conjugations](#pressynopt).
 
 In the 3rd, 4th, and 3rd -iō conjugations in the present indicative, there are a number of vowel changes at the end of the present stem from person to person and number to number before we apply the active and passive endings listed in the charts above. You must be aware of these vowel shifts to conjugate a verb correctly.
 
