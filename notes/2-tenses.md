@@ -7,7 +7,7 @@ title: Module 2 - Tenses
 
 ### [Present Tense](#the-present-tense)
 - <a href="#prescon">Conceptual Overview</a>
-- <a href="#pressynopt">Synopsis Across Conjugations</a>
+<!-- - <a href="#pressynopt">Synopsis Across Conjugations</a> -->
 - <a href="#pres12">1st and 2nd Conjugation Present</a>
 - <a href="#pres34io">3rd, 4th, and 3rd -iō Conjugation Present</a>:
   - <a href="#pres3">3rd Conjugation</a>
@@ -52,7 +52,7 @@ Here are some more English examples of the present tense, with the Latin equival
 
 So, the present can be translated in various ways: in the third person singular active voice, as a simple present like "he gives", a present progressive like "he is giving", or an emphatic present like "he does give"; in the third person singular passive voice, "he is (being) given."
 
-### <a name="pressynopt">Present Tense Across All Conjugations</a>
+<!-- ### <a name="pressynopt">Present Tense Across All Conjugations</a>
 
 (The information in this section is drawn with thanks from [Peter Gainsford's blog post](https://kiwihellenist.blogspot.com/2019/09/why-conjugations.html).)
 
@@ -86,11 +86,11 @@ Take a look at this synoptic chart of all the conjugations in the present tense 
 | 3rd sg. | **amātur** | **monētur** | **regitur** | **cupitur** | **audītur** |
 | 1st pl. | amāmur | monēmur | regimur | cupimur | audīmur |
 | 2nd pl. | amāminī| monēminī| regiminī| cupiminī| audīminī|
-| 3rd pl. | **amantur** | **monentur** | **reguntur** | **cupiuntur** | **audiuntur** |
+| 3rd pl. | **amantur** | **monentur** | **reguntur** | **cupiuntur** | **audiuntur** | -->
 
 ### <a name="pres12">Formation of the Present Indicative in the 1st and 2nd Conjugations</a>
 
-This is a specific overview of the formation of the present tense in the 1st and 2nd conjugations. For a broader overview of the present tense across all conjugations, see the section above on the [present tense across all conjugations](#pressynopt).
+<!-- This is a specific overview of the formation of the present tense in the 1st and 2nd conjugations. For a broader overview of the present tense across all conjugations, see the section above on the [present tense across all conjugations](#pressynopt). -->
 
 If you need the first person singular present active indicative form of the verb, you automatically have it from the **first principal part** of the dictionary entry. For example, with the verb *amō*, *amāre*, *amāvī*, *amātus*, "to love", the first principal part, *amō*, is your first person present active indicative form, which means "I love."
 
@@ -122,7 +122,7 @@ So, for example, the 1st person singular present passive indicative of *amō* is
 
 ### <a name="pres34io">Present Indicative in the 3rd, 4th, and 3rd -iō Conjugations</a>
 
-This is a specific overview of the formation of the present tense in the 3rd, 4th, and 3rd -iō conjugations. For a broader overview of the present tense across all conjugations, see the section above on the [present tense across all conjugations](#pressynopt).
+<!-- This is a specific overview of the formation of the present tense in the 3rd, 4th, and 3rd -iō conjugations. For a broader overview of the present tense across all conjugations, see the section above on the [present tense across all conjugations](#pressynopt). -->
 
 In the 3rd, 4th, and 3rd -iō conjugations in the present indicative, there are a number of vowel changes at the end of the present stem from person to person and number to number before we apply the active and passive endings listed in the charts above. You must be aware of these vowel shifts to conjugate a verb correctly.
 
