@@ -40,7 +40,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, September 9
 - Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions, -ius Adjectives
-- **Homework (due before class)**: Review the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and study the [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts for quiz #1
+- **Homework (due before class)**: Review the [powerpoint slides](https://docs.google.com/presentation/d/1JGxMywV0_CBtz7ko1ojRckGYVypL39CnDjTWUIXeW5E/edit?usp=sharing) from Friday as well as the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and study the [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts for quiz #1
 
 ### Wednesday, September 11
 - Adjectives: Intensifying Adjectives, Substantives  
