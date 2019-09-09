@@ -44,7 +44,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 11
 - Adjectives: Intensifying Adjectives, Substantives  
-- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) for quiz #2
+- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) as well as the [slideshow](https://docs.google.com/presentation/d/1zsvQleKr6Atyk7mPHeuQ6gvJcStTsr-D2AoB6qHIPCU/edit?usp=sharing) for quiz #2
 
 ### Friday, September 13
 - Review
