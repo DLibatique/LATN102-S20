@@ -8,7 +8,7 @@ permalink: grading-DL
 
 ***
 
-[Attendance and Participation](#attendance-and-participation-10) \| [Daily Quizzes](#daily-quizzes-18) \| [Translations](#six-6-translations-36) \| [Compositions](#six-6-compositions-36) \| [Final Translation and Composition](#final-translation-and-composition-12) \| [Revisions](#revisions) \|
+[Attendance and Participation](#attendance-and-participation-10) \| [Daily Quizzes](#daily-quizzes-18) \| [Translations](#six-6-translations-36) \| [Compositions](#six-6-compositions-36) \| [Final Translation and Composition](#final-translation-and-composition-12) \| [Revisions](#revisions) \| [Semester Grade](#semester-grade)
 
 ***
 
@@ -46,3 +46,17 @@ The final assignments for the semester will be *cumulative* translation and comp
 
 ## Revisions
 You have an opportunity on every translation and composition assignment (including the final ones) to submit a revision according to my corrections and observations for the chance at a higher grade. If the grade on the revision is higher than the original grade, I will average the two together, and that will stand as your grade for that assignment. If the grade on the revision is lower than the original, the original grade will stand as your grade for that assignment. If you opt not to complete a revision, your original grade will stand. If you decide to complete a revision, it will be due a week after the original due date (see the detailed schedule for specific dates), except for the final translation and composition assignments, on which see above.
+
+***
+
+## Semester Grade
+
+The final grade will be calculated as a percentage out of 100; then, it will be converted to a letter grade according to the following scheme:
+
+A = 96-100%; A- = 90-95%  
+B+ = 87-89%; B = 84-86%; B- = 80-83%  
+C+ = 77-79%; C = 74-76%; C- = 70-73%  
+D+ = 67-69%; D = 65-66%  
+F = 0-64%
+
+Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
