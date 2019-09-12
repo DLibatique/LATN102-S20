@@ -7,7 +7,9 @@ title: Adjective Morphology
 
 [Regular Adjectives](#regadjs): [2-1-2](#212) ([-īus adjs.](#11--īus-adjectives)), [3 termination](#3term), [2 termination](#2term), [1 termination](#1term) \|  
 [Demonstrative Adjectives](#demadjs): [*hic, haec, hoc*](#hic); [*ille, illa, illud*](#ille) \|  
-[Intensifying Adjectives:](intadjs) [*ipse, ipsa, ipsud*](#ipse)
+[Intensifying Adjectives:](#intadjs) [*ipse, ipsa, ipsud*](#ipse) \|  
+
+[Adjective Synopses:](#adjsyn) [2-1-2](#2-1-2-adjectives), [3-termination](#3-termination-adjectives), [2-termination](#2-termination-adjectives), [1-termination](#1-termination-adjectives), [Demonstratives](#demonstrative-adjectives-1)
 
 ***
 
@@ -214,3 +216,613 @@ The forms in the dictionary entry represent the nominative singular in all three
 | Ablative   | ipsīs        | ipsīs  |ipsīs  |
 
 **NOTE: The declension of *alter, altera, alterum* and *nullus, nulla, nullum* is exactly the same as that of *ipse, ipsa, ipsum*.**
+
+## <a name="adjsyn">Adjective-Noun Synopses</a>
+
+The following charts show what an adjective-noun pairing looks like across different declensions and genders. The nouns used will be the following:
+- puella, puellae, f. - girl (1st declension feminine)
+- puer, puerī, m. - boy (2nd declension masculine)
+- exemplum, exemplī, n. - example (2nd declension neuter)
+- pater, patris, m. - father (3rd declension masculine)
+- pax, pācis, f. - peace (3rd declension feminine)
+- nōmen, nōminis, n. - name (3rd declension neuter)
+
+Each chart illustrates how the same adjective changes to match its noun in gender, case, and number. Focus on the **bolded** pairings for the first few weeks of this semester.
+
+### 2-1-2 adjectives
+
+**magnus, magna, magnum** - great, big
+
+<button onclick="toggleDisplayChart('chart1')">Click here to toggle the dative, accusative, and ablative rows on or off.</button>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>1st decl. F</th>
+            <th>2nd decl. M</th>
+            <th>2nd decl. N</th>
+            <th>3rd decl. M</th>
+            <th>3rd decl. F</th>
+            <th>3rd decl. N</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>nom. sg.</td>
+            <td><strong>magna puella</strong></td>
+            <td><strong>magnus puer</strong></td>
+            <td><strong>magnum exemplum</strong></td>
+            <td><strong>magnus pater</strong></td>
+            <td><strong>magna pax</strong></td>
+            <td><strong>magnum nōmen</strong></td>
+        </tr>
+        <tr>
+            <td>gen. sg.</td>
+            <td><strong>magnae puellae</strong></td>
+            <td><strong>magnī puerī</strong></td>
+            <td><strong>magnī exemplī</strong></td>
+            <td><strong>magnī patris</strong></td>
+            <td><strong>magnae pācis</strong></td>
+            <td><strong>magnī nōminis</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart1">
+        <tr>
+            <td>dat. sg.</td>
+            <td>magnae puellae</td>
+            <td>magnō puerō</td>
+            <td>magnō exemplō</td>
+            <td>magnō patrī</td>
+            <td>magnae pācī</td>
+            <td>magnō nōminī</td>
+        </tr>
+        <tr>
+            <td>acc. sg.</td>
+            <td>magnam puellam</td>
+            <td>magnum puerum</td>
+            <td>magnum exemplum</td>
+            <td>magnum patrem</td>
+            <td>magnam pācem</td>
+            <td>magnum nōmen</td>
+        </tr>
+        <tr>
+            <td>abl. sg.</td>
+            <td>magnā puellā</td>
+            <td>magnō puerō</td>
+            <td>magnō exemplō</td>
+            <td>magnō patre</td>
+            <td>magnā pāce</td>
+            <td>magnō nōmine</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>nom. pl.</td>
+            <td><strong>magnae puellae</strong></td>
+            <td><strong>magnī puerī</strong></td>
+            <td><strong>magna exempla</strong></td>
+            <td><strong>magnī patrēs</strong></td>
+            <td><strong>magnae pācēs</strong></td>
+            <td><strong>magna nōmina</strong></td>
+        </tr>
+        <tr>
+            <td>gen. pl.</td>
+            <td><strong>magnārum puellārum</strong></td>
+            <td><strong>magnōrum puerōrum</strong></td>
+            <td><strong>magnōrum exemplōrum</strong></td>
+            <td><strong>magnōrum patrum</strong></td>
+            <td><strong>magnārum pācum</strong></td>
+            <td><strong>magnōrum nōminum</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart1">
+        <tr>
+            <td>dat. pl.</td>
+            <td>magnīs puellīs</td>
+            <td>magnīs puerīs</td>
+            <td>magnīs exemplīs</td>
+            <td>magnīs patribus</td>
+            <td>magnīs pācibus</td>
+            <td>magnīs nōminibus</td>
+        </tr>
+        <tr>
+            <td>acc. pl.</td>
+            <td>magnās puellās</td>
+            <td>magnōs puerōs</td>
+            <td>magna exempla</td>
+            <td>magnōs patrēs</td>
+            <td>magnās pācēs</td>
+            <td>magna nōmina</td>
+        </tr>
+        <tr>
+            <td>abl. pl.</td>
+            <td>magnīs puellīs</td>
+            <td>magnīs puerīs</td>
+            <td>magnīs exemplīs</td>
+            <td>magnīs patribus</td>
+            <td>magnīs pācibus</td>
+            <td>magnīs nōminibus</td>
+        </tr>
+    </tbody>
+</table>
+
+[Back to top.](#top)
+
+### 3-termination adjectives
+
+**ācer, ācris, ācre** - keen, sharp
+
+<button onclick="toggleDisplayChart('chart2')">Click here to toggle the dative, accusative, and ablative rows on or off.</button>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>1st decl. F</th>
+            <th>2nd decl. M</th>
+            <th>2nd decl. N</th>
+            <th>3rd decl. M</th>
+            <th>3rd decl. F</th>
+            <th>3rd decl. N</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>nom. sg.</td>
+            <td><strong>ācris puella</strong></td>
+            <td><strong>ācer puer</strong></td>
+            <td><strong>ācre exemplum</strong></td>
+            <td><strong>ācer pater</strong></td>
+            <td><strong>ācris pax</strong></td>
+            <td><strong>ācre nōmen</strong></td>
+        </tr>
+        <tr>
+            <td>gen. sg.</td>
+            <td><strong>ācris puellae</strong></td>
+            <td><strong>ācris puerī</strong></td>
+            <td><strong>ācris exemplī</strong></td>
+            <td><strong>ācris patris</strong></td>
+            <td><strong>ācris pācis</strong></td>
+            <td><strong>ācris nōminis</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart2">
+        <tr>
+            <td>dat. sg.</td>
+            <td>ācrī puellae</td>
+            <td>ācrī puerō</td>
+            <td>ācrī exemplō</td>
+            <td>ācrī patrī</td>
+            <td>ācrī pācī</td>
+            <td>ācrī nōminī</td>
+        </tr>
+        <tr>
+            <td>acc. sg.</td>
+            <td>ācrem puellam</td>
+            <td>ācrem puerum</td>
+            <td>ācre exemplum</td>
+            <td>ācrem patrem</td>
+            <td>ācrem pācem</td>
+            <td>ācre nōmen</td>
+        </tr>
+        <tr>
+            <td>abl. sg.</td>
+            <td>ācrī puellā</td>
+            <td>ācrī puerō</td>
+            <td>ācrī exemplō</td>
+            <td>ācrī patre</td>
+            <td>ācrī pāce</td>
+            <td>ācrī nōmine</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>nom. pl.</td>
+            <td><strong>ācrēs puellae</strong></td>
+            <td><strong>ācrēs puerī</strong></td>
+            <td><strong>ācria exempla</strong></td>
+            <td><strong>ācrēs patrēs</strong></td>
+            <td><strong>ācrēs pācēs</strong></td>
+            <td><strong>ācria nōmina</strong></td>
+        </tr>
+        <tr>
+            <td>gen. pl.</td>
+            <td><strong>ācrium puellārum</strong></td>
+            <td><strong>ācrium puerōrum</strong></td>
+            <td><strong>ācrium exemplōrum</strong></td>
+            <td><strong>ācrium patrum</strong></td>
+            <td><strong>ācrium pācum</strong></td>
+            <td><strong>ācrium nōminum</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart2">
+        <tr>
+            <td>dat. pl.</td>
+            <td>ācribus puellīs</td>
+            <td>ācribus puerīs</td>
+            <td>ācribus exemplīs</td>
+            <td>ācribus patribus</td>
+            <td>ācribus pācibus</td>
+            <td>ācribus nōminibus</td>
+        </tr>
+        <tr>
+            <td>acc. pl.</td>
+            <td>ācrēs puellās</td>
+            <td>ācrēs puerōs</td>
+            <td>ācria exempla</td>
+            <td>ācrēs patrēs</td>
+            <td>ācrēs pācēs</td>
+            <td>ācria nōmina</td>
+        </tr>
+        <tr>
+            <td>abl. pl.</td>
+            <td>ācribus puellīs</td>
+            <td>ācribus puerīs</td>
+            <td>ācribus exemplīs</td>
+            <td>ācribus patribus</td>
+            <td>ācribus pācibus</td>
+            <td>ācribus nōminibus</td>
+        </tr>
+    </tbody>
+</table>
+
+[Back to top.](#top)
+
+### 2-termination adjectives
+
+**fortis, forte** - brave, strong
+
+<button onclick="toggleDisplayChart('chart3')">Click here to toggle the dative, accusative, and ablative rows on or off.</button>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>1st decl. F</th>
+            <th>2nd decl. M</th>
+            <th>2nd decl. N</th>
+            <th>3rd decl. M</th>
+            <th>3rd decl. F</th>
+            <th>3rd decl. N</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>nom. sg.</td>
+            <td><strong>fortis puella</strong></td>
+            <td><strong>fortis puer</strong></td>
+            <td><strong>forte exemplum</strong></td>
+            <td><strong>fortis pater</strong></td>
+            <td><strong>fortis pax</strong></td>
+            <td><strong>forte nōmen</strong></td>
+        </tr>
+        <tr>
+            <td>gen. sg.</td>
+            <td><strong>fortis puellae</strong></td>
+            <td><strong>fortis puerī</strong></td>
+            <td><strong>fortis exemplī</strong></td>
+            <td><strong>fortis patris</strong></td>
+            <td><strong>fortis pācis</strong></td>
+            <td><strong>fortis nōminis</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart3">
+        <tr>
+            <td>dat. sg.</td>
+            <td>fortī puellae</td>
+            <td>fortī puerō</td>
+            <td>fortī exemplō</td>
+            <td>fortī patrī</td>
+            <td>fortī pācī</td>
+            <td>fortī nōminī</td>
+        </tr>
+        <tr>
+            <td>acc. sg.</td>
+            <td>fortem puellam</td>
+            <td>fortem puerum</td>
+            <td>forte exemplum</td>
+            <td>fortem patrem</td>
+            <td>fortem pācem</td>
+            <td>forte nōmen</td>
+        </tr>
+        <tr>
+            <td>abl. sg.</td>
+            <td>fortī puellā</td>
+            <td>fortī puerō</td>
+            <td>fortī exemplō</td>
+            <td>fortī patre</td>
+            <td>fortī pāce</td>
+            <td>fortī nōmine</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>nom. pl.</td>
+            <td><strong>fortēs puellae</strong></td>
+            <td><strong>fortēs puerī</strong></td>
+            <td><strong>fortia exempla</strong></td>
+            <td><strong>fortēs patrēs</strong></td>
+            <td><strong>fortēs pācēs</strong></td>
+            <td><strong>fortia nōmina</strong></td>
+        </tr>
+        <tr>
+            <td>gen. pl.</td>
+            <td><strong>fortium puellārum</strong></td>
+            <td><strong>fortium puerōrum</strong></td>
+            <td><strong>fortium exemplōrum</strong></td>
+            <td><strong>fortium patrum</strong></td>
+            <td><strong>fortium pācum</strong></td>
+            <td><strong>fortium nōminum</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart3">
+        <tr>
+            <td>dat. pl.</td>
+            <td>fortibus puellīs</td>
+            <td>fortibus puerīs</td>
+            <td>fortibus exemplīs</td>
+            <td>fortibus patribus</td>
+            <td>fortibus pācibus</td>
+            <td>fortibus nōminibus</td>
+        </tr>
+        <tr>
+            <td>acc. pl.</td>
+            <td>fortēs puellās</td>
+            <td>fortēs puerōs</td>
+            <td>fortia exempla</td>
+            <td>fortēs patrēs</td>
+            <td>fortēs pācēs</td>
+            <td>fortia nōmina</td>
+        </tr>
+        <tr>
+            <td>abl. pl.</td>
+            <td>fortibus puellīs</td>
+            <td>fortibus puerīs</td>
+            <td>fortibus exemplīs</td>
+            <td>fortibus patribus</td>
+            <td>fortibus pācibus</td>
+            <td>fortibus nōminibus</td>
+        </tr>
+    </tbody>
+</table>
+
+[Back to top.](#top)
+
+### 1-termination adjectives
+
+**sapiēns, sapientis** - wise
+
+<button onclick="toggleDisplayChart('chart4')">Click here to toggle the dative, accusative, and ablative rows on or off.</button>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>1st decl. F</th>
+            <th>2nd decl. M</th>
+            <th>2nd decl. N</th>
+            <th>3rd decl. M</th>
+            <th>3rd decl. F</th>
+            <th>3rd decl. N</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>nom. sg.</td>
+            <td><strong>sapiēns puella</strong></td>
+            <td><strong>sapiēns puer</strong></td>
+            <td><strong>sapiēns exemplum</strong></td>
+            <td><strong>sapiēns pater</strong></td>
+            <td><strong>sapiēns pax</strong></td>
+            <td><strong>sapiēns nōmen</strong></td>
+        </tr>
+        <tr>
+            <td>gen. sg.</td>
+            <td><strong>sapientis puellae</strong></td>
+            <td><strong>sapientis puerī</strong></td>
+            <td><strong>sapientis exemplī</strong></td>
+            <td><strong>sapientis patris</strong></td>
+            <td><strong>sapientis pācis</strong></td>
+            <td><strong>sapientis nōminis</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart4">
+        <tr>
+            <td>dat. sg.</td>
+            <td>sapientī puellae</td>
+            <td>sapientī puerō</td>
+            <td>sapientī exemplō</td>
+            <td>sapientī patrī</td>
+            <td>sapientī pācī</td>
+            <td>sapientī nōminī</td>
+        </tr>
+        <tr>
+            <td>acc. sg.</td>
+            <td>sapientem puellam</td>
+            <td>sapientem puerum</td>
+            <td>sapiēns exemplum</td>
+            <td>sapientem patrem</td>
+            <td>sapientem pācem</td>
+            <td>sapiēns nōmen</td>
+        </tr>
+        <tr>
+            <td>abl. sg.</td>
+            <td>sapientī puellā</td>
+            <td>sapientī puerō</td>
+            <td>sapientī exemplō</td>
+            <td>sapientī patre</td>
+            <td>sapientī pāce</td>
+            <td>sapientī nōmine</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>nom. pl.</td>
+            <td><strong>sapientēs puellae</strong></td>
+            <td><strong>sapientēs puerī</strong></td>
+            <td><strong>sapientia exempla</strong></td>
+            <td><strong>sapientēs patrēs</strong></td>
+            <td><strong>sapientēs pācēs</strong></td>
+            <td><strong>sapientia nōmina</strong></td>
+        </tr>
+        <tr>
+            <td>gen. pl.</td>
+            <td><strong>sapientium puellārum</strong></td>
+            <td><strong>sapientium puerōrum</strong></td>
+            <td><strong>sapientium exemplōrum</strong></td>
+            <td><strong>sapientium patrum</strong></td>
+            <td><strong>sapientium pācum</strong></td>
+            <td><strong>sapientium nōminum</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart4">
+        <tr>
+            <td>dat. pl.</td>
+            <td>sapientibus puellīs</td>
+            <td>sapientibus puerīs</td>
+            <td>sapientibus exemplīs</td>
+            <td>sapientibus patribus</td>
+            <td>sapientibus pācibus</td>
+            <td>sapientibus nōminibus</td>
+        </tr>
+        <tr>
+            <td>acc. pl.</td>
+            <td>sapientēs puellās</td>
+            <td>sapientēs puerōs</td>
+            <td>sapientia exempla</td>
+            <td>sapientēs patrēs</td>
+            <td>sapientēs pācēs</td>
+            <td>sapientia nōmina</td>
+        </tr>
+        <tr>
+            <td>abl. pl.</td>
+            <td>sapientibus puellīs</td>
+            <td>sapientibus puerīs</td>
+            <td>sapientibus exemplīs</td>
+            <td>sapientibus patribus</td>
+            <td>sapientibus pācibus</td>
+            <td>sapientibus nōminibus</td>
+        </tr>
+    </tbody>
+</table>
+
+[Back to top.](#top)
+
+### Demonstrative adjectives
+
+**hic, haec, hoc** - this, these
+
+<button onclick="toggleDisplayChart('chart5')">Click here to toggle the dative, accusative, and ablative rows on or off.</button>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>1st decl. F</th>
+            <th>2nd decl. M</th>
+            <th>2nd decl. N</th>
+            <th>3rd decl. M</th>
+            <th>3rd decl. F</th>
+            <th>3rd decl. N</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>nom. sg.</td>
+            <td><strong>haec puella</strong></td>
+            <td><strong>hic puer</strong></td>
+            <td><strong>hoc exemplum</strong></td>
+            <td><strong>hic pater</strong></td>
+            <td><strong>haec pax</strong></td>
+            <td><strong>hoc nōmen</strong></td>
+        </tr>
+        <tr>
+            <td>gen. sg.</td>
+            <td><strong>huius puellae</strong></td>
+            <td><strong>huius puerī</strong></td>
+            <td><strong>huius exemplī</strong></td>
+            <td><strong>huius patris</strong></td>
+            <td><strong>huius pācis</strong></td>
+            <td><strong>huius nōminis</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart5">
+        <tr>
+            <td>dat. sg.</td>
+            <td>huic puellae</td>
+            <td>huic puerō</td>
+            <td>huic exemplō</td>
+            <td>huic patrī</td>
+            <td>huic pācī</td>
+            <td>huic nōminī</td>
+        </tr>
+        <tr>
+            <td>acc. sg.</td>
+            <td>hanc puellam</td>
+            <td>hunc puerum</td>
+            <td>hoc exemplum</td>
+            <td>hunc patrem</td>
+            <td>hanc pācem</td>
+            <td>hoc nōmen</td>
+        </tr>
+        <tr>
+            <td>abl. sg.</td>
+            <td>hāc puellā</td>
+            <td>hōc puerō</td>
+            <td>hōc exemplō</td>
+            <td>hōc patre</td>
+            <td>hāc pāce</td>
+            <td>hōc nōmine</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>nom. pl.</td>
+            <td><strong>hae puellae</strong></td>
+            <td><strong>hī puerī</strong></td>
+            <td><strong>haec exempla</strong></td>
+            <td><strong>hī patrēs</strong></td>
+            <td><strong>hae pācēs</strong></td>
+            <td><strong>haec nōmina</strong></td>
+        </tr>
+        <tr>
+            <td>gen. pl.</td>
+            <td><strong>hārum puellārum</strong></td>
+            <td><strong>hōrum puerōrum</strong></td>
+            <td><strong>hōrum exemplōrum</strong></td>
+            <td><strong>hōrum patrum</strong></td>
+            <td><strong>hārum pācum</strong></td>
+            <td><strong>hōrum nōminum</strong></td>
+        </tr>
+    </tbody>
+    <tbody style="display: table-row-group;" class="chart5">
+        <tr>
+            <td>dat. pl.</td>
+            <td>hīs puellīs</td>
+            <td>hīs puerīs</td>
+            <td>hīs exemplīs</td>
+            <td>hīs patribus</td>
+            <td>hīs pācibus</td>
+            <td>hīs nōminibus</td>
+        </tr>
+        <tr>
+            <td>acc. pl.</td>
+            <td>hās puellās</td>
+            <td>hōs puerōs</td>
+            <td>haec exempla</td>
+            <td>hōs patrēs</td>
+            <td>hās pācēs</td>
+            <td>haec nōmina</td>
+        </tr>
+        <tr>
+            <td>abl. pl.</td>
+            <td>hīs puellīs</td>
+            <td>hīs puerīs</td>
+            <td>hīs exemplīs</td>
+            <td>hīs patribus</td>
+            <td>hīs pācibus</td>
+            <td>hīs nōminibus</td>
+        </tr>
+    </tbody>
+</table>
