@@ -296,6 +296,15 @@ Each chart illustrates how the same adjective changes to match its noun in gende
             <td>magnō nōmine</td>
         </tr>
     </tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     <tbody>
         <tr>
             <td>nom. pl.</td>
@@ -416,6 +425,15 @@ Each chart illustrates how the same adjective changes to match its noun in gende
             <td>ācrī nōmine</td>
         </tr>
     </tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     <tbody>
         <tr>
             <td>nom. pl.</td>
@@ -536,6 +554,15 @@ Each chart illustrates how the same adjective changes to match its noun in gende
             <td>fortī nōmine</td>
         </tr>
     </tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     <tbody>
         <tr>
             <td>nom. pl.</td>
@@ -656,6 +683,15 @@ Each chart illustrates how the same adjective changes to match its noun in gende
             <td>sapientī nōmine</td>
         </tr>
     </tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     <tbody>
         <tr>
             <td>nom. pl.</td>
@@ -776,6 +812,15 @@ Each chart illustrates how the same adjective changes to match its noun in gende
             <td>hōc nōmine</td>
         </tr>
     </tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     <tbody>
         <tr>
             <td>nom. pl.</td>
