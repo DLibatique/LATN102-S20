@@ -13,6 +13,62 @@ title: Adjective Morphology
 
 For this first module, focus on the **bolded** forms in the charts; we'll learn about the others in later weeks.
 
+## <a name="adjsyn">Adjective-Noun Synopses</a>
+
+The following charts show what an adjective-noun pairing looks like across different declensions and genders. The nouns used will be the following:
+- puella, puellae, f. - girl (1st declension feminine)
+- puer, puerī, m. - boy (2nd declension masculine)
+- exemplum, exemplī, n. - example (2nd declension neuter)
+- pater, patris, m. - father (3rd declension masculine)
+- pax, pācis, f. - peace (3rd declension feminine)
+- nōmen, nōminis, n. - name (3rd declension neuter)
+
+Each chart illustrates how the same adjective changes to match its noun in gender, case, and number. Focus on the **bolded** pairings for the first few weeks of this semester.
+
+### 2-1-2 adjectives
+
+**magnus, magna, magnum** - great, big
+
+<button onclick="toggleDisplay('chart1')">Click here to toggle the dative, accusative, and ablative rows on or off.</button>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>1st decl. F</th>
+            <th>2nd decl. M</th>
+            <th>2nd decl. N</th>
+            <th>3rd decl. M</th>
+            <th>3rd decl. F</th>
+            <th>3rd decl. N</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="display: none;" id="chart1">
+            <td>nom. sg.</td>
+            <td><strong>magna puella</strong></td>
+            <td><strong>magnus puer</strong></td>
+            <td><strong>magnum exemplum</strong></td>
+            <td><strong>magnus pater</strong></td>
+            <td><strong>magna pax</strong></td>
+            <td><strong>magnum nōmen</strong></td>
+        </tr>
+    </tbody>
+</table>
+
+|      | 1st decl. F  | 2nd decl. M  | 2nd decl. N  | 3rd decl. M | 3rd decl. F  | 3rd decl. N  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| nom. sg. | **magna puella** | **magnus puer** | **magnum exemplum** | **magnus pater** | **magna pax** | **magnum nōmen** |
+| gen. sg. | **magnae puellae** | **magnī puerī** | **magnī exemplī** | **magnī patris** | **magnae pācis** | **magnī nōminis** |
+| dat. sg. | magnae puellae | magnō puerō | magnō exemplō | magnō patrī | magnae pācī | magnō nōminī |
+| acc. sg. | magnam puellam | magnum puerum | magnum exemplum | magnum patrem | agnam pācem | magnum nōmen|
+| abl. sg. | magnā puellā | magnō puerō | magnō exemplō | magnō patre | magnā pāce | magnō nōmine |
+| nom. pl. | **magnae puellae** | **magnī puerī** | **magna exempla** | **magnī patrēs** | **magnae pācēs** | **magna nōmina** |
+| gen. pl. | **magnārum puellārum** | **magnōrum puerōrum** | **magnōrum exemplōrum** | **magnōrum patrum** | **magnārum pācum** | **magnōrum nōminum** |
+| dat. pl. | magnīs puellīs | magnīs puerīs | magnīs exemplīs | magnīs patribus | magnīs pācibus | magnīs nōminibus |
+| acc. pl. | magnās puellās | magnōs puerōs | magna exempla | magnōs patrēs | magnās pācēs | magna nōmina |
+| abl. pl. | magnīs puellīs | magnīs puerīs | magnīs exemplīs | magnīs patribus | magnīs pācibus | magnīs nōminibus |
+
 ## <a name="regadjs">Regular adjectives</a>
 
 ### 1) <a name="212">2-1-2 adjectives</a> (e.g. *bonus, bona, bonum* - good)
