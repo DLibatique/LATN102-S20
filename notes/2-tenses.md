@@ -70,7 +70,7 @@ This chart overviews the present tense in the active and passive voice across al
 
 **Active**
 
-| Person      | 1st (ā-stem) | 2nd (ē-stem) | 3rd (consonant-stem) | 3rd -iō (mixed) | 4th (ī-stem) |
+| Person      | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1st sg. | amō | moneō | regō | cupiō | audiō |
 | 2nd sg. | amās | monēs | regis | cupis | audīs |
@@ -81,7 +81,7 @@ This chart overviews the present tense in the active and passive voice across al
 
 **Passive**
 
-| Person      | 1st (ā-stem) | 2nd (ē-stem) | 3rd (consonant-stem) | 3rd -iō (mixed) | 4th (ī-stem) |
+| Person      | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1st sg. | amor | moneor | regor | cupior | audior |
 | 2nd sg. | amāris | monēris | regiris | cuperis | audīris |
