@@ -70,7 +70,7 @@ This chart overviews the present tense in the active and passive voice across al
 
 **Active**
 
-| Person & Number     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1st sg. | amō | moneō | regō | cupiō | audiō |
 | 2nd sg. | amās | monēs | regis | cupis | audīs |
@@ -81,7 +81,7 @@ This chart overviews the present tense in the active and passive voice across al
 
 **Passive**
 
-| Person & Number      | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+|      | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1st sg. | amor | moneor | regor | cupior | audior |
 | 2nd sg. | amāris | monēris | regiris | cuperis | audīris |
