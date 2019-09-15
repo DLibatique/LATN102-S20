@@ -32,7 +32,7 @@ Below are some examples of intransitive sentences in Latin and English:
 * Puella cucurrit. ("The girl ran.")
 * Timent. ("They are frightened.")
 
-NB: It might tempting to think that the sentence "The girl ran three miles" has a direct object. However, "three miles" is the shortened form of "for three miles", an adverbial phrase that describes the word "ran."
+NB: It might be tempting to think that a sentence like "The girl ran three miles" has a direct object. However, "three miles" is the shortened form of "for three miles", an adverbial phrase that describes the word "ran." We'll learn more about phrases that express concepts of space and time in Module 3.
 
 To summarize, intransitive sentences must have a:
 * Subject
