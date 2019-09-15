@@ -44,9 +44,9 @@ To summarize, intransitive sentences must have a:
 
 ### Transitive Sentences
 
-**Transitive sentences** require a **direct object**, in addition to a subject and verb to complete the meaning of the sentence.
+**Transitive sentences** require a **direct object**, in addition to a subject and verb, to complete the meaning of the sentence.
 
-For example, let's consider the verb *facere* ("to make" in English). If I were to say *agricola fēcit* - "the farmer made", the sentence would feel incomplete. You would be thinking, "What is he making? Pizza? Cake? A fence?""
+For example, let's consider the verb *facere* ("to make" in English). If I were to say *agricola fēcit* - "the farmer made", the sentence would feel incomplete. You would be thinking, "What is he making? Pizza? Cake? A fence?"
 
 Thus, we need to add a **direct object** to tell us what the farmer was making. In English, we would indicate this by putting what the farmer made immediately after the verb (e.g., "the farmer made pizza"). However, because Latin is an *inflected* language whose word order is highly variable, we can't do this. Rather, Latin indicates that a noun is functioning as a direct object by putting it in the **accusative case**. Thus, the Latin version of the sentence looks like this:
 
