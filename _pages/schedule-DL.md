@@ -74,31 +74,32 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, September 16
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the notes on [sentence patterns]({{ site.baseurl }}/notes/2-sentence-structures#sentence-patterns), [transitive sentences]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences), and [passive sentences]({{ site.baseurl }}/notes/2-sentence-structures#passive-sentences) and record any questions that you have.
+- Read through the notes on [sentence patterns]({{ site.baseurl }}/notes/2-sentence-structures#sentence-patterns), [intransitive sentences]({{ site.baseurl }}/notes/2-sentence-structures#intransitive-sentences), and [linking sentences]({{ site.baseurl }}/notes/2-sentence-structures#linking-sentences) and record any questions that you have.
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verbs: [Present Tense]({{ site.baseurl }}/notes/2-tenses#the-present-tense) Continued  
-- Sentence Type: [Transitive (+ Accusative Direct Object, Dative Indirect Object)]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences)  
-- Sentence Type: [Passive (+ Ablative of Agent, Ablative of Means)]({{ site.baseurl }}/notes/2-sentence-structures#passive-sentences)
+- Sentence Type (Review): [Linking (+ Predicate Nominative)]({{ site.baseurl }}/notes/2-sentence-structures#linking-sentences)
+- Sentence Type: [Intransitive]({{ site.baseurl }}/notes/2-sentence-structures#intransitive-sentences)  
 
 ### Wednesday, September 18
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [imperfect tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-imperfect-tense) and the notes on [intransitive sentences]({{ site.baseurl }}/notes/2-sentence-structures#intransitive-sentences) and [linking sentences]({{ site.baseurl }}/notes/2-sentence-structures#linking-sentences) and record any questions that you have.
+- Read through the [imperfect tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-imperfect-tense) and the notes on [transitive sentences]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences) and record any questions that you have.
 - Consult and begin memorizing the bolded conjugation patterns in the [imperfect indicative paradigm charts]({{ site.baseurl }}/charts/2-impf-ind).
 - Translation #1 Revision Due
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verbs: [Imperfect Tense]({{ site.baseurl }}/notes/2-tenses#the-imperfect-tense)  
-- Sentence Type: [Intransitive]({{ site.baseurl }}/notes/2-sentence-structures#intransitive-sentences)  
-- Sentence Type (Review): [Linking (+ Predicate Nominative)]({{ site.baseurl }}/notes/2-sentence-structures#linking-sentences)  
+- Sentence Type: [Transitive (+ Accusative Direct Object, Dative Indirect Object)]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences)  
+
 
 ### Friday, September 20
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [future tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-future-tense) and record any questions that you have.
+- Read through the [future tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-future-tense) and the notes on [passive sentences]({{ site.baseurl }}/notes/2-sentence-structures#passive-sentences) and record any questions that you have.
 - Composition #1 Revision Due
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verbs: [Future Tense]({{ site.baseurl }}/notes/2-tenses#the-future-tense)
+- Sentence Type: [Passive (+ Ablative of Agent, Ablative of Means)]({{ site.baseurl }}/notes/2-sentence-structures#passive-sentences)
 
 [Back to top.](#top)
 
