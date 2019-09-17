@@ -66,7 +66,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, September 18
 - Verbs: Imperfect Tense Active and Passive Indicative
 - Sentence Type 3: Passive + Ablative of Agent
-- **Homework (due before class)**: Review the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) and read the section on the [imperfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-imperfect-tense) and its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-ind/) for quiz #5
+- **Homework (due before class)**: Review the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) with the [slides] (https://docs.google.com/presentation/d/1CC86HD6_Mx2YzdIRCSBHECP0mLriod5Zttrcay_ZDLg/edit?usp=sharing) from last class and read the section on the [imperfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-imperfect-tense) and its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-ind/) for quiz #5
 
 ### Friday, September 20
 - Verbs: Sum
@@ -86,7 +86,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 25
 -  Adverbial Phrases: Prepositions
-- **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) for quiz #8, **Translation #2 Due**
+- **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) for quiz #8, [**Translation #2 Due**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing)
 
 ### Friday, September 27
 - Review
