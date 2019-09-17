@@ -66,6 +66,7 @@ exemplum, exemplī n. - example
 
 faciō, facere, fēcī, factus - to make, do  
 familia, familiae f. - family  
+fēmina, fēminae, f. - woman  
 fīlia, fīliae f. - daughter  
 fīlius, fīliī m. - son  
 flūmen, fluminis, n. - river  
