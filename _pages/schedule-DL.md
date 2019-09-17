@@ -110,7 +110,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ### Monday, September 23
 <p style="margin-bottom: 0;">Homework:</p>
 - Read through the [perfect tense overview and formation (active and passive) notes]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense) and record any questions that you have.
-- Translation #2 Due
+- [Translation #2](https://docs.google.com/document/d/1Ymd7-JwPMmML_nG7NKHScrodSM_j0mAvl2RNjyHLwB8/edit?usp=sharing) Due
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verbs: [Perfect Tense]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense)  
