@@ -83,22 +83,22 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Wednesday, September 18
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [imperfect tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-imperfect-tense) and the notes on [transitive sentences]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences) and record any questions that you have.
+- Read through the [imperfect tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-imperfect-tense) and  and record any questions that you have.
 - Consult and begin memorizing the bolded conjugation patterns in the [imperfect indicative paradigm charts]({{ site.baseurl }}/charts/2-impf-ind).
 - Translation #1 Revision Due
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verbs: [Imperfect Tense]({{ site.baseurl }}/notes/2-tenses#the-imperfect-tense)  
-- Sentence Type: [Transitive (+ Accusative Direct Object, Dative Indirect Object)]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences)  
+
 
 
 ### Friday, September 20
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [future tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-future-tense) and the notes on [passive sentences]({{ site.baseurl }}/notes/2-sentence-structures#passive-sentences) and record any questions that you have.
+- Read through the notes on [transitive sentences]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences) and [passive sentences]({{ site.baseurl }}/notes/2-sentence-structures#passive-sentences) and record any questions that you have.
 - Composition #1 Revision Due
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Verbs: [Future Tense]({{ site.baseurl }}/notes/2-tenses#the-future-tense)
+- Sentence Type: [Transitive (+ Accusative Direct Object, Dative Indirect Object)]({{ site.baseurl }}/notes/2-sentence-structures#transitive-sentences)  
 - Sentence Type: [Passive (+ Ablative of Agent, Ablative of Means)]({{ site.baseurl }}/notes/2-sentence-structures#passive-sentences)
 
 [Back to top.](#top)
@@ -109,26 +109,27 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, September 23
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [perfect tense overview and formation (active and passive) notes]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense) and record any questions that you have.
+- Read through the [future tense overview and formation notes]({{ site.baseurl }}/notes/2-tenses#the-future-tense) and record any questions that you have.
 - [Translation #2](https://docs.google.com/document/d/1Ymd7-JwPMmML_nG7NKHScrodSM_j0mAvl2RNjyHLwB8/edit?usp=sharing) Due
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Verbs: [Perfect Tense]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense)  
+- Verbs: [Future Tense]({{ site.baseurl }}/notes/2-tenses#the-future-tense)
 
 ### Wednesday, September 25
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on translating verbs]({{ site.baseurl }}/notes/2-verb-overview/#translating-verbs) and [using sentence structures to translate]({{ site.baseurl }}/notes/2-sentence-structures#tips-for-determining-sentence-structure), and record any questions that you have.
+- Read through the [perfect tense overview and formation (active and passive) notes]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense) and record any questions that you have.
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Verb Tense, Sentence Type, and Noun Use Practice  
+- Verbs: [Perfect Tense]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense)  
 - Composition Workshop
 
 ### Friday, September 27
 <p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on translating verbs]({{ site.baseurl }}/notes/2-verb-overview/#translating-verbs) and [using sentence structures to translate]({{ site.baseurl }}/notes/2-sentence-structures#tips-for-determining-sentence-structure), and record any questions that you have.
 - Composition #2 Due
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Review and Practice  
+- Verb Tense, Sentence Type, and Noun Case Practice  
 
 [Back to top.](#top)
 
