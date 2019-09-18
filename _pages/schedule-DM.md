@@ -102,7 +102,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 30
 - Review  
 - CBL Visit  
-- **Homework (due before class)**: Review for quiz #10 (topic TBD), **Composition #2 Due**
+- **Homework (due before class)**: Review for quiz #10 (topic TBD), [**Composition #2 Due**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit)
 
 ### Wednesday, October 2
 - Review
