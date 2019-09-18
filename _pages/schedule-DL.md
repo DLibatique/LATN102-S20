@@ -126,7 +126,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ### Friday, September 27
 <p style="margin-bottom: 0;">Homework:</p>
 - Read through the [notes on translating verbs]({{ site.baseurl }}/notes/2-verb-overview/#translating-verbs) and [using sentence structures to translate]({{ site.baseurl }}/notes/2-sentence-structures#tips-for-determining-sentence-structure), and record any questions that you have.
-- Composition #2 Due
+- [Composition #2](https://docs.google.com/document/d/1md75wKzgHbENvcagW5kMyQURITZ_9YbZKRB6y94BRxQ/edit?usp=sharing) Due
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verb Tense, Sentence Type, and Noun Case Practice  
