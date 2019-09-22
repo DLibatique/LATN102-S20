@@ -9,9 +9,11 @@ This is a landing page for all the notes, charts, and vocabulary that we will us
 
 Regarding **vocabulary**, it is important to do more than just memorize the words in the lists below in order. Research shows that you have to make multiple connections (thematic, linguistic, structural) in order for you to really gain understand the meaning of a new word. Try reordering the list below into declensions, words with shared meanings, and parts of speech so that your brain can recognize these words, their meanings, and their forms in context.
 
-## Master Vocabulary List
+## Master Lists and Charts
 
 - [Master Vocabulary List]({{ site.baseurl }}/vocab/master)
+- [Master Noun List]({{ site.baseurl }}/charts/0-noun-master)
+- [Master Adjective List]({{ site.baseurl }}/charts/0-adj-master)
 
 ## Module 1: Nouns and Adjectives
 
