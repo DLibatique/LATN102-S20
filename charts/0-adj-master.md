@@ -157,3 +157,9 @@ title: Adjective Morphology - Master
 | Dative   | sapient-**ibus**        | sapient-**ibus**  |
 | Accusative   | sapient-**ēs**        | sapient-**ia**  |
 | Ablative   | sapient-**ibus**        | sapient-**ibus**  |
+
+***
+
+## Interrogative
+
+### *quī*, *quae*, *quod* - which ____? what ____?
