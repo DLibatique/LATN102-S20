@@ -104,7 +104,7 @@ Note the different form of the pronoun chart compared to nouns. How do the colum
 | ----------- | ----------- | ----------- | ----------- |
 | Nominative    | **is**       | **ea**       |**id**       |
 | Genitive   | **eius**        | **eius**  |**eius**  |
-| Dative   | ei        | ei  |ei  |
+| Dative   | eī        | eī  |eī  |
 | Accusative   | eum        | eum  |id  |
 | Ablative   | eō        | eā  |eō  |
 
