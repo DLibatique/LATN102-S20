@@ -86,12 +86,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 25
 -  Adverbial Phrases: Prepositions
-- **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) for quiz #8, [**Translation #2 Due**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing)
+- **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) and review the formation of the dative, accusative, and ablative cases for quiz #8, [**Translation #2 Due**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing)
 
 ### Friday, September 27
 - Review
 - Composition Workshop
-- **Homework (due before class)**: Review for quiz #9 (topic TBD) and prepare composition for workshop
+- **Homework (due before class)**: Review the different types of sentence structures for quiz #9 and prepare composition for workshop
 
 [Back to top.](#top)
 
