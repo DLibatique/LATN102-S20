@@ -42,7 +42,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions, -ius Adjectives
 - **Homework (due before class)**: Review the slides from Friday as well as the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and study the [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts for quiz #1
 
-### Wednesday, September 11
+### Wednesday, September 11 [(slides)](https://docs.google.com/presentation/d/1ExJ4nHLfm9eiPTsh3WpReeZI94W4A2PCbMqqrepSpuo/edit?usp=sharing)
 - Adjectives: Intensifying Adjectives, Substantives  
 - **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) as well as the slides from Monday for quiz #2
 
@@ -57,18 +57,18 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 3
 
-### Monday, September 16
+### Monday, September 16 [(slides)](https://docs.google.com/presentation/d/1CC86HD6_Mx2YzdIRCSBHECP0mLriod5Zttrcay_ZDLg/edit?usp=sharing)
 - Verbs: Person, Number, Tense, Voice, Mood, Principal Parts, Conjugations, Perfect Tense Active and Passive Indicative
 - Sentence Type 2: Intransitive
 - Sentence Type 3: Passive
 - **Homework (due before class)**: Read and study the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/), the [perfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-perfect-tense), and on [intransitive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#intransitive-sentences) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) and begin familiarizing yourself with [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-ind/) verb forms for quiz #4, [Composition #1 Due](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit?usp=sharing)
 
-### Wednesday, September 18
+### Wednesday, September 18 [(slides)](https://docs.google.com/presentation/d/1qr8V7OkJ76iTnPCyMocob8qLds65I2GMsVWq0lP_xwA/edit?usp=sharing)
 - Verbs: Imperfect Tense Active and Passive Indicative
 - Sentence Type 3: Passive + Ablative of Agent
-- **Homework (due before class)**: Review the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) with the [slides](https://docs.google.com/presentation/d/1CC86HD6_Mx2YzdIRCSBHECP0mLriod5Zttrcay_ZDLg/edit?usp=sharing) from last class and read the section on the [imperfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-imperfect-tense) and its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-ind/) for quiz #5
+- **Homework (due before class)**: Review the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) with the slides from last class and read the section on the [imperfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-imperfect-tense) and its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-ind/) for quiz #5
 
-### Friday, September 20
+### Friday, September 20 [(slides)](https://docs.google.com/presentation/d/1of4iuO9jFATW22_MZN-8CI9h_qwFJm10E8cUZXSVYMM/edit?usp=sharing)
 - Verbs: Sum
 - Sentence Type 1: Transitive (plus Accusative Direct Object, Dative Indirect Object)
 - **Homework (due before class)**: Read the section on [transitive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#transitive-sentences) and consult the morphology [charts](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) for the formation of the accusative and dative and the verb *sum* for quiz #6
@@ -79,7 +79,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 4
 
-### Monday, September 23
+### Monday, September 23 [(slides)](https://docs.google.com/presentation/d/1P2QQ96a3EyJnWeaMIEeJ7s1uNSzekcYQAIn14h-NRZc/edit?usp=sharing)
 - Verbs: Possum, Infinitives
 - Sentence Type 4: Linking Sentence (review)
 - **Homework (due before class)**: Read the section on [infinitives](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives), consult the morphology charts for the verb *possum* and review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #7
