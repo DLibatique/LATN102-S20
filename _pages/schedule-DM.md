@@ -26,7 +26,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Introduction to CBL (CBL office)
 - **Homework (due before class)**: Read the [expectations](https://dlibatique.github.io/LATN101-F19/details-expectations-tips-DM), [grading](https://dlibatique.github.io/LATN101-F19/grading-DM), and [schedule](https://dlibatique.github.io/LATN101-F19/schedule-DM) pages carefully
 
-### Friday, September 6
+### Friday, September 6 [(slides)](https://docs.google.com/presentation/d/1JGxMywV0_CBtz7ko1ojRckGYVypL39CnDjTWUIXeW5E/edit?usp=sharing)
 - Nouns: Gender, Case, and Number; 1st, 2nd, and 3rd Declensions; Nominative, Genitive  
 - Adjectives: Noun-Adjective Agreement, Demonstrative, Possessives
 - *Est*, *Sunt*
@@ -38,13 +38,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 2
 
-### Monday, September 9
+### Monday, September 9 [(slides)](https://docs.google.com/presentation/d/1zsvQleKr6Atyk7mPHeuQ6gvJcStTsr-D2AoB6qHIPCU/edit?usp=sharing)
 - Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions, -ius Adjectives
-- **Homework (due before class)**: Review the [powerpoint slides](https://docs.google.com/presentation/d/1JGxMywV0_CBtz7ko1ojRckGYVypL39CnDjTWUIXeW5E/edit?usp=sharing) from Friday as well as the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and study the [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts for quiz #1
+- **Homework (due before class)**: Review the slides from Friday as well as the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and study the [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts for quiz #1
 
 ### Wednesday, September 11
 - Adjectives: Intensifying Adjectives, Substantives  
-- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) as well as the [slideshow](https://docs.google.com/presentation/d/1zsvQleKr6Atyk7mPHeuQ6gvJcStTsr-D2AoB6qHIPCU/edit?usp=sharing) for quiz #2
+- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) as well as the slides from Monday for quiz #2
 
 ### Friday, September 13
 - Review
