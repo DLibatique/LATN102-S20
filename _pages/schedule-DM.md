@@ -84,7 +84,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Sentence Type 4: Linking Sentence (review)
 - **Homework (due before class)**: Read the section on [infinitives](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives), consult the morphology charts for the verb *possum* and review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #7
 
-### Wednesday, September 25
+### Wednesday, September 25 [(slides)](https://docs.google.com/presentation/d/16VQjAiJZ16-84mAr_cIdyzemfqqihAP1tcz_o4wKk1I/edit?usp=sharing)
 -  Adverbial Phrases: Prepositions
 - **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) and review the formation of the dative, accusative, and ablative cases for quiz #8, [**Translation #2 Due**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing)
 
