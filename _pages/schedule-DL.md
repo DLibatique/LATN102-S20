@@ -120,16 +120,15 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Read through the [perfect tense overview and formation (active and passive) notes]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense) and record any questions that you have.
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Verbs: [Perfect Tense]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense)  
+- Verbs: [Perfect, Active Voice]({{ site.baseurl }}/notes/2-tenses#the-perfect-tense)  
 - Composition Workshop
 
 ### Friday, September 27
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on translating verbs]({{ site.baseurl }}/notes/2-verb-overview/#translating-verbs) and [using sentence structures to translate]({{ site.baseurl }}/notes/2-sentence-structures#tips-for-determining-sentence-structure), and record any questions that you have.
 - [Composition #2](https://docs.google.com/document/d/1md75wKzgHbENvcagW5kMyQURITZ_9YbZKRB6y94BRxQ/edit?usp=sharing) Due
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Verb Tense, Sentence Type, and Noun Case Practice  
+- Verbs: [Perfect Passive](../../notes/2-tenses#perfpass)  
 
 [Back to top.](#top)
 
@@ -139,32 +138,24 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, September 30
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on prepositions, expressions of place, and expressions of time]({{ site.baseurl }}/notes/3-place-and-time), and record any questions that you have.
-- Begin memorizing the vocabulary items in [Module 3]({{ site.baseurl }}/vocab/3).
-- Translation #2 Revision Due
+- Consult the new paradigm charts for [nouns]({{ site.baseurl }}/charts/0-noun-master) (EXCEPT 3rd decl. i-stems and 4th and 5th declension), [pronouns]({{ site.baseurl }}/charts/0-pronoun-master) (ONLY demonstratives, intensives, and 3rd person personal (is, ea, id)), and [adjectives]({{ site.baseurl }}/charts/0-adj-master), and begin memorizing the patterns.
 
 <p style="margin-bottom: 0;">Topics:</p>
-- [Prepositions]({{ site.baseurl }}/notes/3-place-and-time#prepositional-phrases)  
-- [Expressions of Place (Accusative of Motion Toward, Accusative of Extent of Space, Ablative of Place Where, Ablative of Motion From)]({{ site.baseurl }}/notes/3-place-and-time#expressions-of-place)  
-- [Expressions of Time (Ablative of Time When, Ablative of Time Within Which, Accusative of Extent/Duration of Time)]({{ site.baseurl }}/notes/3-place-and-time#expressions-of-time)  
-
+- Noun, Pronoun, Adjective Review
 
 ### Wednesday, October 2
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on infinitives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#infinitives) and [their uses (subjective and complementary)]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive), and record any questions that you have.
-- Begin memorizing the vocabulary items in [Module 4]({{ site.baseurl }}/vocab/4).
+- Consult the new paradigm charts for [verbs](../../charts/0-verb-master) (all charts that are currently completed), and refresh yourself on the rules for formation of all four tenses in both voices.
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Verbs: [Infinitives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#infinitives)  
-- [*possum*, *posse*, *potuī*]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive)  
+- Verb Review
 
 ### Friday, October 4
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on gerunds and gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives), and record any questions that you have.
-- Composition #2 Revision Due
+- Read through the [notes on translating verbs]({{ site.baseurl }}/notes/2-verb-overview/#translating-verbs) and [using sentence structures to translate]({{ site.baseurl }}/notes/2-sentence-structures#tips-for-determining-sentence-structure), and record any questions that you have.
 
 <p style="margin-bottom: 0;">Topics:</p>
-- [Gerunds and Gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives)
+- Sentence Pattern Review
 
 [Back to top.](#top)
 
@@ -174,26 +165,31 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, October 7
 <p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on prepositions, expressions of place, and expressions of time]({{ site.baseurl }}/notes/3-place-and-time), and record any questions that you have.
+- Begin memorizing the vocabulary items in [Module 3]({{ site.baseurl }}/vocab/3).
 - Translation #3 Due
 
 <p style="margin-bottom: 0;">Topics:</p>
-- [Gerunds and Gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives) Continued
+- [Prepositions]({{ site.baseurl }}/notes/3-place-and-time#prepositional-phrases)  
+- [Expressions of Place (Accusative of Motion Toward, Accusative of Extent of Space, Ablative of Place Where, Ablative of Motion From)]({{ site.baseurl }}/notes/3-place-and-time#expressions-of-place)  
+- [Expressions of Time (Ablative of Time When, Ablative of Time Within Which, Accusative of Extent/Duration of Time)]({{ site.baseurl }}/notes/3-place-and-time#expressions-of-time)  
 
 
 ### Wednesday, October 9
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on questions]({{ site.baseurl }}/notes/5-questions) (but skim "Deliberative Questions"), and record any questions (lol) that you have.
+- Read through the [notes on infinitives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#infinitives) and [their uses (subjective and complementary)]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive), and record any questions that you have.
+- Begin memorizing the vocabulary items in [Module 4]({{ site.baseurl }}/vocab/4).
 
 <p style="margin-bottom: 0;">Topics:</p>
-- [Questions: Interrogative Adjective/Pronoun, Particles]({{ site.baseurl }}/notes/5-questions)
-- Composition Workshop
+- Verbs: [Infinitives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#infinitives)  
+- [*possum*, *posse*, *potuī*]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive)  
 
 ### Friday, October 11
 <p style="margin-bottom: 0;">Homework:</p>
 - Composition #3 Due
 
 <p style="margin-bottom: 0;">Topics:</p>
-- Check Up from the Neck Up  
+- Check Up From the Neck Up
 
 [Back to top.](#top)
 
@@ -206,15 +202,29 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 7
 
 ### Monday, October 21
-- Review and Practice  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on gerunds and gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives), and record any questions that you have.
 - Translation #3 Revision Due
 
+<p style="margin-bottom: 0;">Topics:</p>
+- [Gerunds and Gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives)
+
+
 ### Wednesday, October 23
-- Review and Practice
+<p style="margin-bottom: 0;">Homework:</p>
+- Review [notes on gerunds and gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives).
+
+<p style="margin-bottom: 0;">Topics:</p>
+- [Gerunds and Gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives) continued.
+- Composition Workshop
 
 ### Friday, October 25
-- Review and Practice  
+<p style="margin-bottom: 0;">Homework:</p>
+- Read through the [notes on questions]({{ site.baseurl }}/notes/5-questions) (but skim "Deliberative Questions"), and record any questions (lol) that you have.
 - Composition #3 Revision Due
+
+<p style="margin-bottom: 0;">Topics:</p>
+- [Questions: Interrogative Adjective/Pronoun, Particles]({{ site.baseurl }}/notes/5-questions)
 
 [Back to top.](#top)
 
