@@ -102,12 +102,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 30
 - Review  
 - CBL Visit  
-- **Homework (due before class)**: Review vocabulary (i.e. be able to produce the full dictionary entry) from [Module #1](https://dlibatique.github.io/LATN101-F19/vocab/1/) and [Module #2](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #10 (topic TBD), [**Composition #2 Due**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit)
+- **Homework (due before class)**: Review vocabulary (i.e. be able to produce the full dictionary entry) from [Module #1](https://dlibatique.github.io/LATN101-F19/vocab/1/) and [Module #2](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #10, [**Composition #2 Due**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit)
 
 ### Wednesday, October 2
 - Review
 - CBL Prep Time
-- **Homework (due before class)**: Review for quiz #11 on the declension of nouns and adjectives and prepare CBL materials
+- **Homework (due before class)**: Review for quiz #11 on the declension of [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/#adjsyn) and prepare CBL materials
 
 ### Friday, October 4
 - Review
