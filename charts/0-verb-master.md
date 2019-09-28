@@ -3,6 +3,16 @@ layout: subpage
 title: Verb Morphology - Master
 ---
 
+## Navigation
+- [Indicative - Active](#indicative---active)
+- [Indicative - Passive](#indicative---passive)
+- [Subjunctive - Active](#subjunctive---active)
+- [Subjunctive - Passive](#subjunctive---passive)
+- [Infinitives](#infinitives)
+- [Gerunds and Gerundives](#gerunds-and-gerundives)
+
+***
+
 **Paradigm Verbs**:
 - 1st Conjugation: *amō*, *amāre*, *amāvī*, *amātus* - to love
 - 2nd Conjugation: *moneō*, *monēre*, *monuī*, *monitus* - to warn, advise

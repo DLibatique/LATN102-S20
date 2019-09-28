@@ -3,6 +3,20 @@ layout: subpage
 title: Noun Morphology - Master
 ---
 
+## Navigation:
+- [First Declension](#first-declension)
+- [Second Declension Masculine](#second-declension-masculine)
+- [Second Declension Neuter](#second-declension-neuter)
+- [Third Declension Masculine/Feminine](#third-declension-masculinefeminine)
+- [Third Declension Masculine/Feminine - i-stem](#third-declension-masculinefeminine-i-stem)
+- [Third Declension Neuter](#third-declension-neuter)
+- [Third Declension Neuter - i-stem](#third-declension-neuter-i-stem)
+- [Fourth Declension Masculine/Feminine](#fourth-declension-masculinefeminine)
+- [Fourth Declension Neuter](#fourth-declension-neuter)
+- [Fifth Declension Masculine/Feminine](#fifth-declension-masculinefeminine)
+
+***
+
 ## First Declension
 
 ### *puella*, *puellae*, f. - girl
@@ -99,7 +113,7 @@ title: Noun Morphology - Master
 | Ablative   | nōmin-**e**       | nōmin-**ibus**        |
 
 \* Nominative forms of third declension nouns are highly variable; there is no one set or common ending.  
-\*\* The accusative forms of neuters always exactly match their nominative counterpart within the same number (i.e., accusative singular = nominative singular; accusative plural = nominative plural).  
+\*\* The accusative forms of all **neuter** nouns, adjectives, and pronouns exactly match their nominative counterparts within the same number (e.g., neuter accusative singular = neuter nominative singular).
 
 ## Third Declension Neuter i-stem
 
@@ -114,7 +128,7 @@ title: Noun Morphology - Master
 | Ablative   | mar-**ī**\*\*\*       | mar-**ibus**        |
 
 \* Nominative forms of third declension nouns are highly variable; there is no one set or common ending.  
-\*\* The accusative forms of neuters always exactly match their nominative counterpart within the same number (i.e., accusative singular = nominative singular; accusative plural = nominative plural).  
+\*\* The accusative forms of all **neuter** nouns, adjectives, and pronouns exactly match their nominative counterparts within the same number (e.g., neuter accusative singular = neuter nominative singular).  
 \*\*\* Note the replacement of the normal ablative singlar ending -e with -ī and the extra i in the endings of the nominative, genitive, and accusative plurals.
 
 ***

@@ -3,6 +3,15 @@ layout: subpage
 title: Adjective Morphology - Master
 ---
 
+## Navigation
+- [2-1-2 adjectives](#2-1-2-adjectives)
+- [2-1-2 adjectives - īus](#2-1-2---īus-adjectives)
+- [Three-Termination Adjectives](#three-termination-adjectives)
+- [Two-Termination Adjectives](#two-termination-adjectives)
+- [One-Termination Adjectives](#one-termination-adjectives)
+
+***
+
 ## 2-1-2 adjectives
 
 ### *bonus*, *bona*, *bonum* - good
@@ -112,7 +121,7 @@ title: Adjective Morphology - Master
 
 **Singular**
 
-| Case      | M./F. |Neuter |
+| Case      | M./F. | Neuter |
 | ----------- | ----------- | ----------- |
 | Nominative    | fort-**is**       | fort-**e**       |
 | Genitive   | fort-**is**        | fort-**is**  |
@@ -122,7 +131,7 @@ title: Adjective Morphology - Master
 
 **Plural**
 
-| Case      | M./F. |Neuter |
+| Case      | M./F. | Neuter |
 | ----------- | ----------- | ----------- |
 | Nominative    | fort-**ēs**       | fort-**ia**       |
 | Genitive   | fort-**ium**        | fort-**ium**  |
@@ -146,7 +155,7 @@ title: Adjective Morphology - Master
 | Accusative   | sapient-**em**        | sapiēns*  |
 | Ablative   | sapient-**ī**        | sapient-**ī**  |
 
-\* The accusative forms of all nouns, adjectives, and pronouns exactly match their nominative counterparts within the same number (e.g., accusative singular = nominative singular).
+\* The accusative forms of all **neuter** nouns, adjectives, and pronouns exactly match their nominative counterparts within the same number (e.g., neuter accusative singular = neuter nominative singular).
 
 **Plural**
 

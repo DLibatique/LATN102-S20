@@ -3,6 +3,15 @@ layout: subpage
 title: Pronoun Morphology - Master
 ---
 
+## Navigation:
+- [Demonstratives](#demonstratives)
+- [Intensives](#intensives)
+- [Personal](#personal)
+- [Reflexive](#reflexive)
+- [Interrogative](#interrogative)
+
+***
+
 ## Demonstratives
 
 Note that demonstrative pronouns can also modify nouns and thus serve as demonstrative *adjectives*.
