@@ -145,7 +145,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Wednesday, October 2
 <p style="margin-bottom: 0;">Homework:</p>
-- Consult the new paradigm charts for [verbs](../../charts/0-verb-master) (all charts that are currently completed), and refresh yourself on the rules for formation of all four tenses in both voices.
+- Consult the new paradigm charts for [verbs]({{ site.baseurl }}/charts/0-verb-master) (all charts that are currently completed), and refresh yourself on the rules for formation of all four tenses in both voices.
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Verb Review

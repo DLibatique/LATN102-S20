@@ -13,7 +13,7 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 
 - [Master Vocabulary List]({{ site.baseurl }}/vocab/master)
 - [Master Noun List]({{ site.baseurl }}/charts/0-noun-master)
-- [Master Pronoun List](../charts/0-pronoun-master)
+- [Master Pronoun List]({{ site.baseurl }}/charts/0-pronoun-master)
 - [Master Adjective List]({{ site.baseurl }}/charts/0-adj-master)
 - [Master Verb List]({{ site.baseurl }}/charts/0-verb-master)
 
