@@ -93,7 +93,7 @@ Note that the 3rd person personal pronoun can also modify nouns and thus serve a
 | ----------- | ----------- | ----------- | ----------- |
 | Nominative    | is       | ea       |id       |
 | Genitive   | eius        | eius  |eius  |
-| Dative   | ei        | ei  |ei  |
+| Dative   | eī        | eī  |eī  |
 | Accusative   | eum        | eum  |id  |
 | Ablative   | eō        | eā  |eō  |
 
