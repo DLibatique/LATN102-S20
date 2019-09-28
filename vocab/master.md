@@ -92,7 +92,7 @@ hostis, -is, m. - enemy
 iaciō, iacere, iēcī, iactus - to throw, hurl  
 iam - now, already  
 ibi - there  
-ignis, -is, f. - fire  
+ignis, -is, m. - fire  
 ille, illa, illud (irregular) - that, those (as opposed to hic, haec, hoc)  
 imperō, -āre, -āvī, -ātus - to command  
 impleō, implēre, implēvī, implētus - to fill up  
