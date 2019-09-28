@@ -88,7 +88,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 -  Adverbial Phrases: Prepositions
 - **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) and review the formation of the dative, accusative, and ablative cases for quiz #8, [**Translation #2 Due**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing)
 
-### Friday, September 27
+### Friday, September 27 [(slides)](https://docs.google.com/presentation/d/1B0QgYYXTeSqymcuC6_22YJi4J8HyM9tueuFiPWqTATY/edit?usp=sharing)
 - Review
 - Composition Workshop
 - **Homework (due before class)**: Review the different types of sentence structures for quiz #9 and prepare composition for workshop
@@ -102,17 +102,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 30
 - Review  
 - CBL Visit  
-- **Homework (due before class)**: Review for quiz #10 (topic TBD), [**Composition #2 Due**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit)
+- **Homework (due before class)**: Review vocabulary (i.e. be able to produce the full dictionary entry) from [Module #1](https://dlibatique.github.io/LATN101-F19/vocab/1/) and [Module #2](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #10 (topic TBD), [**Composition #2 Due**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit)
 
 ### Wednesday, October 2
 - Review
 - CBL Prep Time
-- **Homework (due before class)**: Review for quiz #11 (topic TBD) and prepare CBL materials
+- **Homework (due before class)**: Review for quiz #11 on the declension of nouns and adjectives and prepare CBL materials
 
 ### Friday, October 4
 - Review
 - Reading Practice  
-- **Homework (due before class)**: Review for quiz #12 (topic TBD), **Group CBL Materials Due**
+- **Homework (due before class)**: Review for quiz #12 on verbs and sentence structures, **Group CBL Materials Due**
 
 [Back to top.](#top)
 
