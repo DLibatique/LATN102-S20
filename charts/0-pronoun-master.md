@@ -110,7 +110,7 @@ Note that the 3rd person personal pronoun can also modify nouns and thus serve a
 
 | Case      | Masculine |Feminine |Neuter |
 | ----------- | ----------- | ----------- | ----------- |
-| Nominative    | eī       | eae       |ea       |
+| Nominative    | eī / iī        | eae       |ea       |
 | Genitive   | eōrum        | eārum  |eōrum  |
 | Dative   | eīs        | eīs  |eīs  |
 | Accusative   | eōs        | eās  |ea  |
