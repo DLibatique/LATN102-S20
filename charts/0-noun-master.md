@@ -75,11 +75,11 @@ title: Noun Morphology - Master
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| Nominative    | mater*      | matr-**ēs**       |
-| Genitive   | matr-**is**        | matr-**um**       |
-| Dative   | matr-**ī**        | matr-**ibus**      |
-| Accusative   | matr-**em**        | matr-**ēs**      |
-| Ablative   | matr-**e**        | matr-**ibus**        |
+| Nominative    | māter*      | mātr-**ēs**       |
+| Genitive   | mātr-**is**        | mātr-**um**       |
+| Dative   | mātr-**ī**        | mātr-**ibus**      |
+| Accusative   | mātr-**em**        | mātr-**ēs**      |
+| Ablative   | mātr-**e**        | mātr-**ibus**        |
 
 \* Nominative forms of third declension nouns are highly variable; there is no one set or common ending.  
 
