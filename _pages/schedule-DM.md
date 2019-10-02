@@ -104,7 +104,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - CBL Visit  
 - **Homework (due before class)**: Review vocabulary (i.e. be able to produce the full dictionary entry) from [Module #1](https://dlibatique.github.io/LATN101-F19/vocab/1/) and [Module #2](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #10, [**Composition #2 Due**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit)
 
-### Wednesday, October 2
+### Wednesday, October 2 [(slides)](https://docs.google.com/presentation/d/1jgCkGhJ78JAinZ4u0r4SXfHCOc1VUq-2EVlX6urgQFM/edit?usp=sharing)
 - Review
 - CBL Prep Time
 - **Homework (due before class)**: Review for quiz #11 on the declension of [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/#adjsyn) and prepare CBL materials
@@ -193,9 +193,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Review vocabulary for quiz #23, **Composition #4 due**
 
 ### Friday, November 8
-- Orders: Jussive Subjunctive
+- Indirect statement
 - CBL Prep Time
-- **Homework (due before class)**: Read the section on the jussive subjunctive and study for quiz #24
+- **Homework (due before class)**: Read the section on indirect statement and the formation of infinitives for quiz #24
 
 [Back to top.](#top)
 
@@ -204,18 +204,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10
 
 ### Monday, November 11
-- Orders: Hortatory Subjunctive
-- Verbs: The first person
-- **Homework (due before class)**: Read the section on the hortatory subjunctive and familiarize yourself with first person verb forms for quiz #25, **Group CBL Materials Due**
+- Indirect statement
+- **Homework (due before class)**: Read the section on indirect statement and the formation of infinitives for quiz #25, **Group CBL Materials Due**
 
 ### Wednesday, November 13
-- Orders: Imperatives and the Prohibitive Subjunctive
-- Verbs: The second person
-- **Homework (due before class)**: Read the section on imperatives and the prohibitve subjunctive and familiarize yourself with second person verb forms for quiz #26
+- Pronouns: Personal pronouns and reflexives
+- Indirect statement review
+- **Homework (due before class)**:  Read the section on personal pronouns and reflexives and familiarize yourself with their morphology for quiz #26
 
 ### Friday, November 15
-- Pronouns: Personal pronouns and reflexives
-- **Homework (due before class)**: Read the section on personal pronouns and reflexives and familiarize yourself with their morphology for quiz #27; **Translation #5 due**
+- Review
+- **Homework (due before class)**: Review vocabulary for quiz #27; **Translation #5 due**
 
 [Back to top.](#top)
 
@@ -224,19 +223,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 11
 
 ### Monday, November 18
-- Review
+- Deponent verbs
 - Composition Workshop
-- **Homework (due before class)**: Review for vocabulary for quiz #28 and prepare composition for workshop
+- **Homework (due before class)**: Read the section on deponent verbs for quiz #28 and prepare composition for workshop
 
 
 ### Wednesday, November 20
-- Indirect Statement
-- **Homework (due before class)**: Read the section on indirect statement for quiz #29, **Composition 5 due**
+- Temporal clauses
+- Verbs: Pluperfect Active and Passive Indicatve
+- **Homework (due before class)**: Read the section on temporal clauses and familiarize yourself with the morphology of the pluperfect indicative for quiz #29, **Composition 5 due**
 
 ### Friday, November 22
-- Indirect Command
-- Verbs: Perfect Active and Passive Subjunctive
-- **Homework (due before class)**: Read the section on indirect command and familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/) of the perfect subjunctive for quiz #30
+- Temporal clauses
+- Verbs: Perfect and Pluperfect Active and Passive Subjunctive
+- **Homework (due before class)**: Review the section on temporal clauses and familiarize yourself with the morphology of the perfect and pluperfect subjunctive for quiz #30
 
 [Back to top.](#top)
 
@@ -245,9 +245,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12.1
 
 ### Monday, November 25
-- Indirect Question
-- Verbs: Pluperfect Active and Passive Subjunctive
-- **Homework (due before class)**: Read the section on indirect question and familiarize yourself with the morphology of the pluperfect subjunctive for quiz #31
+- Review
+- **Homework (due before class)**: Review the morphology and context for temporal clauses quiz #31
 
 [Back to top.](#top)
 
@@ -266,11 +265,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, December 4
 - Review
 - Composition Workshop
-**Homework (due before class)**: Review vocabulary for quiz #33 and prepare for composition workshop
+**Homework (due before class)**: Review the morphology of irregular verbs for quiz #33 and prepare for composition workshop
 
 ### Friday, December 6
-- Irregular Verbs: *volō*, *nōlō*, and *mālō*    
-- **Homework (due before class)**: Review the morphology of these irregular verbs and study for quiz #34, **Composition #6 Due**
+- Irregular Verbs: *volō*, *nōlō*, and *mālō*      
+- **Homework (due before class)**: Review the morphology of the above irregular verbs for quiz #34; **Composition #6 Due**
 
 [Back to top.](#top)
 
@@ -279,14 +278,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13
 
 ### Monday, December 9
-- Review
 - CBL Visit   
-- **Homework (due before class)**: Review vocabulary for quiz #35
+- **Homework (due before class)**: Review the five new irregular verbs for quiz #35
 
 ### Wednesday, December 11
-- Deponent verbs
 - CBL prep time
-- **Homework (due before class)**: Read the section on deponent verbs for quiz #36
+- **Homework (due before class)**: Review vocabulary for quiz #36
 
 ### Friday, December 13
 - Looking ahead to Latin 102
