@@ -167,7 +167,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 <p style="margin-bottom: 0;">Homework:</p>
 - Read through the [notes on prepositions, expressions of place, and expressions of time]({{ site.baseurl }}/notes/3-place-and-time), and record any questions that you have.
 - Begin memorizing the vocabulary items in [Module 3]({{ site.baseurl }}/vocab/3).
-- Translation #3 Due
+- [Translation #3](https://docs.google.com/document/d/12XCYDRuMmyr4lFTCBEylv4J7U9ojfayHrzJ2o89CEJw/edit?usp=sharing) Due
 
 <p style="margin-bottom: 0;">Topics:</p>
 - [Prepositions]({{ site.baseurl }}/notes/3-place-and-time#prepositional-phrases)  
