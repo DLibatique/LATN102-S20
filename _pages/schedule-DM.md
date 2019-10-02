@@ -112,7 +112,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, October 4
 - Review
 - Reading Practice  
-- **Homework (due before class)**: Review for quiz #12 on verbs and sentence structures, **Group CBL Materials Due**
+- **Homework (due before class)**: Review for quiz #12 on verbs and sentence structures
 
 [Back to top.](#top)
 
@@ -123,7 +123,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, October 7
 - Adverbial Phrases: Expressions of Place
 - Reading Practice  
-- **Homework (due before class)**: Read [expressions of place](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-place) and study for quiz #13
+- **Homework (due before class)**: Read [expressions of place](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-place) and study for quiz #13; **Group CBL Materials Due**
 
 ### Wednesday, October 9
 - Adverbial Phrases: Expressions of Time
