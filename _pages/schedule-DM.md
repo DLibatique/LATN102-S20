@@ -121,14 +121,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 6
 
 ### Monday, October 7
-- Adverbial Phrases: Expressions of Place
 - Reading Practice  
-- **Homework (due before class)**: Read [expressions of place](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-place) and study for quiz #13; **Group CBL Materials Due**
+- **Homework (due before class)**: Review nouns and adjectives for quiz #13; **Group CBL Materials Due**
 
 ### Wednesday, October 9
-- Adverbial Phrases: Expressions of Time
+- Adverbial Phrases: Expressions of Place and Time
 - Reading Practice  
-**Homework (due before class)**: Read [expressions of time](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-time) and study for quiz #14
+**Homework (due before class)**: Read [expressions of place](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-place) and [expressions of time](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-time) and study for quiz #14
 
 ### Friday, October 11
 - Review
