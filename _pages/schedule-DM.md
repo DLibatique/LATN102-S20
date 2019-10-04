@@ -132,7 +132,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, October 11
 - Review
 - Composition Workshop
-- **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/3/) for quiz #15, **Translation #3 due**
+- **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/3/) for quiz #15, [**Translation #3 due**](https://docs.google.com/document/d/17x4184wyZUzEkX3bf1oR2Hmpcnkhv_-kB1FLIAMvD9o/edit?usp=sharing)
 
 [Back to top.](#top)
 
