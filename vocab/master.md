@@ -40,7 +40,7 @@ cum (+ abl.) - with
 
 ***
 
-
+dē (+ abl.) - down from  
 decem (indeclinable) - ten  
 decimus, -a, -um - tenth  
 deinde - next, thereafter, thereupon, then  
@@ -96,7 +96,7 @@ ignis, -is, m. - fire
 ille, illa, illud (irregular) - that, those (as opposed to hic, haec, hoc)  
 imperō, -āre, -āvī, -ātus - to command  
 impleō, implēre, implēvī, implētus - to fill up  
-in (+ abl.) - in  
+in (+ abl.) - in, on  
 in (+ acc.) - into  
 incipiō, incipere, incēpī, inceptus - to begin  
 inde - from there, thence  
