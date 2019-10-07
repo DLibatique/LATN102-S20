@@ -120,7 +120,7 @@ lux, lūcis, f. - light
 ***
 
 
-magnus, magna, magnum - great  
+magnus, magna, magnum - great, large  
 mare, maris, n. - sea  
 maritus, maritī m. - husband  
 māter, mātris f. - mother  
