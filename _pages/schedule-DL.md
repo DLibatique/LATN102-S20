@@ -177,7 +177,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Wednesday, October 9
 <p style="margin-bottom: 0;">Homework:</p>
-- Memorize the prepositions in the [Module 3 vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/3/#prepositions) for the daily quiz.
+- Memorize the prepositions in the [Module 3 vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/3/#prepositions) (including cases of their objects) for the daily quiz.
 - Read through the [notes on infinitives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#infinitives) and [their uses (subjective and complementary)]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive), and record any questions that you have.
 - Begin memorizing the vocabulary items in [Module 4]({{ site.baseurl }}/vocab/4).
 
