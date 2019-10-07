@@ -109,7 +109,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - CBL Prep Time
 - **Homework (due before class)**: Review for quiz #11 on the declension of [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/#adjsyn) and prepare CBL materials
 
-### Friday, October 4
+### Friday, October 4 [(slides)](https://docs.google.com/presentation/d/1OfAIjpB5zOzExo2T3ShcZcGVdntGmg49QAbspwE5DLk/edit?usp=sharing)
 - Review
 - Reading Practice  
 - **Homework (due before class)**: Review for quiz #12 on verbs and sentence structures
@@ -120,7 +120,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 6
 
-### Monday, October 7
+### Monday, October 7 [(slides)](https://docs.google.com/presentation/d/1Kr_PFDvx3cLKWlyLiX3DFQu8rmAGTzsjizjdaSK2gDE/edit?usp=sharing)
 - Reading Practice  
 - **Homework (due before class)**: Review nouns and adjectives for quiz #13; **Group CBL Materials Due**
 
@@ -146,7 +146,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, October 21
 - Gerunds and GRGs
-- **Homework (due before class)**: Read the sections on [gerunds](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#gerunds) and [GRGs](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) for quiz #16, **Composition #3 due**
+- **Homework (due before class)**: Read the sections on [gerunds](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#gerunds) and [GRGs](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) for quiz #16, [**Composition #3 due**](https://docs.google.com/document/d/1Cz74dEZiG8N_1LzSYcWbbvw5QPFifi2J9HaWyw2Il-0/edit?usp=sharing)
 
 ### Wednesday, October 23
 - Gerundives
