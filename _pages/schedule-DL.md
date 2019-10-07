@@ -186,7 +186,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Friday, October 11
 <p style="margin-bottom: 0;">Homework:</p>
-- Composition #3 Due
+- [Composition #3](https://docs.google.com/document/d/1Rp0gea3qRy__0nLWElJRLWSkQqdKAGvIJgzqOVu1ZtQ/edit?usp=sharing) Due
 
 <p style="margin-bottom: 0;">Topics:</p>
 - Check Up From the Neck Up
