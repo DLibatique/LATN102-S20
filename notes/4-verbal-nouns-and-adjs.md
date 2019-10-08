@@ -94,7 +94,7 @@ To form the **perfect active infinitive**, you go to the **perfect stem** (which
 
 The **perfect** ***passive*** **infinitive**, as the name suggests, indicates a *passive* action that occurred in the past. The translation adds "been" to convey the passiveness of the verbal unit: for example, "to have been loved."
 
-The formation of the **perfect passive infinitive** works similarly to the formation of the perfect active indicative. You take the **fourth principal part** of the dictionary entry (the perfect passive participle) in the appropriate gender, case, and number and pair it with the present infinitive of the verb "to be," *esse*. Take a look at these examples:
+The formation of the **perfect passive infinitive** works similarly to the formation of the perfect passive indicative. You take the **fourth principal part** of the dictionary entry (the perfect passive participle) in the appropriate gender, case, and number and pair it with the present infinitive of the verb "to be," *esse*. Take a look at these examples:
 
 - *amātus esse*, "to have been loved"
 - *monitus esse*, "to have been warned"
