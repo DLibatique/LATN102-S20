@@ -14,6 +14,7 @@ Here is a list of slideshows used in Prof. Libatique's sections.
 4. [Module 2 - Verbs (Imperfect Tense, Transitive and Passive)](https://docs.google.com/presentation/d/13i5SkMCLDS___KaGJxfzVkWkJI1NMHJALit0HvjiKx8/edit?usp=sharing)
 5. [Module 2 - Verbs (Future and Perfect Tenses)](https://docs.google.com/presentation/d/1nueTg3gk_S3ct_anbjRCzksZzp5gaxJSWr7qgSkKMNA/edit?usp=sharing)
 6. [Module 3 - Prepositions, Expressions of Place and Time](https://docs.google.com/presentation/d/1JR-iP8sTG-xoI99MQLozALBsox0ySMpYxFmbeVfdtY8/edit?usp=sharing)
+7. [Module 4 - Infinitives and *possum*](https://docs.google.com/presentation/d/1zcfbtPHKpewu5cAtvy6dcw-9cQK7xnr2l1FEpXqWLpM/edit?usp=sharing)
 
 Reviews:
 1. [Noun-Adj. Agreement](https://docs.google.com/presentation/d/1EkCLQJZY03byyxmrzuXVWRN9zE281z98HIlLdOn96s8/edit?usp=sharing)
