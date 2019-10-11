@@ -18,6 +18,7 @@ ad (+ acc.) - to, toward
 agricola, agricolae, m. - farmer  
 alius, alia, aliud - another, other; *aliī...aliī* = "some ... others"  
 alter, altera, alterum - other, one (of two); *alter...alter* = "one ... the other"  
+altus, alta, altum - tall, high, deep  
 annus, -ī, m. - year  
 appellō, -āre, -āvī, -ātus - to call, address, name  
 aspiciō, aspicere, aspexī, aspectus - to look at, behold  
