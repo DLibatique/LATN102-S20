@@ -25,7 +25,7 @@ title: Verb Morphology - Master
 
 ## Indicative - Active
 
-### Present Tense
+### Present Active Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -36,7 +36,7 @@ title: Verb Morphology - Master
 | 2nd pl. | amā-**tis** | monē-**tis** | regi-**tis** | capi-**tis** | audī-**tis** | estis |
 | 3rd pl. | ama-**nt** | mone-**nt** | regu-**nt** | capiu-**nt** | audiu-**nt** | sunt |
 
-### Imperfect Tense
+### Imperfect Active Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -47,7 +47,7 @@ title: Verb Morphology - Master
 | 2nd pl. | amā-**bātis** | monē-**bātis** | regē-**bātis** | capiē-**bātis** | audiē-**bātis** | erātis |
 | 3rd pl. | amā-**bant** | monē-**bant** | regē-**bant** | capiē-**bant** | audiē-**bant** | erant |
 
-### Future Tense
+### Future Active Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -58,7 +58,7 @@ title: Verb Morphology - Master
 | 2nd pl. | amā-**bitis** | monē-**bitis** | reg-**ētis** | capi-**ētis** | audi-**ētis** | eritis |
 | 3rd pl. | amā-**bunt** | monē-**bunt** | reg-**ent** | capi-**ent** | audi-**ent** | erunt |
 
-### Perfect Tense
+### Perfect Active Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -70,15 +70,15 @@ title: Verb Morphology - Master
 | 3rd pl. | amāv-**ērunt** | monu-**ērunt** | rex-**ērunt** | cēp-**ērunt** | audīv-**ērunt** | fu-**ērunt** |
 | 3rd pl. alt. | amāv-**ēre** | monu-**ēre** | rex-**ēre** | cēp-**ēre** | audiv-**ēre** | fu-**ēre** |
 
-### Pluperfect Tense
+### Pluperfect Active Indicative
 
-### Future Perfect Tense
+### Future Perfect Active Indicative
 
 ***
 
 ## Indicative - Passive
 
-### Present Tense
+### Present Passive Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -89,7 +89,7 @@ title: Verb Morphology - Master
 | 2nd pl. | amā-**minī** | monē-**minī** | regi-**minī** | capi-**minī** | audī-**minī** |
 | 3rd pl. | ama-**ntur** | mone-**ntur** | regu-**ntur** | capiu-**ntur** | audiu-**ntur** |
 
-### Imperfect Tense
+### Imperfect Passive Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -100,7 +100,7 @@ title: Verb Morphology - Master
 | 2nd pl. | amā-**bāminī** | monē-**bāminī** | regē-**bāminī** | capiē-**bāminī** | audiē-**bāminī** |
 | 3rd pl. | amā-**bantur** | monē-**bantur** | regē-**bantur** | capiē-**bantur** | audiē-**bantur** |
 
-### Future Tense
+### Future Passive Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -111,7 +111,7 @@ title: Verb Morphology - Master
 | 2nd pl. | amā-**biminī** | monē-**biminī** | reg-**ēminī** | capi-**ēminī** | audi-**ēminī** |
 | 3rd pl. | amā-**buntur** | monē-**buntur** | reg-**entur** | capi-**entur** | audi-**entur** |
 
-### Perfect Tense
+### Perfect Passive Indicative
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -122,33 +122,33 @@ title: Verb Morphology - Master
 | 2nd pl. | amātī, -ae, -a estis | monitī, -ae, -a estis | rectī, -ae, -a estis | captī, -ae, -a estis | audītī, -ae, -a estis |
 | 3rd pl. | amātī, -ae, -a sunt | monitī, -ae, -a sunt | rectī, -ae, -a sunt | captī, -ae, -a sunt | audītī, -ae, -a sunt |
 
-### Pluperfect Tense
+### Pluperfect Passive Indicative
 
-### Future Perfect Tense
+### Future Perfect Passive Indicative
 
 ***
 
 ## Subjunctive - Active
 
-### Present Tense
+### Present Active Subjunctive
 
-### Imperfect Tense
+### Imperfect Active Subjunctive
 
-### Perfect Tense
+### Perfect Active Subjunctive
 
-### Pluperfect Tense
+### Pluperfect Active Subjunctive
 
 ***
 
 ## Subjunctive - Passive
 
-### Present Tense
+### Present Passive Subjunctive
 
-### Imperfect Tense
+### Imperfect Passive Subjunctive
 
-### Perfect Tense
+### Perfect Passive Subjunctive
 
-### Pluperfect Tense
+### Pluperfect Passive Subjunctive
 
 ***
 
