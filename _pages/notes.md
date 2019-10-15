@@ -55,3 +55,4 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 ## Module 5: Questions
 
 - [Notes: Questions]({{ site.baseurl }}/notes/5-questions)
+- [Vocabulary: Module 5]({{ site.baseurl }}/vocab/5)
