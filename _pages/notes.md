@@ -16,6 +16,7 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 - [Master Pronoun List]({{ site.baseurl }}/charts/0-pronoun-master)
 - [Master Adjective List]({{ site.baseurl }}/charts/0-adj-master)
 - [Master Verb List]({{ site.baseurl }}/charts/0-verb-master)
+- [Master Irregular Verb List]({{ site.baseurl }}/charts/0-irreg-verb-master)
 
 ## Module 1: Nouns and Adjectives
 
