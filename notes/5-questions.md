@@ -74,7 +74,7 @@ Translate the following questions.
 
 ### Interrogative Pronoun
 
-A specific type of word that can signal a question is the **interrogative pronoun**. This pronoun **stands alone** in its sentence to ask the question "who?" "whom?" or "which?" or "what?". This pronoun declines and can function as any of the case uses we've learned about so far. Take a look at the following examples:
+A specific type of word that can signal a question is the **interrogative pronoun**. This pronoun **stands alone** in its sentence to ask the question "who?" "whom?" "which?" or "what?". This pronoun declines and can function as any of the case uses we've learned about so far. Take a look at the following examples:
 
 - *Quis sub arbōre sedet?* Who is sitting under the tree?
 - *Quem vīdistī?* Whom did you see?
