@@ -266,14 +266,14 @@ Stem vowel changes are included in the bolded endings.
 
 ## Infinitives
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Pres. Act. | amāre | monēre | regere | capere | audīre |
-| Pres. Pass. | amārī | monērī | regī | capī | audīrī |
-| Perf. Act. | amāvisse | monuisse | rexisse | cēpisse | audīvisse |
-| Perf. Pass. | amātus esse | monitus esse | rectus esse | captus esse | audītus esse |
-| Fut. Act. | amātūrus esse | monitūrus esse | rectūrus esse | captūrus esse | audītūrus esse |
-| Fut. Pass. | amātum irī | monitum irī | rectum irī | captum irī | audītum irī |
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Pres. Act. | amāre | monēre | regere | capere | audīre | esse |
+| Pres. Pass. | amārī | monērī | regī | capī | audīrī | |
+| Perf. Act. | amāvisse | monuisse | rexisse | cēpisse | audīvisse | fuīsse |
+| Perf. Pass. | amātus esse | monitus esse | rectus esse | captus esse | audītus esse | |
+| Fut. Act. | amātūrus esse | monitūrus esse | rectūrus esse | captūrus esse | audītūrus esse | futūrus esse / fōre |
+| Fut. Pass. | amātum irī | monitum irī | rectum irī | captum irī | audītum irī | |
 
 ***
 
