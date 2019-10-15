@@ -34,7 +34,7 @@ title: Verb Morphology - Master
 | 3rd sg. | ama-**t** | mone-**t** | regi-**t** | capi-**t** | audi-**t** | est |
 | 1st pl. | amā-**mus** | monē-**mus** | regi-**mus** | capi-**mus** | audī-**mus** | sumus |
 | 2nd pl. | amā-**tis** | monē-**tis** | regi-**tis** | capi-**tis** | audī-**tis** | estis |
-| 3rd pl. | ama-**nt** | mone-**nt** | regu-**nt** | capiu-**nt** | audiu-**nt** | sunt |
+| 3rd pl. | ama-**ntur** | mone-**ntur** | regu-**ntur** | capiu-**ntur** | audiu-**ntur** | sunt |
 
 ### Imperfect Active Indicative
 
@@ -153,17 +153,64 @@ title: Verb Morphology - Master
 
 ### Future Perfect Passive Indicative
 
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amātus, -a, -um erō | monitus, -a, -um erō | rectus, -a, -um erō | captus, -a, -um erō | audītus, -a, -um erō |
+| 2nd sg. | amātus, -a, -um eris | monitus, -a, -um eris | rectus, -a, -um eris | captus, -a, -um eris | audītus, -a, -um eris |
+| 3rd sg. | amātus, -a, -um erit | monitus, -a, -um erit | rectus, -a, -um erit | captus, -a, -um erit | audītus, -a, -um erit |
+| 1st pl. | amātī, -ae, -a erimus | monitī, -ae, -a erimus | rectī, -ae, -a erimus  | captī, -ae, -a erimus | audītī, -ae, -a erimus |
+| 2nd pl. | amātī, -ae, -a eritis | monitī, -ae, -a eritis | rectī, -ae, -a eritis | captī, -ae, -a eritis | audītī, -ae, -a eritis |
+| 3rd pl. | amātī, -ae, -a erunt | monitī, -ae, -a erunt | rectī, -ae, -a erunt | captī, -ae, -a erunt | audītī, -ae, -a erunt |
+
 ***
 
 ## Subjunctive - Active
 
 ### Present Active Subjunctive
 
+Stem vowel changes are included in the bolded endings.
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | am-**em** | mon-**eam** | reg-**am** | cap-**iam** | aud-**iam** | sim |
+| 2nd sg. | am-**ēs** | mon-**eās** | reg-**ās** | cap-**iās** | aud-**iās** | sīs |
+| 3rd sg. | am-**et** | mon-**eat** | reg-**at** | cap-**iat** | aud-**iat** | sit |
+| 1st pl. | am-**ēmus** | mon-**eāmus** | reg-**āmus** | cap-**iāmus** | aud-**iāmus** | sīmus |
+| 2nd pl. | am-**ētis** | mon-**eātis** | reg-**ātis** | cap-**iātis** | aud-**iātis** | sītis |
+| 3rd pl. | am-**ent** | mon-**eant** | reg-**ant** | cap-**iant** | aud-**iant** | sint |
+
 ### Imperfect Active Subjunctive
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāre-**m** | monēre-**m** | regere-**m** | capere-**m** | audīre-**m** | essem |
+| 2nd sg. | amārē-**s** | monērē-*s** | regerē-**s** | caperē-**s** | audīrē-**s** | essēs |
+| 3rd sg. | amāre-**t** | monēre-**t** | regere-**t** | capere-**t** | audīre-**t** | esset |
+| 1st pl. | amārē-**mus** | monērē-**mus** | regerē-**mus** | caperē-**mus** | audīrē-**mus** | essēmus |
+| 2nd pl. | amārē-**tis** | monērē-**tis** | regerē-**tis** | caperē-**tis** | audīrē-**tis** | essētis |
+| 3rd pl. | amāre-**ntur** | monēre-**ntur** | regere-**ntur** | capere-**ntur** | audīre-**ntur** | essent |
 
 ### Perfect Active Subjunctive
 
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**erim** | monu-**erim** | rex-**erim** | cēp-**erim** | audīv-**erim** | fu-**erim** |
+| 2nd sg. | amāv-**erīs** | monu-**erīs** | rex-**erīs** | cēp-**erīs** | audīv-**erīs** | fu-**erīs** |
+| 3rd sg. | amāv-**erit** | monu-**erit** | rex-**erit** | cēp-**erit** | audīv-**erit** | fu-**erit** |
+| 1st pl. | amāv-**erīmus** | monu-**erīmus** | rex-**erīmus** | cēp-**erīmus** | audīv-**erīmus** | fu-**erīmus** |
+| 2nd pl. | amāv-**erītis** | monu-**erītis** | rex-**erītis** | cēp-**erītis** | audīv-**erītis** | fu-**erītis** |
+| 3rd pl. | amāv-**erint** | monu-**erint** | rex-**erint** | cēp-**erint** | audīv-**erint** | fu-**erint** |
+
 ### Pluperfect Active Subjunctive
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**issem** | monu-**issem** | rex-**issem** | cēp-**issem** | audīv-**issem** | fu-**issem** |
+| 2nd sg. | amāv-**issēs** | monu-**issēs** | rex-**issēs** | cēp-**issēs** | audīv-**issēs** | fu-**issēs** |
+| 3rd sg. | amāv-**isset** | monu-**isset** | rex-**isset** | cēp-**isset** | audīv-**isset** | fu-**isset** |
+| 1st pl. | amāv-**issēmus** | monu-**issēmus** | rex-**issēmus** | cēp-**issēmus** | audīv-**issēmus** | fu-**issēmus** |
+| 2nd pl. | amāv-**issētis** | monu-**issētis** | rex-**issētis** | cēp-**issētis** | audīv-**issētis** | fu-**issētis** |
+| 3rd pl. | amāv-**issent** | monu-**issent** | rex-**issent** | cēp-**issent** | audīv-**issent** | fu-**issent** |
 
 ***
 
@@ -171,9 +218,38 @@ title: Verb Morphology - Master
 
 ### Present Passive Subjunctive
 
+Stem vowel changes are included in the bolded endings.
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | am-**er** | mon-**ear** | reg-**ar** | cap-**iar** | aud-**iar** |
+| 2nd sg. | am-**ēris** | mon-**eāris** | reg-**āris** | cap-**iāris** | aud-**iāris** |
+| 3rd sg. | am-**ētur** | mon-**eātur** | reg-**ātur** | cap-**iātur** | aud-**iātur** |
+| 1st pl. | am-**ēmur** | mon-**eāmur** | reg-**āmur** | cap-**iāmur** | aud-**iāmur** |
+| 2nd pl. | am-**ēminī** | mon-**eāminī** | reg-**āminī** | cap-**iāminī** | aud-**iāminī** |
+| 3rd pl. | am-**entur** | mon-**eantur** | reg-**antur** | cap-**iantur** | aud-**iantur** |
+
 ### Imperfect Passive Subjunctive
 
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāre-**r** | monēre-**r** | regere-**r** | capere-**r** | audīre-**r** |
+| 2nd sg. | amārē-**ris** | monērē-*ris** | regerē-**ris** | caperē-**ris** | audīrē-**ris** |
+| 3rd sg. | amārē-**tur** | monērē-**tur** | regerē-**tur** | caperē-**tur** | audīrē-**tur** |
+| 1st pl. | amārē-**mur** | monērē-**mur** | regerē-**mur** | caperē-**mur** | audīrē-**mur** |
+| 2nd pl. | amārē-**minī** | monērē-**minī** | regerē-**minī** | caperē-**minī** | audīrē-**minī** |
+| 3rd pl. | amāre-**ntur** | monēre-**ntur** | regere-**ntur** | capere-**ntur** | audīre-**ntur** |
+
 ### Perfect Passive Subjunctive
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amātus, -a, -um sim | monitus, -a, -um sim | rectus, -a, -um sim | captus, -a, -um sim | audītus, -a, -um sim |
+| 2nd sg. | amātus, -a, -um sīs | monitus, -a, -um sīs | rectus, -a, -um sīs | captus, -a, -um sīs | audītus, -a, -um sīs |
+| 3rd sg. | amātus, -a, -um sit | monitus, -a, -um sit | rectus, -a, -um sit | captus, -a, -um sit | audītus, -a, -um sit |
+| 1st pl. | amātī, -ae, -a sīmus | monitī, -ae, -a sīmus | rectī, -ae, -a sīmus  | captī, -ae, -a sīmus | audītī, -ae, -a sīmus |
+| 2nd pl. | amātī, -ae, -a sītis | monitī, -ae, -a sītis | rectī, -ae, -a sītis | captī, -ae, -a sītis | audītī, -ae, -a sītis |
+| 3rd pl. | amātī, -ae, -a sint | monitī, -ae, -a sint | rectī, -ae, -a sint | captī, -ae, -a sint | audītī, -ae, -a sint |
 
 ### Pluperfect Passive Subjunctive
 
@@ -190,6 +266,20 @@ title: Verb Morphology - Master
 
 ## Infinitives
 
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Pres. Act. | amāre | monēre | regere | capere | audīre |
+| Pres. Pass. | amārī | monērī | regī | capī | audīrī |
+| Perf. Act. | amāvisse | monuisse | rexisse | cēpisse | audīvisse |
+| Perf. Pass. | amātus esse | monitus esse | rectus esse | captus esse | audītus esse |
+| Fut. Act. | amātūrus esse | monitūrus esse | rectūrus esse | captūrus esse | audītūrus esse |
+| Fut. Pass. | amātum irī | monitum irī | rectum irī | captum irī | audītum irī |
+
 ***
 
 ## Gerunds and Gerundives
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Gerund | ama-**ndum** | mone-**ndum** | rege-**ndum** | capie-**ndum** | audie-**ndus** |
+| Gerundive | ama-**ndus, -a, -um** | mone-**ndus, -a, -um** | rege-**ndus, -a, -um** | capie-**ndus, -a, -um** | audie-**ndus, -a, -um** |

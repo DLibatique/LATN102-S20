@@ -35,12 +35,16 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 - [Paradigm Charts: Perfect Indicative]({{ site.baseurl }}/charts/2-perf-ind)
 - [Vocabulary: Module 2]({{ site.baseurl }}/vocab/2)
 
-## Module 2: Verbs (Subjunctive) (After Fall Break)
+## Module 2: Verbs (Pluperfect and Future Perfect Indicative, All Subjunctive) (After Fall Break)
+
+- [Paradigm Charts: Pluperfect Indicative]({{ site.baseurl }}/charts/2-plupf-ind)
+- [Paradigm Charts: Future Perfect Indicative]({{ site.baseurl }}/charts/2-futpf-ind)
 
 - [Notes: Subjunctive Mood]({{ site.baseurl }}/notes/2-subj-overview)
 - [Paradigm Charts: Present Subjunctive]({{ site.baseurl }}/charts/2-pres-subj)
 - [Paradigm Charts: Imperfect Subjunctive]({{ site.baseurl }}/charts/2-impf-subj)
 - [Paradigm Charts: Perfect Subjunctive]({{ site.baseurl }}/charts/2-perf-subj)
+- [Paradigm Charts: Pluperfect Subjunctive]({{ site.baseurl }}/charts/2-plupf-subj)
 
 ## Module 3: Prepositions, Expressions of Space, Expressions of Time
 
