@@ -22,9 +22,9 @@ The charts below will show full charts for the pluperfect active indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | amāvī       | amāvimus     |
-| 2nd  | amāvistī        | amāvistis       |
-| 3rd  | **amāvit**        | **amāvērunt/amāvēre**     |
+| 1st   | amāveram       | amāverāmus     |
+| 2nd  | amāverās        | amāverātis       |
+| 3rd  | **amāverat**        | **amāverant**     |
 
 ### <a name="2ndact">Second Conjugation</a>
 
@@ -32,9 +32,9 @@ The charts below will show full charts for the pluperfect active indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | vīdī       | vīdimus      |
-| 2nd  | vīdistī        | vīdistis      |
-| 3rd  | **vīdit**        | **vīdērunt/vīdēre**     |
+| 1st   | vīderam       | vīderāmus      |
+| 2nd  | vīderās        | vīderātis      |
+| 3rd  | **vīderat**        | **vīderant**     |
 
 ### <a name="3rdact">Third Conjugation</a>
 
@@ -42,9 +42,9 @@ The charts below will show full charts for the pluperfect active indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | dūxī       | dūximus      |
-| 2nd  | dūxistī        | dūxistis       |
-| 3rd  | **dūxit**        | **dūxērunt/dūxēre**     |
+| 1st   | dūxeram       | dūxerāmus      |
+| 2nd  | dūxerās        | dūxerātis       |
+| 3rd  | **dūxerat**        | **dūxerant**     |
 
 ### <a name="3rdioact">Third -iō Conjugation</a>
 
@@ -52,9 +52,9 @@ The charts below will show full charts for the pluperfect active indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | cēpī       | cēpimus      |
-| 2nd  | cēpistī        | cēpistis       |
-| 3rd  | **cēpit**        | **cēpērunt/cēpēre**     |
+| 1st   | cēperam       | cēperāmus      |
+| 2nd  | cēperās        | cēperātis       |
+| 3rd  | **cēperat**        | **cēperant**     |
 
 ### <a name="4thact">Fourth Conjugation</a>
 
@@ -62,9 +62,9 @@ The charts below will show full charts for the pluperfect active indicative of e
 
 |Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | audīvī       | audīvimus      |
-| 2nd  | audīvistī        | audīvistis       |
-| 3rd  | **audīvit**        | **audīvērunt/audīvēre**     |
+| 1st   | audīveram       | audīverāmus      |
+| 2nd  | audīverās        | audīverātis       |
+| 3rd  | **audīverat**        | **audīverant**     |
 
 ### <a name="sum">*Sum*</a>
 
@@ -72,9 +72,9 @@ The charts below will show full charts for the pluperfect active indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | fuī       | fuimus      |
-| 2nd  | fuistī        | fuistis       |
-| 3rd  | **fuit**        | **fuērunt/fuēre**     |
+| 1st   | fueram       | fuerāmus      |
+| 2nd  | fuerās        | fuerātis       |
+| 3rd  | **fuerat**        | **fuerant**     |
 
 ### <a name="possum">Possum</a>
 
@@ -82,9 +82,9 @@ The charts below will show full charts for the pluperfect active indicative of e
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | potuī       | potuimus      |
-| 2nd  | potuistī        | potuistis       |
-| 3rd  | **potuit**        | **potuērunt/potuēre**     |
+| 1st   | potueram       | potuerāmus      |
+| 2nd  | potuerās        | potuerātis       |
+| 3rd  | **potuerat**        | **potuerant**     |
 
 [Back to top.](#top)
 
@@ -100,9 +100,9 @@ The charts below will show full charts for the perfect passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | amātus/amāta/amātum sum       |  amātī/amātae/amāta sumus    |
-| 2nd  | amātus/amāta/amātum es       | amātī/amātae/amāta estis       |
-| 3rd  | **amātus/amāta/amātum est**        | **amātī/amātae/amāta sunt**     |
+| 1st   | amātus/amāta/amātum eram       |  amātī/amātae/amāta erāmus    |
+| 2nd  | amātus/amāta/amātum erās       | amātī/amātae/amāta erātis       |
+| 3rd  | **amātus/amāta/amātum erat**        | **amātī/amātae/amāta erant**     |
 
 ### <a name="2ndpass">Second Conjugation</a>
 
@@ -110,9 +110,9 @@ The charts below will show full charts for the perfect passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | vīsus/vīsa/vīsum sum       |  vīsī/vīsae/vīsa sumus    |
-| 2nd  | vīsus/vīsa/vīsum es       | vīsī/vīsae/vīsa estis       |
-| 3rd  | **vīsus/vīsa/vīsum est**        | **vīsī/vīsae/vīsa sunt**     |
+| 1st   | vīsus/vīsa/vīsum eram       |  vīsī/vīsae/vīsa erāmus    |
+| 2nd  | vīsus/vīsa/vīsum erās       | vīsī/vīsae/vīsa erātis       |
+| 3rd  | **vīsus/vīsa/vīsum erat**        | **vīsī/vīsae/vīsa erant**     |
 
 ### <a name="3rdpass">Third Conjugation</a>
 
@@ -120,9 +120,9 @@ The charts below will show full charts for the perfect passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | ductus/ducta/ductum sum       |  ductī/ductae/ducta sumus    |
-| 2nd  | ductus/ducta/ductum es       | ductī/ductae/ducta estis       |
-| 3rd  | **ductus/ducta/ductum est**        | **ductī/ductae/ducta sunt**     |
+| 1st   | ductus/ducta/ductum eram       |  ductī/ductae/ducta erāmus    |
+| 2nd  | ductus/ducta/ductum erās       | ductī/ductae/ducta erātis       |
+| 3rd  | **ductus/ducta/ductum erat**        | **ductī/ductae/ducta erant**     |
 
 ### <a name="3rdiopass">Third -iō Conjugation</a>
 
@@ -130,9 +130,9 @@ The charts below will show full charts for the perfect passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | captus/capta/captum sum       |  captī/captae/capta sumus    |
-| 2nd  | captus/capta/captum es       | captī/captae/capta estis       |
-| 3rd  | **captus/capta/captum est**        | **captī/captae/capta sunt**     |
+| 1st   | captus/capta/captum eram       |  captī/captae/capta erāmus    |
+| 2nd  | captus/capta/captum erās       | captī/captae/capta erātis       |
+| 3rd  | **captus/capta/captum erat**        | **captī/captae/capta erant**     |
 
 ### <a name="4thpass">Fourth Conjugation</a>
 
@@ -140,9 +140,9 @@ The charts below will show full charts for the perfect passive indicative of eac
 
 | Person      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| 1st   | audītus/audīta/audītum sum       |  audītī/audītae/audīta sumus    |
-| 2nd  | audītus/audīta/audītum es       | audītī/audītae/audīta estis       |
-| 3rd  | **audītus/audīta/audītum est**        | **audītī/audītae/audīta sunt**     |
+| 1st   | audītus/audīta/audītum eram       |  audītī/audītae/audīta erāmus    |
+| 2nd  | audītus/audīta/audītum erās       | audītī/audītae/audīta erātis       |
+| 3rd  | **audītus/audīta/audītum erat**        | **audītī/audītae/audīta erant**     |
 
 NB: *Sum* and *Possum* have no passive forms. Why do you think that might be?
 
