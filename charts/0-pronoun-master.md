@@ -175,3 +175,23 @@ Note that the 3rd person personal pronoun can also modify nouns and thus serve a
 ## Interrogative
 
 ### *quis*, *quid* - who? which? what?
+
+**Singular**
+
+| Case      | M/F | N |
+| ----------- | ----------- | ----------- |
+| Nominative    | quis       | quid       |
+| Genitive   | cuius        | cuius  |
+| Dative   | cui        | cui  |
+| Accusative   | quem        | quid  |
+| Ablative   | quō        | quō  |
+
+**Plural**
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | quī        | quae       | quae       |
+| Genitive   | quōrum        | quārum  | quōrum  |
+| Dative   | quibus        | quibus  | quibus  |
+| Accusative   | quōs        | quās  | quae  |
+| Ablative   | quibus        | quibus  |quibus  |

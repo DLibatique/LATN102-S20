@@ -166,3 +166,29 @@ title: Adjective Morphology - Master
 | Dative   | sapient-**ibus**        | sapient-**ibus**  |
 | Accusative   | sapient-**ēs**        | sapient-**ia**  |
 | Ablative   | sapient-**ibus**        | sapient-**ibus**  |
+
+***
+
+## Interrogative
+
+### *quī, quae, quod* - which? what?
+
+**Singular**
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | quī       | quae      | quod       |
+| Genitive   | cuius        | cuius  | cuius  |
+| Dative   | cui       | cui  | cui  |
+| Accusative   | quem        | quam  | quod  |
+| Ablative   | quō        | quā  | quō  |
+
+**Plural**
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | quī        | quae       | quae       |
+| Genitive   | quōrum        | quārum  | quōrum  |
+| Dative   | quibus        | quibus  | quibus  |
+| Accusative   | quōs        | quās  | quae  |
+| Ablative   | quibus        | quibus  |quibus  |
