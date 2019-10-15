@@ -34,7 +34,7 @@ title: Verb Morphology - Master
 | 3rd sg. | ama-**t** | mone-**t** | regi-**t** | capi-**t** | audi-**t** | est |
 | 1st pl. | amā-**mus** | monē-**mus** | regi-**mus** | capi-**mus** | audī-**mus** | sumus |
 | 2nd pl. | amā-**tis** | monē-**tis** | regi-**tis** | capi-**tis** | audī-**tis** | estis |
-| 3rd pl. | ama-**ntur** | mone-**ntur** | regu-**ntur** | capiu-**ntur** | audiu-**ntur** | sunt |
+| 3rd pl. | ama-**nt** | mone-**nt** | regu-**nt** | capiu-**nt** | audiu-**nt** | sunt |
 
 ### Imperfect Active Indicative
 
