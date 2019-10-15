@@ -153,15 +153,6 @@ title: Verb Morphology - Master
 
 ### Future Perfect Passive Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amātus, -a, -um essem | monitus, -a, -um essem | rectus, -a, -um essem | captus, -a, -um essem | audītus, -a, -um essem |
-| 2nd sg. | amātus, -a, -um essēs | monitus, -a, -um essēs | rectus, -a, -um essēs | captus, -a, -um essēs | audītus, -a, -um essēs |
-| 3rd sg. | amātus, -a, -um esset | monitus, -a, -um esset | rectus, -a, -um esset | captus, -a, -um esset | audītus, -a, -um esset |
-| 1st pl. | amātī, -ae, -a essēmus | monitī, -ae, -a essēmus | rectī, -ae, -a essēmus  | captī, -ae, -a essēmus | audītī, -ae, -a essēmus |
-| 2nd pl. | amātī, -ae, -a essētis | monitī, -ae, -a essētis | rectī, -ae, -a essētis | captī, -ae, -a essētis | audītī, -ae, -a essētis |
-| 3rd pl. | amātī, -ae, -a essent | monitī, -ae, -a essent | rectī, -ae, -a essent | captī, -ae, -a essent | audītī, -ae, -a essent |
-
 ***
 
 ## Subjunctive - Active
@@ -185,6 +176,15 @@ title: Verb Morphology - Master
 ### Perfect Passive Subjunctive
 
 ### Pluperfect Passive Subjunctive
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amātus, -a, -um essem | monitus, -a, -um essem | rectus, -a, -um essem | captus, -a, -um essem | audītus, -a, -um essem |
+| 2nd sg. | amātus, -a, -um essēs | monitus, -a, -um essēs | rectus, -a, -um essēs | captus, -a, -um essēs | audītus, -a, -um essēs |
+| 3rd sg. | amātus, -a, -um esset | monitus, -a, -um esset | rectus, -a, -um esset | captus, -a, -um esset | audītus, -a, -um esset |
+| 1st pl. | amātī, -ae, -a essēmus | monitī, -ae, -a essēmus | rectī, -ae, -a essēmus  | captī, -ae, -a essēmus | audītī, -ae, -a essēmus |
+| 2nd pl. | amātī, -ae, -a essētis | monitī, -ae, -a essētis | rectī, -ae, -a essētis | captī, -ae, -a essētis | audītī, -ae, -a essētis |
+| 3rd pl. | amātī, -ae, -a essent | monitī, -ae, -a essent | rectī, -ae, -a essent | captī, -ae, -a essent | audītī, -ae, -a essent |
 
 ***
 
