@@ -61,3 +61,7 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 
 - [Notes: Questions]({{ site.baseurl }}/notes/5-questions)
 - [Vocabulary: Module 5]({{ site.baseurl }}/vocab/5)
+
+## Module 8 - Personal Pronouns, Deponents, and Irregular Verbs
+
+- [Notes: Personal Pronouns, Deponents, and Irregular Verbs]({{ site.baseurl }}/notes/8-pers-pron-dep-irreg)
