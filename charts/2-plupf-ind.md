@@ -3,6 +3,8 @@ layout: subpage
 title: Pluperfect Indicative (Active and Passive) - Charts
 ---
 
+# TO BE COMPLETED
+
 ***
 
 [Pluperfect Active](#plupfact): [1st](#1stact), [2nd](#2ndact), [3rd](#3rdact), [3rd -iō](#3rdioact), [4th](#4thact), [*sum*](#sum), [*possum*](#possum) \|  
