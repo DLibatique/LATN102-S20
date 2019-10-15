@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Verb Morphology - Master
+title: Irregular Verb Morphology - Master
 ---
 
 ## Navigation
