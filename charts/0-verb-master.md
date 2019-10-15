@@ -281,5 +281,5 @@ Stem vowel changes are included in the bolded endings.
 
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Gerund | ama-**ndum** | mone-**ndum** | rege-**ndum** | capie-**ndum** | audie-**ndus** |
+| Gerund | ama-**ndum** | mone-**ndum** | rege-**ndum** | capie-**ndum** | audie-**ndum** |
 | Gerundive | ama-**ndus, -a, -um** | mone-**ndus, -a, -um** | rege-**ndus, -a, -um** | capie-**ndus, -a, -um** | audie-**ndus, -a, -um** |
