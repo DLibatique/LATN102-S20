@@ -72,7 +72,25 @@ title: Verb Morphology - Master
 
 ### Pluperfect Active Indicative
 
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**eram** | monu-**eram** | rex-**eram** | cēp-**eram** | audīv-**eram** | fu-**eram** |
+| 2nd sg. | amāv-**erās** | monu-**erās** | rex-**erās** | cēp-**erās** | audīv-**erās** | fu-**erās** |
+| 3rd sg. | amāv-**erat** | monu-**erat** | rex-**erat** | cēp-**erat** | audīv-**erat** | fu-**erat** |
+| 1st pl. | amāv-**erāmus** | monu-**erāmus** | rex-**erāmus** | cēp-**erāmus** | audīv-**erāmus** | fu-**erāmus** |
+| 2nd pl. | amāv-**erātis** | monu-**erātis** | rex-**erātis** | cēp-**erātis** | audīv-**erātis** | fu-**erātis** |
+| 3rd pl. | amāv-**erant** | monu-**erant** | rex-**erant** | cēp-**erant** | audīv-**erant** | fu-**erant** |
+
 ### Future Perfect Active Indicative
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  | Irreg. |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amāv-**erō** | monu-**erō** | rex-**erō** | cēp-**erō** | audīv-**erō** | fu-**erō** |
+| 2nd sg. | amāv-**eris** | monu-**eris** | rex-**eris** | cēp-**eris** | audīv-**eris** | fu-**eris** |
+| 3rd sg. | amāv-**erit** | monu-**erit** | rex-**erit** | cēp-**erit** | audīv-**erit** | fu-**erit** |
+| 1st pl. | amāv-**erimus** | monu-**erimus** | rex-**erimus** | cēp-**erimus** | audīv-**erimus** | fu-**erimus** |
+| 2nd pl. | amāv-**eritis** | monu-**eritis** | rex-**eritis** | cēp-**eritis** | audīv-**eritis** | fu-**eritis** |
+| 3rd pl. | amāv-**erint** | monu-**erint** | rex-**erint** | cēp-**erint** | audīv-**erint** | fu-**erint** |
 
 ***
 
@@ -124,7 +142,25 @@ title: Verb Morphology - Master
 
 ### Pluperfect Passive Indicative
 
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amātus, -a, -um eram | monitus, -a, -um eram | rectus, -a, -um eram | captus, -a, -um eram | audītus, -a, -um eram |
+| 2nd sg. | amātus, -a, -um erās | monitus, -a, -um erās | rectus, -a, -um erās | captus, -a, -um erās | audītus, -a, -um erās |
+| 3rd sg. | amātus, -a, -um erat | monitus, -a, -um erat | rectus, -a, -um erat | captus, -a, -um erat | audītus, -a, -um erat |
+| 1st pl. | amātī, -ae, -a erāmus | monitī, -ae, -a erāmus | rectī, -ae, -a erāmus  | captī, -ae, -a erāmus | audītī, -ae, -a erāmus |
+| 2nd pl. | amātī, -ae, -a erātis | monitī, -ae, -a erātis | rectī, -ae, -a erātis | captī, -ae, -a erātis | audītī, -ae, -a erātis |
+| 3rd pl. | amātī, -ae, -a erant | monitī, -ae, -a erant | rectī, -ae, -a erant | captī, -ae, -a erant | audītī, -ae, -a erant |
+
 ### Future Perfect Passive Indicative
+
+|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | amātus, -a, -um essem | monitus, -a, -um essem | rectus, -a, -um essem | captus, -a, -um essem | audītus, -a, -um essem |
+| 2nd sg. | amātus, -a, -um essēs | monitus, -a, -um essēs | rectus, -a, -um essēs | captus, -a, -um essēs | audītus, -a, -um essēs |
+| 3rd sg. | amātus, -a, -um esset | monitus, -a, -um esset | rectus, -a, -um esset | captus, -a, -um esset | audītus, -a, -um esset |
+| 1st pl. | amātī, -ae, -a essēmus | monitī, -ae, -a essēmus | rectī, -ae, -a essēmus  | captī, -ae, -a essēmus | audītī, -ae, -a essēmus |
+| 2nd pl. | amātī, -ae, -a essētis | monitī, -ae, -a essētis | rectī, -ae, -a essētis | captī, -ae, -a essētis | audītī, -ae, -a essētis |
+| 3rd pl. | amātī, -ae, -a essent | monitī, -ae, -a essent | rectī, -ae, -a essent | captī, -ae, -a essent | audītī, -ae, -a essent |
 
 ***
 
