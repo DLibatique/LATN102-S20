@@ -71,25 +71,25 @@ title: Irregular Verb Morphology - Master
 
 ### Pluperfect Active Indicative
 
+|     | eō  | ferō  | volō  | nōlō  | mālō  |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1st sg. | i-**eram** | tul-**eram** | volu-**eram** | nōlu-**eram** | mālu-**eram** |
+| 2nd sg. | i-**erās** | tul-**erās** | volu-**erās** | nōlu-**erās** | mālu-**erās** |
+| 3rd sg. | i-**erat** | tul-**erat** | volu-**erat** | nōlu-**erat** | mālu-**erat** |
+| 1st pl. | i-**erāmus** | tul-**erāmus** | volu-**erāmus** | nōlu-**erāmus** | mālu-**erāmus** |
+| 2nd pl. | i-**erātis** | tul-**erātis** | volu-**erātis** | nōlu-**erātis** | mālu-**erātis** |
+| 3rd pl. | i-**erant** | tul-**erant** | volu-**erant** | nōlu-**erant** | mālu-**erant** |
+
+|     | eō  | ferō  | volō  | nōlō  | mālō  |
+
 |     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāv-**eram** | tul-**eram** | volu-**eram** | nōlu-**eram** | mālu-**eram** |
-| 2nd sg. | amāv-**erās** | tul-**erās** | volu-**erās** | nōlu-**erās** | mālu-**erās** |
-| 3rd sg. | amāv-**erat** | tul-**erat** | volu-**erat** | nōlu-**erat** | mālu-**erat** |
-| 1st pl. | amāv-**erāmus** | tul-**erāmus** | volu-**erāmus** | nōlu-**erāmus** | mālu-**erāmus** |
-| 2nd pl. | amāv-**erātis** | tul-**erātis** | volu-**erātis** | nōlu-**erātis** | mālu-**erātis** |
-| 3rd pl. | amāv-**erant** | tul-**erant** | volu-**erant** | nōlu-**erant** | mālu-**erant** |
-
-### Future Perfect Active Indicative
-
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1st sg. | amāv-**erō** | tul-**erō** | volu-**erō** | nōlu-**erō** | mālu-**erō** |
-| 2nd sg. | amāv-**eris** | tul-**eris** | volu-**eris** | nōlu-**eris** | mālu-**eris** |
-| 3rd sg. | amāv-**erit** | tul-**erit** | volu-**erit** | nōlu-**erit** | mālu-**erit** |
-| 1st pl. | amāv-**erimus** | tul-**erimus** | volu-**erimus** | nōlu-**erimus** | mālu-**erimus** |
-| 2nd pl. | amāv-**eritis** | tul-**eritis** | volu-**eritis** | nōlu-**eritis** | mālu-**eritis** |
-| 3rd pl. | amāv-**erint** | tul-**erint** | volu-**erint** | nōlu-**erint** | mālu-**erint** |
+| 1st sg. | i-**erō** | tul-**erō** | volu-**erō** | nōlu-**erō** | mālu-**erō** |
+| 2nd sg. | i-**eris** | tul-**eris** | volu-**eris** | nōlu-**eris** | mālu-**eris** |
+| 3rd sg. | i-**erit** | tul-**erit** | volu-**erit** | nōlu-**erit** | mālu-**erit** |
+| 1st pl. | i-**erimus** | tul-**erimus** | volu-**erimus** | nōlu-**erimus** | mālu-**erimus** |
+| 2nd pl. | i-**eritis** | tul-**eritis** | volu-**eritis** | nōlu-**eritis** | mālu-**eritis** |
+| 3rd pl. | i-**erint** | tul-**erint** | volu-**erint** | nōlu-**erint** | mālu-**erint** |
 
 ***
 
