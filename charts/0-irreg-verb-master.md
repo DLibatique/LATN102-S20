@@ -80,9 +80,9 @@ title: Irregular Verb Morphology - Master
 | 2nd pl. | i-**erātis** | tul-**erātis** | volu-**erātis** | nōlu-**erātis** | mālu-**erātis** |
 | 3rd pl. | i-**erant** | tul-**erant** | volu-**erant** | nōlu-**erant** | mālu-**erant** |
 
-|     | eō  | ferō  | volō  | nōlō  | mālō  |
+### Future Perfect Active Indicative
 
-|     | 1st  | 2nd  | 3rd  | 3rd -iō  | 4th  |
+|     | eō  | ferō  | volō  | nōlō  | mālō  |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1st sg. | i-**erō** | tul-**erō** | volu-**erō** | nōlu-**erō** | mālu-**erō** |
 | 2nd sg. | i-**eris** | tul-**eris** | volu-**eris** | nōlu-**eris** | mālu-**eris** |
