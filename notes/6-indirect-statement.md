@@ -27,7 +27,7 @@ To indicate that we are paraphrasing what the speaker said, we use the accusativ
 
 - He said **that** the father loved his daughters.
 
-Thus, we can recognize **indirect statement** by the use of **accusative subject** and an **infinitive** following the sentence's main verb. While the main verb in these constructions is a verb of speaking (e.g. dicō, dicere, dixī, dictus), indirect statements in Latin can also be introduced by what is known as a **verb of the head**, a verb for any action you can do with your head (i.e speaking, thinking, learning, perceiving, believing, seeing, agreeing).
+Thus, we can recognize **indirect statement** by the use of **accusative subject** and an **infinitive** (be sure to review [infinitive formation](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives)) following the sentence's main verb. While the main verb in these constructions is a verb of speaking (e.g. dicō, dicere, dixī, dictus), indirect statements in Latin can also be introduced by what is known as a **verb of the head**, a verb for any action you can do with your head (i.e speaking, thinking, learning, perceiving, believing, seeing, agreeing).
 
 Here are some examples of indirect statements with different examples of verbs of the head (bolded):
 
@@ -36,8 +36,17 @@ Here are some examples of indirect statements with different examples of verbs o
 - **Didicit** patrem amāre filiās. ("He learned that the father loved his daughters.")
 - **Cognovit** patrem amāre filiās. ("He knew that the father loved his daughters.")
 
-In all of these sentences, notice that we still have the accusative direct object after the accusative subject and infinitive as the main verb. This highlights an important aspect of the structure of indirect statement - noun usage remains the same
+In all of these sentences, notice that we still have the accusative direct object after the accusative subject and infinitive as the main verb. This highlights an important aspect of the structure of indirect statement, aside from the accusative subject - noun usage remains the same.
 
-Where the change from direct to indirect statement is when
+## Practice Opportunities
+
+Identify the verb of the head, the accusative subject, and the infinitive main verb in the indirect statement.
+
+1. Feminae credēbant pue  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">dūcī, "to be led"</span>
+
+## Reflexive Pronouns
+
+One place where the change from direct to indirect statement is when . Take for instance,
 
 How do we change tense?
