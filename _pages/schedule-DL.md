@@ -204,20 +204,21 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, October 21
 <p style="margin-bottom: 0;">Homework:</p>
-- Read through the [notes on gerunds and gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives), and record any questions that you have.
+- Read through the [notes on infinitives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#infinitives) and [their uses (subjective and complementary)]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive), and record any questions that you have.
+- Begin memorizing the vocabulary items in [Module 4]({{ site.baseurl }}/vocab/4).
 - Translation #3 Revision Due
 
 <p style="margin-bottom: 0;">Topics:</p>
-- [Gerunds and Gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives)
+- Verbs: [Infinitives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#infinitives)  
+- [*possum*, *posse*, *potuī*]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#uses-of-the-infinitive)  
 
 
 ### Wednesday, October 23
 <p style="margin-bottom: 0;">Homework:</p>
-- Review [notes on gerunds and gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives).
+- Read through the [notes on gerunds and gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives), and record any questions that you have.
 
 <p style="margin-bottom: 0;">Topics:</p>
-- [Gerunds and Gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives) continued.
-- Composition Workshop
+- [Gerunds and Gerundives]({{ site.baseurl }}/notes/4-verbal-nouns-and-adjs#gerunds-and-gerundives).
 
 ### Friday, October 25
 <p style="margin-bottom: 0;">Homework:</p>
