@@ -18,8 +18,6 @@ title: Module 4 - Verbal Nouns and Adjectives
   - [GRGs (Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives) \| [Practice Opportunity](#practice-opportunity-4)
   - [Other Uses of the Gerundive](#other-uses-of-gerundives): [Verbal Adjective](#gerundive-as-verbal-adjective), [Passive Periphrastic](#passive-periphrastic) \| [Practice Opportunity](#practice-opportunity-5)
 
-[Other Uses of the Gerundive](#other-uses-of-the-gerundives)\|[Gerundive as Verbal Adjective](#gerundive-as-verbal-adjective)\|[Passive Periphrastic](#passive-periphrastic)\| [Practice Opportunity](#practice-opportunity-6)
-
 ***
 
 ## Infinitives
