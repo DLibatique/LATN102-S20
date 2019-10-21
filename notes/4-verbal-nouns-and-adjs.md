@@ -229,7 +229,7 @@ Produce the genitive gerund for the following verb forms.
 <button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">incipiendī</span>
 
 2. discēdō, discēdere, discessī, discessurus - to leave, depart  
-<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">discendī</span>
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">discēdendī</span>
 
 3. amō, amāre, amāvī, amātus - to love  
 <button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">amandī</span>
