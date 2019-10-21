@@ -124,12 +124,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Reading Practice  
 - **Homework (due before class)**: Review nouns and adjectives for quiz #13; **Group CBL Materials Due**
 
-### Wednesday, October 9
+### Wednesday, October 9 [(slides)](https://docs.google.com/presentation/d/1JiWpS8xWpB6xjQhl2SDPz3gn0N6jW2S_vmRtag9Nheo/edit?usp=sharing)
 - Adverbial Phrases: Expressions of Place and Time
 - Reading Practice  
 **Homework (due before class)**: Read [expressions of place](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-place) and [expressions of time](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-time) and study for quiz #14
 
-### Friday, October 11
+### Friday, October 11 [(slides)](https://docs.google.com/presentation/d/1Sq3WgtMog9QgfISnN62QKeWfcQjLAGFMci5ocy7bllo/edit?usp=sharing)
 - Review
 - Composition Workshop
 - **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/3/) for quiz #15, [**Translation #3 due**](https://docs.google.com/document/d/17x4184wyZUzEkX3bf1oR2Hmpcnkhv_-kB1FLIAMvD9o/edit?usp=sharing)
@@ -154,7 +154,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, October 25
 - Questions: Interrogative Adjectives and Pronouns, Particles
-- **Homework (due before class)**: Read and study the sections on interrogative adjectives and pronouns for quiz #18
+- **Homework (due before class)**: Read and study the sections on [questions](https://dlibatique.github.io/LATN101-F19/notes/5-questions) with a particular focus on the [interrogative pronoun](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#interrogative-pronoun) and [adjective](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#interrogative-adjective) for quiz #18
 
 [Back to top.](#top)
 
