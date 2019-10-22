@@ -18,8 +18,6 @@ title: Module 4 - Verbal Nouns and Adjectives
   - [GRGs (Gerund Replacing Gerundives)](#grgs-gerund-replacing-gerundives) \| [Practice Opportunity](#practice-opportunity-4)
   - [Other Uses of the Gerundive](#other-uses-of-gerundives): [Verbal Adjective](#gerundive-as-verbal-adjective), [Passive Periphrastic](#passive-periphrastic) \| [Practice Opportunity](#practice-opportunity-5)
 
-[Other Uses of the Gerundive](#other-uses-of-the-gerundives)\|[Gerundive as Verbal Adjective](#gerundive-as-verbal-adjective)\|[Passive Periphrastic](#passive-periphrastic)\| [Practice Opportunity](#practice-opportunity-6)
-
 ***
 
 ## Infinitives
@@ -229,7 +227,7 @@ Produce the genitive gerund for the following verb forms.
 <button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">incipiendī</span>
 
 2. discēdō, discēdere, discessī, discessurus - to leave, depart  
-<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">discendī</span>
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">discēdendī</span>
 
 3. amō, amāre, amāvī, amātus - to love  
 <button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">amandī</span>
