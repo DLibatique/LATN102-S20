@@ -144,7 +144,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 7
 
-### Monday, October 21
+### Monday, October 21 [(slides)](https://docs.google.com/presentation/d/1Xm5a-Y7H8UYHhQYQM1sn3kmlrN6fJgs2m72wvGbVusI/edit?usp=sharing)
 - Gerunds and GRGs
 - **Homework (due before class)**: Read the sections on [gerunds](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#gerunds) and [GRGs](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) for quiz #16, [**Composition #3 due**](https://docs.google.com/document/d/1Cz74dEZiG8N_1LzSYcWbbvw5QPFifi2J9HaWyw2Il-0/edit?usp=sharing)
 
