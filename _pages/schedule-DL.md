@@ -236,9 +236,9 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, October 28
 - Verbs: Subjunctive Mood, all forms  
-- Translation #4 Due
 
 ### Wednesday, October 30
+- [Translation #4](https://docs.google.com/document/d/13rpx4KYd5mYU2ezidvpRo3lnr-RQIVpOAhhjPHbKsYc/edit?usp=sharing) Due
 - Verbs: Subjunctive Mood, all forms  
 - Deliberative Subjunctive  
 - Composition Workshop
