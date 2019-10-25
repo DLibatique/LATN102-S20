@@ -148,11 +148,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Gerunds and GRGs
 - **Homework (due before class)**: Read the sections on [gerunds](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#gerunds) and [GRGs](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) for quiz #16, [**Composition #3 due**](https://docs.google.com/document/d/1Cz74dEZiG8N_1LzSYcWbbvw5QPFifi2J9HaWyw2Il-0/edit?usp=sharing)
 
-### Wednesday, October 23
+### Wednesday, October 23 [(slides)](https://docs.google.com/presentation/d/1aMXSI9eE_4WllQDUVHBXlWLgc1WFK2aieMo2PGtQt-Q/edit?usp=sharing)
 - Gerundives
 - **Homework (due before class)**: Read the section on gerundives and review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/4/) for quiz #17
 
-### Friday, October 25
+### Friday, October 25 [(slides)](https://docs.google.com/presentation/d/1AXTGspFTUufiDqEJB3OXVDuuG1IVmYvmU--HuYR-hVA/edit?usp=sharing)
 - Questions: Interrogative Adjectives and Pronouns, Particles
 - **Homework (due before class)**: Read and study the sections on [questions](https://dlibatique.github.io/LATN101-F19/notes/5-questions) with a particular focus on the [interrogative pronoun](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#interrogative-pronoun) and [adjective](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#interrogative-adjective) for quiz #18
 
@@ -173,7 +173,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, November 1
 - Verbs: Present Active and Passive Subjunctive  
 - Questions: Deliberative Subjunctive  
-- **Homework (due before class)**: Read the section on the deliberative subjunctive and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) for quiz #21, **Translation #4 due**
+- **Homework (due before class)**: Read the section on the deliberative subjunctive and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) for quiz #21, [**Translation #4 due**](https://docs.google.com/document/d/1O3O-t1sUjHgMHYU7ApNfVPd7DAGZOUvvnyK-6A1vt5Q/edit?usp=sharing)
 
 [Back to top.](#top)
 
