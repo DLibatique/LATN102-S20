@@ -57,6 +57,7 @@ decem (indeclinable) - ten
 decimus, -a, -um - tenth  
 deinde - next, thereafter, thereupon, then  
 difficilis, -e - difficult  
+dīcō, dīcere, dīxī, dictus - to say, speak
 discēdō, discēdere, discessī, discessūrus - to depart  
 dō, dare, dedī, datus - to give  
 doceō, docēre, docuī, doctus - to teach  
