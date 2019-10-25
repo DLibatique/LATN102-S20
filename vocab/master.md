@@ -12,7 +12,7 @@ This is a master list of vocabulary being used this semester. If you are trying 
 
 ***
 
-ā/ab (+ abl.) - from, by  
+ā/ab (+ abl.) - (away) from, by  
 accipiō, accipere, accēpī, acceptus - to accept, receive  
 ācer, ācris, ācre - keen, sharp  
 ad (+ acc. gerund/gerundive) - for the purpose of  
@@ -57,7 +57,7 @@ decem (indeclinable) - ten
 decimus, -a, -um - tenth  
 deinde - next, thereafter, thereupon, then  
 difficilis, -e - difficult  
-dīcō, dīcere, dīxī, dictus - to say, speak
+dīcō, dīcere, dīxī, dictus - to say, speak  
 discēdō, discēdere, discessī, discessūrus - to depart  
 dō, dare, dedī, datus - to give  
 doceō, docēre, docuī, doctus - to teach  
