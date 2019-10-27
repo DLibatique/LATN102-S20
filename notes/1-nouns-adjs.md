@@ -6,6 +6,7 @@ title: Module 1 - Nouns and Adjectives
 ***
 
 - [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity)  
+- [Third Declension i-stems](#third-declension-i-stems)
 - [Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)); [3 Term.](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#5-irregulars) \| [Practice Opportunity](#practice-opportunity-1) \| [Substantives](#substantives)
 - [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2)
 - [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
@@ -83,6 +84,36 @@ What declension does each of the following nouns belong to?
 <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">1st</span>
 
 [Back to top.](#top)
+
+***
+
+## Third Declension i-stems
+
+There is a special subset of third declension nouns known as **i-stems**. These nouns include an -i- in certain case/number endings:
+- **masculine**, **feminine**, and **neuter i-stems** have the ending **-ium** in the genitive plural, rather than the expected -um.
+- **neuter i-stems** alone also use **-ī** as the ablative singular ending (rather than the expected -e) and **-ia** as the nominative and accusative plural ending (rather than the expected -a).
+
+We can identify an i-stem based on the nominative and genitive forms in the noun's dictionary entry according to the following rules:
+
+### Masculine and Feminine i-stems
+
+1. **parisyllabic**: the nominative ends in **-is** or **-ēs**, and the nominative and the genitive have the same number of syllables (pari- = "equal"). Some examples of parisyllabic i-stems include:
+  - hostis, hostis, m. - enemy (gen. pl. = host**ium**)
+  - nāvis, nāvis, f. - ship (gen. pl. = nāv**ium**)
+2. **monosyllabic and double consonant**: the nominative ends in **-s** or **-x**, and the **noun stem** ends in **two consonants**. Often, the nominative is a single syllable. Some examples include:
+  - ars, a**rt**is, f. - art, skill (gen. pl. = art**ium**)
+  - nox, no**ct**is, f. - night (gen. pl. = noct**ium**)
+  - urbs, u**rb**is, f. - city (gen. pl. = urb**ium**)
+
+Note that the only difference in declension between these masculine and feminine i-stems versus regular masculine and feminine third declension nouns is the extra -i- in the genitive plural ending. Otherwise, declension is completely regular.
+
+### Neuter i-stems
+
+3. **-al, -ar, -e**: the nominative ends in **-al**, **-ar**, or **-e**. Examples include:
+  - animal, animālis, n. - animal (abl. sg. = animāl**ī**; nom. and acc. pl. = animāl**ia**; gen. pl. = animāl**ium**)
+  - mare, maris, n. - sea (abl. sg. = mar**ī**; nom. and acc. pl. = mar**ia**; gen. pl. = mar**ium**)
+
+Note that only **neuter** i-stems use an -i- in the abl. sg. and nom. and acc. pl. forms (and they use it in the gen. pl., a trait shared with masculine and feminine i-stems). Masculine and feminine i-stems use the -i- only in the gen. pl.
 
 ***
 
