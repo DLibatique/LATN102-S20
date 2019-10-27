@@ -171,9 +171,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Read the section on the [future indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-future-tense) and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-fut-ind/) for quiz #20
 
 ### Friday, November 1
-- Verbs: Present Active and Passive Subjunctive  
+- Verbs: Imperfect Active and Passive Subjunctive  
 - Questions: Deliberative Subjunctive  
-- **Homework (due before class)**: Read the section on the deliberative subjunctive and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) for quiz #21, [**Translation #4 due**](https://docs.google.com/document/d/1O3O-t1sUjHgMHYU7ApNfVPd7DAGZOUvvnyK-6A1vt5Q/edit?usp=sharing)
+- **Homework (due before class)**: Read the section on the deliberative subjunctive and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-subj/) for quiz #21, [**Translation #4 due**](https://docs.google.com/document/d/1O3O-t1sUjHgMHYU7ApNfVPd7DAGZOUvvnyK-6A1vt5Q/edit?usp=sharing)
 
 [Back to top.](#top)
 
@@ -182,9 +182,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 9
 
 ### Monday, November 4
-- Verbs: Imperfect Active and Passive Subjunctive
+- Verbs: Present Active and Passive Subjunctive
 - Composition Workshop  
-- **Homework (due before class)**: Familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-subj/) of the imperfect subjunctive for quiz #22, and prepare composition for workshop
+- **Homework (due before class)**: Familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) of the imperfect subjunctive for quiz #22, and prepare composition for workshop
 
 ### Wednesday, November 6
 - Review
