@@ -255,12 +255,12 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 9
 
 ### Monday, November 4
-- Commands: Jussive and Hortatory Subjunctives  
+-   
 - Translation #4 Revision Due
 
 ### Wednesday, November 6
-- Verbs: Imperative Mood  
-- Negative Prohibition
+-  
+-
 
 ### Friday, November 8
 - Review and Practice  
@@ -277,11 +277,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Translation #5 Due
 
 ### Wednesday, November 13
-- Indirect Questions  
+-  
 - Composition Workshop
 
 ### Friday, November 15
-- Indirect Command  
+-
 - Composition #5 Due
 
 [Back to top.](#top)
