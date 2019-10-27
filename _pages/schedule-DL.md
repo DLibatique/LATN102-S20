@@ -246,7 +246,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ### Friday, November 1
 - Potential Subjunctive  
 - Subjunctive Form Practice  
-- Composition #4 Due
+- [Composition #4](https://docs.google.com/document/d/1JF5OVlPESqOB62oqx6pGDYJfaK40bC62Yhkfj000n7I/edit?usp=sharing) Due
 
 [Back to top.](#top)
 
