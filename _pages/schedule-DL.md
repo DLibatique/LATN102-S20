@@ -235,17 +235,15 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 8
 
 ### Monday, October 28
-- Verbs: Subjunctive Mood, all forms  
+- Odds & Ends: Third Declension i-stems
 
 ### Wednesday, October 30
+- Odds & Ends: Pluperfect and Future Perfect Indicative
 - [Translation #4](https://docs.google.com/document/d/13rpx4KYd5mYU2ezidvpRo3lnr-RQIVpOAhhjPHbKsYc/edit?usp=sharing) Due
-- Verbs: Subjunctive Mood, all forms  
-- Deliberative Subjunctive  
 - Composition Workshop
 
 ### Friday, November 1
-- Potential Subjunctive  
-- Subjunctive Form Practice  
+- Review and Practice
 - [Composition #4](https://docs.google.com/document/d/1JF5OVlPESqOB62oqx6pGDYJfaK40bC62Yhkfj000n7I/edit?usp=sharing) Due
 
 [Back to top.](#top)
@@ -255,15 +253,16 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 9
 
 ### Monday, November 4
-- Commands: Jussive and Hortatory Subjunctives  
+- Verbs: Subjunctive Mood, all forms
 - Translation #4 Revision Due
 
 ### Wednesday, November 6
-- Verbs: Imperative Mood  
-- Negative Prohibition
+- Verbs: Subjunctive Mood, all forms continued
+- Deliberative Subjunctive  
 
 ### Friday, November 8
-- Review and Practice  
+- Potential Subjunctive  
+- Subjunctive Form Practice  
 - Composition #4 Revision Due
 
 [Back to top.](#top)
@@ -277,11 +276,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Translation #5 Due
 
 ### Wednesday, November 13
-- Indirect Questions  
+- Indirect Speech Continued
 - Composition Workshop
 
 ### Friday, November 15
-- Indirect Command  
+- Temporal Clauses and Sequence of Tenses
 - Composition #5 Due
 
 [Back to top.](#top)
@@ -291,7 +290,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 11
 
 ### Monday, November 18
-- Review and Practice  
+- Temporal Clauses and Sequence of Tenses continued
 - Translation #5 Revision Due
 
 ### Wednesday, November 20
