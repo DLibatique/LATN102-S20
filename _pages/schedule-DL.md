@@ -253,16 +253,14 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 9
 
 ### Monday, November 4
-- Verbs: Subjunctive Mood, all forms
-- Translation #4 Revision Due
+- Personal Pronouns
 
 ### Wednesday, November 6
-- Verbs: Subjunctive Mood, all forms continued
-- Deliberative Subjunctive  
+- Reflexive Pronouns
+- Translation #4 Revision Due
 
 ### Friday, November 8
-- Potential Subjunctive  
-- Subjunctive Form Practice  
+- Indirect Speech   
 - Composition #4 Revision Due
 
 [Back to top.](#top)
@@ -272,15 +270,16 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 10
 
 ### Monday, November 11
-- Indirect Speech  
+- Indirect Speech Continued
 - Translation #5 Due
 
 ### Wednesday, November 13
-- Indirect Speech Continued
+- Verbs: Subjunctive Mood, all forms
 - Composition Workshop
 
 ### Friday, November 15
-- Temporal Clauses and Sequence of Tenses
+- Verbs: Subjunctive Mood, all forms continued
+- Deliberative Subjunctive  
 - Composition #5 Due
 
 [Back to top.](#top)
@@ -290,14 +289,14 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 11
 
 ### Monday, November 18
-- Temporal Clauses and Sequence of Tenses continued
+- Subjunctive Form Practice
 - Translation #5 Revision Due
 
 ### Wednesday, November 20
-- Personal Pronoun
+- Temporal Clauses and Sequence of Tenses
 
 ### Friday, November 22
-- Reflexive Pronoun
+- Temporal Clauses and Sequence of Tenses Continued
 - Composition #5 Revision Due
 
 [Back to top.](#top)
