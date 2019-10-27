@@ -235,10 +235,10 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 8
 
 ### Monday, October 28
-- Odds & Ends: Third Declension i-stems
+- Odds & Ends: [Third Declension i-stems](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#third-declension-i-stems)
 
 ### Wednesday, October 30
-- Odds & Ends: Pluperfect and Future Perfect Indicative
+- Odds & Ends: [Pluperfect](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-pluperfect-tense) and [Future Perfect Indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-future-perfect-tense)
 - [Translation #4](https://docs.google.com/document/d/13rpx4KYd5mYU2ezidvpRo3lnr-RQIVpOAhhjPHbKsYc/edit?usp=sharing) Due
 - Composition Workshop
 
@@ -253,7 +253,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 9
 
 ### Monday, November 4
-- Personal Pronouns
+- [Personal Pronouns](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#personal-pronouns)
 
 ### Wednesday, November 6
 - Reflexive Pronouns
