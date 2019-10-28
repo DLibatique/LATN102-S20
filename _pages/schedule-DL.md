@@ -243,7 +243,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Composition Workshop
 
 ### Friday, November 1
-- Review and Practice
+- Numerals
 - [Composition #4](https://docs.google.com/document/d/1JF5OVlPESqOB62oqx6pGDYJfaK40bC62Yhkfj000n7I/edit?usp=sharing) Due
 
 [Back to top.](#top)
