@@ -189,7 +189,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, November 6
 - Review
 - CBL Visit  
-- **Homework (due before class)**: Review vocabulary for quiz #23, **Composition #4 due**
+- **Homework (due before class)**: Review vocabulary for quiz #23, [**Composition #4 due**](https://docs.google.com/document/d/1AYPHettPVrqRLhCGTZl-VFkaAZPV4kaX1fHby_fu7hk/edit?usp=sharing)
 
 ### Friday, November 8
 - Indirect statement
