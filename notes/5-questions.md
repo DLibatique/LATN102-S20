@@ -146,4 +146,6 @@ Here the answer is a matter of opinion, rather than fact. The speaker is thinkin
 - Quis *sedeat* (present subjunctive) in monte? (Who should sit on the mountain?)
 - Quis *sedēret* (imperfect subjunctive) in monte? (Who should have sat on the mountain?)
 
-We refer to this use of the subjunctive as the **deliberative subjunctive**. NB: There is no standard translation for the subjunctive - its translation is determine by usage.
+We refer to this use of the subjunctive as the **deliberative subjunctive**.
+
+NB: There is no standard translation for the subjunctive - its translation is determine by usage.
