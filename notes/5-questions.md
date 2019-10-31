@@ -11,6 +11,8 @@ title: Module 5 - Questions
 - [Question Words](#question-words)
 - [Interrogative Pronoun](#interrogative-pronoun)
 - [Interrogative Adjective](#interrogative-adjective)
+- [Interrogative Adjective](#interrogative-adjective)
+- [Deliberative Subjunctive](#deliberative-subjunctive)
 
 ***
 
@@ -129,3 +131,19 @@ Determine whether each of the following sentences uses an interrogative **pronou
 
 4. *Quae dixit?*  
 <button onclick="toggleDisplay('prac08')">Click here to toggle the answer:</button> <span style="display: none;" id="prac08">pronoun - "What (things) did he say?"</span>
+
+### Deliberative Subjunctive
+
+So far we have dealt with questions that have a definitive answer and can be restated as a declarative sentence that is factual in content (e.g. Did they come out of the city? Yes, they did come out of the city). However, this is not the only way that we can ask questions. Take, for instance, the examples:
+
+- *Should* they come out of the city?
+- *Should* they have come out of the city?
+
+Here the answer is a matter of opinion, rather than fact. The speaker is thinking about and deliberating on the action in the question. The question may even be rhetorical in nature. In Latin, we indicate such a question by changing the **mood** of our main verb. Instead of using the indicative, we use the [**subjunctive**](https://dlibatique.github.io/LATN101-F19/notes/2-subj-overview/). We use the [**present subjunctive**](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) for deliberative questions in the present tense and the [**imperfect subjunctive**](https://dlibatique.github.io/LATN101-F19/charts/2-impf-subj/) for deliberative questions in the past tense:
+
+- *Veniant* (present subjunctive) ex urbe? ("Should they come out of the city?")
+- *Venīrent* (imperfect subjunctive) ex urbe? ("Should they have come out of the city?")
+- Quis *sedeat* (present subjunctive) in monte? (Who should sit on the mountain?)
+- Quis *sedēret* (imperfect subjunctive) in monte? (Who should have sat on the mountain?)
+
+We refer to this use of the subjunctive as the **deliberative subjunctive**. NB: There is no standard translation for the subjunctive - its translation is determine by usage.
