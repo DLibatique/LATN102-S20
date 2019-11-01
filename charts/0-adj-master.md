@@ -9,6 +9,7 @@ title: Adjective Morphology - Master
 - [Three-Termination Adjectives](#three-termination-adjectives)
 - [Two-Termination Adjectives](#two-termination-adjectives)
 - [One-Termination Adjectives](#one-termination-adjectives)
+- [Declinable Numerals](#declinable-numerals)
 
 ***
 
@@ -192,3 +193,37 @@ title: Adjective Morphology - Master
 | Dative   | quibus        | quibus  | quibus  |
 | Accusative   | quōs        | quās  | quae  |
 | Ablative   | quibus        | quibus  |quibus  |
+
+***
+
+## Declinable Numerals
+
+### *ūnus, -a, -um* - one
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | ūnus       | ūna      | ūnum       |
+| Genitive   | ūnīus        | ūnīus  | ūnīus  |
+| Dative   | ūnī       | ūnī  | ūnī  |
+| Accusative   | ūnum        | ūnam  | ūnum  |
+| Ablative   | ūnō        | ūnā  | ūnō  |
+
+### *duo, duae, duo* - two
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | duo       | duae      | duo       |
+| Genitive   | duōrum        | duārum  | duōrum  |
+| Dative   | duōbus       | duābus  | duōbus  |
+| Accusative   | duōs        | duās  | duo  |
+| Ablative   | duōbus       | duābus  | duōbus  |
+
+### *trēs, tria* - three
+
+| Case      | M./F. |Neuter |
+| ----------- | ----------- | ----------- |
+| Nominative    | trēs       | tria       |
+| Genitive   | trium        | trium  |
+| Dative   | tribus        | tribus  |
+| Accusative   | trēs       | tria  |
+| Ablative   | tribus        | tribus  |
