@@ -5,7 +5,7 @@ title: Module 8 - Personal Pronouns, Deponents, and Irregular Verbs
 
 ***
 
-[Personal Pronouns](#personal-pronouns) \| [Deponent Verbs](#deponent-verbs) \| [Irregular Verbs](#irregular-verbs)
+[Personal Pronouns](#personal-pronouns) \| [Reflexive Pronouns](#reflexive-pronouns) \|[Deponent Verbs](#deponent-verbs) \| [Irregular Verbs](#irregular-verbs)
 
 ***
 
