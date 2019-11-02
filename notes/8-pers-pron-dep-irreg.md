@@ -61,19 +61,19 @@ Interestingly, the same forms are used for the 3rd person plural reflexive prono
 
 ## Practice Opportunities
 
-Identify whether pronoun is reflexive or personal in the following sentences.
+Identify the pronoun and state whether it is reflexive or personal in the following sentences.
 
 1. Feminae sibi dona dedērunt.  
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">reflexive</span>
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">sibi; reflexive</span>
 
 2. Feminae eīs dona dedērunt.  
-<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">personal</span>
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">eīs; personal</span>
 
-3. Virī ab mē cucurrērunt. <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">personal</span>
+3. Virī ab mē cucurrērunt. <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">mē; personal</span>
 
-4. Nōs iuvāmus. <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">reflexive</span>
+4. Nōs iuvāmus. <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">nōs; reflexive</span>
 
-5. Virī nōs iuvāre poterat. <button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">personal</span>
+5. Virī nōs iuvāre poterat. <button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">nōs; personal</span>
 
 ***
 
