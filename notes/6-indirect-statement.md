@@ -5,6 +5,9 @@ title: Module 6 - Indirect Statement
 
 ***
 
+[Indirect Statement](#indirect-statement) \| [Time in Indirect Statement](#time-in-indirect-statement)
+
+***
 ## Indirect Statement
 
 In English, there are two ways to report what someone says. We can report it **directly** by using quotations or we can report it **indirectly** by paraphrasing it. Consider the following examples:
@@ -23,7 +26,7 @@ How we differentiate between what someone actually said and a paraphrase of what
 
 To indicate that we are paraphrasing what the speaker said, we use the accusative to represent the subject of the thought and an infinitive as a main verb:
 
-- Dixit patrem amare filias.
+- Dixit patrem amāre filiās.
 
 - He said **that** the father loved his daughters.
 
@@ -40,10 +43,16 @@ In all of these sentences, notice that we still have the accusative direct objec
 
 ## Practice Opportunities
 
-Identify the verb of the head, the accusative subject, and the infinitive main verb in the indirect statement.
+Identify the verb of the head, the accusative subject, and the infinitive main verb in the indirect statement. Then translate the sentence.
 
-1. Feminae credēbant pue  
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">dūcī, "to be led"</span>
+1. Feminae vīdērunt puerum ambulāre ad urbem.  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">vīdērunt = verb of head; puerum = accusative subject; ambulāre = infinitive main verb; The women saw that the boy walked to the city.</span>
+
+2. Credidit mē in monte sedere.  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">credidit = verb of head; mē = accusative subject; sedere = infinitive main verb; He believed that I sat on the mountain.</span>
+
+3. Dicunt tē militēs vincere.  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">dixērunt = verb of head; tē = accusative subject; vincere = infinitive main verb; They say that you are defeating the enemy.</span>
 
 ## Time in Indirect statement
 
@@ -54,7 +63,7 @@ Time in indirect statement is relative to the main verb. What that means is that
 - *Credit* filiās *amāri* ab patre. ("He *believes* that the daughters *are loved* by their father.")
 - *Credidit* filiās *amāri* ab patre. ("He *believed* that the daughters *were loved* by their father.")
 
-The **perfect infinitive** (be sure check out the morphology) is used to indicate that the action of the indirect statement verb happened *prior to* the action of the main verb (i.e. thinking/speaking/seeing):
+The **perfect infinitive** ([morphology](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#perfect-active-infinitive)) is used to indicate that the action of the indirect statement verb happened *prior to* the action of the main verb (i.e. thinking/speaking/seeing):
 
 - *Credit* patrem *amāvisse* filiās. ("He *believes* that the father *loved* his daughter.")
 - *Credidit* patrem *amāvisse* filiās. ("He *believed* that the father *had loved* his daughters.")
