@@ -31,6 +31,52 @@ Take a look at the following examples of the personal pronouns in context:
 
 ***
 
+## Reflexive Pronouns
+
+When a pronoun in a non-nominative case refers back to the subject of the sentence, we call this a reflexive pronoun (from the Latin verb *reflectere* "to turn back"). In English, reflexive are usually translated as with the suffix -selves:
+
+- I love *myself*.
+- You teach *yourself* Latin.
+- I gave a present to *myself*.
+- They helped *themselves*.
+
+For first and second person pronouns in Latin, the form of the reflexive pronoun is the *same* as the [personal pronoun](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#personal-pronouns). Below are some examples:
+
+- *mē* amō. ("I love *myself*.")
+- *tē* amās. ("You love *yourself*.")
+- *vōbīs* donum datis. ("You all are giving a gift to *yourselves".)
+- *nōs* īuvāmus. ("We help ourselves.")
+
+Things get a little trickier in the case of the third person pronoun. While there is no ambiguity in first and second pronouns (that is, "I"/"me" and "you" are always self-explanatory), there can be ambiguity in the third person pronoun (there are lots of possible hims and hers). As a result, Latin like English differentiates between the regular pronoun (is, ea, id) and the reflexive (sui = genitive, sibi = dative, sē = accusative, sē = ablative):
+
+- Amat eam. ("She loves her.")
+- Amat sē. ("She loves herself.")
+- Donum eī dat. ("He gives a gift to him (i.e. a person other than himself).")
+- Donum sibi dat. ("He give a gift to himself.")
+
+Interestingly, the same forms are used for the 3rd person plural reflexive pronoun (sui = genitive, sibi = dative, sē = accusative, sē = ablative):. This is because all reflexives refer back to their subject and thus there is no ambiguity between singular and plural.
+
+- Amat sē. ("She loves herself.")
+- Amant sē. ("They love themselves.")
+
+## Practice Opportunities
+
+Identify whether pronoun is reflexive or personal in the following sentences.
+
+1. Feminae sibi dona dedērunt.  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">reflexive</span>
+
+2. Feminae eīs dona dedērunt.  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">personal</span>
+
+3. Virī ab mē cucurrērunt. <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">personal</span>
+
+4. Nōs iuvāmus. <button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">reflexive</span>
+
+5. Virī nōs iuvāre poterat. <button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">personal</span>
+
+***
+
 ## Deponent Verbs
 
 **Deponent verbs** are verbs that are **passive in form, but active in meaning**. That means that although we will conjugate the verb only in the passive voice, when we translate it, we will translate it **actively**. As such, deponents can act like intransitive or transitive verbs, the latter in the sense that they can take a direct object. For example:

@@ -45,8 +45,22 @@ Identify the verb of the head, the accusative subject, and the infinitive main v
 1. Feminae credēbant pue  
 <button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">dūcī, "to be led"</span>
 
-## Reflexive Pronouns
+## Time in Indirect statement
 
-One place where the change from direct to indirect statement is when . Take for instance,
+Time in indirect statement is relative to the main verb. What that means is that the tense of the infinitive tells us when the action of the indirect statement happened in relation to the main verb. For instance, the use of a **present infinitive** tells us that the action of the indirect statement happens *at the same time* as the action of the main verb (i.e. thinking/speaking/seeing):
 
-How do we change tense?
+- *Credit* patrem *amāre* filiās. ("He *believes* that the father *loves* his daughter.")
+- *Credidit* patrem *amāre* filiās. ("He *believed* that the father *loved* his daughters.")
+- *Credit* filiās *amāri* ab patre. ("He *believes* that the daughters *are loved* by their father.")
+- *Credidit* filiās *amāri* ab patre. ("He *believed* that the daughters *were loved* by their father.")
+
+The **perfect infinitive** (be sure check out the morphology) is used to indicate that the action of the indirect statement verb happened *prior to* the action of the main verb (i.e. thinking/speaking/seeing):
+
+- *Credit* patrem *amāvisse* filiās. ("He *believes* that the father *loved* his daughter.")
+- *Credidit* patrem *amāvisse* filiās. ("He *believed* that the father *had loved* his daughters.")
+- *Credit* filiās *amātās esse* ab patre. ("He *believes* that the daughters *were loved* by their father.")
+- *Credidit* filiās *amātās esse* ab patre. ("He *believed* that the daughters *had been loved* by their father.")
+
+The **future infinitive** (no need to worry to much about this for now) is used to indicate that the action of the indirect statement verb happened *after* the action of the main verb (i.e. thinking/speaking/seeing):
+
+- *Credit* patrem *amāturum esse* filiās. ("He *believes* that the father *will love* his daughters.")
