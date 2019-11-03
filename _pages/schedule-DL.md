@@ -256,11 +256,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - [Personal Pronouns](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#personal-pronouns)
 
 ### Wednesday, November 6
-- Reflexive Pronouns
+- [Reflexive Pronouns](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#reflexive-pronouns)
 - Translation #4 Revision Due
 
 ### Friday, November 8
-- Indirect Speech   
+- [Indirect Speech](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement)   
 - Composition #4 Revision Due
 
 [Back to top.](#top)
@@ -270,7 +270,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 10
 
 ### Monday, November 11
-- Indirect Speech Continued
+- [Indirect Speech](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement) continued  
 - Translation #5 Due
 
 ### Wednesday, November 13
