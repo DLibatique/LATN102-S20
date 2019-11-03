@@ -19,6 +19,7 @@ Here is a list of slideshows used in Prof. Libatique's sections.
 9. [Module 5 - Questions](https://docs.google.com/presentation/d/1R6UFWCQASiNqhRxQMCTMzIeXA_hNWuraLPp8ckBRXUI/edit?usp=sharing)
 10. [Odds and Ends: i-stems, Pluperfect, Future Perfect](https://docs.google.com/presentation/d/1whxI7-S2VoVSP7C5bVP09fZC0TW3nxthYMuBhTTLrT4/edit?usp=sharing)
 11. [Module 8 - Personal Pronouns, Reflexive Pronouns](https://docs.google.com/presentation/d/16UPHR3LsBMKp9qSX0JqbqfGOzFaFhpwMzhe35H_OPWs/edit?usp=sharing)
+12. [Module 6 - Indirect Statement](https://docs.google.com/presentation/d/1QA2Lj3tx4o6onQhbe0mnaxywlL9qBy13qGRas3AQNMM/edit?usp=sharing)
 
 Reviews:
 1. [Noun-Adj. Agreement](https://docs.google.com/presentation/d/1EkCLQJZY03byyxmrzuXVWRN9zE281z98HIlLdOn96s8/edit?usp=sharing)
