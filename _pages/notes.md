@@ -62,6 +62,14 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 - [Notes: Questions]({{ site.baseurl }}/notes/5-questions)
 - [Vocabulary: Module 5]({{ site.baseurl }}/vocab/5)
 
+## Module 6: Indirect Statement
+
+- [Notes: Indirect Statement]({{ site.baseurl }}/notes/6-indirect-statement)
+
+## Module 7: Temporal Clauses
+
+- [Notes: Temporal Clauses]({{ site.baseurl }}/notes/7-temporal-clauses)
+
 ## Module 8 - Personal Pronouns, Deponents, and Irregular Verbs
 
 - [Notes: Personal Pronouns, Deponents, and Irregular Verbs]({{ site.baseurl }}/notes/8-pers-pron-dep-irreg)
