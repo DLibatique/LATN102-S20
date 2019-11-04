@@ -17,6 +17,8 @@ accipiō, accipere, accēpī, acceptus - to accept, receive
 ācer, ācris, ācre - keen, sharp  
 ad (+ acc. gerund/gerundive) - for the purpose of  
 ad (+ acc.) - to, toward, at  
+adhuc - still  
+aetas, aetātis, f. - life, lifetime, age  
 agricola, agricolae, m. - farmer  
 alius, alia, aliud - another, other; *aliī...aliī* = "some ... others"  
 alter, altera, alterum - other, one (of two); *alter...alter* = "one ... the other"  
@@ -24,16 +26,20 @@ altus, -a, -um - tall, deep, high
 amō, amāre, amāvī, amātus - to love  
 annus, -ī, m. - year  
 appellō, -āre, -āvī, -ātus - to call, address, name  
+apud (+ acc.) - with, at, by, near  
 ars, artis, f. - art, skill  
 aspiciō, aspicere, aspexī, aspectus - to look at, behold  
 at - but (stronger than *sed*)  
 atque / ac - and  
 audiō, audīre, audīvī, audītus - to hear  
 aut - or; *aut...aut* - "either ... or"  
+autem (post-positive) - however, on the other hand  
+auxilium, auxiliī, n. - help, aid, support  
 
 ***
 
 bonus, bona, bonum - good  
+brevis, -e - short  
 
 ***
 
@@ -42,10 +48,14 @@ capiō, capere, cēpī, captus - to take, seize
 caput, capitis, n. - head  
 carmen, carminis, n. - song, poem  
 causā / gratiā (postpositive, + gen.) - because of, for the sake of, for the purpose of  
+cautus, -a, -um - careful, cautious, wary  
 centum (indeclinable) - one hundred  
 ceterus, -a, -um - the rest, remaining  
+cīvis, cīvis, m./f. - citizen  
+cognoscō, cognoscere, cognōvī, cognitus - to recognize, understand, perceive, learn  
 consilium, consiliī, n. - plan, counsel, advice  
 corpus, corporis, n. - body  
+credō, credere, credidī, creditus (+ dat.) - to believe, trust  
 cum (+ abl.) - with  
 cūr - why  
 currō, currere, cucurrī, cursus - to run  
@@ -59,6 +69,7 @@ deinde - next, thereafter, thereupon, then
 difficilis, -e - difficult  
 dīcō, dīcere, dīxī, dictus - to say, speak  
 discēdō, discēdere, discessī, discessūrus - to depart  
+discō, discere, didicī, ----- - to learn  
 dō, dare, dedī, datus - to give  
 doceō, docēre, docuī, doctus - to teach  
 dūcō, dūcere, dūxī, ductus - to lead  
@@ -75,8 +86,10 @@ exemplum, exemplī n. - example
 
 ***
 
+facilis, -e - easy  
 faciō, facere, fēcī, factus - to make, do  
 familia, familiae f. - family  
+fātum, fātī, n. - fate  
 fēmina, fēminae, f. - woman  
 ferox, ferōcis - fierce  
 fīlia, fīliae f. - daughter  
@@ -115,7 +128,9 @@ in (+ acc.) - into
 incipiō, incipere, incēpī, inceptus - to begin  
 incolumis, incolume - unharmed, safe  
 inde - from there, thence  
+infestus, -a, -um - hostile, enemy  
 ingens, ingentis - huge  
+inquam, inquit - I say/said, he/she/it says/said  
 insignis, insigne - distinguished, prominent, extraordinary  
 interficiō, interficere, interfēcī, interfectus - to kill  
 ipse, ipsa, ipsum - very, the same, -self (emphasizes the word it modifies)  
@@ -133,6 +148,7 @@ līber, lībera, līberum - free
 līber, lībrī, m. - book  
 licet (impersonal) - it is allowed  
 locus, -ī, m. - place  
+longus, -a, -um - long  
 lux, lūcis, f. - light  
 
 ***
@@ -155,7 +171,9 @@ multus, multa, multum - much, many
 
 nam - for  
 nāvis, nāvis, f. - ship  
+negō, negāre, negāvī, negātus - to deny, to say that ... not  
 neque / nec - and ... not, nor; *neque/nec...neque/nec* - "neither ... nor"  
+nesciō, nescīre, nescīvī, nescītus - not to know, to be ignorant  
 nōmen, nōminis, n. - name  
 nōn - not  
 nonne - (*indicates a question that expects the answer "yes"*)  
@@ -164,6 +182,7 @@ nox, noctis, f. - night
 nūllus, nūlla, nūllum (*-īus*) - no, none  
 num - (*indicates a question that expects the answer "no"*)  
 nunc - now  
+nuntiō, nuntiāre, nuntiāvī, nuntiātus - to announce, report  
 
 ***
 
@@ -177,6 +196,7 @@ omnis, omne - all, every
 parēns, parentis m./f. - parent  
 parō, -āre, -āvī, -ātus - to prepare  
 pars, partis, f. - part  
+parvus, -a, -um - small  
 pāter, pātris m. - father  
 patria, -ae, f. - homeland  
 pax, pācis, f. - peace  
@@ -192,6 +212,7 @@ propter (+ acc.) - near; because of
 puella, puellae f. - girl  
 puer, puerī m. - boy  
 puniō, punīre, punīvī, punītus - to punish  
+putō, putāre, putāvī, putātus - to think  
 
 ***
 
@@ -212,6 +233,8 @@ rēx, rēgis m. - king
 ***
 
 sapiēns, sapientis - wise  
+saepe - often  
+sciō, scīre, scīvī, scītus - to know  
 scrībō, scrībere, scrīpsī, scrīptus - to write  
 sed - but  
 sedeō, sedēre, sēdī, sessus - to sit  
@@ -220,13 +243,19 @@ septimus, -a, -um - seventh
 serpēns, serpentis, m./f. - serpent, snake  
 sex (indeclinable) - six  
 sextus, -a, -um - sixth  
+sine (+ abl.) - without  
+socius, -a, -um - allied  
+socius, sociī, m. - ally  
 soror, sorōris f. - sister  
+sperō, sperāre, sperāvī, sperātus - to hope  
 sub (+ abl.) - under  
+subitō - suddenly, unexpectedly  
 sum, esse, fuī, futūrus - to be  
 sunt - are (for third-person plural subjects)  
 
 ***
 
+tandem - at last, finally  
 tempus, tempōris, n. - time, season  
 teneō, tenēre, tenuī, tentus - to hold, keep, have  
 terra, terrae, f. - earth, land  
@@ -249,6 +278,7 @@ uxor, uxōris f. - wife
 
 vel - or; *vel...vel* - "either ... or"  
 veniō, venīre, vēnī, ventus - to come  
+verbum, verbī, n. - word  
 vērus, vēra, vērum - true  
 vester, vestra, vestrum - your (pl.)  
 videō, vidēre, vīdī, visus - to see; (passive) to seem  
