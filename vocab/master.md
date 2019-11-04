@@ -73,6 +73,7 @@ discō, discere, didicī, ----- - to learn
 dō, dare, dedī, datus - to give  
 doceō, docēre, docuī, doctus - to teach  
 dūcō, dūcere, dūxī, ductus - to lead  
+duo, duae, duo - two  
 dux, ducis, m. - leader  
 
 ***
@@ -261,6 +262,7 @@ teneō, tenēre, tenuī, tentus - to hold, keep, have
 terra, terrae, f. - earth, land  
 tollō, tollere, sustūlī, sublātus - to lift up, to raise  
 trāns (+ acc.) - across, through  
+trēs, tria - three  
 trīstis, trīste - sad  
 tum - then  
 tunc - at that time  
@@ -270,6 +272,7 @@ tuus, tua, tuum - your
 
 ubī - where, when  
 unde - from where  
+ūnus, -a, -um - one  
 urbs, urbis, f. - city  
 uter, utra, utrum (*-īus*) - both, whichever of two  
 uxor, uxōris f. - wife  
