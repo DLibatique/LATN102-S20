@@ -271,10 +271,10 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, November 11
 - [Indirect Speech](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement) continued  
-- Translation #5 Due
 
 ### Wednesday, November 13
 - Verbs: Subjunctive Mood, all forms
+- Translation #5 Due
 - Composition Workshop
 
 ### Friday, November 15
