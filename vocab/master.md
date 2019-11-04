@@ -79,6 +79,7 @@ dux, ducis, m. - leader
 ***
 
 ē/ex (+ abl.) - out of, from  
+ego, nōs - I, me, we, us  
 enim (postpositive) - for  
 epistula, -ae, f. - letter  
 est - is (for third-person singular subjects)  
@@ -251,8 +252,10 @@ soror, sorōris f. - sister
 sperō, sperāre, sperāvī, sperātus - to hope  
 sub (+ abl.) - under  
 subitō - suddenly, unexpectedly  
+suī, sibi, sē, sē - him/her/itself, themselves  
 sum, esse, fuī, futūrus - to be  
 sunt - are (for third-person plural subjects)  
+suus, -a, -um - his/her/its own, their own  
 
 ***
 
@@ -264,6 +267,7 @@ tollō, tollere, sustūlī, sublātus - to lift up, to raise
 trāns (+ acc.) - across, through  
 trēs, tria - three  
 trīstis, trīste - sad  
+tū, vōs - you, you all  
 tum - then  
 tunc - at that time  
 tuus, tua, tuum - your  
