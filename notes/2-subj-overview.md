@@ -5,11 +5,22 @@ title: Module 2 - Subjunctive Mood Overview
 
 ***
 
+[General Overview](#subjunctive---general-overview)  
+- [Present Subjunctive](#present-subjunctive---formation)
+- [Imperfect Subjunctive](#imperfect-subjunctive---formation)
+- [Perfect Active Subjunctive](#perfect-active-subjunctive---formation)
+- [Pluperfect Active Subjunctive](#pluperfect-active-subjunctive---formation)
+- [Perfect and Pluperfect Passive Subjunctive](#perfect-and-pluperfect-passive-subjunctive---formation)
+
 ***
 
 ## Subjunctive - General Overview
 
-The subjunctive is the verbal mood of possibility, doubt, hypothetical or ideal situations, or unreal actions. It can be used either in independent clauses or subordinate clauses. We will learn about two *independent* uses (deliberative, potential) and one *dependent* use (temporal clauses) this semester.
+The subjunctive is the verbal mood of possibility, doubt, hypothetical or ideal situations, or unreal actions. It can be used either in independent clauses or subordinate clauses. We will learn about one *independent* uses (deliberative) and one *dependent* use (temporal clauses) this semester.
+
+The subjunctive exists only in four tenses: present, imperfect, perfect, and pluperfect. The future and future perfect do not have subjunctive forms because they express actual situations or real facts.
+
+***
 
 ## Present Subjunctive - Formation
 
@@ -33,6 +44,8 @@ Take a look at the following transformations from indicative to subjunctive:
 - capiuntur > capiantur
 - audit > audiat
 
+***
+
 ## Imperfect Subjunctive - Formation
 
 To form the imperfect subjunctive, we will take the **entire** 2nd principal part and then simply add our active or passive personal endings directly onto it. The final -e lengthens to ē except before -m, -t, -nt, -r, and -ntur.
@@ -44,6 +57,8 @@ Take a look at the following examples of the imperfect subjunctive in the 3rd si
 - regō, regere, rexī, rectus > regeret, regerētur
 - capiō, capere, cēpī, captus > caperet, caperētur
 - audiō, audīre, audīvī, audītus > audīret, audīrētur
+
+***
 
 ## Perfect Active Subjunctive - Formation
 
@@ -65,6 +80,8 @@ Take a look at the following transformations from perfect indicative to perfect 
 - cēpit > cēperit
 - audīvērunt > audīverint
 
+***
+
 ## Pluperfect Active Subjunctive - Formation
 
 To form the pluperfect subjunctive, we will use the **perfect stem**, which can be found by going to the 3rd principal part and chopping off the final -ī. Then, we will attach the following endings:
@@ -84,6 +101,8 @@ Take a look at the following transformations from pluperfect indicative to plupe
 - rexerant > rexissent
 - cēperat > cēpisset
 - audīverant > audīvissent
+
+***
 
 ## Perfect and Pluperfect Passive Subjunctive - Formation
 
