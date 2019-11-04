@@ -274,7 +274,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Wednesday, November 13
 - Verbs: Subjunctive Mood, all forms
-- Translation #5 Due
+- [Translation #5](https://docs.google.com/document/d/1LbavrDLsibYzV6A5k1yFKhNXJyCcJ6xnVCJn1PrvYBc/edit?usp=sharing) Due
 - Composition Workshop
 
 ### Friday, November 15
