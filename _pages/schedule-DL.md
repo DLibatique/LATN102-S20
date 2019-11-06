@@ -261,6 +261,10 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Friday, November 8
 - [Indirect Speech](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement)   
+- Watch both parts of the lecture for today:
+  - [Lecture, Part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6414f27d-adbe-4f24-8479-aafc0173a80e)
+  - [Lecture, Part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cca5793b-27c8-4184-94eb-aafc0178bd6d)
+- Complete the [Daily Quiz](https://forms.gle/z6UvgiepstpHxq4e8).
 - Composition #4 Revision Due
 
 [Back to top.](#top)
