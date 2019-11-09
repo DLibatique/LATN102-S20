@@ -181,7 +181,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 9
 
-### Monday, November 4
+### Monday, November 4 [(slides)](https://docs.google.com/presentation/d/1AjG7fkRSJ9qICLJBJGuKBi-IosdDl1xaQenH3FboGGA/edit?usp=sharing)
 - Verbs: Present Active and Passive Subjunctive
 - Composition Workshop  
 - **Homework (due before class)**: Familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) of the present subjunctive for quiz #22, and prepare composition for workshop
@@ -207,11 +207,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, November 13
 - Indirect Statement
-- **Homework (due before class)**: Read the section on indirect statement and the formation of infinitives for quiz #26, **Group CBL Materials Due**
+- **Homework (due before class)**: Read the section on [indirect statement](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement/#indirect-statement) and the formation of [infinitives](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives) for quiz #26, **Group CBL Materials Due**
 
 ### Friday, November 15
 - Review
-- **Homework (due before class)**: Read the section on indirect statement and the formation of infinitives for quiz #27;
+- **Homework (due before class)**: Review the section on indirect statement and the formation of infinitives for quiz #27;
 
 [Back to top.](#top)
 
