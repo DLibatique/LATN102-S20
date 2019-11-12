@@ -284,7 +284,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ### Friday, November 15
 - Verbs: Subjunctive Mood, all forms continued
 - Deliberative Subjunctive  
-- Composition #5 Due
+- [Composition #5](https://docs.google.com/document/d/1fW1M0UBad0RxagYFkvromqghg-S1OMctzwef36wdgCM/edit?usp=sharing) Due
 
 [Back to top.](#top)
 
