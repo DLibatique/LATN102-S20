@@ -231,6 +231,7 @@ rēgīna, rēgīnae f. - queen
 regnum, regnī, n. - kingdom  
 regō, regere, rexī, rectus - to rule  
 rēx, rēgis m. - king  
+rogō, rogāre, rogāvī, rogātus - to ask  
 
 ***
 
