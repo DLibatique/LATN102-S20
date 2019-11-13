@@ -222,19 +222,19 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, November 18
 - Review of indirect statement
 - Deponent verbs
-- **Homework (due before class)**: Read the section on [deponent verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#deponent-verbs) for quiz #28; **Translation #5 due**
+- **Homework (due before class)**: Read the section on [deponent verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#deponent-verbs) for quiz #28
 
 
 ### Wednesday, November 20
 - Temporal clauses
 - Verbs: Pluperfect Active and Passive Indicatve
-- Composition workshop
-- **Homework (due before class)**: Read the section on temporal clauses and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29
+- **Homework (due before class)**: Read the section on temporal clauses and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29; ; [**Translation #5 due**](https://docs.google.com/document/d/1z5BShFRh2AxsZuRWmymWaa0mgoeSZZTkoErZ6zZ5soI/edit?usp=sharing)
 
 ### Friday, November 22
 - Temporal clauses
 - Verbs: Perfect and Pluperfect Active and Passive Subjunctive
-- **Homework (due before class)**: Review the section on temporal clauses and familiarize yourself with the morphology of the [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/) and [pluperfect](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) subjunctive for quiz #30, **Composition 5 due**
+- Composition workshop
+- **Homework (due before class)**: Review the section on temporal clauses and familiarize yourself with the morphology of the [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/) and [pluperfect](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) subjunctive for quiz #30
 
 [Back to top.](#top)
 
@@ -244,7 +244,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, November 25
 - Review
-- **Homework (due before class)**: Review the morphology and context for temporal clauses quiz #31
+- **Homework (due before class)**: Review the morphology and grammar for temporal clauses quiz #31; **Composition #5 due**
 
 [Back to top.](#top)
 
