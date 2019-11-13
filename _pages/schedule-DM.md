@@ -228,7 +228,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, November 20
 - Temporal clauses
 - Verbs: Pluperfect Active and Passive Indicatve
-- **Homework (due before class)**: Read the section on temporal clauses and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29; ; [**Translation #5 due**](https://docs.google.com/document/d/1z5BShFRh2AxsZuRWmymWaa0mgoeSZZTkoErZ6zZ5soI/edit?usp=sharing)
+- **Homework (due before class)**: Read the section on temporal clauses and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29; [**Translation #5 due**](https://docs.google.com/document/d/1z5BShFRh2AxsZuRWmymWaa0mgoeSZZTkoErZ6zZ5soI/edit?usp=sharing)
 
 ### Friday, November 22
 - Temporal clauses
