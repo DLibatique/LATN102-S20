@@ -132,6 +132,8 @@ Determine whether each of the following sentences uses an interrogative **pronou
 4. *Quae dixit?*  
 <button onclick="toggleDisplay('prac08')">Click here to toggle the answer:</button> <span style="display: none;" id="prac08">pronoun - "What (things) did he say?"</span>
 
+***
+
 ### Deliberative Subjunctive
 
 So far we have dealt with questions that have a definitive answer and can be restated as a declarative sentence that is factual in content (e.g. Did they come out of the city? Yes, they did come out of the city). However, this is not the only way that we can ask questions. Take, for instance, the examples:
