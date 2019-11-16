@@ -38,7 +38,7 @@ If the verb in the independent clause expresses past time (i.e it is in the impe
 - Cum militēs Troiam oppugnarent, feminae urbem defendērunt. (When the soldiers were attacking Troy, the women defended the city.)
 - Cum militēs Troiam oppugnavissent, feminae urbem defendērunt. (After the soldiers had attacked Troy, the women defended the city.)
 
-| Time Relation of Independent Clause to Dependent Clause    | Contemporary with or after |Prior to |
+| Time Relation   | Contemporary with or after |Prior to |
 | ----------- | ----------- | ----------- |
 | Primary Sequence   | Present Subjunctive       | Perfect Subjunctive      |
 | Secondary Sequence | Imperfect Subjunctive      | Pluperfect Subjunctive       |
