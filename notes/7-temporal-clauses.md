@@ -23,17 +23,12 @@ As we can see here, the dependent clauses add important information about the ci
 
 Dependent clauses can be classified by the type of information that they add about the independent clause. Dependent clauses that tell us when something occurred is called a **temporal clause**.
 
-<<<<<<< HEAD
-In Latin, temporal clauses are introduced by a **temporal conjunction** (e.g. cum = when, postquam = after, antequam = before, dum = while) and feature a subject and verb. The verb can be either in the indicative or the subjunctive in mood. If the verb is indicative the clause exactly defines the time when the action of the main clause happened (e.g. When the clock struck 6, I ate dinner). If the verb is subjunctive it tells us the circumstances under which the action of the main clause happens (e.g. While I was taking the test, I was working very hard). Below are some examples of sentence with temporal clauses.
-
-- **Cum Hercules infans erat**, duōs serpentēs necāvit. ("When Hercules was an infant, he killed two serpents.")
-- **Postquam urbem cepīssent**, milites celebravērunt. ("After they had taken the city, the soldiers celebrated.") (The dependent clause describes the circumstances under which the soldiers celebrated.)
-- **Postquam urbem cēperant**, mīlitēs celebrāvērunt. ("After they had taken the city, the soldiers celebrated.") (The dependent clause explains the time when the soldiers celebrated.)
-=======
 In Latin, temporal clauses are introduced by a **temporal conjunction** (e.g. cum = when, postquam = after, antequam = before, priusquam = before, dum = while/until) and feature a subject and verb. The verb can be either in the indicative or the subjunctive in mood. If the verb is indicative the clauses exactly defines the time when the action of the main clause happened (e.g. When the clock struck 6, I ate dinner), if the verb is subjunctive it tells us the circumstances when the action of the main clause happen (e.g. While I was taking the test, I was working very hard). Below are some examples of sentence with temporal clauses.
 
 - **Cum Hercules infans erat**, duōs serpentēs necāvit. ("When Hercules was an infant, he killed two serpents.")
 - **Dum urbem caperent**, militēs celebrābant. ("While they were taking the city, the soldiers were celebrating.")
+
+***
 
 ## Subjunctive Verbs and the Sequences of Tenses
 
@@ -53,4 +48,3 @@ If the verb in the independent clause expresses past time (i.e it is in the impe
 | ----------- | ----------- | ----------- |
 | Primary Sequence   | Present Subjunctive       | Perfect Subjunctive      |
 | Secondary Sequence | Imperfect Subjunctive      | Pluperfect Subjunctive       |
->>>>>>> 819cb4dcd6188a0eafb4c2e33c87a32c3af09cae
