@@ -35,8 +35,8 @@ If the verb in the independent clause expresses present or future time (i.e it i
 
 If the verb in the independent clause expresses past time (i.e it is in the imperfect, perfect, and pluperfect tense), then we are in what is called **secondary sequence**. In secondary sequence, the verb of the dependent clause will be **imperfect subjunctive**, if it expresses an action that is happening at *the same time as or after* the action of the independent clause, or **pluperfect subjunctive**, if it expresses an action happened *prior to* the action of the independent clause. Below are some examples of the use of secondary sequence in temporal clauses:
 
-- Cum militēs Troiam oppugnarent, feminae urbem defendērunt. (When the soldiers were attacking Troy, the women defended the city.)
-- Cum militēs Troiam oppugnavissent, feminae urbem defendērunt. (After the soldiers had attacked Troy, the women defended the city.)
+- **Cum militēs Troiam oppugnarent**, feminae urbem defendērunt. (When the soldiers were attacking Troy, the women defended the city.)
+- **Cum militēs Troiam oppugnavissent**, feminae urbem defendērunt. (After the soldiers had attacked Troy, the women defended the city.)
 
 | Time Relation   | Contemporary/After |Before |
 | ----------- | ----------- | ----------- |
