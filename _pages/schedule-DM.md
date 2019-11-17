@@ -200,16 +200,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 10
 
-### Monday, November 11
+### Monday, November 11 [(slides)](https://docs.google.com/presentation/d/1Vd01bFMJTT6CbGOMKEyBblMFYObzjydXKmUC80n_YEU/edit?usp=sharing)
 - Pronouns: Personal pronouns and reflexives
 - CBL Prep Time
 - **Homework (due before class)**: Read the section on [personal pronouns](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#reflexive-pronouns) and familiarize yourself with their morphology for quiz #25
 
-### Wednesday, November 13
+### Wednesday, November 13 [(slides)](https://docs.google.com/presentation/d/1L2WHnRQfbTukpqVmFFRcKWl7vIur02ycyHwRdi6S40M/edit?usp=sharing)
 - Indirect Statement
 - **Homework (due before class)**: Read the section on [indirect statement](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement/#indirect-statement) and the formation of [infinitives](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives) for quiz #26, **Group CBL Materials Due**
 
-### Friday, November 15
+### Friday, November 15 [(slides)](https://docs.google.com/presentation/d/1lCkrHfMU80jhi2p75CM1ZDUyuT2ym_pz_MqRYfVElog/edit?usp=sharing)
 - Review
 - **Homework (due before class)**: Review the section on indirect statement and the formation of infinitives for quiz #27;
 
@@ -228,13 +228,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, November 20
 - Temporal clauses
 - Verbs: Pluperfect Active and Passive Indicatve
-- **Homework (due before class)**: Read the section on temporal clauses and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29; [**Translation #5 due**](https://docs.google.com/document/d/1z5BShFRh2AxsZuRWmymWaa0mgoeSZZTkoErZ6zZ5soI/edit?usp=sharing)
+- **Homework (due before class)**: Read the section on [temporal clauses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/) and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29; [**Translation #5 due**](https://docs.google.com/document/d/1z5BShFRh2AxsZuRWmymWaa0mgoeSZZTkoErZ6zZ5soI/edit?usp=sharing)
 
 ### Friday, November 22
 - Temporal clauses
 - Verbs: Perfect and Pluperfect Active and Passive Subjunctive
 - Composition workshop
-- **Homework (due before class)**: Review the section on temporal clauses and familiarize yourself with the morphology of the [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/) and [pluperfect](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) subjunctive for quiz #30
+- **Homework (due before class)**: Review the section on [temporal clauses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/) and familiarize yourself with the morphology of the [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/) and [pluperfect](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) subjunctive for quiz #30
 
 [Back to top.](#top)
 
