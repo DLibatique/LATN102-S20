@@ -21,6 +21,7 @@ Here is a list of slideshows used in Prof. Libatique's sections.
 11. [Module 8 - Personal Pronouns, Reflexive Pronouns](https://docs.google.com/presentation/d/16UPHR3LsBMKp9qSX0JqbqfGOzFaFhpwMzhe35H_OPWs/edit?usp=sharing)
 12. [Module 6 - Indirect Statement](https://docs.google.com/presentation/d/1QA2Lj3tx4o6onQhbe0mnaxywlL9qBy13qGRas3AQNMM/edit?usp=sharing)
 13. [Module 2 - Subjunctive Overview and Formation](https://docs.google.com/presentation/d/1JPs8ZhndSDU9WrY-bdm8qSXwzpjpb7jkgkhEa8dmRLQ/edit?usp=sharing)
+14. [Modules 5 and 7 - Deliberative Subjunctive, Dependent Clauses, Temporal Clauses, Sequence of Tenses](https://docs.google.com/presentation/d/1XVGEt-cZNMP9q-zwvfN6TBlzY0Cy6W8I90BZaz9Zx1w/edit?usp=sharing)
 
 Reviews:
 1. [Noun-Adj. Agreement](https://docs.google.com/presentation/d/1EkCLQJZY03byyxmrzuXVWRN9zE281z98HIlLdOn96s8/edit?usp=sharing)
