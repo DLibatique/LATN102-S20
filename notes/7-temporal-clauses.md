@@ -13,7 +13,7 @@ Thus far we have dealt with sentences that consist solely of **independent claus
 - She was a student **who excels in Latin and Math.**
 - **Although the teacher was funny,** the students never laughed at his jokes.
 
-These dependent clauses cannot stand on their own; if I were to say "When I was in college.", you'd be left wondering what happened at that time.
+These dependent clauses cannot stand on their own; if I were to say "When I was in college", you'd be left wondering what happened at that time.
 
 As we can see here, the dependent clauses add important information about the circumstances under which the action of the independent clause took place.
 
