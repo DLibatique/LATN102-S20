@@ -63,4 +63,4 @@ Translate the following sentences. If the dependent clause has a subjunctive ver
 <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">They ran to Tauria where Iphigenia, the sister of Orestis, was priest.</span>
 
 4. Cum navem fecisset, femina ad Troiam navigāvit.  
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">After she had made a ship, the woman sailed to Troy. Fecisset is pluperfect subjunctive, representing an action completed prior to the independent clause.</span>
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">After she had made a ship, the woman sailed to Troy. Fecisset is pluperfect subjunctive, representing an action completed prior to the independent clause.</span>
