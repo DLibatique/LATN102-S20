@@ -59,7 +59,7 @@ Translate the following sentences. If the dependent clause has a subjunctive ver
 2. Cum Ulixes videret ingentēs Cyclopēs, vinum eīs dedit.   
 <button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">When Ulysses saw the giant Cyclopes, he gave them wine. Videret is imperfect subjunctive, representing an action contemporaneous with the independent clause.</span>
 
-3. cucurrērunt ad Tauriam, ubi Iphigenia, Orestis soror, fuit sacerdos.  
+3. Cucurrērunt ad Tauriam, ubi Iphigenia, Orestis soror, fuit sacerdos.  
 <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">They ran to Tauria where Iphigenia, the sister of Orestis, was priest.</span>
 
 4. Cum navem fecisset, femina ad Troiam navigāvit.  
