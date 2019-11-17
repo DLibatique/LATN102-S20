@@ -244,7 +244,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, November 25
 - Review
-- **Homework (due before class)**: Review the morphology and grammar for temporal clauses quiz #31; **Composition #5 due**
+- **Homework (due before class)**: Review the morphology and grammar for temporal clauses quiz #31; [**Composition #5 due**](https://docs.google.com/document/d/12T_gs-7NT1A47SJlEYo9VkfW22hN0WQWpgsMqzuE2gw/edit?usp=sharing)
 
 [Back to top.](#top)
 
