@@ -277,13 +277,16 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - [Indirect Speech](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement) continued  
 
 ### Wednesday, November 13
-- Verbs: Subjunctive Mood, all forms
+- Verbs: [Subjunctive Mood, all forms](https://dlibatique.github.io/LATN101-F19/notes/2-subj-overview/)
+- Charts: [Present Subjunctive](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/)
+- Charts: [Imperfect Subjunctive](https://dlibatique.github.io/LATN101-F19/charts/2-impf-subj/)
 - [Translation #5](https://docs.google.com/document/d/1LbavrDLsibYzV6A5k1yFKhNXJyCcJ6xnVCJn1PrvYBc/edit?usp=sharing) Due
 - Composition Workshop
 
 ### Friday, November 15
-- Verbs: Subjunctive Mood, all forms continued
-- Deliberative Subjunctive  
+- Verbs: [Subjunctive Mood, all forms continued](https://dlibatique.github.io/LATN101-F19/notes/2-subj-overview/)
+- Charts: [Perfect Subjunctive](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/)
+- Charts: [Pluperfect Subjunctive](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/)
 - [Composition #5](https://docs.google.com/document/d/1fW1M0UBad0RxagYFkvromqghg-S1OMctzwef36wdgCM/edit?usp=sharing) Due
 
 [Back to top.](#top)
@@ -293,14 +296,15 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 11
 
 ### Monday, November 18
-- Subjunctive Form Practice
-- Translation #5 Revision Due
+- [Deliberative Subjunctive](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#deliberative-subjunctive)
+- [Dependent Clauses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/#dependent-clauses)
 
 ### Wednesday, November 20
-- Temporal Clauses and Sequence of Tenses
+- [Temporal Clauses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/#temporal-clauses)
+- Translation #5 Revision Due
 
 ### Friday, November 22
-- Temporal Clauses and Sequence of Tenses Continued
+- [Sequence of Tenses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/#subjunctive-verbs-and-the-sequence-of-tenses)
 - Composition #5 Revision Due
 
 [Back to top.](#top)
