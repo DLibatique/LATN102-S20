@@ -30,7 +30,7 @@ In Latin, temporal clauses are introduced by a **temporal conjunction** (e.g. cu
 
 ***
 
-## Subjunctive Verbs and the Sequences of Tenses
+## Subjunctive Verbs and the Sequence of Tenses
 
 Whenever a subjunctive verb is used in a dependent clause of any kind, its tense is determined by 1) the tense of the main verb in the dependent clause and 2) the temporal relationship of the dependent clause to the independent clause (just like the tense of an infinitive in indirect statement). The rules that govern these criteria are referred to as the **sequence of tenses**.
 
