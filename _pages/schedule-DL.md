@@ -314,7 +314,10 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 12.1
 
 ### Monday, November 25
-- Review and Practice
+- How to Read a Dictionary
+  - [Lewis-Short (Furman)](http://folio2.furman.edu/lewis-short/index.html)
+  - [Whitaker's Words](http://archives.nd.edu/words.html) - USE WITH EXTREME CAUTION AND ONLY AS A LAST RESORT
+  - [Perseus](http://www.perseus.tufts.edu/hopper/morph) - ALSO USE WITH EXTREME CAUTION AND ONLY AS A LAST RESORT
 
 [Back to top.](#top)
 
