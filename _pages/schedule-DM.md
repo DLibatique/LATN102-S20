@@ -219,18 +219,18 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 11
 
-### Monday, November 18
+### Monday, November 18 [(slides)](https://docs.google.com/presentation/d/15ixgFJIBc7xrgh5ld8hT5rUY_SuwZ3iUpg910uWiiKo/edit?usp=sharing)
 - Review of indirect statement
 - Deponent verbs
 - **Homework (due before class)**: Read the section on [deponent verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#deponent-verbs) for quiz #28
 
 
-### Wednesday, November 20
+### Wednesday, November 20 [(slides)](https://docs.google.com/presentation/d/1gLHQ6R6QA1JkGSLooyGUdLMX19KY5G4eYYY2QwoL8UI/edit?usp=sharing)
 - Temporal clauses
 - Verbs: Pluperfect Active and Passive Indicatve
 - **Homework (due before class)**: Read the section on [temporal clauses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/) and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29; [**Translation #5 due**](https://docs.google.com/document/d/1z5BShFRh2AxsZuRWmymWaa0mgoeSZZTkoErZ6zZ5soI/edit?usp=sharing)
 
-### Friday, November 22
+### Friday, November 22 [(slides)](https://docs.google.com/presentation/d/1jqFyl7yUiPWRMQPlMauPqqdca7j2Xev1o9EOeLGL5nU/edit?usp=sharing)
 - Temporal clauses
 - Verbs: Perfect and Pluperfect Active and Passive Subjunctive
 - Composition workshop
@@ -258,7 +258,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, December 2
 - Irregular Verbs: *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #32, **Translation #6 Due**
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #32, [**Translation #6 Due**](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit?usp=sharing)
 
 ### Wednesday, December 4
 - Review
