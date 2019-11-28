@@ -330,15 +330,15 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 12.2
 
 ### Monday, December 2
-- Irregular Verbs: *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
-- Translation #6 Due
+- [Irregular Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#irregular-verbs): *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
 
 ### Wednesday, December 4
-- Irregular Verbs: *volō*, *nōlō*, and *mālō*  
-- Composition Workshop
+- [Irregular Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#irregular-verbs): *volō*, *nōlō*, and *mālō*  
+- [Charts](https://dlibatique.github.io/LATN101-F19/charts/0-irreg-verb-master)
+- [Translation #6](https://docs.google.com/document/d/1RzvlypIzwneeJdho_IL1Iih8jKT5VgsGg80ZHPMes1s/edit?usp=sharing) Due
 
 ### Friday, December 6
-- Deponent Verbs
+- [Deponent Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#deponent-verbs)
 - Composition #6 Due
 
 [Back to top.](#top)
