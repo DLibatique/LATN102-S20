@@ -331,6 +331,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Monday, December 2
 - [Irregular Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#irregular-verbs): *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
+- Complete [take-home quiz](https://forms.gle/aUgKzc6xsXd9gK2Q6) to submit today (M 12/2)!
 
 ### Wednesday, December 4
 - [Irregular Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#irregular-verbs): *volō*, *nōlō*, and *mālō*  
