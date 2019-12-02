@@ -257,17 +257,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12.2
 
 ### Monday, December 2
+- SNOW DAY!!!
+
+### Wednesday, December 4
 - Irregular Verbs: *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
 - **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #32, [**Translation #6 Due**](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit?usp=sharing)
 
-### Wednesday, December 4
-- Review
-- Composition Workshop
-**Homework (due before class)**: Review the morphology of irregular verbs for quiz #33 and prepare for composition workshop
-
 ### Friday, December 6
-- Irregular Verbs: *volō*, *nōlō*, and *mālō*      
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #34; **Composition #6 Due**
+- Irregular Verbs: *volō*, *nōlō*, and *mālō*
+- Composition workshop      
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #33
 
 [Back to top.](#top)
 
@@ -277,15 +276,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, December 9
 - CBL Visit   
-- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #35
+- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #34; **Composition #6 Due**
 
 ### Wednesday, December 11
 - CBL prep time
-- **Homework (due before class)**: Review vocabulary for quiz #36
+- **Homework (due before class)**: Review vocabulary for quiz #35
 
 ### Friday, December 13
 - Looking ahead to Latin 102
-- **Group CBL Materials Due**
+- **Homework (due before class)**: Review principal parts for quiz #36; **Group CBL Materials Due**
 
 [Back to top.](#top)
 
