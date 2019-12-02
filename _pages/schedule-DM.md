@@ -276,7 +276,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, December 9
 - CBL Visit   
-- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #34; **Composition #6 Due**
+- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #34; [**Composition #6 Due**](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit?usp=sharing)
 
 ### Wednesday, December 11
 - CBL prep time
