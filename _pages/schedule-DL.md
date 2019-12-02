@@ -353,7 +353,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - [Deponent Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#deponent-verbs)
 
 ### Wednesday, December 11
-- Review and Practice
+- [4th](https://dlibatique.github.io/LATN101-F19/charts/0-noun-master/#fourth-declension-masculinefeminine) and [5th](https://dlibatique.github.io/LATN101-F19/charts/0-noun-master/#fifth-declension-masculinefeminine) Declensions
 - Translation #6 Revision Due
 
 ### Friday, December 13
