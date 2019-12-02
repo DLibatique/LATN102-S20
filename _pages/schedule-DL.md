@@ -341,7 +341,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ### Friday, December 6
 - [Irregular Verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg#irregular-verbs): *volō*, *nōlō*, and *mālō*  
 - [Charts](https://dlibatique.github.io/LATN101-F19/charts/0-irreg-verb-master)
-- Composition #6 Due
+- [Composition #6](https://docs.google.com/document/d/1xqn1TXLvMlsrNPBsajo-l_oQ0h8aqJNNnNHiPLR_LB8/edit?usp=sharing) Due
 
 [Back to top.](#top)
 
