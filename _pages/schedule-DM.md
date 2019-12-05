@@ -242,7 +242,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 12.1
 
-### Monday, November 25
+### Monday, November 25 [(slides)](https://docs.google.com/presentation/d/1L9F8VpB-vDMNx9Kl-CYgv5Scm2yKJCJwuc1PSPfKBfI/edit?usp=sharing)
 - Review
 - **Homework (due before class)**: Review the morphology and grammar for temporal clauses quiz #31; [**Composition #5 due**](https://docs.google.com/document/d/12T_gs-7NT1A47SJlEYo9VkfW22hN0WQWpgsMqzuE2gw/edit?usp=sharing)
 
@@ -259,14 +259,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, December 2
 - SNOW DAY!!!
 
-### Wednesday, December 4
+### Wednesday, December 4 [(slides)](https://docs.google.com/presentation/d/1dJDoO222pbpC9yxPzalJFo6_ij2tQ0DSM0BZ3EOqNOY/edit?usp=sharing)
 - Irregular Verbs: *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #32, [**Translation #6 Due**](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit?usp=sharing)
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #32, [**Translation #6 Due**](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit?usp=sharing)
 
 ### Friday, December 6
 - Irregular Verbs: *volō*, *nōlō*, and *mālō*
 - Composition workshop      
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #33
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #33
 
 [Back to top.](#top)
 
@@ -276,7 +276,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, December 9
 - CBL Visit   
-- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #34; **Composition #6 Due**
+- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #34; [**Composition #6 Due**](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit?usp=sharing)
 
 ### Wednesday, December 11
 - CBL prep time
