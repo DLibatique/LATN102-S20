@@ -261,12 +261,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, December 4
 - Irregular Verbs: *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*  
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #32, [**Translation #6 Due**](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit?usp=sharing)
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #32, [**Translation #6 Due**](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit?usp=sharing)
 
 ### Friday, December 6
 - Irregular Verbs: *volō*, *nōlō*, and *mālō*
 - Composition workshop      
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #33
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #33
 
 [Back to top.](#top)
 
@@ -276,7 +276,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, December 9
 - CBL Visit   
-- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) for quiz #34; [**Composition #6 Due**](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit?usp=sharing)
+- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #34; [**Composition #6 Due**](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit?usp=sharing)
 
 ### Wednesday, December 11
 - CBL prep time
