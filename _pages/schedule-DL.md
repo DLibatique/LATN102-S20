@@ -364,8 +364,20 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ***
 
-## Study Period: December 14-16
+## 8am Section Deadlines
+
+### Th 12/19 at 11am
+- initial submission of Final Translation and Final Composition Due (if you intend to submit revisions)  
+
+### Sa 12/21 at 11am
+- final submission of Translation #6 revision, Composition #6 revision, Final Translation, and Final Composition all due
 
 ***
 
-## Exam Period: December 17-21
+## 11am Section Deadlines
+
+### M 12/16 at 2:30pm
+- initial submission of Final Translation and Final Composition Due (if you intend to submit revisions)  
+
+### W 12/18 at 2:30pm
+- final submission of Translation #6 revision, Composition #6 revision, Final Translation, and Final Composition all due
