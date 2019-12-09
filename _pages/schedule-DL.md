@@ -354,11 +354,12 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Wednesday, December 11
 - [4th](https://dlibatique.github.io/LATN101-F19/charts/0-noun-master/#fourth-declension-masculinefeminine) and [5th](https://dlibatique.github.io/LATN101-F19/charts/0-noun-master/#fifth-declension-masculinefeminine) Declensions
-- Translation #6 Revision Due
 
 ### Friday, December 13
 - Looking Ahead to Introduction to Latin 2  
-- Composition #6 Revision Due
+- Memorize [Modules 7-8 Vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/7-8/).
+- Write down your commitment for what you'll do for 10-15 minutes per day over break to keep up your Latin before LATN 102 in the spring, and bring it into class today. This will count as one quiz grade.
+
 
 [Back to top.](#top)
 
