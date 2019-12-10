@@ -15,6 +15,7 @@ This is a master list of vocabulary being used this semester. If you are trying 
 ā/ab (+ abl.) - (away) from, by  
 accipiō, accipere, accēpī, acceptus - to accept, receive  
 ācer, ācris, ācre - keen, sharp  
+aciēs, aciēī, f. - battle line  
 ad (+ acc. gerund/gerundive) - for the purpose of  
 ad (+ acc.) - to, toward, at  
 adhuc - still  
@@ -25,6 +26,7 @@ alter, altera, alterum - other, one (of two); *alter...alter* = "one ... the oth
 altus, -a, -um - tall, deep, high  
 amō, amāre, amāvī, amātus - to love  
 annus, -ī, m. - year  
+antequam - before  
 appellō, -āre, -āvī, -ātus - to call, address, name  
 apud (+ acc.) - with, at, by, near  
 ars, artis, f. - art, skill  
@@ -53,10 +55,12 @@ centum (indeclinable) - one hundred
 ceterus, -a, -um - the rest, remaining  
 cīvis, cīvis, m./f. - citizen  
 cognoscō, cognoscere, cognōvī, cognitus - to recognize, understand, perceive, learn  
+conor, conārī, conātus sum - to try (+ inf.)  
 consilium, consiliī, n. - plan, counsel, advice  
 corpus, corporis, n. - body  
 credō, credere, credidī, creditus (+ dat.) - to believe, trust  
 cum (+ abl.) - with  
+cum - when
 cūr - why  
 currō, currere, cucurrī, cursus - to run  
 
@@ -68,11 +72,15 @@ decimus, -a, -um - tenth
 deinde - next, thereafter, thereupon, then  
 difficilis, -e - difficult  
 dīcō, dīcere, dīxī, dictus - to say, speak  
+diēs, diēī, m. - day  
 discēdō, discēdere, discessī, discessūrus - to depart  
 discō, discere, didicī, ----- - to learn  
 dō, dare, dedī, datus - to give  
 doceō, docēre, docuī, doctus - to teach  
+dōnum, -ī, n. - gift  
 dūcō, dūcere, dūxī, ductus - to lead  
+dum (+ indicative) - while, as long as  
+dum (+ subjunctive) - until  
 duo, duae, duo - two  
 dux, ducis, m. - leader  
 
@@ -81,6 +89,7 @@ dux, ducis, m. - leader
 ē/ex (+ abl.) - out of, from  
 ego, nōs - I, me, we, us  
 enim (postpositive) - for  
+eō, īre, īvī/iī, itūrus - to go  
 epistula, -ae, f. - letter  
 est - is (for third-person singular subjects)  
 et - and; *et ... et* - "both ... and"  
@@ -93,7 +102,9 @@ faciō, facere, fēcī, factus - to make, do
 familia, familiae f. - family  
 fātum, fātī, n. - fate  
 fēmina, fēminae, f. - woman  
+ferō, ferre, tulī, lātus - to bear, carry, bring  
 ferox, ferōcis - fierce  
+fidēs, fideī, f. - faith, trust  
 fīlia, fīliae f. - daughter  
 fīlius, fīliī m. - son  
 flūmen, fluminis, n. - river  
@@ -103,6 +114,7 @@ fugiō, fugere, fūgī, fugitus - to flee
 
 ***
 
+genū, genūs, n. - knee  
 genus, generis, n. - family, race, kind, stock, clan  
 
 ***
@@ -112,6 +124,7 @@ hic, haec, hoc (irregular) - this, these
 homō, hominis m. - human, man  
 hora, -ae, f. - hour  
 horribilis, horribile - horrible, terrible  
+hortor, hortārī, hortātus sum - to exhort, encourage  
 hortus, -ī, m. - garden  
 hospitium, -ī, n. - hospitality  
 hostis, -is, m. - enemy  
@@ -151,21 +164,26 @@ līber, lībrī, m. - book
 licet (impersonal) - it is allowed  
 locus, -ī, m. - place  
 longus, -a, -um - long  
+loquor, loquī, locutus sum - to speak, say  
 lux, lūcis, f. - light  
 
 ***
 
 magnus, magna, magnum - great  
+mālō, mālle, māluī - to prefer  
+manus, manūs, f. - hand  
 mare, maris, n. - sea  
 maritus, maritī m. - husband  
 māter, mātris f. - mother  
 mensis, -is, m. - month  
 meus, mea, meum - my  
 mīles, mīlitis, m. - soldier  
+miror, mirārī, mirātus sum - to marvel at, wonder  
 mittō, mittere, mīsī, missus - to send  
 moneō, monēre, monuī, monitus - to warn  
 mons, montis, m. - mountain  
 monstrum, monstrī n. - monster, beast  
+morior, morī, mortuus sum - to die  
 moveō, movēre, mōvī, mōtus - to move  
 multus, multa, multum - much, many  
 
@@ -176,6 +194,7 @@ nāvis, nāvis, f. - ship
 negō, negāre, negāvī, negātus - to deny, to say that ... not  
 neque / nec - and ... not, nor; *neque/nec...neque/nec* - "neither ... nor"  
 nesciō, nescīre, nescīvī, nescītus - not to know, to be ignorant  
+nōlō, nōlle, nōluī - not to want  
 nōmen, nōminis, n. - name  
 nōn - not  
 nonne - (*indicates a question that expects the answer "yes"*)  
@@ -206,10 +225,12 @@ pēs, pedis, m. - foot
 petō, petere, petīvī, petitus - to seek, attack  
 possum, posse, potuī - to be able to, can  
 postea - afterward  
+postquam - after  
 potestas, potestatis, f. - power, ability  
 praeter (+ acc.) - past, beyond; besides, except  
 prīmus, prīma, primum - first  
 prō (+ abl.) - in front of, on behalf of  
+proficiscor, proficiscī, profectus sum - to set out, start, go forth, march, travel, depart  
 propter (+ acc.) - near; because of  
 puella, puellae f. - girl  
 puer, puerī m. - boy  
@@ -224,12 +245,15 @@ quī, quae, quod - which? what?
 quīnque (indeclinable) - five  
 quintus, -a, -um - fifth  
 quis, quid - who? whom? which? what?  
+quod - because  
 
 ***
 
 rēgīna, rēgīnae f. - queen  
 regnum, regnī, n. - kingdom  
 regō, regere, rexī, rectus - to rule  
+reor, rērī, rātus sum - to think, believe, suppose  
+rēs, reī, f. - thing, matter, situation, affair  
 rēx, rēgis m. - king  
 rogō, rogāre, rogāvī, rogātus - to ask  
 
@@ -243,6 +267,7 @@ sed - but
 sedeō, sedēre, sēdī, sessus - to sit  
 septem (indeclinable) - seven  
 septimus, -a, -um - seventh  
+sequor, sequī, secūtus sum - to follow  
 serpēns, serpentis, m./f. - serpent, snake  
 sex (indeclinable) - six  
 sextus, -a, -um - sixth  
@@ -287,10 +312,12 @@ uxor, uxōris f. - wife
 vel - or; *vel...vel* - "either ... or"  
 veniō, venīre, vēnī, ventus - to come  
 verbum, verbī, n. - word  
+vereor, verērī, veritus sum - to fear, be afraid  
 vērus, vēra, vērum - true  
 vester, vestra, vestrum - your (pl.)  
 videō, vidēre, vīdī, visus - to see; (passive) to seem  
 vincō, vincere, vīcī, victus - to conquer, win  
 vir, virī, m. - man  
 vocō, vocāre, vocāvī, vocātus - to call, summon  
+volō, velle, voluī - to want, wish  
 vox, vocis, f. - voice  
