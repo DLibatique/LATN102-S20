@@ -140,7 +140,7 @@ imperō, -āre, -āvī, -ātus - to command
 impleō, implēre, implēvī, implētus - to fill up  
 in (+ abl.) - in, on  
 in (+ acc.) - into  
-incipiō, incipere, incēpī, inceptus - to begin  
+incipiō, incipere, incēpī, inceptus - to begin (+ inf.)  
 incolumis, incolume - unharmed, safe  
 inde - from there, thence  
 infestus, -a, -um - hostile, enemy  
