@@ -360,8 +360,13 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Memorize [Modules 7-8 Vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/7-8/).
 - Write down your commitment for what you'll do for 10-15 minutes per day over break to keep up your Latin before LATN 102 in the spring, and bring it into class today. This will count as one quiz grade.
 
-
 [Back to top.](#top)
+
+***
+
+## Final Assignment Links
+
+- [Final Translation](https://docs.google.com/document/d/1MgJYnjseXIlIn1wlb16d30B2iCIOZIf6frjsM1TsQzU/edit?usp=sharing)
 
 ***
 
