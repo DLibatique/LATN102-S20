@@ -367,6 +367,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Final Assignment Links
 
 - [Final Translation](https://docs.google.com/document/d/1MgJYnjseXIlIn1wlb16d30B2iCIOZIf6frjsM1TsQzU/edit?usp=sharing)
+- [Final Composition](https://docs.google.com/document/d/1U9H27SCWNFnsTXN3osBV6n78b-xYMUPz_NcXw2YaWAk/edit?usp=sharing)
 
 ***
 
