@@ -22,7 +22,7 @@ Here is a list of slideshows used in Prof. Libatique's sections.
 12. [Module 6 - Indirect Statement](https://docs.google.com/presentation/d/1QA2Lj3tx4o6onQhbe0mnaxywlL9qBy13qGRas3AQNMM/edit?usp=sharing)
 13. [Module 2 - Subjunctive Overview and Formation](https://docs.google.com/presentation/d/1JPs8ZhndSDU9WrY-bdm8qSXwzpjpb7jkgkhEa8dmRLQ/edit?usp=sharing)
 14. [Modules 5 and 7 - Deliberative Subjunctive, Dependent Clauses, Temporal Clauses, Sequence of Tenses](https://docs.google.com/presentation/d/1XVGEt-cZNMP9q-zwvfN6TBlzY0Cy6W8I90BZaz9Zx1w/edit?usp=sharing)
-15. [Module 8 - Irregular Verbs and Deponent Verbs](https://docs.google.com/presentation/d/17_bn4tFiuDBu95RgrcfLFQQTmSVOsop7kwXx1iBYnBA/edit?usp=sharing)
+15. [Module 8 - Irregular Verbs, Deponent Verbs, 4th and 5th Declension](https://docs.google.com/presentation/d/17_bn4tFiuDBu95RgrcfLFQQTmSVOsop7kwXx1iBYnBA/edit?usp=sharing)
 
 Reviews:
 1. [Noun-Adj. Agreement](https://docs.google.com/presentation/d/1EkCLQJZY03byyxmrzuXVWRN9zE281z98HIlLdOn96s8/edit?usp=sharing)
