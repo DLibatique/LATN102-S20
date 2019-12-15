@@ -23,6 +23,7 @@ Here is a list of slideshows used in Prof. Libatique's sections.
 13. [Module 2 - Subjunctive Overview and Formation](https://docs.google.com/presentation/d/1JPs8ZhndSDU9WrY-bdm8qSXwzpjpb7jkgkhEa8dmRLQ/edit?usp=sharing)
 14. [Modules 5 and 7 - Deliberative Subjunctive, Dependent Clauses, Temporal Clauses, Sequence of Tenses](https://docs.google.com/presentation/d/1XVGEt-cZNMP9q-zwvfN6TBlzY0Cy6W8I90BZaz9Zx1w/edit?usp=sharing)
 15. [Module 8 - Irregular Verbs, Deponent Verbs, 4th and 5th Declension](https://docs.google.com/presentation/d/17_bn4tFiuDBu95RgrcfLFQQTmSVOsop7kwXx1iBYnBA/edit?usp=sharing)
+16. [Fall 2019 Summary, Spring 2020 Preview](https://docs.google.com/presentation/d/1fYQ8eDc8HrmHJjM88AzAEQlzfcyM7zPlqFNbEgSsDDA/edit?usp=sharing)
 
 Reviews:
 1. [Noun-Adj. Agreement](https://docs.google.com/presentation/d/1EkCLQJZY03byyxmrzuXVWRN9zE281z98HIlLdOn96s8/edit?usp=sharing)
