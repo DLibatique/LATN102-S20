@@ -3,7 +3,7 @@ layout: subpage
 title: Vocabulary Master - First Semester
 ---
 
-This is a master list of vocabulary being used this semester. If you are trying to memorize entries and definitions, it is much better to work off the individual module vocabulary lists linked on the [Notes, Charts, and Vocabulary page](https://dlibatique.github.io/LATN101-F19/notes-charts-and-vocab). It is best to use this master list to look up specific words.
+This is a master list of vocabulary that was used in LATN 101 in Fall 2019.
 
 ***
 
