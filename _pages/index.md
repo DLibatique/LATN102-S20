@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Introduction to Latin 1 - Fall 2019
+# Introduction to Latin 2 - Spring 2020
 
 ## Course Information - Section 01
 **Meeting Time:** MWF 9am to 9:50am  
