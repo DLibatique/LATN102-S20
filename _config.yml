@@ -9,19 +9,19 @@ permalink:        pretty
 
 # Setup
 title:            Introduction to Latin
-tagline:          'LATN 101'
-course_number:    'LATN 101'
-semester:         'Fall 2019'
+tagline:          'LATN 102'
+course_number:    'LATN 102'
+semester:         'Spring 2020'
 location:         'College of the Holy Cross'
-url:              https://dlibatique.github.io/LATN101-F19
+url:              https://libatique.info/LATN102-S20
 baseurl:          /
 
 author:
   name:           'Daniel Libatique'
-  url:            https://dlibatique.github.io
+  url:            https://libatique.info
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/dlibatique/LATN101-F19
+  repo:           https://github.com/dlibatique/LATN102-S20
