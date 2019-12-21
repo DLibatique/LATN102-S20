@@ -11,7 +11,7 @@ permalink: /
 **Meeting Place:** TBD  
 **Instructor:** Prof. Dominic Machado (he/him/his)  
 **Office:** Fenwick 413  
-**Office hours:** TBD
+**Office hours:** TBD  
 **E-mail:** dmachado [at] holycross.edu  
 
 ## Course Information - Sections 02, 03
