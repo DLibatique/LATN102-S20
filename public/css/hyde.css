@@ -267,13 +267,13 @@ a.sidebar-nav-item:focus {
 }
 
 #form {
-    border: 1px solid #75b5aa;
+    border: 1px solid #ac4142;
     width: 50%;
     padding: .5rem;
 }
 
 button {
-  background-color: #75b5aa; /* purple */
+  background-color: #ac4142; /* red */
   border: 1px solid white;
   color: white;
   padding: 10px;
