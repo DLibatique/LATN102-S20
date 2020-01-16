@@ -70,6 +70,39 @@ Review the conjugation of [irregular verbs](https://libatique.info/LATN102-S20/c
 Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. Begin working on composition for the workshop.
 
 ### Friday, February 7
-- Participles
+- Review of Participles
 - **Homework (due before class)**:
-Review the morphology of participles for quiz #7. **Composition #2 due**.
+Review the morphology of participles for quiz #7. **Composition #1 due**.
+
+## Week 4
+
+### Monday, February 10
+- Relative Clauses
+- **Homework (due before class)**:  Read and study the section on relative clauses in preparation for quiz #8.
+
+### Wednesday, February 12
+- Relative Clauses (cont'd)
+- **Homework (due before class)**:
+Review the morphology of relative clauses in preparation for quiz #9.
+
+### Friday, February 14
+- Review
+- **Homework (due before class)**:
+Review the new vocabulary for this semester for quiz #10.
+
+## Week 5
+
+### Monday, February 17
+- Purpose Clauses
+- **Homework (due before class)**:  Read and study the section on purpose clauses in preparation for quiz #11.
+
+### Wednesday, February 19
+- Purpose Clauses (cont'd)
+- **Homework (due before class)**:
+Review the section on purpose clauses in preparation for quiz #12. **Translation #2 due**.
+
+### Friday, February 21
+- Result Clauses
+- Composition Workshop
+- **Homework (due before class)**:
+Read and study the section on result clauses in preparation for quiz #13. Prepare composition #2 for the workshop.
