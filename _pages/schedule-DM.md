@@ -88,7 +88,7 @@ Review the morphology of relative clauses in preparation for quiz #9.
 ### Friday, February 14
 - Review
 - **Homework (due before class)**:
-Review the new vocabulary for this semester for quiz #10.
+Review the vocabulary from Modules 1 and 2 for quiz #10.
 
 ## Week 5
 
@@ -106,3 +106,36 @@ Review the section on purpose clauses in preparation for quiz #12. **Translation
 - Composition Workshop
 - **Homework (due before class)**:
 Read and study the section on result clauses in preparation for quiz #13. Prepare composition #2 for the workshop.
+
+## Week 6
+
+### Monday, February 24
+- Causal Clauses
+- **Homework (due before class)**:  Read and study the section on causal clauses in preparation for quiz #14. **Composition #2 due**.
+
+### Wednesday, February 26
+- Concessive Clauses
+- **Homework (due before class)**:
+Read and study the section on concessive clauses in preparation for quiz #15.
+
+### Friday, February 28
+- Fear Clauses
+- Proviso Clauses
+- **Homework (due before class)**:
+Read and study the section on fear and proviso clauses in preparation for quiz #16.
+
+## Week 7 (after spring break)
+
+### Monday, March 9
+- Review of Subordinate Clauses
+- **Homework (due before class)**:  Review the vocabulary for Modules 3 and 4 for quiz #17 and read and review the sections of purpose and result clauses.
+
+### Wednesday, March 11
+- Review of Subordinate Clauses
+- **Homework (due before class)**:
+Read and review the sections on causal, concessive, proviso, and fear clauses in preparation for quiz #18.
+
+### Friday, March 13
+- CBL Prep
+- **Homework (due before class)**:
+Begin preparations for upcoming lesson plans for your CBL section. **Translation #3 due**.
