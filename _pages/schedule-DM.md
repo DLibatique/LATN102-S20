@@ -60,30 +60,30 @@ Review the conjugation of [irregular verbs](https://libatique.info/LATN102-S20/c
 ## Week 3
 
 ### Monday, February 3
-- Participles
-- **Homework (due before class)**:  Read the section on participles in preparation for quiz #5. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. **Translation #1 due**.
+- Relative Clauses
+- **Homework (due before class)**:  Read and study the section on relative clauses in preparation for quiz #5. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. **Translation #1 due**.
 
 ### Wednesday, February 5
-- Morphology of Participles
+- Relative Clauses (cont'd)
 - Composition Workshop
 - **Homework (due before class)**:
-Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. Begin working on composition for the workshop.
+Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. Begin working on the composition for the workshop.
 
 ### Friday, February 7
-- Review of Participles
-- **Homework (due before class)**:
-Review the morphology of participles for quiz #7. **Composition #1 due**.
+- Participles
+- **Homework (due before class)**:  Review the morphology of relative clauses in preparation for quiz #7. **Composition #1 due**.
 
 ## Week 4
 
 ### Monday, February 10
-- Relative Clauses
-- **Homework (due before class)**:  Read and study the section on relative clauses in preparation for quiz #8.
+- Morphology of Participles
+- **Homework (due before class)**:
+Read and study the section on participles for quiz #8.
 
 ### Wednesday, February 12
-- Relative Clauses (cont'd)
+- Review of Participles
 - **Homework (due before class)**:
-Review the morphology of relative clauses in preparation for quiz #9.
+Review the morphology of participles for quiz #9.
 
 ### Friday, February 14
 - Review
