@@ -1,6 +1,7 @@
 ---
 layout: subpage
 title: Module 11 - Expressions of Result
+author: DM
 ---
 
 ***
