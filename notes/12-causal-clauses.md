@@ -33,4 +33,23 @@ Note in the sentence above, it would not make any sense if you translate it as "
 
 If there is a causal clause in indirect statement, the causal clause will always have a subjunctive verb. Can you think of reason why this might be the case?
 
-## Additional Practice
+As noted [earlier](), participles can also be translated causally.
+
+## Practice Opportunities
+
+Identify the Latin word that we would translate causally in each sentence. Then translate the sentence.
+
+1. Irata est quia sola ausa fuit Herculis sacrum aedifacre.
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">"quia; She was angry because she alone dared to build an altar for Hercules."</span>
+
+2. Sed quod pecus Solis erat violatum, Iovis navem eius fulmine incendit.
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">"quod; But because the cattle of the Sun had been violated, Jupiter burned the ship with his lightning bolt."</span>
+
+3. Apollo autem, quod liberaliter ab Adrasto esset acceptus, aprum et leonem ei tradidit.
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">"quod; Apollo, however, because, to his mind, he had been received kindly, gave him a boar and lion."</span>
+
+4. Longius prosequi veritus, ad Ciceronem pervenit.
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">"veritus (the participle is causal); Because he was afraid to follow further, he approached Cicero."</span>
+
+5. Cum femina eius maritum amaret, ad castrum, quod tunc in agro erat, pervenit.
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">"cum (the quod is a relative pronoun referring to castrum); Because she loved her husband, she arrived at the camp, which was then in the field."</span>
