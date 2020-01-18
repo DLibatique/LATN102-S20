@@ -30,7 +30,7 @@ Concessive clauses are dependent clauses that indicate that the action of the de
 
 - Cum puerum amaret, tamen ex urbe abiit. (Although he loved the girl, he nevertheless left the city.)
 
-Note in the sentence above, it would not make any sense if you translate it as "although."
+Note in the sentence above, it would not make any sense if you translate it anything other than "although."
 
 Once again, if there is a concessive clause in indirect statement, the concessive clause will always have a subjunctive verb.
 
