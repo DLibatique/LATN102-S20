@@ -34,4 +34,18 @@ Note in the sentence above, it would not make any sense if you translate it anyt
 
 Once again, if there is a concessive clause in indirect statement, the concessive clause will always have a subjunctive verb.
 
-## Additional Practice
+## Practice Opportunities
+
+Find the concessive clause and then translate the sentence.
+
+1. Quamquam Romani fessi erant, tamen hostes oppugnaverunt.
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">"quamquam Romani fessi erant; Although the Romans were tired, they nevertheless attacked the enemies."</span>
+
+2. Quamvis sit magna exspectatio, eam vinces.
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">"quamvis sit magna exspectatio; Although the expectation is great, you will surpass (lit. conquer) it."</span>
+
+3. Cum te semper amaverim, hodie meliori amore amo.
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">"cum te semper amaverim; Although I have always loved you, today I love you today with a greater love."</span>
+
+4. Licet meliora carmina femina scribat, tamen ad ludos vir delectus est.
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">"Licet meliora carmina femina scribat; Although the woman writes better poetry, a man was chosen for the games."</span>
