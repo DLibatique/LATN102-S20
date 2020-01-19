@@ -27,13 +27,13 @@ Below are some examples of proviso clauses (subjunctive verbs in the proviso cla
 Identify the type(s) of subordinate clause in the following sentences and, then, translate.
 
 1. Cum Agamemnon et Menelaus, Atrei filii, ad Troiam oppugnandam duces ducerent, in insulam Ithacam ad Ulixem, Laertis filium, venerunt.
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">circumstantial cum clause; When Agamenon and Menelaus were leading the (other) leader to besiege Troy, they came to the island of Ithaca to Ulysses, the son of Laertes."</span>
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">"circumstantial cum clause; When Agamenon and Menelaus were leading the (other) leader to besiege Troy, they came to the island of Ithaca to Ulysses, the son of Laertes."</span>
 
 2. Tempestas eos ira Dianae retinebat, quod Agamemnon in venando cervam eius violavit.
-<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">causal clause (from point of view of author) with quod; A storm was retaining them on account of the wrath of Diana because Agamemnon harmed her deer in a hunt."</span>
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">"causal clause (from point of view of author) with quod; A storm was retaining them on account of the wrath of Diana because Agamemnon harmed her deer in a hunt."</span>
 
 3. Tunc Clytaemnestra cum Aegistho, filio Thyestis, cepit consilium ut Agamemnonem et Cassandram interficeret.
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">purpose clause with ut; Then Clytaemnestra took up a plan with Aegisthus, the son of Thyestes, to kill Agamenon and Cassandra."</span>
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">"purpose clause with ut; Then Clytaemnestra took up a plan with Aegisthus, the son of Thyestes, to kill Agamenon and Cassandra."</span>
 
 4. Dummodo Latinam linguam legat, magna poeta erit.
-<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">proviso clause with dummodo; Provided that she reads the Latin language, she will be a great poet."</span>
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">"proviso clause with dummodo; Provided that she reads the Latin language, she will be a great poet."</span>
