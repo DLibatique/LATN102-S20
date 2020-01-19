@@ -62,11 +62,24 @@ Note that **there is no present passive participle.**
 
 ### Perfect Passive Participle
 
-The **perfect passive participle**, or PPP for short, is already familiar to you from the dictionary entries of verbs: the PPP is the **4th principal part**.
+The **perfect passive participle**, or PPP for short, is already familiar to you from the dictionary entries of verbs: the PPP is the **4th principal part** and it functions as a 2-1-2 adjective.
+
+When translated literally, the PPP means **"having been (blank)ed."** For example, **amatus puer** = "the boy, having been loved." This, however, sounds like stilted translation-ese rather than actual English, so there are a number of ways to make the translation of the PPP more idiomatic in English -- see the section on [translating participles](#translating-participles) below.
+
+### Future Active Participle
+
+The **future active participle** indicates that the noun being described is **about to** or **going to** do something.
 
 ***
 
 ## Translating Participles
+
+**The song, having been sung, should be memorized by the students, going to learn.**
+
+Try saying this previous sentence out loud and notice how stilted it sounds. We have two participles, **having been sung** and **going to learn**, but their literal translations 
+
+1. **literal**
+2. **relative clause**
 
 ***
 
