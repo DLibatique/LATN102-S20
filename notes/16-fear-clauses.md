@@ -21,3 +21,19 @@ When translating a fear clause, we translate **ne** as that. If the verb in the 
 - Timuit ut uxor amaret. ("He was afraid that his wife did not love him.")
 
 ## Additional Practice
+
+## Practice Opportunities
+
+Identify the type(s) of subordinate clause in the following sentences and, then, translate.
+
+1. Verita est ne discordia ex ea re nasceretur.
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">"fear clause introduced by verita est ne; She was fearful that discord would be borne from this circumstance."</span>
+
+2. Interim Atreus mittit Agamemnonem et Menelaum filios ad quaerendum Thyestem, qui tunc ad Delphos ibant.
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">"relative clause; Meanwhile Atreus sent Agamemnon and Menelaus, his sons, to find Thyestes, who was, then, going to Delphi."</span>
+
+3. Minos, cuius filius Androgeus in pugna erat occisus, cum Atheniensibus belligeravit.
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">"relative clause; Minos, whose son Androgeius had been killed in battle, fought with the Athenians."</span>
+
+4. Iovis fecit ut septem aetates viveret.
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">"result clause; Jupiter made it so that he lived for seven lifetimes."</span>
