@@ -18,26 +18,55 @@ Dummy Navigation
 
 ***
 
-## Dummy Header
+## Participles - Overview
 
-Dummy Content
+**Participles** are **verbal adjectives**. That means that they are built off Latin verb forms but modify nouns. Take a look at some examples of participles in English:
 
-To summarize, nouns have:
+- The **laughing** boy appreciated the joke.
+- We sang the **praised** song.
+- The dog, **about to jump**, was growling.
 
-- Grammatical Gender
-  * Feminine
-  * Masculine
-  * Neuter
-- Number
-  * Singular
-  * Plural
-- Case
-  * Nominative
-  * Genitive
-  * *Dative*
-  * *Accusative*
-  * *Ablative*
-  * *Vocative*
+These participles modify nouns because they tell us what that noun is doing or about to do or what has been done to that noun. So, participles in Latin will look like Latin adjectives, either a 2-1-2 or a one-termination, and either agree with an explicit noun in the sentence or be used as a substantive.
+
+***
+
+## Types of Participles
+
+Participles in Latin have a **tense** (present, perfect, and future) and a **voice** (active or passive). There are only **four** tense-voice combinations for participles in Latin, two of which you've already met!
+
+### Present Active Participle
+
+The **present active participle** is often translated as the "-ing" form of the verb; for example, "singing", "laughing", "praising", "hearing."
+
+This is easy to confuse, however, with the **gerund**, a verbal *noun* that also ends in -ing. It is important to keep in mind the difference between a participle and a gerund: the participle is a verbal *adjective* that usually modifies a noun, and the gerund is a verbal *noun* that stands on its own. If you need to determine whether an -ing form in English is a participle or a gerund, try to add the words "the act of" before the -ing form. If the sentence still makes sense, the -ing form is a gerund; if not, it's a participle. For example:
+
+- We cheered him up by **singing**.
+  - We cheered him up by *the act of* **singing**. = gerund
+
+- The **singing** girl was very loud.
+  - The *the act of* **singing** girl was very loud. = participle
+
+In order to form the **present active participle**, we use the **second principal part**.
+  - If a 1st, 2nd, or 3rd conj. verb, chop off the -re, and then add the endings **-ns, -ntis** to form a **one-termination** adjective.
+  - If a 3rd -iō or 4th conj. verb, chop off the -re, change the vowel to **-ie-**, and then add your **-ns, -ntis**.
+
+For example:
+
+- laudāre > laudans, laudantis, "praising"
+- monēre > monens, monentis, "warning"
+- regere > regens, regentis, "ruling"
+- capere > capiens, capientis, "seizing"
+- audīre > audiens, audientis, "listening, hearing"
+
+Note that **there is no present passive participle.**
+
+### Perfect Passive Participle
+
+The **perfect passive participle**, or PPP for short, is already familiar to you from the dictionary entries of verbs: the PPP is the **4th principal part**.
+
+***
+
+## Translating Participles
 
 ***
 
