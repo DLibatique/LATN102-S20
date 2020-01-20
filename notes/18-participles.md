@@ -2,6 +2,7 @@
 layout: subpage
 title: Module 18 - Participles
 author: DL
+permalink: participles
 ---
 
 - [Participles - Overview](#participles---overview)
