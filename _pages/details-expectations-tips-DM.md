@@ -36,6 +36,8 @@ If you miss or are going to miss class, please e-mail me to let me know what is 
 
 You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on any assignment (for instance, using unauthorized notes to help answer questions, copying another student’s answers, or employing online translation programs) will result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
 
+I want to add one final point of clarification about how collaboration intersects with academic dishonesty. We encourage you to collaborate with your classmates to answer  questions, clarify difficult topics, and practice grammatical and syntactic concepts. However, in the end, your work on assignments and assessments must be your own. Replications of another student's work at the sentence or paragraph level, especially of any mistakes that that work may contain, or having external helpers like tutors generate your work for you both qualify as academic dishonesty and will be penalized accordingly.
+
 ### Accommodations
 
 Students who need accommodations should notify the instructor as soon as possible and work through the [Office of Accessibility Services](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services).
