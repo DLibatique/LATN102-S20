@@ -42,9 +42,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, February 05
 - Participles: Relative Tense and Translation
+- Translation #1 Due
 
 ## Friday, February 07
 - Participles: Ablative Absolute
+- Composition #1 Due
 
 ***
 
@@ -54,7 +56,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - Relative Clauses: Formation, Identification
 
 ## Wednesday, February 12
-- Relative Clauses: Characteristic
+- Relative Clauses: Connecting, Characteristic
 
 ## Friday, February 14
 - Review
@@ -68,9 +70,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, February 19
 - Purpose (Relative Clause of Purpose, Future Active Participle)
+- Translation #2 Due
 
 ## Friday, February 21
 - Result (ut/ut nōn, noun result)
+- Composition #2 Due
 
 ***
 
@@ -98,9 +102,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, March 11
 - Subjunctive Orders: Jussive, Hortatory, Prohibition
+- Translation #3 Due
 
 ## Friday, March 13
 - Imperative Mood, Review
+- Composition #3 Due
 
 ***
 
@@ -124,9 +130,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, March 25
 - Conditions
+- Translation #4 Due
 
 ## Friday, March 27
 - Conditions
+- Composition #4 Due
 
 ***
 
@@ -161,9 +169,11 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, April 15
 - Reading
+- Translation #5 Due
 
 ## Friday, April 17
 - Reading
+- Composition #5 Due
 
 ***
 
@@ -203,3 +213,5 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Study Period: 5/5 - 5/6
 
 ## Exam Period: 5/7 - 5/13
+
+**Final Translation and Composition Due TBD**
