@@ -78,12 +78,12 @@ Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) fro
 ### Monday, February 10
 - Morphology of Participles
 - **Homework (due before class)**:
-Read and study the section on participles for quiz #8.
+Read and study the section on [participles](https://libatique.info/LATN102-S20/participles) for quiz #8.
 
 ### Wednesday, February 12
 - Review of Participles
 - **Homework (due before class)**:
-Review the morphology of participles for quiz #9.
+Review the morphology of [participles](https://libatique.info/LATN102-S20/participles) for quiz #9.
 
 ### Friday, February 14
 - Review
