@@ -7,7 +7,17 @@ permalink: relative
 
 ***
 
-[Relative Clauses - Overview](#relative-clauses---overview) \|
+## Navigation
+- [Relative Clauses - Overview](#relative-clauses---overview)  
+- [Identifying Relative Clauses](#identifying-relative-clauses)
+  - [Practice Opportunity 1](#practice-opportunity-1)
+- [Gender, Number, and Case of Relative Pronouns](#gender-number-and-case-of-relative-pronouns)
+  - [Practice Opportunity 2](#practice-opportunity-2)
+- [Locating the Antecedent](#locating-the-antecedent)
+  - [Practice Opportunity 3](#practice-opportunity-3)
+- [Connecting Relative](#connecting-relative)
+- [Relative Clause of Characteristic](#relative-clause-of-characteristic)
+  - [Practice Opportunity 4](#practice-opportunity-4)
 
 ***
 
@@ -63,6 +73,8 @@ Identify the relative clause in the following sentences. Do not translate (unles
 4. verba quae mihi dicenda sunt dīcō.  
 <button onclick="toggleDisplay('prac04')">Click here to toggle the answer:</button> <span style="display: none;" id="prac04">quae mihi dicenda sunt; I am saying the words that must be said by me.</span>
 
+[Back to top.](#top)
+
 ***
 
 ## Gender, Number, and Case of Relative Pronouns
@@ -99,6 +111,8 @@ In each of the following English sentences, identify the relative clause, and de
 8. I don't trust the woman whose husband we recognized.  
 <button onclick="toggleDisplay('prac08')">Click here to toggle the answer:</button> <span style="display: none;" id="prac08">whose husband we recognized; genitive; fēminae cuius maritum cognōvimus nōn crēdō.</span>
 
+[Back to top.](#top)
+
 ***
 
 ## Locating the Antecedent
@@ -125,10 +139,60 @@ In each of the following sentences, parse the relative pronoun, identify and par
 12. illī librī hīs puellīs legendī sunt quae discere volunt.  
 <button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">quae - fem. nom. pl.; puellīs - fem. dat. pl.; Those books must be read by these girls who want to learn.</span>
 
+[Back to top.](#top)
+
+***
+
+## Connecting Relative
+
+If a relative pronoun comes at the very beginning of a sentence, it is often being used as a **connecting relative**, an odd combination of a coordinating conjunction and a pronoun. Depending on the gender and number of the relative pronoun, it can be used to refer to an entity in the previous sentence or the whole idea encapsulated in the previous sentence, and it can sometimes be prefaced by "and", such that:
+
+- **quī** = **et is**
+- **quae** = **et ea**
+- **quod** = **et id**
+
+etc.
+
+Take a look at the following examples:
+
+- dux interfectus est. **quod** cum mīlitēs vīdissent, fūgērunt.
+  - The leader was killed. **(And)** when the soldiers had seen **this**, they fled.
+- frātrēs patrem suum vidēre voluērunt; **quem** cum vidēre possent, laetī erant.
+  - The brothers wanted to see their father. **(And)** when they were able to see **him**, they were happy.
+
+This **connecting relative** often, though not always, is used in a **cum** clause, and the **cum** is often postponed until after the connecting relative, as in the examples above.
+
 ***
 
 ## Relative Clause of Characteristic
 
-There are two **adverbial** uses of the relative clause. One, you will learn in the module on purpose clauses: [relative clauses of purpose](#). The other, you will learn now: **relative clauses of characteristic**.
+All of the relative clauses that we've seen use indicative verbs because the clause is describing a definite antecedent. However, we can also use a **subjunctive verb** in the relative clause when the antecedent is **general, indefinite, interrogative, or negative**. This use of a relative clause with a subjunctive clause is called a **relative clause of characteristic**, because it defines a quality or characteristic of an antecedent that itself is general, indefinite, etc.
 
-### Practice Opportunities
+In translation, we can sometimes use the auxiliary verb "would" to render the subjunctive, and the antecedent can sometimes be prefaced by "the sort of" or "the kind of". We also often have to supply words in our translation based on, e.g., the gender and number of pronouns or nouns to help the translation make sense.
+
+Take a look at the following examples:
+
+- **quis est cui credāmus?** Who is there whom we would trust?
+- **eī nōn sunt quī hoc faciant.** They are not the kind of people who would do this.
+- **is erat quī veritātem dīceret**. He was the sort of guy who would speak the truth. (veritās, veritātis, f. - truth)
+- **nēmō est quī hostem petere possit**. There is no one who can attack the enemy.
+
+### Practice Opportunity 4
+
+Identify whether each of the following sentences uses a **relative clause of characteristic**, a **connecting relative**, or a straightforward **relative clause**. Then, translate.
+
+13. haec est quae id putet.  
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">relative clause of characteristic; This is the kind of woman who would think this.</span>
+
+14. haec est quae id putat.  
+<button onclick="toggleDisplay('prac14')">Click here to toggle the answer:</button> <span style="display: none;" id="prac14">relative clause; This is the woman who thinks this.</span>
+
+15. mīles pulcher est. quem cum vidērēmus, mirābāmur.  
+<button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">connecting relative; The soldier is handsome. When we saw him, we marveled.</span>
+
+16. mīles est quem mirēmur.  
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">relative clause of characteristic; The soldier is the kind of man whom we would marvel at.</span>
+
+[Back to top.](#top)
+
+***
