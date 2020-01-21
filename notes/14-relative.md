@@ -43,6 +43,8 @@ Here, **quī, quae, quod** as a **relative pronoun** stands on its own and intro
 
 You can find the paradigm chart for the relative pronoun [here](pronoun-chart#relative).
 
+Note also some special translations. The **genitive** of the relative pronoun usually indicates possession, so we can translate it as **"whose"**. Also, when a relative pronoun refers to a person, translations of oblique cases that indicate object status, like an accusative direct object or dative indirect object, will often use the form **"whom"**, since that is the objective form of the relative pronoun in English ("who" is subjective!).
+
 Take a look at the following examples, with the relative clause, introduced by the relative pronoun, in bold:
 
 - vīdimus virōs **quī ā nāvibus veniēbant**. We saw the men **who were coming from the ships**.
@@ -83,33 +85,33 @@ This is the most important rule when it comes to using relative pronouns in Lati
 
 - vīdimus virōs **quī ā nāvibus veniēbant**. We saw the men **who were coming from the ships**.
 
-According to our chart, the relative pronoun **quī** can be either masculine nominative singular or masculine nominative plural. Either way, it has to be the subject of its clause (because nominative), and the clause contains the plural verb **veniēbant**; therefore, **quī** must be **masculine nominative plural**. Within the relative clause "...who were coming from the ships", "who" / **quī**, our relative pronoun, serves as the subject of "were coming" / **veniēbant**, so it makes sense that that pronoun is nominative. The pronoun takes its case from its function within its clause.
-
-Notice, however, that the antecedent of **quī** is **virōs**, which is **masculine accusative plural**. **quī** takes its **gender and number** (masculine and plural) but **NOT its case**. **quī** serves as the subject of the relative clause, but its antecedent **virōs** serves as the direct object of the main clause. Relative pronoun and antecedent share gender and number but not necessarily case. To put it differently:
+According to our chart, the relative pronoun **quī** can be either masculine nominative singular or masculine nominative plural. Either way, it has to be the subject of its clause (because nominative), and the clause contains the plural verb **veniēbant**; therefore, **quī** must be **masculine nominative plural**. Within the relative clause "...who were coming from the ships", "who" / **quī**, our relative pronoun, serves as the subject of "were coming" / **veniēbant**, so it makes sense that that pronoun is nominative. The pronoun takes its case from its function within its clause. To put it differently:
 
 **The relative takes its CASE from its PLACE in its own SPACE.**
+
+Notice, however, that the antecedent of **quī** is **virōs**, which is **masculine accusative plural**. **quī** takes its **gender and number** (masculine and plural) but **NOT its case** from **virōs**. **quī** serves as the subject of the relative clause, but its antecedent **virōs** serves as the direct object of the main clause. Relative pronoun and antecedent share gender and number but not necessarily case.
 
 Another example to illustrate this idea:
 
 - rex fēminae **ā quā doctus erat** crēdidit. The king trusted the woman **by whom he had been taught**.
 
-Our relative pronoun **quā** can only be one thing: feminine ablative singular. It is ablative because it is being used in an ablative of agent construction within the relative clause: "...**by whom** he had been taught." Its gender and number, feminine and singular, come from its antecedent, **fēminae**, which is being used as a dative object of **crēdidit** in the main clause.
+Our relative pronoun **quā** can only be one thing: feminine ablative singular. It is ablative because it is being used in an ablative of agent construction within the relative clause: **ā quā** doctus erat, "...**by whom** he had been taught." Its gender and number, feminine and singular, come from its antecedent, **fēminae**, which is being used as a dative object of **crēdidit** in the main clause.
 
 ### Practice Opportunity 2
 
-In each of the following English sentences, identify the relative clause, and determine what **case** the relative pronoun would be in Latin according to its use within the clause. Do not translate into Latin (unless you feel adventurous!).
+In each of the following English sentences, identify the relative clause, and determine what **case and use** the relative pronoun would be in Latin according to its use within the clause. Do not translate into Latin (unless you feel adventurous!).
 
 5. We were attacked by the sailors who had come from the sea.  
-<button onclick="toggleDisplay('prac05')">Click here to toggle the answer:</button> <span style="display: none;" id="prac05">who came from the sea; nominative; ā nautīs quī ā marī vēnerant petitī sumus.</span>
+<button onclick="toggleDisplay('prac05')">Click here to toggle the answer:</button> <span style="display: none;" id="prac05">who had come from the sea; nominative, subject; ā nautīs quī ā marī vēnerant petitī sumus.</span>
 
 6. The citizens to whom we gave peace nevertheless did not encourage us. (tamen - nevertheless)  
-<button onclick="toggleDisplay('prac06')">Click here to toggle the answer:</button> <span style="display: none;" id="prac06">to whom we gave peace; dative; cīvēs quibus pacem dedimus tamen nōs nōn hortātī sunt.</span>
+<button onclick="toggleDisplay('prac06')">Click here to toggle the answer:</button> <span style="display: none;" id="prac06">to whom we gave peace; dative, indirect object; cīvēs quibus pacem dedimus tamen nōs nōn hortātī sunt.</span>
 
 7. He slept near the river from which my family brought the water. (prope + acc. - near)  
-<button onclick="toggleDisplay('prac07')">Click here to toggle the answer:</button> <span style="display: none;" id="prac07">from which my family brought the water; ablative; prope flūmen ā quō familia mea aquam tulit dormīvit.</span>
+<button onclick="toggleDisplay('prac07')">Click here to toggle the answer:</button> <span style="display: none;" id="prac07">from which my family brought the water; ablative of motion from; prope flūmen ā quō familia mea aquam tulit dormīvit.</span>
 
 8. I don't trust the woman whose husband we recognized.  
-<button onclick="toggleDisplay('prac08')">Click here to toggle the answer:</button> <span style="display: none;" id="prac08">whose husband we recognized; genitive; fēminae cuius maritum cognōvimus nōn crēdō.</span>
+<button onclick="toggleDisplay('prac08')">Click here to toggle the answer:</button> <span style="display: none;" id="prac08">whose husband we recognized; genitive of possession; fēminae cuius maritum cognōvimus nōn crēdō.</span>
 
 [Back to top.](#top)
 
@@ -122,6 +124,12 @@ The relative clause will often be located close to its antecedent, but sometimes
 - rex fēminae crēdidit **ā quā doctus erat**.
 
 When it isn't immediately clear what the antecedent of a relative pronoun is, you must use the **gender and number** of the relative pronoun to try to figure it out. **quā** is feminine singular, so we're looking for some noun, pronoun, or substantive adjective in the main clause that is feminine singular. The two nouns are **rex** and **fēminae**; of these two, the only possible choice is **fēminae** (as **rex** has to be masculine).
+
+Even though the relative clause may be separated from its antecedent in Latin, in English, it makes more idiomatic sense to translate the relative clause immediately after its antecedent. For example, in the following Latin sentence:
+
+- puer carmina cecinit quem docueram.
+
+the relative clause **quem docueram** modifies the noun **puer**; antecedent and clause are separated by **carmina cecinit**. However, if we postpone the translation of the relative clause until the end, it sounds strange and, indeed, even confusing: "The boy sang songs **whom I had taught**." Because English relies on word order to make sense, we need to put the relative clause right after its antecedent: "The boy **whom I had taught** sang songs."
 
 ### Practice Opportunity 3
 
@@ -160,13 +168,13 @@ Take a look at the following examples:
 - frātrēs patrem suum vidēre voluērunt; **quem** cum vidēre possent, laetī erant.
   - The brothers wanted to see their father. **(And)** when they were able to see **him**, they were happy.
 
-This **connecting relative** often, though not always, is used in a **cum** clause, and the **cum** is often postponed until after the connecting relative, as in the examples above.
+This **connecting relative** often, though not always, is used in a **cum** clause, and the **cum** is often postponed until after the connecting relative, as in the examples above. Note that the verbs in these examples are subjunctive because they are used in a **cum** clause to express the circumstances of the main verb; they are not subjunctive because of the relative pronoun. This is an important distinction to make once we consider in what circumstances a relative clause WOULD use a subjunctive verb, as in a relative clause of characteristic.
 
 ***
 
 ## Relative Clause of Characteristic
 
-All of the relative clauses that we've seen use indicative verbs because the clause is describing a definite antecedent. However, we can also use a **subjunctive verb** in the relative clause when the antecedent is **general, indefinite, interrogative, or negative**. This use of a relative clause with a subjunctive clause is called a **relative clause of characteristic**, because it defines a quality or characteristic of an antecedent that itself is general, indefinite, etc.
+Most of the relative clauses that we've seen use indicative verbs because the clause is describing a definite antecedent. However, we can also use a **subjunctive verb** in the relative clause when the antecedent is **general, indefinite, interrogative, or negative**. This use of a relative clause with a subjunctive verb is called a **relative clause of characteristic**, because it defines a quality or characteristic of an antecedent that itself is general, indefinite, etc.
 
 In translation, we can sometimes use the auxiliary verb "would" to render the subjunctive, and the antecedent can sometimes be prefaced by "the sort of" or "the kind of". We also often have to supply words in our translation based on, e.g., the gender and number of pronouns or nouns to help the translation make sense.
 
@@ -175,7 +183,7 @@ Take a look at the following examples:
 - **quis est cui credāmus?** Who is there whom we would trust?
 - **eī nōn sunt quī hoc faciant.** They are not the kind of people who would do this.
 - **is erat quī veritātem dīceret**. He was the sort of guy who would speak the truth. (veritās, veritātis, f. - truth)
-- **nēmō est quī hostem petere possit**. There is no one who can attack the enemy.
+- **nēmō est quī hostem petere possit**. There is no one who can attack the enemy. (nēmō, neminis - nobody, no one)
 
 ### Practice Opportunity 4
 
