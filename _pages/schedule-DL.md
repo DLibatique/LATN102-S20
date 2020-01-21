@@ -19,6 +19,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ### Friday, January 24
 - Review
+- Fill out this [student information form](https://forms.gle/xM1bcFxPoXQPtEQb6).
 
 ***
 
