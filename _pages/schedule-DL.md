@@ -38,14 +38,14 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 3
 
 ## Monday, February 03
-- Participles: Formation
+- Participles: [Overview](participles#participles---overview), [Types](participles#types-of-participles)
 
 ## Wednesday, February 05
-- Participles: Relative Tense and Translation
+- [Participles: Relative Tense and Translation](participles#relative-tense-and-translating-participles)
 - Translation #1 Due
 
 ## Friday, February 07
-- Participles: Ablative Absolute
+- [Participles: Ablative Absolute](participles#ablative-absolute)
 - Composition #1 Due
 
 ***

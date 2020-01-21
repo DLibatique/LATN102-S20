@@ -7,7 +7,7 @@ permalink: relative
 
 ***
 
-[Relative Clauses](#relative-clauses) \|
+[Relative Clauses - Overview](#relative-clauses---overview) \|
 
 ***
 
@@ -51,13 +51,17 @@ note that the core of the sentence is **exempla cognoscō**, "I recognize the ex
 
 Identify the relative clause in the following sentences. Do not translate (unless you're feeling adventurous!).
 
-1.
+1. monstra nautās quōrum nāvēs vīdimus terruērunt. (terreō, -ēre, -uī, -itus, to terrify, frighten)  
+<button onclick="toggleDisplay('prac01')">Click here to toggle the answer:</button> <span style="display: none;" id="prac01">quōrum nāvēs vīdimus; The monsters terrified the sailors whose ships we saw.</span>
 
-2.
+2. urbs quam regēs regunt septem portās habet. (porta, -ae, f. - gate)  
+<button onclick="toggleDisplay('prac02')">Click here to toggle the answer:</button> <span style="display: none;" id="prac02">quam regēs regunt; The city which the kings rule has seven gates.</span>
 
-3.
+3. mīles ducibus quī ā flūmine veniunt epistulās dābit.  
+<button onclick="toggleDisplay('prac03')">Click here to toggle the answer:</button> <span style="display: none;" id="prac03">quī ā flūmine veniunt; The soldier will give the letters to the leaders who are coming from the river.</span>
 
-4.
+4. verba quae mihi dicenda sunt dīcō.  
+<button onclick="toggleDisplay('prac04')">Click here to toggle the answer:</button> <span style="display: none;" id="prac04">quae mihi dicenda sunt; I am saying the words that must be said by me.</span>
 
 ***
 
@@ -81,27 +85,47 @@ Our relative pronoun **quā** can only be one thing: feminine ablative singular.
 
 ### Practice Opportunity 2
 
-In each of the following English sentences, identify the relative clause, and determine what case the relative pronoun would be in Latin according to its use within the clause. Do not translate into Latin (unless you feel adventurous!).
+In each of the following English sentences, identify the relative clause, and determine what **case** the relative pronoun would be in Latin according to its use within the clause. Do not translate into Latin (unless you feel adventurous!).
 
-5. We were attacked by the sailors who came from the sea.
+5. We were attacked by the sailors who had come from the sea.  
+<button onclick="toggleDisplay('prac05')">Click here to toggle the answer:</button> <span style="display: none;" id="prac05">who came from the sea; nominative; ā nautīs quī ā marī vēnerant petitī sumus.</span>
 
-6. The citizens to whom we gave peace nevertheless did not trust us.
+6. The citizens to whom we gave peace nevertheless did not encourage us. (tamen - nevertheless)  
+<button onclick="toggleDisplay('prac06')">Click here to toggle the answer:</button> <span style="display: none;" id="prac06">to whom we gave peace; dative; cīvēs quibus pacem dedimus tamen nōs nōn hortātī sunt.</span>
 
-7. He slept near the river from which my family brought the water.
+7. He slept near the river from which my family brought the water. (prope + acc. - near)  
+<button onclick="toggleDisplay('prac07')">Click here to toggle the answer:</button> <span style="display: none;" id="prac07">from which my family brought the water; ablative; prope flūmen ā quō familia mea aquam tulit dormīvit.</span>
 
-8. I don't trust the woman whose husband we recognized.
+8. I don't trust the woman whose husband we recognized.  
+<button onclick="toggleDisplay('prac08')">Click here to toggle the answer:</button> <span style="display: none;" id="prac08">whose husband we recognized; genitive; fēminae cuius maritum cognōvimus nōn crēdō.</span>
+
+***
+
+## Locating the Antecedent
+
+The relative clause will often be located close to its antecedent, but sometimes it is not. For example, I could easily rewrite the sentence above as:
+
+- rex fēminae crēdidit **ā quā doctus erat**.
+
+When it isn't immediately clear what the antecedent of a relative pronoun is, you must use the **gender and number** of the relative pronoun to try to figure it out. **quā** is feminine singular, so we're looking for some noun, pronoun, or substantive adjective in the main clause that is feminine singular. The two nouns are **rex** and **fēminae**; of these two, the only possible choice is **fēminae** (as **rex** has to be masculine).
 
 ### Practice Opportunity 3
 
 In each of the following sentences, parse the relative pronoun, identify and parse its antecedent, and then translate.
 
-9.
+9. mīlitēs verba clamāvērunt quae nōs hortāta sunt. (clamō, -āre, -āvī, -ātus - to shout)  
+<button onclick="toggleDisplay('prac09')">Click here to toggle the answer:</button> <span style="display: none;" id="prac09">quae - neut. nom. pl.; verba - neut. acc. pl.; The soldiers shouted words which encouraged us.</span>
 
-10.
+10. ā frātre sorōrēs creditae sunt quī hanc epistulam scripsit.  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">quī - masc. nom. sg.; frātre - masc. abl. sg.; The sisters were believed by the brother who wrote this letter.</span>
 
-11.
+11. rēgina regnum rexit in quō nōmina nostra cognoscuntur.  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">quō - neut. abl. sg.; regnum - neut. acc. sg.; The queen ruled the kingdom in which our names are known.</span>
 
-12.
+12. illī librī hīs puellīs legendī sunt quae discere volunt.  
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">quae - fem. nom. pl.; puellīs - fem. dat. pl.; Those books must be read by these girls who want to learn.</span>
+
+***
 
 ## Relative Clause of Characteristic
 
