@@ -53,13 +53,13 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 4
 
 ## Monday, February 10
-- Relative Clauses: Formation, Identification
+- [Relative Clauses: Formation, Identification](relative)
 
 ## Wednesday, February 12
-- Relative Clauses: Connecting, Characteristic
+- [Relative Clauses: Connecting, Characteristic](relative)
 
 ## Friday, February 14
-- Review
+- [Relative continued](relative)
 
 ***
 
