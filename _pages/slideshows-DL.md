@@ -6,4 +6,4 @@ short_title: Slideshows
 permalink: slideshows-DL
 ---
 
-TBD
+1. [LATN 101 Review](https://docs.google.com/presentation/d/1leZdW326vGVQZKfKnSTWsfqXJJJQUVJrWMcRX53H3sk/edit?usp=sharing)
