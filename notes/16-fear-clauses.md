@@ -2,6 +2,7 @@
 layout: subpage
 title: Module 16 - Fear Clauses
 author: DM
+permalink: fear
 ---
 
 ***

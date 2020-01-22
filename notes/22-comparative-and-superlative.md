@@ -1,8 +1,8 @@
 ---
 layout: subpage
-title: Module 19 - Conditionals
+title: Module 22 - Comparative and Superlative Adjectives
 author: DL
-permalink: conditionals
+permalink: comparative-and-superlative
 ---
 
 Dummy Module to be filled in later

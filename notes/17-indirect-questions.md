@@ -2,6 +2,7 @@
 layout: subpage
 title: Module 17 - Indirect Questions
 author: DM
+permalink: indirect-questions
 ---
 
 ***

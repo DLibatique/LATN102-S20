@@ -18,6 +18,20 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 - [Master Verb List]({{ site.baseurl }}/charts/0-verb-master)
 - [Master Irregular Verb List]({{ site.baseurl }}/charts/0-irreg-verb-master)
 
-## Topics
+## Notes
 
 - [Participles](participles)
+- [Relative Clauses](relative)
+- [Purpose](purpose)
+- [Result](result)
+- [Causal Clauses](causal)
+- [Concessive Clauses](concessive)
+- [Proviso Clauses](proviso)
+- [Fear Clauses](fear)
+- [Indirect Questions](indirect-questions)
+- [Wishes and Potential](wishes-and-potential)
+- [Orders](orders)
+- [Conditionals](conditionals)
+- [Comparative and Superlative Adjectives](comparative-and-superlative)
+
+## Vocab

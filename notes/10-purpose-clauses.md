@@ -2,6 +2,7 @@
 layout: subpage
 title: Module 10 - Expressions of Purpose
 author: DM
+permalink: purpose
 ---
 
 ***

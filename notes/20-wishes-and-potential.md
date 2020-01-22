@@ -2,6 +2,7 @@
 layout: subpage
 title: Module 20 - Wishes and Potential
 author: DL
+permalink: wishes-and-potential
 ---
 
 Dummy Module to be filled in later

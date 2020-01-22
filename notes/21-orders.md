@@ -2,6 +2,7 @@
 layout: subpage
 title: Module 21 - Orders
 author: DL
+permalink: orders
 ---
 
 Dummy Module to be filled in later

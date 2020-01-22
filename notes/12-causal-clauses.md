@@ -2,6 +2,7 @@
 layout: subpage
 title: Module 12 - Causal Clauses
 author: DM
+permalink: causal
 ---
 
 ***
