@@ -29,7 +29,7 @@ This schedule links to the notes and charts that you'll need throughout the seme
 - Review checklist
 - **Homework (due before class)**: Read the [expectations](https://libatique.info/LATN102-S20/details-expectations-tips-DM), [grading](https://libatique.info/LATN102-S20/grading-DM), and [schedule](https://libatique.info/LATN102-S20/schedule-DM) pages carefully. Start reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6 in two weeks.
 
-### Friday, January 24
+### Friday, January 24 [slides](https://docs.google.com/presentation/d/18JaK9ZtuAlVyD1OwrsWBDzlnOnt2aI802cA0FBtMhe4/edit?usp=sharing)
 - Review: Nouns and Adjectives
 - 4th and 5th declensions
 - **Homework (due before class)**: Review the declension of [nouns](https://libatique.info/LATN102-S20/charts/0-noun-master/) and [adjectives](https://libatique.info/LATN102-S20/charts/0-adj-master/) and re-read the section on [noun-adjective agreement](https://libatique.info/LATN101-F19/notes/1-nouns-adjs/) for quiz #1. Begin to familiarize yourself with [4th](https://libatique.info/LATN102-S20/charts/0-noun-master/#fourth-declension-masculinefeminine) and [5th](https://libatique.info/LATN102-S20/charts/0-noun-master/#fifth-declension-masculinefeminine) declension nouns. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6 in two weeks.
@@ -61,7 +61,7 @@ Review the conjugation of [irregular verbs](https://libatique.info/LATN102-S20/c
 
 ### Monday, February 3
 - Relative Clauses
-- **Homework (due before class)**:  Read and study the section on relative clauses in preparation for quiz #5. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. **Translation #1 due**.
+- **Homework (due before class)**:  Read and study the section on [relative clauses](https://libatique.info/LATN102-S20/relative) in preparation for quiz #5. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. **Translation #1 due**.
 
 ### Wednesday, February 5
 - Relative Clauses (cont'd)
@@ -71,7 +71,7 @@ Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) fro
 
 ### Friday, February 7
 - Participles
-- **Homework (due before class)**:  Review the morphology of relative clauses in preparation for quiz #7. **Composition #1 due**.
+- **Homework (due before class)**:  Review the [morphology of relative clauses](https://libatique.info/LATN102-S20/pronoun-chart#relative) in preparation for quiz #7. **Composition #1 due**.
 
 ## Week 4
 
@@ -94,18 +94,18 @@ Review the vocabulary from Modules 1 and 2 for quiz #10.
 
 ### Monday, February 17
 - Purpose Clauses
-- **Homework (due before class)**:  Read and study the section on purpose clauses in preparation for quiz #11.
+- **Homework (due before class)**:  Read and study the section on [purpose clauses](https://libatique.info/LATN102-S20/purpose) in preparation for quiz #11.
 
 ### Wednesday, February 19
 - Purpose Clauses (cont'd)
 - **Homework (due before class)**:
-Review the section on purpose clauses in preparation for quiz #12. **Translation #2 due**.
+Review the section on [purpose clauses](https://libatique.info/LATN102-S20/purpose) in preparation for quiz #12. **Translation #2 due**.
 
 ### Friday, February 21
 - Result Clauses
 - Composition Workshop
 - **Homework (due before class)**:
-Read and study the section on result clauses in preparation for quiz #13. Prepare composition #2 for the workshop.
+Read and study the section on [result clauses](https://libatique.info/LATN102-S20/result) in preparation for quiz #13. Prepare composition #2 for the workshop.
 
 ## Week 6
 
