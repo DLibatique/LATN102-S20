@@ -8,10 +8,10 @@ permalink: /
 
 ## Course Information - Section 01
 **Meeting Time:** MWF 9am to 9:50am  
-**Meeting Place:** TBD  
+**Meeting Place:** Stein 134  
 **Instructor:** Prof. Dominic Machado (he/him/his)  
 **Office:** Fenwick 413  
-**Office hours:** TBD  
+**Student hours:** MW 10-11 AM or by appointment  
 **E-mail:** dmachado [at] holycross.edu  
 
 ## Course Information - Sections 02, 03
