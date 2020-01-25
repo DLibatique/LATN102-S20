@@ -43,7 +43,7 @@ This schedule links to the notes and charts that you'll need throughout the seme
 ### Monday, January 27
 - Review: Pronouns
 - CBL Prep
-- **Homework (due before class)**: Review the declension of [pronouns](https://libatique.info/LATN102-S20/charts/0-pronoun-master/) as well as the 4th and 5th declensions for quiz #2. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6 next week.
+- **Homework (due before class)**: Review the declension of [pronouns](https://libatique.info/LATN101-F19/charts/0-pronoun-master/) as well as the 4th and 5th declensions for quiz #2 (be prepared to pair them with different adjectives). Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6 next week.
 
 ### Wednesday, January 29
 - Review: Verbs (1st and 2nd person)
