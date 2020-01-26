@@ -43,7 +43,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, February 05
 - [Participles: Relative Tense and Translation](participles#relative-tense-and-translating-participles)
-- Translation #1 Due
+- [Translation #1](https://docs.google.com/document/d/1dQUpEHUMbxVNkRTpAnA7WSVn0lHgRp0O9Svxt2wpTPk/edit?usp=sharing) Due
 
 ## Friday, February 07
 - [Participles: Ablative Absolute](participles#ablative-absolute)
