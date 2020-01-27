@@ -29,7 +29,7 @@ This schedule links to the notes and charts that you'll need throughout the seme
 - Review checklist
 - **Homework (due before class)**: Read the [expectations](https://libatique.info/LATN102-S20/details-expectations-tips-DM), [grading](https://libatique.info/LATN102-S20/grading-DM), and [schedule](https://libatique.info/LATN102-S20/schedule-DM) pages carefully. Start reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6 in two weeks.
 
-### Friday, January 24 [slides](https://docs.google.com/presentation/d/18JaK9ZtuAlVyD1OwrsWBDzlnOnt2aI802cA0FBtMhe4/edit?usp=sharing)
+### Friday, January 24 [(slides)](https://docs.google.com/presentation/d/18JaK9ZtuAlVyD1OwrsWBDzlnOnt2aI802cA0FBtMhe4/edit?usp=sharing)
 - Review: Nouns and Adjectives
 - 4th and 5th declensions
 - **Homework (due before class)**: Review the declension of [nouns](https://libatique.info/LATN102-S20/charts/0-noun-master/) and [adjectives](https://libatique.info/LATN102-S20/charts/0-adj-master/) and re-read the section on [noun-adjective agreement](https://libatique.info/LATN101-F19/notes/1-nouns-adjs/) for quiz #1. Begin to familiarize yourself with [4th](https://libatique.info/LATN102-S20/charts/0-noun-master/#fourth-declension-masculinefeminine) and [5th](https://libatique.info/LATN102-S20/charts/0-noun-master/#fifth-declension-masculinefeminine) declension nouns. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6 in two weeks.
@@ -40,7 +40,7 @@ This schedule links to the notes and charts that you'll need throughout the seme
 
 ## Week 2
 
-### Monday, January 27
+### Monday, January 27 [(slides)](https://docs.google.com/presentation/d/18hVFjrhGZJ9k_F7j0f4PxsqswuaMgmk30-aqdyg_63U/edit?usp=sharing)
 - Review: Pronouns
 - CBL Prep
 - **Homework (due before class)**: Review the declension of [pronouns](https://libatique.info/LATN101-F19/charts/0-pronoun-master/) as well as the 4th and 5th declensions for quiz #2 (be prepared to pair them with different adjectives). Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6 next week.
@@ -61,7 +61,7 @@ Review the conjugation of [irregular verbs](https://libatique.info/LATN102-S20/c
 
 ### Monday, February 3
 - Relative Clauses
-- **Homework (due before class)**:  Read and study the section on [relative clauses](https://libatique.info/LATN102-S20/relative) in preparation for quiz #5. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. **Translation #1 due**.
+- **Homework (due before class)**:  Read and study the section on [relative clauses](https://libatique.info/LATN102-S20/relative) in preparation for quiz #5. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. [**Translation #1 due**](https://docs.google.com/document/d/1539OmpXBLFS2ur_B9TComkR4T-D96UooZXNcdSN0qP0/edit?usp=sharing).
 
 ### Wednesday, February 5
 - Relative Clauses (cont'd)
