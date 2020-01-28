@@ -47,7 +47,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Friday, February 07
 - [Participles: Ablative Absolute](participles#ablative-absolute)
-- Composition #1 Due
+- [Composition #1](https://docs.google.com/document/d/1K30hVxxRvw0KhpY_NCyfuWVvmRmdsl0ivICldcsIdJw/edit?usp=sharing) Due
 
 ***
 
