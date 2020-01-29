@@ -16,7 +16,7 @@ permalink: /
 
 ## Course Information - Sections 02, 03
 **Meeting Time:** 02 - MWF 8am to 8:50am; 03 - MWF 11am to 11:50am  
-**Meeting Place:**  TBD  
+**Meeting Place:**  8am: Stein 216; 11am: Stein 134  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 426  
 **Student Hours:** MW 2-4pm, or by appointment  
