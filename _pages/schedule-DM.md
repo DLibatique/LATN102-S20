@@ -58,7 +58,7 @@ Review the conjugation of [verbs](https://libatique.info/LATN102-S20/charts/0-ve
 
 ### Monday, February 3
 - Review
-- **Homework (due before class)**:  Read and review verbs in preparation for quiz #3. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6. [**Translation #1 due**](https://docs.google.com/document/d/1539OmpXBLFS2ur_B9TComkR4T-D96UooZXNcdSN0qP0/edit?usp=sharing).
+- **Homework (due before class)**:  Read and review verbs in preparation for quiz #3. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6.
 
 ### Wednesday, February 5
 - Relative Clauses
