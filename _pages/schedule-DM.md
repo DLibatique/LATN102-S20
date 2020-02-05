@@ -48,7 +48,7 @@ This schedule links to the notes and charts that you'll need throughout the seme
 ### Wednesday, January 29
 - Prof. Machado sick!
 
-### Friday, January 31
+### Friday, January 31 [(slides)](https://docs.google.com/presentation/d/1IA4VF6IO0GKsGKCwpNO5Bc0V0OYPRAQaUAy9pncDaz0/edit?usp=sharing)
 - Review: Verbs (1st and 2nd person)
 - CBL Prep
 - **Homework (due before class)**:
@@ -60,7 +60,7 @@ Review the conjugation of [verbs](https://libatique.info/LATN102-S20/charts/0-ve
 - Review
 - **Homework (due before class)**:  Read and review verbs in preparation for quiz #3. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #6.
 
-### Wednesday, February 5
+### Wednesday, February 5 [(slides)](https://docs.google.com/presentation/d/1rL-W1HybDT6qW7phvMr4__vwuPTHBEIw-0iZCGhxA1I/edit?usp=sharing)
 - Relative Clauses
 - **Homework (due before class)**:  Read and study the section on [relative clauses](https://libatique.info/LATN102-S20/relative) in preparation for quiz #4. Continue reviewing [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #5. [**Translation #1 due**](https://docs.google.com/document/d/1539OmpXBLFS2ur_B9TComkR4T-D96UooZXNcdSN0qP0/edit?usp=sharing).
 
