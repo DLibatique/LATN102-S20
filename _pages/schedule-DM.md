@@ -79,7 +79,7 @@ Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) fro
 ### Wednesday, February 12
 - Participle morphology
 - **Homework (due before class)**:
-Read and study the section on [participles](https://libatique.info/LATN102-S20/participles) for quiz #7. [**Composition #1 due**](https://docs.google.com/document/d/1ZUBmKn17dtN0DaO5cbFt0f5KNQpMIj_qIU1E0OFPr0I/edit?usp=sharing)**
+Read and study the section on [participles](https://libatique.info/LATN102-S20/participles) for quiz #7. [**Composition #1 due**](https://docs.google.com/document/d/1ZUBmKn17dtN0DaO5cbFt0f5KNQpMIj_qIU1E0OFPr0I/edit?usp=sharing)
 
 ### Friday, February 14
 - Review of participles and relative clauses
