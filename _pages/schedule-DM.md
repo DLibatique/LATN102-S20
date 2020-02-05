@@ -68,3 +68,70 @@ Review the conjugation of [verbs](https://libatique.info/LATN102-S20/charts/0-ve
 - Relative Clauses (cont'd)
 - **Homework (due before class)**:
 Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) from last semester for quiz #5.
+
+## Week 4
+
+### Monday, February 10
+- Participles
+- Composition workshop
+- **Homework (due before class)**:  Review the [morphology of relative clauses](https://libatique.info/LATN102-S20/pronoun-chart#relative) in preparation for quiz #6. Prepare for composition workshop.
+
+### Wednesday, February 12
+- Participle morphology
+- **Homework (due before class)**:
+Read and study the section on [participles](https://libatique.info/LATN102-S20/participles) for quiz #7. [**Composition #1 due**](https://docs.google.com/document/d/1ZUBmKn17dtN0DaO5cbFt0f5KNQpMIj_qIU1E0OFPr0I/edit?usp=sharing)**
+
+### Friday, February 14
+- Review of participles and relative clauses
+- **Homework (due before class)**:
+Review the morphology of [participles](https://libatique.info/LATN102-S20/participles) for quiz #8.
+
+## Week 5
+
+### Monday, February 17
+- Purpose Clauses
+- **Homework (due before class)**:  Read and study the section on [purpose clauses](https://libatique.info/LATN102-S20/purpose) in preparation for quiz #9.
+
+### Wednesday, February 19
+- Purpose Clauses (cont'd)
+- **Homework (due before class)**:
+Review the section on [purpose clauses](https://libatique.info/LATN102-S20/purpose) in preparation for quiz #10.
+
+### Friday, February 21
+- Result Clauses
+- Review
+- **Homework (due before class)**:
+Read and study the section on [result clauses](https://libatique.info/LATN102-S20/result) in preparation for quiz #11.
+
+## Week 6
+
+### Monday, February 24
+- Causal Clauses
+- **Homework (due before class)**: Read and study the section on [causal clauses](https://libatique.info/LATN102-S20/causal) in preparation for quiz #12. **Translation #2 due**.
+
+### Wednesday, February 26
+- Concessive Clauses
+- Composition Workshop
+- **Homework (due before class)**:
+Read and study the section on [concessive clauses](https://libatique.info/LATN102-S20/concessive) in preparation for quiz #13. Prepare composition #2 for the workshop.
+
+### Friday, February 28
+- Fear Clauses
+- Proviso Clauses
+- **Homework (due before class)**:
+Read and study the section on [fear](https://libatique.info/LATN102-S20/fear) and [proviso clauses](https://libatique.info/LATN102-S20/proviso) in preparation for quiz #14.
+**Composition #2 due**.
+
+## Week 7 (after spring break)
+
+### Monday, March 9
+- Review of Subordinate Clauses
+- **Homework (due before class)**:  Review the vocabulary for Modules 1 and 2 for quiz #15 and read and review the sections of [purpose](https://libatique.info/LATN102-S20/purpose) and [result](https://libatique.info/LATN102-S20/result) clauses.
+
+### Wednesday, March 11
+- Review of Subordinate Clauses
+- **Homework (due before class)**:
+Read and review the sections on [causal](https://libatique.info/LATN102-S20/causal), [concessive](https://libatique.info/LATN102-S20/concessive), [proviso](https://libatique.info/LATN102-S20/proviso), and [fear](https://libatique.info/LATN102-S20/fear) clauses in preparation for quiz #16.
+
+### Friday, March 13
+- CBL Prep
