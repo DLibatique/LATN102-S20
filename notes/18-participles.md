@@ -85,8 +85,10 @@ Note that **there is no present passive participle.**
 #### Present Active Participle of Deponents
 
 We form the present active participle of a **deponent verb** similarly.
-- If a 1st, 2nd, or 4th conj. verb, follow the appropriate rules from above (swapping in -rī for -re in the instructions).
-- If a 3rd or 3rd -iō conj. verb, replace the final -ī of the infinitive with -e- or -ie- respectively before adding the -ns, -ntis.
+- If a 1st or 2nd conj. verb, follow the appropriate rules from above (swapping in -rī for -re in the instructions).
+- If a 3rd conj. verb, replace the final -ī of the infinitive with -e- before adding -ns, -ntis.
+- If a 3rd -iō conj. verb, replace the final -ī of the infinitive with -ie- before adding the -ns, -ntis.
+- If a 4th conj. verb, replace the -īrī of the infinitive with -ie- before adding the -ns, -ntis.
 
 Note that this is one of three exceptions to the rule that deponents are **passive in form but active in meaning**. In this case, the present active participle of a deponent verb is **both active in form AND active in meaning**. We'll learn about the other two exceptions below.
 
