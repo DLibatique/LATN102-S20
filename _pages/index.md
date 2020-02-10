@@ -19,7 +19,7 @@ permalink: /
 **Meeting Place:**  8am: Stein 216; 11am: Stein 134  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 426  
-**Student Hours:** MW 2-4pm, or by appointment  
+**Student Hours:** M 2-4pm, W 3-5pm, or by appointment  
 **E-mail:** dlibatiq [at] holycross.edu  
 **Website:** [Click here.](https://libatique.info)
 
