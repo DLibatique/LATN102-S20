@@ -1,7 +1,6 @@
 ---
 layout: subpage
 title: Pronoun Morphology - Master
-permalink: /pronoun-chart
 ---
 
 ## Navigation:
