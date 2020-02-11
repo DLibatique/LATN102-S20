@@ -80,7 +80,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, February 19
 - Purpose (Relative Clause of Purpose, Future Active Participle)
-- Translation #2 Due
+- [Translation #2](https://docs.google.com/document/d/14GzID2P8U7DQ_UNeLjo-KVKAmhwG77wEA685Lk20XKg/edit?usp=sharing) Due
 - DQ 10
 
 ## Friday, February 21
