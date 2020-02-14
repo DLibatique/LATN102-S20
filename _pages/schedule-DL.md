@@ -86,7 +86,6 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Friday, February 21
 **Digital Session: Prof. Libatique in Minnesota**
 - Result (ut/ut nōn, noun result)
-- Composition #2 Due
 - DQ 11
 
 ***
@@ -95,6 +94,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Monday, February 24
 - Circumstantial, Causal, Concessive Clauses
+- Composition #2 Due
 - DQ 12
 
 ## Wednesday, February 26
