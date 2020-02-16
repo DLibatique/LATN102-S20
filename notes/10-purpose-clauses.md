@@ -7,7 +7,7 @@ permalink: purpose
 
 ***
 
-[Expressions of Purpose](#expressions-of-purpose) \| [Purpose Clause](#purpose-clause) \| [Practice Opportunity 1](#practice-opportunity-1) \| [Relative Clause of Purpose](#relative-clause-of-purpose) \| [GRGs](#grg-with-prepositions) \| [Future Active Participles](#future-active-participle) \| [Supines](#the-supine) \| [Practice Opportunity 2](#practice-opportunity-2)
+[Expressions of Purpose](#expressions-of-purpose) \| [Purpose Clause](#purpose-clause) \| [Practice Opportunity 1](#practice-opportunity-1) \| [Relative Clause of Purpose](#relative-clause-of-purpose) \| [Gerunds or GRGs](#gerund-or-grg-with-prepositions) \| [Future Active Participles](#future-active-participle) \| [Supines](#the-supine) \| [Practice Opportunity 2](#practice-opportunity-2)
 
 ***
 
@@ -86,9 +86,9 @@ A variation on the standard purpose clause is known as the relative clause of pu
 
 ***
 
-## GRG with Prepositions
+## Gerund or GRG with Prepositions
 
-Last semester, we learned about how gerund-replacing-gerundives (click [here](https://libatique.info/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) to review) can be used express a verbal action and the object which receives the action. The GRG can also be used as the object of the prepositions *ad (in the accusative)* and *causā/gratiā (in the genitive)* to express purpose.
+Last semester, we learned about how gerunds (click [here](https://libatique.info/LATN101-F19/notes/4-verbal-nouns-and-adjs/#gerunds) to review) or gerund-replacing-gerundives (click [here](https://libatique.info/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) to review) can be used to express purpose. Remember that a GRG is a verbal action and the object which receives the action. Gerunds and GRGs can also be used as the object of the prepositions **ad** (with the accusative) and **causā/gratiā** (with the genitive) to express purpose.
 
 Thus, our example sentence can be written in the following ways as well:
 
@@ -101,7 +101,7 @@ NB: GRGs take their case from their function in the sentence, but their gender a
 
 ## Future Active Participle
 
-As we noted a few weeks ago, participles or verbal adjectives play a large number of roles in Latin. One of these roles is as a way to express purpose. We use the future active participle (click here [] to review), which naturally indicates future intent ("about to *verb*"), to express purpose. When translating the future active participle as an expression of purpose, it is important to remember that participles modify nouns and, thus, it will be the noun modified by the participle that will be acting with a particular purpose in mind.
+As we noted a few weeks ago, participles or verbal adjectives play a large number of roles in Latin. One of these roles is as a way to express purpose. We use the future active participle (click [here](https://libatique.info/LATN102-S20/participles#future-active-participle) to review), which naturally indicates future intent ("about to *verb*"), to express purpose. When translating the future active participle as an expression of purpose, it is important to remember that participles modify nouns and, thus, it will be the noun modified by the participle that will be acting with a particular purpose in mind.
 
 To follow up on our example again:
 
@@ -111,11 +111,11 @@ To follow up on our example again:
 
 ## The Supine
 
-The last and least common way to express purpose in Latin is by using the supine. The supine is weird verbal noun whose origin is not very well understood. However, it is very closely related to the fourth principal part and exists in only two cases: the accusative and the ablative. We form the accusative supine by dropping the -us from the fourth principal part and add a -um and the ablative supine (e.g. amatus becomes **amatum** in the accusative and **amatu** in the ablative).
+The last and least common way to express purpose in Latin is by using the supine. The supine is a weird verbal noun whose origin is not very well understood. However, it is very closely related to the fourth principal part and exists in only two cases: the accusative and the ablative. We form the accusative supine by dropping the -us from the fourth principal part and adding a **-um** for the accusative supine and a **-ū** for the ablative supine. So, **amātus** becomes **amātum** in the accusative and **amātū** in the ablative).
 
-The accusative supine is used with only a verb of motion to express purpose (we will learn about the ablative supine later). Here our example sentence using the supine:
+The accusative supine is used with **only a verb of motion** to express purpose (we will learn about the ablative supine later). Here is our example sentence using the supine:
 
-- Ad agrōs militēs **petitum urbem** venērunt. (The soldiers came to the field to attack the city.)
+- Ad agrōs militēs **petitum urbem** venērunt. (The soldiers came to the fields to attack the city.)
 
 ***
 
