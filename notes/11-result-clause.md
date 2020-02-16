@@ -49,14 +49,14 @@ After that, we select the appropriate translation for the result clause based on
 
 - Agricola laboravit ut domum aedicaret (The farmer worked to build a house).
 
-If the subject of the result clause is different from that of the independent clause, we translate **ut** plus the verb as "so that [subject] *verbed*." This is the case with the example that we looked at above:
+If the subject of the result clause is different from that of the independent clause, we translate **ut** plus the verb as "so that [subject] *verb[ed]*" (with the tense of the verb depending on whether you're in primary or secondary sequence). This is the case with the example that we looked at above:
 
 - *Tantā irā conclamavērunt* **ut nēmo responderet**.
 - They shouted with such great anger that no one responded.
 
 In primary sequence, the sentence and translation might look something like this:
 
-- *Tantā irā conclamant* **ut nēmō respondeat**. They are shouting with such anger that no one responds / would respond.
+- *Tantā irā conclamant* **ut nēmō respondeat**. They are shouting with such anger that no one responds.
 
 ## Practice Opportunities
 
