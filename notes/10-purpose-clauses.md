@@ -81,8 +81,8 @@ Identify the purpose clause in the following sentences from Hyginus and translat
 A variation on the standard purpose clause is known as the relative clause of purpose. In a relative clause of purpose, the ut or ne is replaced by a **relative pronoun** (i.e. quī, quae, quod) or **relative adverb** (i.e. ubi, unde). We can differentiate a relative clause of purpose from a regular relative clause by the use of the subjunctive:
 
 - *Ad agrōs militēs venērunt* **qui urbem peterent**.
-- They send soldiers to the fields to attack the city
-- They send soldiers to the fields who were to attack the city.
+- The soldiers came to the fields to attack the city
+- The soldiers, who were to attack the city, came to the fields.
 
 ***
 
