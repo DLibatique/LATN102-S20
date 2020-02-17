@@ -9,3 +9,4 @@ permalink: slideshows-DL
 1. [LATN 101 Review](https://docs.google.com/presentation/d/1leZdW326vGVQZKfKnSTWsfqXJJJQUVJrWMcRX53H3sk/edit?usp=sharing)
 2. [Participles](https://docs.google.com/presentation/d/11okHA8BsEBhR_r4om4niG207geObsAty0Us0UqBV-Mo/edit?usp=sharing)
 3. [Relative Clauses](https://docs.google.com/presentation/d/1JnWZQpxeSKyuIosHdi5VQadFdoIakOSxo5xjEEOalvc/edit?usp=sharing)
+4. [Expressions of Purpose](https://docs.google.com/presentation/d/1Yx7YTF8NWJ9l_7U5hPX82JNEqAG-vgkJrFW6S5zuQac/edit?usp=sharing)
