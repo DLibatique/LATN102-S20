@@ -71,7 +71,7 @@ Study [vocabulary](https://libatique.info/LATN102-S20/vocab/master-LATN101/) fro
 
 ## Week 4
 
-### Monday, February 10
+### Monday, February 10 [(slides)](https://docs.google.com/presentation/d/19ZkKcgQcptKSNMTI_D7Vcnq9NwQR2bnetbFRTn1Yxdc/edit?usp=sharing)
 - Participles
 - Composition workshop
 - **Homework (due before class)**:  Review the [morphology of relative clauses](https://libatique.info/LATN102-S20/pronoun-chart#relative) in preparation for quiz #6. Prepare for composition workshop.
@@ -88,7 +88,7 @@ Review the morphology of [participles](https://libatique.info/LATN102-S20/partic
 
 ## Week 5
 
-### Monday, February 17
+### Monday, February 17 [(slides)](https://docs.google.com/presentation/d/1UAsSsQrz__F2w9e7Op91m6B5WGARaRVgy2HKUp7DZgo/edit?usp=sharing)
 - Purpose Clauses
 - **Homework (due before class)**:  Read and study the section on [purpose clauses](https://libatique.info/LATN102-S20/purpose) in preparation for quiz #9.
 
