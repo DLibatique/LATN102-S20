@@ -85,7 +85,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Friday, February 21
 **Digital Session: Prof. Libatique in Minnesota**
-- Result (ut/ut nōn, noun result)
+- [Result (ut/ut nōn)](result)
 - DQ 11
 
 ***
@@ -116,6 +116,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Monday, March 09
 - More Independent Subjunctive Uses: Optative, Potential
 - DQ 15
+- Translation #2 and Composition #2 Revisions Due
 
 ## Wednesday, March 11
 - Subjunctive Orders: Jussive, Hortatory, Prohibition
