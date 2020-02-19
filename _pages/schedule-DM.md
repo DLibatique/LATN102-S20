@@ -107,7 +107,7 @@ Read and study the section on [result clauses](https://libatique.info/LATN102-S2
 
 ### Monday, February 24
 - Causal Clauses
-- **Homework (due before class)**: Read and study the section on [causal clauses](https://libatique.info/LATN102-S20/causal) in preparation for quiz #12. **Translation #2 due**.
+- **Homework (due before class)**: Read and study the section on [causal clauses](https://libatique.info/LATN102-S20/causal) in preparation for quiz #12. [**Translation #2 due**](https://docs.google.com/document/d/14ikl8r6dUGgFTcHT7bu7gaGpb0tFp7VnMbka0-yBTjE/edit?usp=sharing).
 
 ### Wednesday, February 26
 - Concessive Clauses
