@@ -86,7 +86,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Friday, February 21
 **Digital Session: Prof. Libatique in Minnesota**
 - [Result (ut/ut nōn)](result)
-- [Panopto lecture](#)
+- [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5beac0-6293-4c41-952d-ab67012a38ab)
 - [Daily Quiz 11](https://forms.gle/nwfxg6gMuhNoD5Cj7) - Complete by **8am on Monday, 2/24**!
 
 ***
