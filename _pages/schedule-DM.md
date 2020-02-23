@@ -92,12 +92,12 @@ Review the morphology of [participles](https://libatique.info/LATN102-S20/partic
 - Purpose Clauses
 - **Homework (due before class)**:  Read and study the section on [purpose clauses](https://libatique.info/LATN102-S20/purpose) in preparation for quiz #9.
 
-### Wednesday, February 19
+### Wednesday, February 19 [(slides)](https://docs.google.com/presentation/d/1cYVJqIz2iuwJzfsFxKazIRDDLmSy53eHT9kkU61QYLg/edit?usp=sharing)
 - Purpose Clauses (cont'd)
 - **Homework (due before class)**:
 Review the section on [purpose clauses](https://libatique.info/LATN102-S20/purpose) in preparation for quiz #10.
 
-### Friday, February 21
+### Friday, February 21 [(slides)](https://docs.google.com/presentation/d/18FAGRXkxrAjSJ-k41pGOTs7HdPKDMRv7pOi8LVCwm1E/edit?usp=sharing)
 - Result Clauses
 - Review
 - **Homework (due before class)**:
@@ -120,7 +120,7 @@ Read and study the section on [concessive clauses](https://libatique.info/LATN10
 - Proviso Clauses
 - **Homework (due before class)**:
 Read and study the section on [fear](https://libatique.info/LATN102-S20/fear) and [proviso clauses](https://libatique.info/LATN102-S20/proviso) in preparation for quiz #14.
-**Composition #2 due**.
+[**Composition #2 due**](https://docs.google.com/document/d/12xQb5p5ADHbT30zTQrZmW8GzeDNA-lNL0I1GyUWOSo8/edit?usp=sharing).
 
 ## Week 7 (after spring break)
 
