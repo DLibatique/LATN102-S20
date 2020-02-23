@@ -94,7 +94,7 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 6
 
 ## Monday, February 24
-- Circumstantial, Causal, Concessive Clauses
+- Circumstantial, [Causal](causal), and [Concessive](concessive) Clauses
 - [Composition #2](https://docs.google.com/document/d/1a_53viVhdzU8txIY_xP1TLa6pzxO-YSsNKmWK_uufaU/edit?usp=sharing) Due
 - DQ 12
 

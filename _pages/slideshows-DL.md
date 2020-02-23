@@ -11,3 +11,4 @@ permalink: slideshows-DL
 3. [Relative Clauses](https://docs.google.com/presentation/d/1JnWZQpxeSKyuIosHdi5VQadFdoIakOSxo5xjEEOalvc/edit?usp=sharing)
 4. [Expressions of Purpose](https://docs.google.com/presentation/d/1Yx7YTF8NWJ9l_7U5hPX82JNEqAG-vgkJrFW6S5zuQac/edit?usp=sharing)
 5. [Result](https://docs.google.com/presentation/d/1gSjRyWjjHL92m5TrWs6oSGguY3b0UEUJwY0mW2XgXbw/edit?usp=sharing)
+6. [Circumstantial, Causal, Concessive](https://docs.google.com/presentation/d/1-K95c3A4TslmNK8npsTLMeXDJVKbfuwYIIxM47G7ZPg/edit?usp=sharing)
