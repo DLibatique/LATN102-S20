@@ -105,17 +105,17 @@ Read and study the section on [result clauses](https://libatique.info/LATN102-S2
 
 ## Week 6
 
-### Monday, February 24
+### Monday, February 24 [(slides)](https://docs.google.com/presentation/d/1VsCGFfeYBzyyGNhViBsqlCkoP-1q0RGNI09Fe0TS6mo/edit?usp=sharing)
 - Causal Clauses
 - **Homework (due before class)**: Read and study the section on [causal clauses](https://libatique.info/LATN102-S20/causal) in preparation for quiz #12. [**Translation #2 due**](https://docs.google.com/document/d/14ikl8r6dUGgFTcHT7bu7gaGpb0tFp7VnMbka0-yBTjE/edit?usp=sharing).
 
-### Wednesday, February 26
+### Wednesday, February 26 [(slides)](https://docs.google.com/presentation/d/1iT8xi-Y9K7eK_v_hPvKZNr5e69bZhZI0e4lXNRk3bfs/edit?usp=sharing)
 - Concessive Clauses
 - Composition Workshop
 - **Homework (due before class)**:
 Read and study the section on [concessive clauses](https://libatique.info/LATN102-S20/concessive) in preparation for quiz #13. Prepare composition #2 for the workshop.
 
-### Friday, February 28
+### Friday, February 28 [(slides)](https://docs.google.com/presentation/d/1dgNEyU36dyKrlMHT62ePFb54tczzjMu26oQtLZLJ9ug/edit?usp=sharing)
 - Fear Clauses
 - Proviso Clauses
 - **Homework (due before class)**:
