@@ -29,6 +29,8 @@ Dummy Navigation
 
 ## Negative Prohibition
 
+## Indirect Command
+
 ***
 
 ### Dummy Practice opportunity
