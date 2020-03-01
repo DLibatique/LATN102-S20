@@ -19,26 +19,11 @@ Dummy Navigation
 
 ***
 
-## Dummy Header
+## Independent Uses of the Subjunctive
 
-Dummy Content
+## Optative
 
-To summarize, nouns have:
-
-- Grammatical Gender
-  * Feminine
-  * Masculine
-  * Neuter
-- Number
-  * Singular
-  * Plural
-- Case
-  * Nominative
-  * Genitive
-  * *Dative*
-  * *Accusative*
-  * *Ablative*
-  * *Vocative*
+## Potential
 
 ***
 
