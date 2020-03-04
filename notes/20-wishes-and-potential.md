@@ -21,7 +21,27 @@ Dummy Navigation
 
 ## Independent Uses of the Subjunctive
 
+Last semester, we learned that the subjunctive mood can be used either in **independent** clauses or **dependent** clauses. While the latter follows the sequence of tenses and wholly depends on a main clause for context, the former uses subjunctives in standalone sentences. The one independent use of the subjunctive that we learned about last semester was the **deliberative subjunctive**, which we use to indicate a deliberation about a question. For example, *quid dīcam*? "What should I say?"
+
+To this, we will add two more independent uses of the subjunctive: the **optative** and the **potential**. (The remaining three independent uses of the subjunctive [jussive, hortatory, negative prohibition] are all covered in the module on [orders](orders).)
+
 ## Optative
+
+The optative subjunctive expresses a **wish**. This wish could express something that the speaker hopes will happen in the future or something that the speaker wishes happened in the past (but didn't).
+
+Optative subjunctives are often introduced by an adverb like **utinam** ("if only," "would that", "I wish that"). Optatives are negated by **utinam nē** ("if only ... not", "would that ... not", "I wish that ... not").
+
+Wishes for a future action are indicated with the **present subjunctive** and are translated with the auxiliary verb "would [verb]":
+- **utinam dīcat!** If only he would speak!
+- **utinam nē mē videant!** If only they would not see me!
+
+Wishes for a present action that is not coming to fruition are indicated with the **imperfect subjunctive** and are translated with the auxiliary verb: "were [verb]ing":
+- **utinam venīret!** If only he were coming!
+- **utinam nē hostēs fortēs essent!** If only the enemies weren't strong!
+
+Wishes for a past action that did not come to fruition are indicated with the **pluperfect subjunctive** and are translated with the auxiliary verb "had [verb]ed"!
+- **utinam domum vēnissēmus!** If only we had gone home!
+- **utinam nē id vīdisset!** If only he hadn't seen it!
 
 ## Potential
 
