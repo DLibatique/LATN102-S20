@@ -21,7 +21,18 @@ Dummy Navigation
 
 ## Orders
 
+There are a number of ways in which one can issue an order in Latin. An order commands someone to do something.
+
 ## Imperative Mood
+
+The imperative is the third of three **moods** in Latin. We've had extensive practice with the primary two: the **indicative mood**, which is used for factual situations; and the **subjunctive mood**, which is used for non-factual situations (doubt, possibility, wish, etc.).
+
+This third mood, the **imperative mood**, exists mostly in the 2nd person and issues an order from the speaker to the addressee. For example:
+
+- **audī!** Listen! (to a singular addressee) (2nd sg. pres. imperative act.)
+- **audīte!** Listen! (to a group of people) (2nd pl. pres. imperative act.)
+
+
 
 ## Jussive Subjunctive
 
