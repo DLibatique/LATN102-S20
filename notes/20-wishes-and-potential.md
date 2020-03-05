@@ -5,25 +5,19 @@ author: DL
 permalink: wishes-and-potential
 ---
 
-Dummy Module to be filled in later
-
-***
-
-Dummy Navigation
-
-- [Nouns](#nouns) \| [Declensions](#declensions) \| [Practice Opportunity](#practice-opportunity)  
-- [Third Declension i-stems](#third-declension-i-stems)
-- [Adjectives](#adjectives): [2-1-2](#1-the-2-1-2-adjectives) ([-īus adjs.](#11--īus-adjectives)); [3 Term.](#2-three-termination-adjectives); [2 Term.](#3-two-termination-adjectives); [1 Term.](#4-one-termination-adjectives) \| [Irregulars](#5-irregulars) \| [Practice Opportunity](#practice-opportunity-1) \| [Substantives](#substantives)
-- [Case Usages - Nominative and Genitive](#case-usages---nominative-and-genitive) \| [Practice Opportunity](#practice-opportunity-2)
-- [Pronouns - *is, ea, id*](#pronouns---is-ea-id) \| [Practice Opportunity](#practice-opportunity-3)
+- [Independent Uses of the Subjunctive](#independent-uses-of-the-subjunctive)
+- [Optative](#optative)
+- [Potential](#potential)
 
 ***
 
 ## Independent Uses of the Subjunctive
 
-Last semester, we learned that the subjunctive mood can be used either in **independent** clauses or **dependent** clauses. While the latter follows the sequence of tenses and wholly depends on a main clause for context, the former uses subjunctives in standalone sentences. The one independent use of the subjunctive that we learned about last semester was the **deliberative subjunctive**, which we use to indicate a deliberation about a question. For example, *quid dīcam*? "What should I say?"
+Last semester, we learned that the subjunctive mood can be used either in **independent** clauses or **dependent** clauses. While the latter follows the sequence of tenses and wholly depends on a main clause for context, the former uses subjunctives in standalone sentences. The one independent use of the subjunctive that we learned about last semester was the [**deliberative subjunctive**](https://libatique.info/LATN101-F19/notes/5-questions/#deliberative-subjunctive), which we use to indicate a deliberation about a question. For example, *quid dīcam*? "What should I say?"
 
 To this, we will add two more independent uses of the subjunctive: the **optative** and the **potential**. (The remaining three independent uses of the subjunctive [jussive, hortatory, negative prohibition] are all covered in the module on [orders](orders).)
+
+***
 
 ## Optative
 
@@ -43,20 +37,50 @@ Wishes for a past action that did not come to fruition are indicated with the **
 - **utinam domum vēnissēmus!** If only we had gone home!
 - **utinam nē id vīdisset!** If only he hadn't seen it!
 
+***
+
 ## Potential
+
+The potential subjunctive indicates something that **may**, **might**, or **could** happen, either in the future or the past, but it's uncertain whether it will or did happen. If it were certain, then we could use the indicative mood. The subjunctive in this case adds that note of possibility.
+
+To indicate a potential action in the future, Latin uses the **present subjunctive** or, rarely, the **perfect subjunctive**:
+- **eōs videāmus.** We may see them.
+- **eōs vīderīmus.** We may see them.
+- **ea veniat.** She might come.
+- **avēs canant.** The birds may sing.
+
+To indicate a potential action in the past, Latin uses the **imperfect subjunctive**. Note that although the translation sounds like a perfect tense, the Latin uses the imperfect:
+- **eōs vidērēmus.** We may have seen them.
+
+Potential subjunctives are negated with **nōn**:
+- **eam nōn audiant.** They may not hear her.
+
+Sometimes, there will be signal words like **forsitan** ("perhaps") or **fortasse** ("perhaps", usually with indicative but sometimes with subjunctive) to indicate the presence of a potential subjunctive:
+- **forsitan bona dīcat.** Perhaps he may say good things.
+- **fortasse laetī essent.** Perhaps they might have been happy.
 
 ***
 
-### Dummy Practice opportunity
+### Practice Opportunity
 
-What declension does each of the following nouns belong to?
-1. *ager*, *agrī*, m. - field  
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">2nd</span>
+Determine whether the following sentences contain a deliberative, optative, or potential subjunctive, and then translate.
 
-2. *nomen*, *nominis*, n. - name  
-<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">3rd</span>
+1. utinam nē vincantur!  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">optative: "If only they wouldn't be conquered!"</span>
 
-3. *agricola*, *agricolae*, m. - farmer  
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">1st</span>
+2. quid facerem?  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">deliberative: "What should I have done?"</span>
+
+3. mīles domum nōn eat.  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">potential: "The soldier may not go home."</span>
+
+4. agricolae discēdere forsitan incipiant.  
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">potential: "The farmers perhaps might begin to depart."</span>
+
+5. utinam is monstrum interfēcisset!  
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">optative: "If only he had killed the monster!"</span>
+
+6. quid putem?  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">deliberative: "What should I think?"</span>
 
 [Back to top.](#top)
