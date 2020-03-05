@@ -5,10 +5,6 @@ author: DL
 permalink: conditionals
 ---
 
-Dummy Module to be filled in later
-
-***
-
 - [Conditionals - Overview](#conditionals---overview)
 - [Conditionals Chart](#conditionals-chart)
 - [Indicative Conditionals](#indicative-conditionals)
