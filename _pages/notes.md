@@ -32,6 +32,6 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 - [Wishes and Potential](wishes-and-potential)
 - [Orders](orders)
 - [Conditionals](conditionals)
-- [Comparative and Superlative Adjectives](comparative-and-superlative)
+- [Comparatives and Superlatives](comparative-and-superlative)
 
 ## Vocab
