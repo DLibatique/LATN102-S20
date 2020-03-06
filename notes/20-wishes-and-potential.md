@@ -23,7 +23,7 @@ To this, we will add two more independent uses of the subjunctive: the **optativ
 
 The optative subjunctive expresses a **wish**. This wish could express something that the speaker hopes will happen in the future or something that the speaker wishes happened in the past (but didn't).
 
-Optative subjunctives are often introduced by an adverb like **utinam** ("if only," "would that", "I wish that"). Optatives are negated by **utinam nē** ("if only ... not", "would that ... not", "I wish that ... not").
+Optative subjunctives are often introduced by an adverb like **utinam** ("if only," "would that", "I wish that"). Optatives are negated by **utinam nē** or simply **nē** ("if only ... not", "would that ... not", "I wish that ... not").
 
 Wishes for a future action are indicated with the **present subjunctive** and are translated with the auxiliary verb "would [verb]":
 - **utinam dīcat!** If only he would speak!
@@ -31,7 +31,7 @@ Wishes for a future action are indicated with the **present subjunctive** and ar
 
 Wishes for a present action that is not coming to fruition are indicated with the **imperfect subjunctive** and are translated with the auxiliary verb: "were [verb]ing":
 - **utinam venīret!** If only he were coming!
-- **utinam nē hostēs fortēs essent!** If only the enemies weren't strong!
+- **nē hostēs fortēs essent!** If only the enemies weren't strong!
 
 Wishes for a past action that did not come to fruition are indicated with the **pluperfect subjunctive** and are translated with the auxiliary verb "had [verb]ed"!
 - **utinam domum vēnissēmus!** If only we had gone home!
@@ -41,7 +41,7 @@ Wishes for a past action that did not come to fruition are indicated with the **
 
 ## Potential
 
-The potential subjunctive indicates something that **may**, **might**, or **could** happen, either in the future or the past, but it's uncertain whether it will or did happen. If it were certain, then we could use the indicative mood. The subjunctive in this case adds that note of possibility.
+The potential subjunctive indicates something that **may**, **might**, **could**, or **would** happen, either in the future or the past, but it's uncertain whether it will or did happen. If it were certain, then we could use the indicative mood. The subjunctive in this case adds that note of possibility.
 
 To indicate a potential action in the future, Latin uses the **present subjunctive** or, rarely, the **perfect subjunctive**:
 - **eōs videāmus.** We may see them.
@@ -59,6 +59,10 @@ Sometimes, there will be signal words like **forsitan** ("perhaps") or **fortass
 - **forsitan bona dīcat.** Perhaps he may say good things.
 - **fortasse laetī essent.** Perhaps they might have been happy.
 
+Often, the potential is used with verbs like **volō*, nōlō, mālō, and possum**:
+- **mālim hoc facere.** I would prefer to do this.
+- **velim tē vidēre!** I would like to see you!
+
 ***
 
 ### Practice Opportunity
@@ -74,8 +78,8 @@ Determine whether the following sentences contain a deliberative, optative, or p
 3. mīles domum nōn eat.  
 <button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">potential: "The soldier may not go home."</span>
 
-4. agricolae discēdere forsitan incipiant.  
-<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">potential: "The farmers perhaps might begin to depart."</span>
+4. agricolae omnēs discēdere forsitan incipiant.  
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">potential: "Perhaps all the farmers might begin to depart."</span>
 
 5. utinam is monstrum interfēcisset!  
 <button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">optative: "If only he had killed the monster!"</span>
