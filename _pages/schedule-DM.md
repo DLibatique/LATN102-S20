@@ -157,7 +157,7 @@ Read and review the sections on [imperatives](https://libatique.info/LATN102-S20
 - Prohibitve Subjunctives
 - Indirect Commands
 - **Homework (due before class)**:
-Read and review the sections on [prohibitive subjunctives](https://libatique.info/LATN102-S20/orders#negative-prohibition) and [indirect commands] (https://libatique.info/LATN102-S20/orders#indirect-command) for quiz #20. **Translation 3 due**
+Read and review the sections on [prohibitive subjunctives](https://libatique.info/LATN102-S20/orders#negative-prohibition) and [indirect commands](https://libatique.info/LATN102-S20/orders#indirect-command) for quiz #20. **Translation 3 due**
 
 ## Week 9
 
