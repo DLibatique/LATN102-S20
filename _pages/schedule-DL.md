@@ -94,16 +94,16 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 6
 
 ## Monday, February 24
-- Circumstantial, [Causal](causal), and [Concessive](concessive) Clauses
+- Circumstantial and [Causal](causal) Clauses
 - [Composition #2](https://docs.google.com/document/d/1a_53viVhdzU8txIY_xP1TLa6pzxO-YSsNKmWK_uufaU/edit?usp=sharing) Due
 - DQ 12
 
 ## Wednesday, February 26
-- Fear Clauses, Proviso Clauses
+- [Concessive](concessive) Clauses
 - DQ 13
 
 ## Friday, February 28
-- Review
+- [Fear Clauses](fear)
 - DQ 14
 
 ***
@@ -115,18 +115,16 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 7
 
 ## Monday, March 09
-- More Independent Subjunctive Uses: Optative, Potential
+- [Proviso Clauses](proviso) and More Independent Subjunctive Uses: [Optative, Potential](wishes-and-potential)
 - DQ 15
 - Translation #2 and Composition #2 Revisions Due
 
 ## Wednesday, March 11
-- Subjunctive Orders: Jussive, Hortatory, Prohibition
-- Translation #3 Due
+- [Subjunctive Orders: Jussive, Hortatory, Prohibition](orders)
 - DQ 16
 
 ## Friday, March 13
-- Imperative Mood, Review
-- Composition #3 Due
+- [Imperative Mood](orders#imperative-mood), Review
 - DQ 17
 
 ***
@@ -134,33 +132,33 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Week 8
 
 ## Monday, March 16
-- Indirect Question
+- [Indirect Command](orders#indirect-command)
 - DQ 18
 
 ## Wednesday, March 18
-- Indirect Command
+- [Indirect Question](indirect-questions)
 - DQ 19
+- Translation #3 Due
 
 ## Friday, March 20
-- Conditions
+- [Conditions](conditionals)
 - DQ 20
+- Composition #3 Due
 
 ***
 
 ## Week 9
 
 ## Monday, March 23
-- Conditions
+- [Conditions](conditionals)
 - DQ 21
 
 ## Wednesday, March 25
-- Conditions
-- Translation #4 Due
+- [Conditions](conditionals)
 - DQ 22
 
 ## Friday, March 27
-- Conditions
-- Composition #4 Due
+- [Conditions](conditionals)
 - DQ 23
 
 ***
@@ -172,12 +170,14 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - DQ 24
 
 ## Wednesday, April 01
-- Comparative and Superlative Adjectives and Adverbs (quam, Ablative of Comparison)
+- [Comparative and Superlative Adjectives and Adverbs (quam, Ablative of Comparison)](comparative-and-superlative)
 - DQ 25
+- Translation #4 Due
 
 ## Friday, April 03
-- Comparative and Superlative continued
+- [Comparative and Superlative](comparative-and-superlative) continued
 - DQ 26
+- Composition #4 Due
 
 ***
 
@@ -201,12 +201,10 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Wednesday, April 15
 - Reading
-- Translation #5 Due
 - DQ 29
 
 ## Friday, April 17
 - Reading
-- Composition #5 Due
 - DQ 30
 
 ***
@@ -235,10 +233,12 @@ This detailed schedule links out to the notes and charts that you'll need throug
 ## Wednesday, April 29
 - Reading
 - DQ 34
+- Translation #5 Due
 
 ## Friday, May 01
 - Review
 - DQ 35
+- Composition #5 Due
 
 ***
 
