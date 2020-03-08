@@ -125,13 +125,55 @@ Read and study the section on [fear](https://libatique.info/LATN102-S20/fear) an
 ## Week 7 (after spring break)
 
 ### Monday, March 9
-- Review of Subordinate Clauses
-- **Homework (due before class)**:  Review the vocabulary for Modules 1 and 2 for quiz #15 and read and review the sections of [purpose](https://libatique.info/LATN102-S20/purpose) and [result](https://libatique.info/LATN102-S20/result) clauses.
+- Fear Clauses
+- Proviso Clauses
+- Review of Dependent Clauses
+- **Homework (due before class)**:  Read and study the section on [fear](https://libatique.info/LATN102-S20/fear) and [proviso clauses](https://libatique.info/LATN102-S20/proviso) in preparation for quiz #15.
 
 ### Wednesday, March 11
-- Review of Subordinate Clauses
+- Review of Dependent Clauses
 - **Homework (due before class)**:
-Read and review the sections on [causal](https://libatique.info/LATN102-S20/causal), [concessive](https://libatique.info/LATN102-S20/concessive), [proviso](https://libatique.info/LATN102-S20/proviso), and [fear](https://libatique.info/LATN102-S20/fear) clauses in preparation for quiz #16.
+Read and review the different types of subordinate clauses for quiz #16.
 
 ### Friday, March 13
 - CBL Prep
+- **Homework (due before class)**:
+Read and review the different types of dependent clauses for quiz #17.
+
+## Week 8
+
+### Monday, March 16
+- CBL Prep
+- **Homework (due before class)**:
+Read and review the different types of dependent clauses for quiz #18.
+
+### Wednesday, March 18
+- Imperatives
+- Hortatory/Jussive Subjunctive
+- **Homework (due before class)**:
+Read and review the sections on [imperatives](https://libatique.info/LATN102-S20/orders#imperative-mood) and [hortatory](https://libatique.info/LATN102-S20/orders#hortatory-subjunctive) and [jussive](https://libatique.info/LATN102-S20/orders#jussive-subjunctive) subjunctives for quiz #19.
+
+### Friday, March 20
+- Prohibitve Subjunctives
+- Indirect Commands
+- **Homework (due before class)**:
+Read and review the sections on [prohibitive subjunctives](https://libatique.info/LATN102-S20/orders#negative-prohibition) and [indirect commands] (https://libatique.info/LATN102-S20/orders#indirect-command) for quiz #20. **Translation 3 due**
+
+## Week 9
+
+### Monday, March 23
+- Review of commands
+- Indirect Question
+- **Homework (due before class)**:
+Read and review different types of commands for quiz #21.
+
+### Wednesday, March 25
+- Indirect Questions
+- Composition Workshop
+- **Homework (due before class)**:
+Read and review the sections on [indirect question](https://libatique.info/LATN102-S20/indirect-questions) for quiz #22. Prepare composition in advance of class for the workshop.
+
+### Friday, March 27
+- Conditions
+- **Homework (due before class)**:
+Read and review the sections on [conditions](https://libatique.info/LATN102-S20/conditionals) for quiz #23. **Composition 3 due**
