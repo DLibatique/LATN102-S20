@@ -124,129 +124,123 @@ This detailed schedule links out to the notes and charts that you'll need throug
 - DQ 16
 
 ## Friday, March 13
-- [Imperative Mood](orders#imperative-mood), Review
-- DQ 17
+- Eat Donuts, Debrief
 
 ***
 
 ## Week 8
 
-## Monday, March 16
-- [Indirect Command](orders#indirect-command)
-- DQ 18
-
-## Wednesday, March 18
-- [Indirect Question](indirect-questions)
-- DQ 19
-- Translation #3 Due
-
-## Friday, March 20
-- [Conditions](conditionals)
-- DQ 20
-- Composition #3 Due
+Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL) for details.
 
 ***
 
 ## Week 9
 
 ## Monday, March 23
-- [Conditions](conditionals)
-- DQ 21
+- Orders: Jussive, Hortatory, and Negative Prohibition
+  - [Notes](#)
+  - [Panopto lecture](#) -- timestamp?
 
 ## Wednesday, March 25
-- [Conditions](conditionals)
-- DQ 22
+- Orders: Imperative Mood
+  - [Notes](#)
+  - [Panopto lecture](#) -- timestamp?
+- [DQ 17 (jussive, hortatory, and negative prohibition)](#)
 
 ## Friday, March 27
-- [Conditions](conditionals)
-- DQ 23
+- Orders: Indirect Command
+  - [Notes](#)
+  - [Panopto lecture](#) -- timestamp?
+- [DQ 18 (imperative mood)](#)
 
 ***
 
 ## Week 10
 
-## Monday, March 30 (Jury Duty)
-- TBD / Review
-- DQ 24
+## Monday, March 30
+- Indirect Questions
+  - [Notes](#)
+  - [Panopto lecture](#)
+- [DQ 19 (indirect command)](#)
 
 ## Wednesday, April 01
-- [Comparative and Superlative Adjectives and Adverbs (quam, Ablative of Comparison)](comparative-and-superlative)
-- DQ 25
-- Translation #4 Due
+- Conditions
+  - [Notes](#)
+  - [Panopto lecture](#)
+- [DQ 20 (indirect questions)](#)
+- [Translation #3 "Due"](#)
 
 ## Friday, April 03
-- [Comparative and Superlative](comparative-and-superlative) continued
-- DQ 26
-- Composition #4 Due
+- Conditions continued
+  - [Notes](#)
+  - [Panopto lecture](#)
+- [DQ 21 (conditions 1)](#)
+- [Composition #3 "Due"](#)
 
 ***
 
 ## Week 11.1
 
 ## Monday, April 06
-- Reading
-- DQ 27
+- Comparative and Superlative Adjectives and Adverbs
+  - [Notes](#)
+  - [Panopto lecture](#)
+- [DQ 22 (conditions 2)](#)
 
 ## Wednesday, April 08
-- Reading
-- DQ 28
+- Comparative and Superlative Adjectives and Adverbs continued
+  - [Notes](#)
+  - [Panopto lecture](#)
+- [DQ 23 (comparative and superlative 1)](#)
 
 ***
 
 ## Easter Break: 4/9 - 4/13
+- [DQ 24 (comparative and superlative 2)](#)
 
 ***
 
 ## Week 11.2
 
 ## Wednesday, April 15
-- Reading
-- DQ 29
+- [Translation #4 "Due"](#)
 
 ## Friday, April 17
-- Reading
-- DQ 30
+- [Composition #4 "Due"](#)
 
 ***
 
 ## Week 12
 
 ## Monday, April 20
-- Reading
-- DQ 31
 
 ## Wednesday, April 22 (Academic Conference)
-**NO CLASSES**
+**NO "CLASSES"**
 
 ## Friday, April 24
-- Reading
-- DQ 32
+- [Translation #5 "Due"](#)
 
 ***
 
 ## Week 13
 
 ## Monday, April 27
-- Reading
-- DQ 33
+- [Composition #5 "Due"](#)
 
 ## Wednesday, April 29
-- Reading
-- DQ 34
-- Translation #5 Due
 
 ## Friday, May 01
-- Review
-- DQ 35
-- Composition #5 Due
+- [Final Translation "Due"](#)
 
 ***
 
 ## Week 14
 
 ## Monday, May 04
-- Review
-- DQ 36
+- [Final Composition "Due"](#)
+- In Conclusion
+  - [Panopto lecture](#)
+- **All daily quizzes, boss quizzes, and first passes at translations and compositions due by 11:59pm**.
 
 ***
 
@@ -254,4 +248,5 @@ This detailed schedule links out to the notes and charts that you'll need throug
 
 ## Exam Period: 5/7 - 5/13
 
-**Final Translation and Composition Due TBD**
+- **8am**: Revisions of translations and compositions due **by 11:59pm on Th 5/7**
+- **11am**: Revisions of translations and compositions due **by 11:59pm on M 5/11**
