@@ -169,7 +169,7 @@ Read and review the sections on [subjunctive conditions](https://libatique.info/
 ### Wednesday, April 1
 - Review
 - **Homework (due before class)**:
-**Translation #3 due** [to be posted]
+[**Translation #3 due**](https://docs.google.com/document/d/1bkDIZoXO8kSY-Nb-hvYwZuSqeiDEDvoTt5s4jAxvLps/edit?usp=sharing)
 
 ### Friday, April 3
 - Comparatives
