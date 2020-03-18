@@ -1,6 +1,7 @@
 ---
 layout: subpage
 title: Vocabulary Master - First Semester
+permalink: vocab-101
 ---
 
 This is a master list of vocabulary that was used in LATN 101 in Fall 2019.
