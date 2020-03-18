@@ -60,8 +60,8 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 
 **tantus, -a, -um** - so much, such great
 
-**ut** - in order that, so that, (in order / so as) to (positive purpose); that (positive result, positive indirect command); that...not (negative fear)
+**ut (conj.)** - in order that, so that, (in order / so as) to (positive purpose); that (positive result, positive indirect command); that...not (negative fear)
 
-**ut nōn** - that ... not (negative result)
+**ut nōn (conj.)** - that ... not (negative result)
 
 **utinam (adv.)** - if only, would that, I wish that... (add or replace with nē for negative)
