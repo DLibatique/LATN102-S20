@@ -30,6 +30,12 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 
 **nē (conj.)** - in order that ... not, so that ... not, (in order / so as) to ... not (negative purpose); that (positive fear)
 
+**nisī (conj.)** - if ... not, unless
+
+**quam (conj.)** - than (with comparative)
+
+**quam (adv.)** - as [adjective/adverb] as possible (with superlative)
+
 **quamquam (conj.)** - although (+ ind.)
 
 **quamvis (conj.)** - although (+ subj.)
@@ -41,6 +47,8 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 **quod (conj.)** - because (+ ind. or subj.)
 
 **quoniam (conj.)** - because (+ ind.)
+
+**sī (conj.)** - if
 
 **sīc (adv.)** - thus, in such a way
 
