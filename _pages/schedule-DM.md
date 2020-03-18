@@ -124,13 +124,13 @@ Read and study the section on [fear](https://libatique.info/LATN102-S20/fear) an
 
 ## Week 7 (after spring break)
 
-### Monday, March 9
+### Monday, March 9 [(slides)](https://docs.google.com/presentation/d/1L2uZVEWL6FijnjY7LKyahDb6IzwTeHpRTK6kzrHUJ00/edit?usp=sharing)
 - Fear Clauses
 - Proviso Clauses
 - Review of Dependent Clauses
 - **Homework (due before class)**:  Read and study the section on [fear](https://libatique.info/LATN102-S20/fear) and [proviso clauses](https://libatique.info/LATN102-S20/proviso) in preparation for quiz #15.
 
-### Wednesday, March 11
+### Wednesday, March 11 [(slides)](https://docs.google.com/presentation/d/1VgGCiRinoBKplZF84PLewZ18_dxNp_6TfxQcWo6DKCw/edit?usp=sharing)
 - Review of Dependent Clauses
 - **Homework (due before class)**:
 Read and review the different types of subordinate clauses for quiz #16.
