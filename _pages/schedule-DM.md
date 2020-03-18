@@ -140,40 +140,117 @@ Read and review the different types of subordinate clauses for quiz #16.
 - **Homework (due before class)**:
 Read and review the different types of dependent clauses for quiz #17.
 
-## Week 8
-
-### Monday, March 16
-- CBL Prep
-- **Homework (due before class)**:
-Read and review the different types of dependent clauses for quiz #18.
-
-### Wednesday, March 18
-- Imperatives
-- Hortatory/Jussive Subjunctive
-- **Homework (due before class)**:
-Read and review the sections on [imperatives](https://libatique.info/LATN102-S20/orders#imperative-mood) and [hortatory](https://libatique.info/LATN102-S20/orders#hortatory-subjunctive) and [jussive](https://libatique.info/LATN102-S20/orders#jussive-subjunctive) subjunctives for quiz #19.
-
-### Friday, March 20
-- Prohibitve Subjunctives
-- Indirect Commands
-- **Homework (due before class)**:
-Read and review the sections on [prohibitive subjunctives](https://libatique.info/LATN102-S20/orders#negative-prohibition) and [indirect commands](https://libatique.info/LATN102-S20/orders#indirect-command) for quiz #20. **Translation 3 due**
+## Week 8 (CLASSES CANCELLED)
 
 ## Week 9
 
 ### Monday, March 23
-- Review of commands
-- Indirect Question
+- Commands
 - **Homework (due before class)**:
-Read and review different types of commands for quiz #21.
+Read and review the sections on [orders](https://libatique.info/LATN102-S20/orders) and watch my [short lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa9f902-13f1-450d-abb5-ab8101461e47) on the topic.
 
 ### Wednesday, March 25
-- Indirect Questions
-- Composition Workshop
+- Indirect Question
 - **Homework (due before class)**:
-Read and review the sections on [indirect question](https://libatique.info/LATN102-S20/indirect-questions) for quiz #22. Prepare composition in advance of class for the workshop.
+Read and review the sections on [indirect question](https://libatique.info/LATN102-S20/indirect-questions) and watch my [short lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=025f15f8-50f8-4d09-a704-ab8200fb73b5) on the topic.
 
 ### Friday, March 27
-- Conditions
+- Indicative Conditions
 - **Homework (due before class)**:
-Read and review the sections on [conditions](https://libatique.info/LATN102-S20/conditionals) for quiz #23. **Composition 3 due**
+Read and review the sections on [indicative conditions](https://libatique.info/LATN102-S20/conditionals#indicative-conditionals) and watch Prof. Libatique's lecture on the topic [to be posted].
+
+## Week 10
+
+### Monday, March 30
+- Subjunctive Conditions
+- **Homework (due before class)**:
+Read and review the sections on [subjunctive conditions](https://libatique.info/LATN102-S20/conditionals#subjunctive-conditionals) and watch Prof. Libatique's lecture on the topic [to be posted].
+
+### Wednesday, April 1
+- Review
+- **Homework (due before class)**:
+**Translation #3 due** [to be posted]
+
+### Friday, April 3
+- Comparatives
+- Superlatives
+- **Homework (due before class)**:
+Read and review the sections on [comparatives and superlatives](https://libatique.info/LATN102-S20/comparative-and-superlative) and watch Prof. Libatique's lecture on the topic [to be posted].
+
+## Week 11
+
+### Monday, April 6
+- Optative subjunctive
+- Potential subjunctive
+- **Homework (due before class)**:
+Read and review the sections on [wishes and potential](https://libatique.info/LATN102-S20/wishes-and-potential) and watch my short lecture on the topic [to be posted].
+
+### Wednesday, April 8
+- Review
+- Composition Workshop
+- **Homework (due before class)**:
+Begin working on Composition #3.
+
+### Friday, April 10
+- NO CLASS
+
+## Week 12
+
+### Monday, April 13
+- NO CLASS
+
+### Wednesday, April 15
+- Review
+- **Homework (due before class)**:
+**Composition #3 due** [to be posted]
+
+### Friday, April 17
+- Review
+- Translation Workshop
+**Homework (due before class)**:
+Begin working on Translation #4.
+
+## Week 13
+
+### Monday, April 20
+- Composition Workshop
+- **Homework (due before class)**:
+**Translation #4 due** [to be posted]. Begin working on Composition #4.
+
+### Wednesday, April 22
+- NO CLASS
+
+### Friday, April 24
+- Review
+**Homework (due before class)**:
+**Composition #4 due** [to be posted]
+
+## Week 14
+
+### Monday, April 27
+- Translation Workshop
+- **Homework (due before class)**:
+Begin working on Translation #5.
+
+### Wednesday, April 29
+- Review
+- **Homework (due before class)**:
+**Translation #5** due [to be posted]
+
+### Friday, May 1
+- Composition Workshop
+**Homework (due before class)**:
+Begin working on Composition #5.
+
+## Week 15
+
+### Monday, May 4
+- Review
+- **Homework (due before class)**:
+**Composition #5** due [to be posted]
+
+## Final
+
+### Wednesday, May 13
+- **Translation #6** due [to be posted]
+- **Composition #6** due [to be posted]
