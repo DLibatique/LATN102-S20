@@ -171,7 +171,7 @@ Read and review the sections on [subjunctive conditions](https://libatique.info/
 ### Wednesday, April 1
 - Review
 - **Homework (due before class)**:
-[**Translation #3 due**](https://docs.google.com/document/d/1bkDIZoXO8kSY-Nb-hvYwZuSqeiDEDvoTt5s4jAxvLps/edit?usp=sharing)
+[**Translation #3 due**](https://docs.google.com/document/d/1bkDIZoXO8kSY-Nb-hvYwZuSqeiDEDvoTt5s4jAxvLps/edit?usp=sharing); Boss Quizzes become available!
 
 ### Friday, April 3
 - Comparatives
@@ -256,3 +256,4 @@ Begin working on Composition #5.
 ### Wednesday, May 13
 - **Translation #6** due [to be posted]
 - **Composition #6** due [to be posted]
+- **Boss Quizzes** must be completed
