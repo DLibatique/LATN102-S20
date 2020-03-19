@@ -159,14 +159,14 @@ Read and review the sections on [indirect question](https://libatique.info/LATN1
 ### Friday, March 27
 - Indicative Conditions
 - **Homework (due before class)**:
-Read and review the sections on [indicative conditions](https://libatique.info/LATN102-S20/conditionals#indicative-conditionals) and watch Prof. Libatique's lecture on the topic [to be posted].
+Read and review the sections on [indicative conditions](https://libatique.info/LATN102-S20/conditionals#indicative-conditionals) and watch up to 18:20 of Prof. Libatique's [lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744) on the topic.
 
 ## Week 10
 
 ### Monday, March 30
 - Subjunctive Conditions
 - **Homework (due before class)**:
-Read and review the sections on [subjunctive conditions](https://libatique.info/LATN102-S20/conditionals#subjunctive-conditionals) and watch Prof. Libatique's lecture on the topic [to be posted].
+Read and review the sections on [subjunctive conditions](https://libatique.info/LATN102-S20/conditionals#subjunctive-conditionals) and watch the rest of Prof. Libatique's [lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744) from last time as well as his [follow-up](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf0223f8-8a3f-4b31-b689-ab830116eb66).
 
 ### Wednesday, April 1
 - Review
