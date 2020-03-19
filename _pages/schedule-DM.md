@@ -144,6 +144,8 @@ Read and review the different types of dependent clauses for quiz #17.
 
 ## Week 9
 
+FOR A COMPREHENSIVE GUIDE TO HOW DISTANCE LEARNING WILL CHANGE OUR COURSE, CLICK [HERE](https://docs.google.com/document/d/1dcPeg8YTbIhFbo3ZwrrL2bVusjevK5DpYWQUkPhAizc/edit?usp=sharing)
+
 ### Monday, March 23
 - Commands
 - **Homework (due before class)**:
