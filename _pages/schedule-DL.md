@@ -138,19 +138,19 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 
 ## Monday, March 23
 - Orders: Jussive, Hortatory, and Negative Prohibition
-  - [Notes](#)
-  - [Panopto lecture](#) -- timestamp?
+  - Notes: [Jussive](orders#jussive-subjunctive), [Hortatory](orders#hortatory-subjunctive), [Negative Prohibition](orders#negative-prohibition)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa9f902-13f1-450d-abb5-ab8101461e47) (0:00 to 1:13 and then 5:02 to 10:17, but pass over the part about negating an imperative until Wednesday)
 
 ## Wednesday, March 25
 - Orders: Imperative Mood
-  - [Notes](#)
-  - [Panopto lecture](#) -- timestamp?
+  - [Notes](orders#imperative-mood)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa9f902-13f1-450d-abb5-ab8101461e47) (1:14 to 5:01, then 8:16 to 9:23)
 - [DQ 17 (jussive, hortatory, and negative prohibition)](#)
 
 ## Friday, March 27
 - Orders: Indirect Command
-  - [Notes](#)
-  - [Panopto lecture](#) -- timestamp?
+  - [Notes](orders#indirect-command)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa9f902-13f1-450d-abb5-ab8101461e47) (10:18 to end)
 - [DQ 18 (imperative mood)](#)
 
 ***
@@ -159,20 +159,20 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 
 ## Monday, March 30
 - Indirect Questions
-  - [Notes](#)
-  - [Panopto lecture](#)
+  - [Notes](indirect-questions)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=025f15f8-50f8-4d09-a704-ab8200fb73b5)
 - [DQ 19 (indirect command)](#)
 
 ## Wednesday, April 01
 - Conditions
-  - [Notes](#)
+  - [Notes](conditions)
   - [Panopto lecture](#)
 - [DQ 20 (indirect questions)](#)
 - [Translation #3 "Due"](#)
 
 ## Friday, April 03
 - Conditions continued
-  - [Notes](#)
+  - [Notes](conditions)
   - [Panopto lecture](#)
 - [DQ 21 (conditions 1)](#)
 - [Composition #3 "Due"](#)
@@ -183,13 +183,13 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 
 ## Monday, April 06
 - Comparative and Superlative Adjectives and Adverbs
-  - [Notes](#)
+  - [Notes](comparative-and-superlative)
   - [Panopto lecture](#)
 - [DQ 22 (conditions 2)](#)
 
 ## Wednesday, April 08
 - Comparative and Superlative Adjectives and Adverbs continued
-  - [Notes](#)
+  - [Notes](comparative-and-superlative)
   - [Panopto lecture](#)
 - [DQ 23 (comparative and superlative 1)](#)
 
