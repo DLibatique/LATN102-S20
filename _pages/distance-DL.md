@@ -55,7 +55,7 @@ The Google Meet link for the **11am section** is [here](https://meet.google.com/
 
 The Google Meet link for **student hours** is [here](https://meet.google.com/mfv-wpcv-szd).
 
-Please also note that students from the 8am are welcome to drop in on the 11am time and vice versa. If you’d like to get clarity on questions or concepts from a different source or at a different time than when I’m available, Prof. Machado will also be available MWF 9-9:50am via this [Google Meet link](meet.google.com/opr-qprj-reg).    
+Please also note that students from the 8am are welcome to drop in on the 11am time and vice versa. If you’d like to get clarity on questions or concepts from a different source or at a different time than when I’m available, Prof. Machado will also be available MWF 9-9:50am via this [Google Meet link](https://meet.google.com/opr-qprj-reg).    
 
 You can also always request a private Google Meet meeting outside of the times specified above (MWF 8-8:50am, 11-11:50am; W 2-4pm; Th 10:30am-12:30pm). Just e-mail me and let me know what time and day is good for you!
 
