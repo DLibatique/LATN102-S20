@@ -11,7 +11,8 @@ Regarding **vocabulary**, it is important to do more than just memorize the word
 
 ## Master Lists and Charts
 
-- [Master Vocabulary List - First Semester]({{ site.url }}/vocab/master-LATN101)
+- [Master Vocabulary List - First Semester](vocab-101)
+- [Master Vocabulary List - Second Semester](vocab-102)
 - [Master Noun List]({{ site.baseurl }}/charts/0-noun-master)
 - [Master Pronoun List]({{ site.baseurl }}/charts/0-pronoun-master)
 - [Master Adjective List]({{ site.baseurl }}/charts/0-adj-master)
