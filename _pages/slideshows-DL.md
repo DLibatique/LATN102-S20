@@ -15,3 +15,7 @@ permalink: slideshows-DL
 7. [Fear, Proviso](https://docs.google.com/presentation/d/15VLm3qFn2ML6qeL9WyUtLJ4fJN8Vd18PUB1qMocsScU/edit?usp=sharing)
 8. [Optative, Potential](https://docs.google.com/presentation/d/1BrjazVe331mnbAaMZFHJGiNOPuaM9-5BSwFrBTitON4/edit?usp=sharing)
 9. [Orders](https://docs.google.com/presentation/d/1xcNNGWRZckOZWd4KtiJH5mYRjmXLYPi8ue7AcntNEfI/edit?usp=sharing)
+10. [Orders 2 (Prof. Machado)](https://docs.google.com/presentation/d/1jfcjXx9OJZMGm4HiSZgH2cj4X4jeJZoubo5h4jQ1DAI/edit?usp=sharing)
+11. [Indirect Question (Prof. Machado)](https://docs.google.com/presentation/d/1P7m4MFmqNirV6WQQMdzZNQWGFNhcsY2n5vbW1htUBh0/edit?usp=sharing)
+12. [Conditions](https://docs.google.com/presentation/d/1QrLEMELdIgimIBsoIJEHlArMcZiJ_VskFuaqo3W0Rwo/edit?usp=sharing)
+13. [Comparative and Superlative](https://docs.google.com/presentation/d/1YqXqfE2QUyU1Td7bpxev2GjxfUDHHif6s1wnHHgjBz8/edit?usp=sharing)
