@@ -5,18 +5,21 @@ author: DL
 permalink: comparative-and-superlative
 ---
 
-<!-- need to add practice ops -->
-
 - [Adjective Degrees - Overview](#adjective-degrees---overview)
   - [Comparative Degree](#comparative-degree)
+    - [Practice Opportunity 1](#practice-opportunity-1)
     - [Comparison with *quam* and Ablative of Comparison](#comparison-with-quam-and-ablative-of-comparison)
+    - [Practice Opportunity 2](#practice-opportunity-2)
   - [Superlative Degree](#superlative-degree)
     - [Superlative with *quam*](#superlative-with-quam)
+    - [Practice Opportunity 3](#practice-opportunity-3)
 - [Irregular Comparative and Superlative Adjectives](#irregular-comparative-and-superlative-adjectives)
   - [Superlatives for -er and -lis Adjectives](#superlatives-for--er-and--lis-adjectives)
   - [Irregular Comparatives and Superlatives](#irregular-comparatives-and-superlatives)
+  - [Practice Opportunity 4](#practice-opportunity-4)
 - [Adverb Degrees - Overview](#adverb-degrees---overview)
   - [Irregular Adverbs](#irregular-adverbs)
+  - [Practice Opportunity 5](#practice-opportunity-5)
 
 ***
 
@@ -65,6 +68,26 @@ Note the forms that decline like third declension nouns rather than adjectives: 
 - **scīmus matrem nostram sapientiōrem nōbīs esse.** We know that our mother is wiser than us. (see below for "than us")
 - **iter longius erit.** The journey will be rather long.
 
+***
+
+### Practice Opportunity 1
+
+Form the comparative of the given adjective in the given gender, case, and number.
+
+1. pulcher, pulchra, pulchrum - neuter genitive plural  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">pulchriorum</span>
+
+2. ferox, ferocis - feminine accusative singular  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">ferociorem</span>
+
+3. facilis, facile - masculine nominative plural  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">faciliorēs</span>
+
+4. celer, celeris, celere - neuter accusative plural  
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">celeriora</span>
+
+***
+
 ### Comparison with *quam* and Ablative of Comparison
 
 The comparative degree compares how much of an adjectival quality one noun possesses over another. For example, in the following English sentence:
@@ -82,6 +105,21 @@ When the noun described by the comparative adjective is in the nominative or acc
 - **hic puer pulchrior est** ***puerō***. This boy is more handsome *than that boy*.
 - **mīles fortior erat** ***rege ipsō***. The soldier is braver *than the king himself*.
 - **dīcit magistrum sapientiorem esse** ***discipulō***. He says that the teacher is wiser *than the student*.
+
+***
+
+### Practice Opportunity 2
+
+If a comparison is made with *quam*, rewrite the *quam* phrase as an ablative of comparison, and vice versa. Then translate.
+
+1. hostēs nostrī ferociorēs quam nōs erant.  
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">quam nōs > nōbīs; "Our enemies were fiercer than we."</span>
+
+2. frātrēs dīcunt matrem nostram sapientiorem patre esse.  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">patre > quam patrem; "(My) brothers say that our mother is wiser than (our) father."</span>
+
+3. mīlitibus victīs, iter longius proeliō fēcimus. (proelium, -ī, n. - "battle")  
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">After the soldiers were defeated, we made a journey longer than the battle.</span>
 
 ***
 
@@ -106,6 +144,21 @@ We can also use **quam** with a superlative to indicate "as [adjective] as possi
 
 - **hic vir** ***quam sapientissimus*** **est**. This man is *as wise as possible*.
 - **dīxit hostem** ***quam ferocissimum*** **esse**. He said that the enemy was *as fierce as possible*.
+
+***
+
+### Practice Opportunity 3
+
+Form the superlative of the given adjective in the given gender, case, and number.
+
+1. longus, longa, longum - neuter genitive plural  
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">longissimōrum</span>
+
+2. ferox, ferocis - feminine ablative singular  
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">ferocissimā</span>
+
+3. fortis, forte - masculine dative plural  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">fortissimīs</span>
 
 ***
 
@@ -178,6 +231,21 @@ Note that the plural forms are adjectives that must agree with a noun in gender,
 
 ***
 
+### Practice Opportunity 4
+
+Identify the degree of each adjective in the following sentences and translate.
+
+1. mater nostra cēnam maximam quam vīdimus parāvit.  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">maximam - superlative; "Our mother prepared the biggest dinner that we have seen."</span>
+
+2. carmen novum eius pēius priōre est.  
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">novum - positive; pēius and priōre - comparative; "His new song is worse than the previous one."</span>
+
+3. puella cui rōsam dedī simillima mihi erat.   
+<button onclick="toggleDisplay('prac13')">Click here to toggle the answer:</button> <span style="display: none;" id="prac13">simillima - superlative; "The girl to whom I gave a rose was most similar to me."</span>
+
+***
+
 ## Adverb Degrees - Overview
 
 Adverbs, like adjectives, have a degree: positive, comparative, or superlative. The same relationships apply: positive is the base degree of an adverb, comparative corresponds to "more", and superlative corresponds to "most." For example:
@@ -239,16 +307,20 @@ While many adverbs formed from irregular adjectives follow the same rules of for
 
 ***
 
-## Dummy Practice opportunity
+### Practice Opportunity 5
 
-What declension does each of the following nouns belong to?
-1. *ager*, *agrī*, m. - field  
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">2nd</span>
+Identify the degree of each adverb in the following sentences and translate.
 
-2. *nomen*, *nominis*, n. - name  
-<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">3rd</span>
+1. cum ferōcius pugnārēmus, tamen victī sumus.   
+<button onclick="toggleDisplay('prac14')">Click here to toggle the answer:</button> <span style="display: none;" id="prac14">ferōcius - comparative; tamen - positive; "Although we fought more fiercely, nevertheless we were conquered."</span>
 
-3. *agricola*, *agricolae*, m. - farmer  
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">1st</span>
+2. rex epistulam celerrimē scripsit.  
+<button onclick="toggleDisplay('prac15')">Click here to toggle the answer:</button> <span style="display: none;" id="prac15">celerrimē - superlative; "The king wrote the letter very/most quickly."</span>
+
+3. illum magnopere amō. utinam mē amet!   
+<button onclick="toggleDisplay('prac16')">Click here to toggle the answer:</button> <span style="display: none;" id="prac16">magnopere - positive; "I love that man greatly. If only he would love me!"</span>
+
+4. carmina haec facile didicistī.  
+<button onclick="toggleDisplay('prac17')">Click here to toggle the answer:</button> <span style="display: none;" id="prac17">facile - positive; "You learned these songs easily."</span>
 
 [Back to top.](#top)
