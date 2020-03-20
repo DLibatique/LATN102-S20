@@ -185,7 +185,7 @@ Read and review the sections on [comparatives and superlatives](https://libatiqu
 - Optative subjunctive
 - Potential subjunctive
 - **Homework (due before class)**:
-Read and review the sections on [wishes and potential](https://libatique.info/LATN102-S20/wishes-and-potential) and watch my short lecture on the topic [to be posted].
+Read and review the sections on [independent usages of the subjunctive](https://libatique.info/LATN102-S20/wishes-and-potential) and watch my short lectures on the [potential subjunctive](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11cd7af2-7cf6-4852-bed0-ab84013c8507) and the [optative subjunctive](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0eeba1a7-6a20-4df2-a18b-ab84013fe6ec).
 
 ### Wednesday, April 8
 - Review
