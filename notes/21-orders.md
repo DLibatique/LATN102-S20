@@ -5,16 +5,17 @@ author: DL
 permalink: orders
 ---
 
-<!-- practice ops still need to be filled in -->
-
 - [Orders](#orders)
 - [Imperative Mood](#imperative-mood)
   - [Irregular Imperatives](#irregular-imperatives)
   - [Negative Imperatives](#negative-imperatives)
 - [Negative Prohibition](#negative-prohibition)
+- [Practice Opportunity 1](#practice-opportunity-1)
 - [Jussive Subjunctive](#jussive-subjunctive)
 - [Hortatory Subjunctive](#hortatory-subjunctive)
+- [Practice Opportunity 2](#practice-opportunity-2)
 - [Indirect Command](#indirect-command)
+- [Practice Opportunity 3](#practice-opportunity-3)
 
 ***
 
@@ -101,6 +102,27 @@ It is more common, however, to use a [negative imperative](#negative-imperatives
 
 ***
 
+#### Practice Opportunity 1
+
+Translate the following sentences.
+
+1. illōs lībrōs ad mē ferte!  
+<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">Bring those books to me!</span>
+
+2. cum patientiā rege! (patientia, -ae, f. - "patience")  
+<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">Rule with patience!</span>
+
+3. nolī eōs aspicere!  
+<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">Don't watch them!</span>
+
+4. meam vocem audī! (vox, vocis, f. - "voice")  
+<button onclick="toggleDisplay('prac4')">Click here to toggle the answer:</button> <span style="display: none;" id="prac4">Hear my voice!</span>
+
+5. haec nē dīxerīs!  
+<button onclick="toggleDisplay('prac5')">Click here to toggle the answer:</button> <span style="display: none;" id="prac5">Don't say these things!</span>
+
+***
+
 ## Jussive Subjunctive
 
 The jussive subjunctive is an **independent** use of the subjunctive (meaning it stands on its own in a clause and does not rely on a main clause) that expresses a command in the **third person**. Note the difference between the jussive subjunctive and the imperative: the latter gives an order directly to a listener (second person), while the jussive subjunctive gives an order to a third person entity (a "he," "she," "it," or "they").
@@ -130,6 +152,24 @@ Like the jussive, the hortatory is negated with **nē**:
 
 - **nē canāmus.** Let us not sing.
 - **nē eōs interficiāmus.** Let us not kill them.
+
+***
+
+#### Practice Opportunity 2
+
+Identify whether the sentence contains a jussive or a hortatory subjunctive, and then translate.
+
+1. ad nōs veniat.  
+<button onclick="toggleDisplay('prac6')">Click here to toggle the answer:</button> <span style="display: none;" id="prac6">jussive; "Let him come to us."</span>
+
+2. hortēmur mīlitēs nostrōs.  
+<button onclick="toggleDisplay('prac7')">Click here to toggle the answer:</button> <span style="display: none;" id="prac7">hortatory; "Let us encourage our soldiers."</span>
+
+3. ā cīvibus omnibus videāmur.  
+<button onclick="toggleDisplay('prac8')">Click here to toggle the answer:</button> <span style="display: none;" id="prac8">hortatory; "Let us be seen by all the citizens."</span>
+
+4. pulchra carmina canant.  
+<button onclick="toggleDisplay('prac9')">Click here to toggle the answer:</button> <span style="display: none;" id="prac9">jussive; "Let them sing beautiful songs."</span>
 
 ***
 
@@ -165,16 +205,17 @@ The first sentence contains an **indirect command** because the main verb indica
 
 ***
 
-### Dummy Practice opportunity
+#### Practice Opportunity 3
 
-What declension does each of the following nouns belong to?
-1. *ager*, *agrī*, m. - field  
-<button onclick="toggleDisplay('prac1')">Click here to toggle the answer:</button> <span style="display: none;" id="prac1">2nd</span>
+Translate the following indirect commands.
 
-2. *nomen*, *nominis*, n. - name  
-<button onclick="toggleDisplay('prac2')">Click here to toggle the answer:</button> <span style="display: none;" id="prac2">3rd</span>
+1. pater mē monēbat ut discederem.  
+<button onclick="toggleDisplay('prac10')">Click here to toggle the answer:</button> <span style="display: none;" id="prac10">My father was advising me to depart.</span>
 
-3. *agricola*, *agricolae*, m. - farmer  
-<button onclick="toggleDisplay('prac3')">Click here to toggle the answer:</button> <span style="display: none;" id="prac3">1st</span>
+2. dux eīs imperat nē ab hostibus currant.  
+<button onclick="toggleDisplay('prac11')">Click here to toggle the answer:</button> <span style="display: none;" id="prac11">The leader ordered them not to run away from the enemies.</span>
+
+3. magister discipulōs hortātus est ut cautē legerent. (cautē (adv.) - "carefully")  
+<button onclick="toggleDisplay('prac12')">Click here to toggle the answer:</button> <span style="display: none;" id="prac12">The teacher encouraged the students to read carefully.</span>
 
 [Back to top.](#top)
