@@ -146,12 +146,12 @@ Read and review the different types of dependent clauses for quiz #17.
 
 FOR A COMPREHENSIVE GUIDE TO HOW DISTANCE LEARNING WILL CHANGE OUR COURSE, CLICK [HERE](https://docs.google.com/document/d/1dcPeg8YTbIhFbo3ZwrrL2bVusjevK5DpYWQUkPhAizc/edit?usp=sharing)
 
-### Monday, March 23
+### Monday, March 23 [(slides)](https://docs.google.com/presentation/d/1jfcjXx9OJZMGm4HiSZgH2cj4X4jeJZoubo5h4jQ1DAI/edit?usp=sharing)
 - Commands
 - **Homework (due before class)**:
 Read and review the sections on [orders](https://libatique.info/LATN102-S20/orders) and watch my [short lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa9f902-13f1-450d-abb5-ab8101461e47) on the topic.
 
-### Wednesday, March 25
+### Wednesday, March 25 [(slides)](https://docs.google.com/presentation/d/1P7m4MFmqNirV6WQQMdzZNQWGFNhcsY2n5vbW1htUBh0/edit?usp=sharing)
 - Indirect Question
 - **Homework (due before class)**:
 Read and review the sections on [indirect question](https://libatique.info/LATN102-S20/indirect-questions) and watch my [short lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=025f15f8-50f8-4d09-a704-ab8200fb73b5) on the topic.
@@ -181,7 +181,7 @@ Read and review the sections on [comparatives and superlatives](https://libatiqu
 
 ## Week 11
 
-### Monday, April 6
+### Monday, April 6 [(slides)](https://docs.google.com/presentation/d/1oibT6jATya655J8mATmnUKSqOptnu2zZ7GyBy-8M_hw/edit?usp=sharing)
 - Optative subjunctive
 - Potential subjunctive
 - **Homework (due before class)**:
