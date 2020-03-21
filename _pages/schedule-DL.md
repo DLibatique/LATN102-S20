@@ -177,7 +177,7 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
   - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744)
   - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf0223f8-8a3f-4b31-b689-ab830116eb66)
 - [DQ 21 (indicative conditions, past contrary-to-fact)](#)
-- [Composition #3 "Due"](#)
+- [Composition #3 "Due"](https://docs.google.com/document/d/1y0LV_Ykw1fN-HLMDr0SSN69gkxgYon2Z1CrJU7z1nKg/edit?usp=sharing)
 
 ***
 
