@@ -15,10 +15,10 @@ permalink: distance-DL
   - DQ 18 (Imperative Mood)
   - DQ 19 (Indirect Command)
   - DQ 20 (Indirect Question)
-  - DQ 21 (Conditions 1)
-  - DQ 22 (Conditions 2)
-  - DQ 23 (Comparative and Superlative 1)
-  - DQ 24 (Comparative and Superlative 2)
+  - DQ 21 (indicative conditions, past contrary-to-fact)
+  - DQ 22 (present contrary-to-fact, future less vivid, mixed conditions)
+  - DQ 23 (comparative and superlative adjectives)
+  - DQ 24 (comparative and superlative adverbs)
 
 3. Boss Quiz links (links forthcoming):
   - Vocabulary and Dictionary Entries

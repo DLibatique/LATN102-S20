@@ -176,7 +176,7 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
   - [Notes](conditions)
   - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744)
   - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf0223f8-8a3f-4b31-b689-ab830116eb66)
-- [DQ 21 (conditions 1)](#)
+- [DQ 21 (indicative conditions, past contrary-to-fact)](#)
 - [Composition #3 "Due"](#)
 
 ***
@@ -186,19 +186,19 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 ## Monday, April 06
 - Comparative and Superlative Adjectives and Adverbs
   - [Notes](comparative-and-superlative)
-  - [Panopto lecture](#)
-- [DQ 22 (conditions 2)](#)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef)
+- [DQ 22 (present contrary-to-fact, future less vivid, mixed conditions)](#)
 
 ## Wednesday, April 08
 - Comparative and Superlative Adjectives and Adverbs continued
   - [Notes](comparative-and-superlative)
-  - [Panopto lecture](#)
-- [DQ 23 (comparative and superlative 1)](#)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef)
+- [DQ 23 (comparative and superlative adjectives)](#)
 
 ***
 
 ## Easter Break: 4/9 - 4/13
-- [DQ 24 (comparative and superlative 2)](#)
+- [DQ 24 (comparative and superlative adverbs)](#)
 
 ***
 
