@@ -26,6 +26,8 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 
 **ita (adv.)** - so
 
+**iubeō, iubēre, iussī, iussus** - to order
+
 **licet (conj.)** - although (+ pres. or perf. subj.)
 
 **metuō, metuere, metuī, -----** - to be afraid, fear
