@@ -169,7 +169,7 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
   - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744)
   - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf0223f8-8a3f-4b31-b689-ab830116eb66)
 - [DQ 20 (indirect questions)](#)
-- [Translation #3 "Due"](#)
+- [Translation #3 "Due"](https://docs.google.com/document/d/1T9yPGwq14ipYN-iqCNTS7CcIqxIj-TJ3zpG6F-KrCZ8/edit?usp=sharing)
 
 ## Friday, April 03
 - Conditions continued
