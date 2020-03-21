@@ -26,7 +26,7 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 
 **ita (adv.)** - so
 
-**iubeō, iubēre, iussī, iussus** - to order
+**iubeō, iubēre, iussī, iussus** - to order (+ acc. or dat.)
 
 **licet (conj.)** - although (+ pres. or perf. subj.)
 
