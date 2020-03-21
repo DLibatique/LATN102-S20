@@ -173,8 +173,7 @@ Read and review the sections on [subjunctive conditions](https://libatique.info/
 - **Homework (due before class)**:
 [**Translation #3 due**](https://docs.google.com/document/d/1bkDIZoXO8kSY-Nb-hvYwZuSqeiDEDvoTt5s4jAxvLps/edit?usp=sharing); Boss Quizzes become available!
 
-### Friday, April 3
-[(slides)](https://docs.google.com/presentation/d/1oibT6jATya655J8mATmnUKSqOptnu2zZ7GyBy-8M_hw/edit?usp=sharing)
+### Friday, April 3 [(slides)](https://docs.google.com/presentation/d/1oibT6jATya655J8mATmnUKSqOptnu2zZ7GyBy-8M_hw/edit?usp=sharing)
 - Optative subjunctive
 - Potential subjunctive
 - **Homework (due before class)**:
@@ -192,7 +191,7 @@ Start reading and reviewing the sections on [comparatives and superlatives](http
 - Review
 - Composition Workshop
 - **Homework (due before class)**:
-Finish reading and review [comparatives and superlatives](https://libatique.info/LATN102-S20/comparative-and-superlative) and watching  Prof. Libatique's [lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef) on the topic. Begin working on Composition #3. 
+Finish reading and review [comparatives and superlatives](https://libatique.info/LATN102-S20/comparative-and-superlative) and watching  Prof. Libatique's [lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef) on the topic. Begin working on Composition #3.
 
 ### Friday, April 10
 - NO CLASS
