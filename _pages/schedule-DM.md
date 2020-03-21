@@ -174,24 +174,25 @@ Read and review the sections on [subjunctive conditions](https://libatique.info/
 [**Translation #3 due**](https://docs.google.com/document/d/1bkDIZoXO8kSY-Nb-hvYwZuSqeiDEDvoTt5s4jAxvLps/edit?usp=sharing); Boss Quizzes become available!
 
 ### Friday, April 3
-- Comparatives
-- Superlatives
-- **Homework (due before class)**:
-Read and review the sections on [comparatives and superlatives](https://libatique.info/LATN102-S20/comparative-and-superlative) and watch Prof. Libatique's lecture on the topic [to be posted].
-
-## Week 11
-
-### Monday, April 6 [(slides)](https://docs.google.com/presentation/d/1oibT6jATya655J8mATmnUKSqOptnu2zZ7GyBy-8M_hw/edit?usp=sharing)
+[(slides)](https://docs.google.com/presentation/d/1oibT6jATya655J8mATmnUKSqOptnu2zZ7GyBy-8M_hw/edit?usp=sharing)
 - Optative subjunctive
 - Potential subjunctive
 - **Homework (due before class)**:
 Read and review the sections on [independent usages of the subjunctive](https://libatique.info/LATN102-S20/wishes-and-potential) and watch my short lectures on the [potential subjunctive](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11cd7af2-7cf6-4852-bed0-ab84013c8507) and the [optative subjunctive](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0eeba1a7-6a20-4df2-a18b-ab84013fe6ec).
 
+## Week 11
+
+### Monday, April 6
+- Comparatives
+- Superlatives
+- **Homework (due before class)**:
+Start reading and reviewing the sections on [comparatives and superlatives](https://libatique.info/LATN102-S20/comparative-and-superlative) and watching Prof. Libatique's [lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef) on the topic.
+
 ### Wednesday, April 8
 - Review
 - Composition Workshop
 - **Homework (due before class)**:
-Begin working on Composition #3.
+Finish reading and review [comparatives and superlatives](https://libatique.info/LATN102-S20/comparative-and-superlative) and watching  Prof. Libatique's [lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef) on the topic. Begin working on Composition #3. 
 
 ### Friday, April 10
 - NO CLASS
@@ -204,7 +205,7 @@ Begin working on Composition #3.
 ### Wednesday, April 15
 - Review
 - **Homework (due before class)**:
-**Composition #3 due** [to be posted]
+[**Composition #3 due**](https://docs.google.com/document/d/1VPGTVmc-xEVAvrqquaeAKuORDDwM0C3HBGH1TF_qscE/edit?usp=sharing)
 
 ### Friday, April 17
 - Review
