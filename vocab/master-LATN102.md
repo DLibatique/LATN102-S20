@@ -28,6 +28,8 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 
 **licet (conj.)** - although (+ pres. or perf. subj.)
 
+**metuō, metuere, metuī, -----** - to be afraid, fear
+
 **modo (conj.)** - provided that, as long as, so long as (+ subj.; add nē for negative)
 
 **moneō, monēre, monuī, monitus** - to warn, advise (+ acc.)
@@ -70,8 +72,12 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 
 **tantus, -a, -um** - so much, such great
 
+**timeō, timēre, timuī, -----** - to be afraid, fear
+
 **ut (conj.)** - in order that, so that, (in order / so as) to (positive purpose); that (positive result, positive indirect command); that...not (negative fear)
 
 **ut nōn (conj.)** - that ... not (negative result)
 
 **utinam (adv.)** - if only, would that, I wish that... (add or replace with nē for negative)
+
+**vereor, verērī, veritus sum** - to be afraid, fear
