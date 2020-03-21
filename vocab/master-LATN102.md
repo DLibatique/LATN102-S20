@@ -20,17 +20,25 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 
 **fortasse (adv., often with ind.)** - perhaps
 
+**hortor, hortārī, hortātus sum** - to encourage, exhort (+ acc.)
+
+**imperō, imperāre, imperāvī, imperātus** - to order, command (+ dat.)
+
 **ita (adv.)** - so
 
 **licet (conj.)** - although (+ pres. or perf. subj.)
 
 **modo (conj.)** - provided that, as long as, so long as (+ subj.; add nē for negative)
 
+**moneō, monēre, monuī, monitus** - to warn, advise (+ acc.)
+
 **nē (adv.)** - not (to negate independent subjunctives)
 
 **nē (conj.)** - in order that ... not, so that ... not, (in order / so as) to ... not (negative purpose); that (positive fear)
 
 **nisī (conj.)** - if ... not, unless
+
+**quaerō, quaerere, quaesivī or quaesiī, quaesītus** - to ask, seek (+ ab + abl. = "to seek from [noun]")
 
 **quam (conj.)** - than (with comparative)
 
@@ -47,6 +55,8 @@ This is a master list of vocabulary that is being used in LATN 102 in Spring 202
 **quod (conj.)** - because (+ ind. or subj.)
 
 **quoniam (conj.)** - because (+ ind.)
+
+**rogō, rogāre, rogāvī, rogātus** - to ask, request (+ acc.)
 
 **sī (conj.)** - if
 
