@@ -125,7 +125,7 @@ hic, haec, hoc (irregular) - this, these
 homō, hominis m. - human, man  
 hora, -ae, f. - hour  
 horribilis, horribile - horrible, terrible  
-hortor, hortārī, hortātus sum - to exhort, encourage  
+hortor, hortārī, hortātus sum - to exhort, encourage (+ acc.)  
 hortus, -ī, m. - garden  
 hospitium, -ī, n. - hospitality  
 hostis, -is, m. - enemy  
@@ -137,7 +137,7 @@ iam - now, already
 ibi - there  
 ignis, -is, m. - fire  
 ille, illa, illud (irregular) - that, those (as opposed to hic, haec, hoc)  
-imperō, -āre, -āvī, -ātus - to command  
+imperō, -āre, -āvī, -ātus - to order, command (+ dat.)  
 impleō, implēre, implēvī, implētus - to fill up  
 in (+ abl.) - in, on  
 in (+ acc.) - into  
@@ -181,7 +181,7 @@ meus, mea, meum - my
 mīles, mīlitis, m. - soldier  
 miror, mirārī, mirātus sum - to marvel at, wonder  
 mittō, mittere, mīsī, missus - to send  
-moneō, monēre, monuī, monitus - to warn  
+moneō, monēre, monuī, monitus - to warn, advise (+ acc.)  
 mons, montis, m. - mountain  
 monstrum, monstrī n. - monster, beast  
 morior, morī, mortuus sum - to die  
@@ -256,7 +256,7 @@ regō, regere, rexī, rectus - to rule
 reor, rērī, rātus sum - to think, believe, suppose  
 rēs, reī, f. - thing, matter, situation, affair  
 rēx, rēgis m. - king  
-rogō, rogāre, rogāvī, rogātus - to ask  
+rogō, rogāre, rogāvī, rogātus - to ask (+ acc.)  
 
 ***
 
