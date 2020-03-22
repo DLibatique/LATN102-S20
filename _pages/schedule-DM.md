@@ -144,7 +144,7 @@ Read and review the different types of dependent clauses for quiz #17.
 
 ## Week 9
 
-FOR A COMPREHENSIVE GUIDE TO HOW DISTANCE LEARNING WILL CHANGE OUR COURSE, CLICK [HERE](https://docs.google.com/document/d/1dcPeg8YTbIhFbo3ZwrrL2bVusjevK5DpYWQUkPhAizc/edit?usp=sharing)
+FOR A COMPREHENSIVE GUIDE TO HOW DISTANCE LEARNING WILL CHANGE OUR COURSE, CLICK [HERE](https://docs.google.com/document/d/1dcPeg8YTbIhFbo3ZwrrL2bVusjevK5DpYWQUkPhAizc/edit?usp=sharing).
 
 ### Monday, March 23 [(slides)](https://docs.google.com/presentation/d/1jfcjXx9OJZMGm4HiSZgH2cj4X4jeJZoubo5h4jQ1DAI/edit?usp=sharing)
 - Commands
@@ -217,7 +217,7 @@ Begin working on Translation #4.
 ### Monday, April 20
 - Composition Workshop
 - **Homework (due before class)**:
-**Translation #4 due** [to be posted]. Begin working on Composition #4.
+[**Translation #4 due**](https://docs.google.com/document/d/1BrGQzVywWQZdYX-Ex98r9iGBcxA4oZPMl0ArC79EH08/edit?usp=sharing). Begin working on Composition #4.
 
 ### Wednesday, April 22
 - NO CLASS
