@@ -20,10 +20,10 @@ permalink: distance-DL
   - [DQ 23 (comparative adjectives/adverbs - NOT irregulars)](https://forms.gle/c4hQdrzXQQ9EDi368)
   - [DQ 24 (superlative adjectives/adverbs - NOT irregulars)](https://forms.gle/vh1LQZs7DSN7GTzd9)
 
-3. Boss Quiz links (links forthcoming):
-  - Vocabulary and Dictionary Entries
-  - Nouns and Adjectives
-  - Verbs
+3. Boss Quiz links:
+  - [Vocabulary and Dictionary Entries](https://forms.gle/epLmo5b7yWqD6f1w9)
+  - Nouns and Adjectives - link forthcoming
+  - Verbs - link forthcoming
 
 ***
 
