@@ -151,7 +151,7 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 - Orders: Indirect Command
   - [Notes](orders#indirect-command)
   - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa9f902-13f1-450d-abb5-ab8101461e47) (10:18 to end)
-- [DQ 18 (imperative mood)](#) - link forthcoming
+- [DQ 18 (imperative mood)](https://forms.gle/hmv91FtTsZ5JAf318)
 
 ***
 
@@ -161,22 +161,21 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 - Indirect Questions
   - [Notes](indirect-questions)
   - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=025f15f8-50f8-4d09-a704-ab8200fb73b5)
-- [DQ 19 (indirect command)](#) - link forthcoming
+- [DQ 19 (indirect command)](https://forms.gle/oVJdqGtcDpiV9Z6RA)
 
 ## Wednesday, April 01
-- Conditions
+- Indicative Conditions
   - [Notes](conditions)
-  - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744)
-  - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf0223f8-8a3f-4b31-b689-ab830116eb66)
-- [DQ 20 (indirect questions)](#) - link forthcoming
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744) - 0:00 to 18:20
+- [DQ 20 (indirect questions)](https://forms.gle/jnVar7b1TMymvgbR8)
 - [Translation #3 "Due"](https://docs.google.com/document/d/1T9yPGwq14ipYN-iqCNTS7CcIqxIj-TJ3zpG6F-KrCZ8/edit?usp=sharing)
 
 ## Friday, April 03
-- Conditions continued
+- Subjunctive Conditions and Mixed Conditions
   - [Notes](conditions)
-  - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744)
-  - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf0223f8-8a3f-4b31-b689-ab830116eb66)
-- [DQ 21 (indicative conditions, past contrary-to-fact)](#) - link forthcoming
+  - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6994366-be18-4f81-b448-ab83010a3744) - 18:21 to end
+  - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf0223f8-8a3f-4b31-b689-ab830116eb66) - all
+- [DQ 21 (indicative conditions)](https://forms.gle/erWBmSA2sZsXag7e7)
 - [Composition #3 "Due"](https://docs.google.com/document/d/1y0LV_Ykw1fN-HLMDr0SSN69gkxgYon2Z1CrJU7z1nKg/edit?usp=sharing)
 
 ***
@@ -187,18 +186,18 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 - Comparative and Superlative Adjectives and Adverbs
   - [Notes](comparative-and-superlative)
   - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef)
-- [DQ 22 (present contrary-to-fact, future less vivid, mixed conditions)](#) - link forthcoming
+- [DQ 22 (subjunctive conditions, mixed conditions)](https://forms.gle/Sf1rx2bo9xqaP2nX8)
 
 ## Wednesday, April 08
 - Comparative and Superlative Adjectives and Adverbs continued
   - [Notes](comparative-and-superlative)
   - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef)
-- [DQ 23 (comparative and superlative adjectives)](#) - link forthcoming
+- [DQ 23 (comparative adjectives/adverbs - NOT irregulars)](https://forms.gle/c4hQdrzXQQ9EDi368)
 
 ***
 
 ## Easter Break: 4/9 - 4/13
-- [DQ 24 (comparative and superlative adverbs)](#) - link forthcoming
+- [DQ 24 (superlative adjectives/adverbs - NOT irregulars)](https://forms.gle/vh1LQZs7DSN7GTzd9)
 
 ***
 

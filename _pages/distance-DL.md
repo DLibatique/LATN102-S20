@@ -12,13 +12,13 @@ permalink: distance-DL
 
 2. Daily Quiz links (links forthcoming):
   - [DQ 17 (Jussive, Hortatory, and Negative Prohibition)](https://forms.gle/iZXocpEBdJffBpzRA)
-  - DQ 18 (Imperative Mood)
-  - DQ 19 (Indirect Command)
-  - DQ 20 (Indirect Question)
-  - DQ 21 (indicative conditions, past contrary-to-fact)
-  - DQ 22 (present contrary-to-fact, future less vivid, mixed conditions)
-  - DQ 23 (comparative and superlative adjectives)
-  - DQ 24 (comparative and superlative adverbs)
+  - [DQ 18 (Imperative Mood)](https://forms.gle/hmv91FtTsZ5JAf318)
+  - [DQ 19 (Indirect Command)](https://forms.gle/oVJdqGtcDpiV9Z6RA)
+  - [DQ 20 (Indirect Question)](https://forms.gle/jnVar7b1TMymvgbR8)
+  - [DQ 21 (indicative conditions)](https://forms.gle/erWBmSA2sZsXag7e7)
+  - [DQ 22 (subjunctive conditions, mixed conditions)](https://forms.gle/Sf1rx2bo9xqaP2nX8)
+  - [DQ 23 (comparative adjectives/adverbs - NOT irregulars)](https://forms.gle/c4hQdrzXQQ9EDi368)
+  - [DQ 24 (superlative adjectives/adverbs - NOT irregulars)](https://forms.gle/vh1LQZs7DSN7GTzd9)
 
 3. Boss Quiz links (links forthcoming):
   - Vocabulary and Dictionary Entries
