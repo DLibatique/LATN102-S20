@@ -145,7 +145,7 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 - Orders: Imperative Mood
   - [Notes](orders#imperative-mood)
   - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6aa9f902-13f1-450d-abb5-ab8101461e47) (1:14 to 5:01, then 8:16 to 9:23)
-- [DQ 17 (jussive, hortatory, and negative prohibition)](#) - link forthcoming
+- [DQ 17 (jussive, hortatory, and negative prohibition)](https://forms.gle/iZXocpEBdJffBpzRA)
 
 ## Friday, March 27
 - Orders: Indirect Command

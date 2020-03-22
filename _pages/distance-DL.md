@@ -11,7 +11,7 @@ permalink: distance-DL
 1. [Upload Portal for Translations and Compositions](https://forms.gle/2PrEBuQPQeQHY5ZUA)
 
 2. Daily Quiz links (links forthcoming):
-  - DQ 17 (Jussive, Hortatory, and Negative Prohibition)
+  - [DQ 17 (Jussive, Hortatory, and Negative Prohibition)](https://forms.gle/iZXocpEBdJffBpzRA)
   - DQ 18 (Imperative Mood)
   - DQ 19 (Indirect Command)
   - DQ 20 (Indirect Question)
