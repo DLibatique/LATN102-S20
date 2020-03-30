@@ -185,19 +185,19 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 ## Monday, April 06
 - Comparative and Superlative Adjectives and Adverbs
   - [Notes](comparative-and-superlative)
-  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef) - 0:00 to 27:09
 - [DQ 22 (subjunctive conditions, mixed conditions)](https://forms.gle/Sf1rx2bo9xqaP2nX8)
 
 ## Wednesday, April 08
 - Comparative and Superlative Adjectives and Adverbs continued
   - [Notes](comparative-and-superlative)
-  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef)
-- [DQ 23 (comparative adjectives/adverbs - NOT irregulars)](https://forms.gle/c4hQdrzXQQ9EDi368)
+  - [Panopto lecture](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=346ce282-6c80-46d8-bca8-ab84016d16ef) - 27:10 to end
+- [DQ 23 (comparative adjectives - NOT irregulars)](https://forms.gle/c4hQdrzXQQ9EDi368)
 
 ***
 
 ## Easter Break: 4/9 - 4/13
-- [DQ 24 (superlative adjectives/adverbs - NOT irregulars)](https://forms.gle/vh1LQZs7DSN7GTzd9)
+- [DQ 24 (superlative adjectives - NOT irregulars)](https://forms.gle/vh1LQZs7DSN7GTzd9)
 
 ***
 

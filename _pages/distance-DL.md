@@ -17,8 +17,8 @@ permalink: distance-DL
   - [DQ 20 (Indirect Question)](https://forms.gle/jnVar7b1TMymvgbR8)
   - [DQ 21 (indicative conditions)](https://forms.gle/erWBmSA2sZsXag7e7)
   - [DQ 22 (subjunctive conditions, mixed conditions)](https://forms.gle/Sf1rx2bo9xqaP2nX8)
-  - [DQ 23 (comparative adjectives/adverbs - NOT irregulars)](https://forms.gle/c4hQdrzXQQ9EDi368)
-  - [DQ 24 (superlative adjectives/adverbs - NOT irregulars)](https://forms.gle/vh1LQZs7DSN7GTzd9)
+  - [DQ 23 (comparative adjectives - NOT irregulars)](https://forms.gle/c4hQdrzXQQ9EDi368)
+  - [DQ 24 (superlative adjectives - NOT irregulars)](https://forms.gle/vh1LQZs7DSN7GTzd9)
 
 3. Boss Quiz links:
   - [Vocabulary and Dictionary Entries](https://forms.gle/epLmo5b7yWqD6f1w9)
