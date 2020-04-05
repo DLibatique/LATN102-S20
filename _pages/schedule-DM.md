@@ -225,7 +225,7 @@ Begin working on Translation #4.
 ### Friday, April 24
 - Review
 **Homework (due before class)**:
-**Composition #4 due** [to be posted]
+[**Composition #4 due**](https://docs.google.com/document/d/1oUuKDt66gTZWrghtUnZNqcd6gY0x8ehWJPJga9XymH4/edit?usp=sharing).
 
 ## Week 14
 
