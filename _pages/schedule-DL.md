@@ -207,7 +207,7 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 - [Translation #4 "Due"](https://docs.google.com/document/d/17tmlXStbGAKOLhaJUClGPiENEzrXbNWUxzhqV-nAjm4/edit?usp=sharing)
 
 ## Friday, April 17
-- [Composition #4 "Due"](#)
+- [Composition #4 "Due"](https://docs.google.com/document/d/1UJ2gxHbgJgPvdC4SIu4BRNDxpbZJleVYq0f9DhFWz6U/edit?usp=sharing)
 
 ***
 
