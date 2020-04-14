@@ -224,7 +224,7 @@ Begin working on Translation #4.
 
 ### Friday, April 24
 - Review
-**Homework (due before class)**:
+- **Homework (due before class)**:
 [**Composition #4 due**](https://docs.google.com/document/d/1oUuKDt66gTZWrghtUnZNqcd6gY0x8ehWJPJga9XymH4/edit?usp=sharing).
 
 ## Week 14
@@ -237,7 +237,7 @@ Begin working on Translation #5.
 ### Wednesday, April 29
 - Review
 - **Homework (due before class)**:
-**Translation #5** due [to be posted]
+[**Translation #5 due**](https://docs.google.com/document/d/1TeaJjxsiwR48LTiwYJOLtqTSffzZLcD6eOJb210_Lng/edit?usp=sharing)
 
 ### Friday, May 1
 - Composition Workshop
@@ -249,11 +249,10 @@ Begin working on Composition #5.
 ### Monday, May 4
 - Review
 - **Homework (due before class)**:
-**Composition #5** due [to be posted]
+[**Composition #5 due**](https://docs.google.com/document/d/1zcGCtylxtw-1HF_qN-JJt7jVfzht1Yh6VX7Z2iyj8MM/edit?usp=sharing)
 
 ## Final
 
 ### Wednesday, May 13
-- **Translation #6** due [to be posted]
-- **Composition #6** due [to be posted]
+- All composition and translation revisions due
 - **Boss Quizzes** must be completed
