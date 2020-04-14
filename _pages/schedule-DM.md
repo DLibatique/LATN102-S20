@@ -209,7 +209,7 @@ Finish reading and review [comparatives and superlatives](https://libatique.info
 ### Friday, April 17
 - Review
 - Translation Workshop
-**Homework (due before class)**:
+- **Homework (due before class)**:
 Begin working on Translation #4.
 
 ## Week 13
@@ -241,7 +241,7 @@ Begin working on Translation #5.
 
 ### Friday, May 1
 - Composition Workshop
-**Homework (due before class)**:
+- **Homework (due before class)**:
 Begin working on Composition #5.
 
 ## Week 15
@@ -250,8 +250,6 @@ Begin working on Composition #5.
 - Review
 - **Homework (due before class)**:
 [**Composition #5 due**](https://docs.google.com/document/d/1zcGCtylxtw-1HF_qN-JJt7jVfzht1Yh6VX7Z2iyj8MM/edit?usp=sharing)
-
-## Final
 
 ### Wednesday, May 13
 - All composition and translation revisions due
