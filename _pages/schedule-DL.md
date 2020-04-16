@@ -219,26 +219,24 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 **NO "CLASSES"**
 
 ## Friday, April 24
-- [Translation #5 "Due"](#)
 
 ***
 
 ## Week 13
 
 ## Monday, April 27
-- [Composition #5 "Due"](#)
+- [Translation #5 "Due"](#)
 
 ## Wednesday, April 29
 
 ## Friday, May 01
-- [Final Translation "Due"](#)
+- [Composition #5 "Due"](#)
 
 ***
 
 ## Week 14
 
 ## Monday, May 04
-- [Final Composition "Due"](#)
 - In Conclusion
   - [Panopto lecture](#)
 - **All daily quizzes, boss quizzes, and first passes at translations and compositions due by 11:59pm**.

@@ -89,7 +89,9 @@ Deadlines for individual translations and compositions are now waived since we�
 
 Translations and Compositions #3 and #4 will work as they have in the past: the translations will be assignments where you answer grammatical questions and translate a paragraph of Latin, while the compositions will ask you to compose a paragraph of Latin according to specific instructions.
 
-Translation and Composition #5 and the final translation and composition will work slightly differently. The translations, in essence, will be submissions of your full translation of a passage of Latin without the grammatical questions to help guide your work. The compositions, similarly, will ask you to compose a paragraph of Latin with less guidance than before. We’ll talk about these assignments as they get closer.
+Translation and Composition #5 will work slightly differently. The translation, in essence, will be a submission of your full translation of a passage of Latin without the grammatical questions to help guide your work. The composition, similarly, will ask you to compose a paragraph of Latin with less guidance than before. We’ll talk about these assignments as they get closer.
+
+**EDIT 4/15, 9pm**: There will now be no final translation or composition. You will automatically receive those 20 out of 20 on both of those assignments.
 
 Translations will be graded as before (out of 20 points), and revisions of translations will work the same (where the old and the new grade will be averaged together unless the new grade is the same or lower than the old). Compositions, however, will now be graded on a **specification system**: that means that each composition will be assessed qualitatively rather than quantitatively and graded as either **satisfactory or unsatisfactory**. A satisfactory grade nets you 20 out of 20 points on that composition. If I assign an unsatisfactory, I will give your composition a provisional grade out of 20 points, and you will be invited to revise the composition according to my suggestions to make it satisfactory. If you do not revise an unsatisfactory composition, the original grade will stand.
 
