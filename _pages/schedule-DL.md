@@ -225,12 +225,12 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 ## Week 13
 
 ## Monday, April 27
-- [Translation #5 "Due"](#)
+- [Translation #5 "Due"](https://docs.google.com/document/d/1p4zQVRyFWvAy_WuMqorT2i1LHMOQjzewRCWPbWHw1g8/edit?usp=sharing)
 
 ## Wednesday, April 29
 
 ## Friday, May 01
-- [Composition #5 "Due"](#)
+- [Composition #5 "Due"](https://docs.google.com/document/d/1xwxc2JrHfY8CydGUHleNhaoHnGxOr0iS-T6AbsP8aJc/edit?usp=sharing)
 
 ***
 
