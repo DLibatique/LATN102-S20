@@ -238,7 +238,6 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 
 ## Monday, May 04
 - In Conclusion
-  - [Panopto lecture](#)
 - **All daily quizzes, boss quizzes, and first passes at translations and compositions due by 11:59pm**.
 
 ***
