@@ -238,6 +238,8 @@ Course Reconfiguration Week. See the [distance reconfiguration page](distance-DL
 
 ## Monday, May 04
 - In Conclusion
+  - [Zoom Recording (8am section)](https://drive.google.com/file/d/12b62-oPlPzkt4lNEsVHPhley2lRQOXFf/view?usp=sharing)
+  - [Zoom Recording (11am section)](https://drive.google.com/file/d/12cNibJSlZHTknv2EvV7Ot23aQhykgVkd/view?usp=sharing)
 - **All daily quizzes, boss quizzes, and first passes at translations and compositions due by 11:59pm**.
 
 ***
